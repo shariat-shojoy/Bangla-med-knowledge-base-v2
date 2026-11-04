@@ -1,0 +1,38 @@
+You are extracting drug-safety claims from drug-label text (English or Bangla) for a knowledge graph.
+Work section by section. Use ONLY the text given; never add facts from your own knowledge.
+The input has several drugs. Each block starts with a header line: ### drug=<slug> | section=<name> | lang=<en|bn>
+
+For every claim output ONE JSON object per line (JSON Lines), with exactly these fields:
+- drug: the drug slug from the header
+- section: indications | contraindications | pregnancy_lactation
+- lang: en | bn
+- relation: one of INDICATED_FOR, USE_IN, CAUSES, TRANSFERS_TO, INTERACTS_WITH
+    INDICATED_FOR  = the text lists a use (object = condition)
+    USE_IN         = a safety statement about a population or condition (object = population or condition, e.g. pregnancy, lactation, neonates, hepatic disease, hypersensitivity)
+    CAUSES         = an adverse or fetal effect named in the text
+    TRANSFERS_TO   = the drug crosses the placenta or passes into breast milk (object = placenta | breast milk)
+    INTERACTS_WITH = a named interacting drug or class
+- object: short English label for the object (translate Bangla into English)
+- strength: ONLY for USE_IN and INTERACTS_WITH; one of: contraindicated, avoid, not recommended, caution, no data
+    contraindicated = "contraindicated", "must not", "prohibited", "absolute" (Bangla: প্রতিনির্দেশিত, নিষিদ্ধ, দেয়া যাবে না)
+    avoid           = "should not", "should be avoided", "recommended that ... be discontinued" (Bangla: উচিত নয়, বিরত থাকা উচিত)
+    not recommended = "not recommended", "not intended for use" (Bangla: নির্দেশিত নয়, সুপারিশ করা হয় না)
+    caution         = "caution", "care", "only if benefit outweighs risk", "only if no alternative" (Bangla: সতর্কতা)
+    no data         = "not known", "not studied", "not established", "no adequate studies" (Bangla: তথ্য নেই, জানা যায়নি)
+  Strength follows the WORDING of the sentence. If the sentence has no modal wording, use the section (a bare item in a contraindications list = contraindicated). Leave strength empty for the other relations.
+- status: stated | negated (the text says it does NOT happen, e.g. "no evidence of harm") | unknown (the text says it is not known)
+- context: a condition the statement is limited to (e.g. "only if no alternative is available"), else ""
+- population: pregnancy | lactation | neonate | child | childbearing potential | "" 
+- evidence_type: "animal" if the statement rests on animal studies, else ""
+- regulatory_category: a pregnancy category if the text gives one (e.g. "B", "C"), else ""
+- evidence_span: an EXACT copy of the words from the text that support the claim (copy-paste, no paraphrase, no translation, no changes)
+- note: any doubt, wording you could not map, or a contradiction inside the text; else ""
+
+Rules:
+1. One claim per condition or population; split lists into separate claims.
+2. If one sentence says two things (e.g. "safety not established" and, in another sentence, "use only if the risk is justified"), output them as TWO claims, each with its own span.
+3. If the wording cannot be mapped to a strength, still output the claim and say so in note.
+4. If a section is not in the input, output nothing for it (do not invent claims).
+5. English and Bangla texts are separate documents: extract each on its own, do not copy from the other language.
+6. Do not output interaction lists from other sections; only what is in the given sections.
+7. Output JSON Lines only, no commentary, no code fences. Save the output as a file with the extension .jsonl.

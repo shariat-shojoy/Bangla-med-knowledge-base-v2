@@ -1,0 +1,11 @@
+### drug=phenytoin-sodium | section=indications | lang=en
+Phenytoin is an anticonvulsant which is used in the treatment of status epilepticus of grandmal type. It may also be used in the prevention and treatment of seizures occur during neurosurgery.
+
+### drug=phenytoin-sodium | section=contraindications | lang=en
+Phenytoin is contraindicated in those patients who are hyper sensitive to phenytoin and hydentoins.
+
+### drug=phenytoin-sodium | section=indications | lang=bn
+ফেনিটোইন একটি খিচুনী বিরোধী ঔষধ যাহা গ্রান্ডমাল স্বভাবের ষ্ট্যাটাস ইপিলেপটিকাস চিকিৎসায় ব্যবহৃত হয় ইহা ছাড়াও ইহা নিউরোসার্জারী (স্নায়ু শৈল্য চিকিৎসা) চলাকালীন খিচুনীর চিকিৎসা ও প্রতিরক্ষায় ব্যবহৃত হয়।
+
+### drug=phenytoin-sodium | section=contraindications | lang=bn
+যে সব রোগীদের ফেনিটোইন ও অন্যান্য হাইডেনটোইন এর প্রতি অতি সংবেদনশীলতা প্রতীয়মান হয়েছে সেই সব রোগীর ক্ষেত্রে ফেনিটোইন ব্যবহার নিষিদ্ধ।

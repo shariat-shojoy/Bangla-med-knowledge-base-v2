@@ -1,0 +1,264 @@
+### drug=medroxyprogesterone-acetate-injection | section=indications | lang=en
+Medroxyprogesterone Acetate indicated for:
+Ovulation suppression
+The treatment of endometriosis.
+Adjunctive and/or pallivative treatment of recurrent and/or metastatic endometrial or renal carcinoma.
+The treatment of hormonally-dependant recurrent breast cancer in post-menopausal women.
+
+### drug=medroxyprogesterone-acetate-injection | section=contraindications | lang=en
+Known or suspected pregnancy, Undiagnosed vaginal bleeding, Known or suspected malignancy of breast ( when used for ovulation suppression or gynaecology indications), Severe liver dysfunction, Known hypersensitivity to medroxyprogesterone acetate or any component of the drug.
+
+### drug=medroxyprogesterone-acetate-injection | section=pregnancy_lactation | lang=en
+Not recommended for the first 4 months.
+
+### drug=medroxyprogesterone-acetate-injection | section=indications | lang=bn
+মেড্রোক্সিপ্রোজেস্টেরন এসিটেট ইঞ্জেকশন নিম্নবর্ণিত কারণে ব্যবহৃত হয়ঃ
+ডিম্বক্ষরনে বাধা দেয়া।
+অন্তজরায়ুর চিকিৎসা।
+মেটাস্টেটিক অন্তজরায়ুর এবং/অথবা মূত্রনালীর ক্যান্সারের চিকিৎসায়।
+মাসিক ঋতু স্রাব বন্ধ, নারীর হরমোন নির্ভর স্তন ক্যান্সারের চিকিৎসায়।
+
+### drug=medroxyprogesterone-acetate-injection | section=contraindications | lang=bn
+জানা অথবা অনুমেয় গর্ভধারণ, জানা অথবা অনুমেয় স্তন ক্যান্সার, গুরুতর লিভার অক্ষমতা, মেড্রোক্সিপ্রোজেস্টেরন এসিটেট অথবা উপাদানের প্রতি অতি সংবেদনশীলতা।
+
+### drug=medroxyprogesterone-acetate-injection | section=pregnancy_lactation | lang=bn
+গর্ভধারণের প্রথম চার মাসের মধ্যে ব্যবহার নির্দেশিত নয়।
+
+### drug=metformin-hydrochloride | section=indications | lang=en
+Metformin Hydrochloride tablet is indicated for the treatment of type 2 diabetes mellitus, particularly in overweight patients when dietary management and exercise alone does not result in adequate glycaemic control.
+In adults
+: Metformin may be used as monotherapy or in combination with other oral antidiabetic agents or with insulin.
+In children from 10 years of age and adolescents
+: Metformin may be used as monotherapy or in combination with insulin.
+A reduction of diabetic complications has been shown in overweight type 2 diabetic adult patients treated with metformin as first-line therapy after diet failure.
+
+### drug=metformin-hydrochloride | section=contraindications | lang=en
+Hypersensitivity to the active substance or to any of the excipients.
+Any type of acute metabolic acidosis (such as lactic acidosis, diabetic ketoacidosis).
+Severe renal failure (GFR <30 mL/min).
+Acute conditions with the potential to alter renal function such as: dehydration, severe infection, shock.
+Acute or chronic disease, which may cause tissue hypoxia such as: cardiac or respiratory failure, recent myocardial infarction, shock, Hepatic insufciency, acute alcohol intoxication, alcoholism.
+
+### drug=metformin-hydrochloride | section=pregnancy_lactation | lang=en
+Pregnancy
+: Uncontrolled diabetes during pregnancy (gestational or permanent) is associated with an increased risk of congenital abnormalities and perinatal mortality. When the patient plans to become pregnant and during pregnancy, it is recommended that diabetes is not treated with metformin but insulin be used to maintain blood glucose levels as close to normal as possible, to reduce the risk of malformations of the foetus.
+Breastfeeding
+: Metformin is excreted into human breast milk. No adverse efects were observed in breastfed newborns/infants. However, as only limited data are available, breastfeeding is not recommended during metformin treatment. A decision on whether to discontinue breastfeeding should be made, taking into account the benefit of breastfeeding and the potential risk to adverse effects on the child.
+
+### drug=metformin-hydrochloride | section=indications | lang=bn
+মেটফরমিন টাইপ - ২ ডায়াবেটিস মেলাইটাস এর চিকিৎসায় নির্দেশিত বিশেষ করে যেসব রোগীর ওজন মাত্রাতিরিক্ত এবং এককভাবে খাদ্যাভ্যাস নিয়ন্ত্রণ ও শরীরচর্চার মাধ্যমে রক্তের গ্লুকোজের পরিমাণ পর্যাপ্ত পরিমানে নিয়ন্ত্রণ হয় না । প্রাপ্ত বয়স্কদের ক্ষেত্রে : মেটফরমিন একক চিকিৎসা হিসেবে অথবা মুখে সেব্য অন্য ডায়াবেটিস নিয়ন্ত্রণকারী ওষুধের সাথে অথবা ইনসুলিনের সাথে ব্যবহৃত হতে পারে । শিশুদের ক্ষেত্রে ১০ বছর বয়স থেকে এবং কিশোরদের জন্য : মেটফরমিন একক চিকিৎসা হিসেবে অথবা ইনসুলিনের সাথে ব্যবহৃত হতে পারে । মাত্রাতিরিক্ত ওজনের প্রাপ্ত বয়স্ক টাইপ - ২ ডায়াবেটিস রোগীদের ক্ষেত্রে দেখা গেছে , খাদ্যাভ্যাস নিয়ন্ত্রণে কাজ না হলে প্রথম সারির চিকিৎসা হিসেবে মেটফরমিন ব্যবহার করলে ডায়াবেটিসের জটিলতা হ্রাস পায় ।
+
+### drug=metformin-hydrochloride | section=contraindications | lang=bn
+সক্রিয় উপাদানের প্রতি অথবা যে কোন উপাদানের প্রতি অতিসংবেদনশীলতার ক্ষেত্রে।
+যেকোনো ধরনের বিপাকীয় এসিডোসিস যেমন ল্যাকটিক এসিডোসিস (শরীরে ল্যাকটেট এর পরিমাণ বৃদ্ধি), ডায়াবেটিক কিটোএসিডোসিস (রক্তে কিটোনবডির পরিমাণ বৃদ্ধি পাওয়া)
+কিডনীর মারাত্মক বিপর্যয় (জিএফআর <৩০ মিলি/মিনিট)।
+সঙ্কটজনক অবস্থা যা কিডনীর কার্যকারিতাকে পরিবর্তন করে যেমন- পানিশূন্যতা, মারাত্মক সংক্রমণ, শক।
+তীব্র অথবা দীর্ঘমেয়াদী রোগ যা টিস্যুর অক্সিজেনের পরিমাণ কমাতে পারে যেমন- হৃদপিন্ড অথবা শ্বাসনালীর অকার্যকারিতা, সাম্প্রতিক মায়োকার্ডিয়াল ইনফার্কশন (হৃদপিন্ডের আন্তঃকোষের ক্ষয়), শক, যকৃতের অকার্যকারিতা, মদ জাতীয় পানীয়র মারাত্মক নেশা, মদ জাতীয় পানীয়র প্রতি অতি আসক্তি।
+
+### drug=metformin-hydrochloride | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় (গর্ভকালীন অথবা স্থায়ী) অনিয়ন্ত্রিত ডায়াবেটিস শিশুর জন্মগত অস্বাভাবিকতা এবং পেরিন্যাটাল (জন্মের পর এক থেকে চার সপ্তাহ সময়কাল) মৃত্যুহার এর ঝুঁকি বৃদ্ধির সাথে জড়িত। ভ্রুণের বিকলাঙ্গতার ঝুঁকি কমাতে, রোগী গর্ভধারণের পরিকল্পনা করলে এবং গর্ভধারণের সময় মেটফরমিন দিয়ে ডায়াবেটিসের চিকিৎসা নির্দেশিত নয় কিন্তু রক্তের গ্লুকোজের পরিমান যতটা সম্ভব স্বাভাবিকের কাছাকাছি বজায় রাখার জন্য ইনসুলিন প্রয়োগ করতে হবে।
+স্তন্যদানকালে: মেটফরমিন মায়ের বুকের দুধের মাধ্যমে নি:সৃত হয়। স্তন্যদানকালে নবজাতকের কোন বিরূপ প্রতিক্রিয়া পরিলক্ষিত হয়নি। তবুও যেহেতু এক্ষেত্রে সীমিত তথ্য পাওয়া গেছে তাই মেটফরমিন দিয়ে চিকিৎসা চলাকালে স্তন্যদান নির্দেশিত নয়। স্তন্যদানের উপকারিতা এবং শিশুর উপর সম্ভাব্য বিরূপ প্রতিক্রিয়াসমূহের প্রভাব বিবেচনা করে মা স্তন্যদান বন্ধ রাখবে কিনা এই সিদ্ধান্ত গ্রহণ করা উচিত।
+
+### drug=methotrexate | section=indications | lang=en
+Neoplastic Diseases
+:
+Treatment of gestational choriocarcinoma, chorioadenoma destruens and hydatidiform mole
+In acute lymphoblastic leukemia
+Used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin’s lymphomas
+Treatment of breast cancer, epidermoid cancers of the head and neck, advanced mycosis fungoides (cutaneous T-cell lymphoma) and lung cancer, particularly squamous cell and small cell types.
+Rheumatoid Arthritis including Polyarticular-Course Juvenile Rheumatoid Arthritis
+: Indicated in the management of selected adults with severe, active rheumatoid arthritis, or children with active polyarticular-course juvenile rheumatoid arthritis, who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of first-line therapy including full dose non-steroidal anti-inflammatory agents (NSAIDs)
+Psoriasis
+: Indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis that is not adequately responsive to other forms of therapy.
+
+### drug=methotrexate | section=contraindications | lang=en
+Alcoholism, alcoholic liver disease or other chronic liver disease
+Immunodeficiency syndromes
+Pre-existing blood dyscrasias, such as bone marrow hypoplasia, leukopenia, thrombocytopenia, or significant anemia
+Hypersensitivity to methotrexate
+Pregnant women with psoriasis or rheumatoid arthritis
+Women of childbearing potential
+Nursing mothers
+Pregnancy should be avoided if either partner is receiving methotrexate; during and for a minimum of three months after therapy for male patients, and during and for at least one ovulatory cycle after therapy for female patients
+
+### drug=methotrexate | section=pregnancy_lactation | lang=en
+US FDA Pregnancy Category X. Methotrexate should be used in the treatment of neoplastic diseases only when the potential benefit outweighs the risk to the fetus. It is contraindicated in nursing mothers.
+
+### drug=methotrexate | section=indications | lang=bn
+নিওপ্লাস্টিক রোগ
+:
+গর্ভকালীন কোরিওকার্সিনোমা, কোরিওএডেনোমা ডেস্ট্রুয়েন্স এবং হাইডাটিডিফর্ম মোলের চিকিৎসায় নির্দেশিত
+একিউট লিম্ফোব্লাসটিক লিউকিমিয়াতে নির্দেশিত
+এডভ্যান্সড পর্যায়ের নন-হজকিনস লিম্ফোমাতে নির্দেশিত
+স্তন ক্যান্সার, মাথা এবং গলার এপিডারময়েড ক্যান্সার, এডভ্যান্সড মাইকোসিস ফাংগয়েডিস এবং ফুসফুসের ক্যান্সারে নির্দেশিত, বিশেষত স্কোয়ামাস সেল এবং ছোট কোষের প্রকারগুলির ক্ষেত্রে।
+রিউম্যাটয়েড আর্থ্রাইটিস এবং পলিআর্টিকুলার জুভেনাইল রিউম্যাটয়েড আথ্রাইটিস
+: মেথোট্রেক্সেট গুরুতর, সক্রিয়, রিউম্যাটয়েড আর্থ্রাইটিস, বা সক্রিয় পলিআর্টিকুলার কোর্স রিউম্যাটয়েড আর্থ্রাইটিসে আক্রান্ত শিশুদের ক্ষেত্রে নির্দেশিত যারা ননস্টেরয়েডাল অ্যান্টি-ইনফ্ল্যামেটরি এজেন্ট (এনএসএআইডি) সহ প্রথম-লাইনের থেরাপির বিরুদ্ধে অপর্যাপ্ত সাড়া পেয়েছে।
+সোরিয়াসিস
+: মেথোট্রেক্সেট গুরুতর সোরিয়াসিস নিয়ন্ত্রণের ক্ষেত্রে নির্দেশিত, যারা অন্যান্য থেরাপির বিরুদ্ধে যথাযথভাবে সাড়া পায়নি।
+
+### drug=methotrexate | section=contraindications | lang=bn
+মদ্যাশক্তি, অ্যালকোহলিক লিভার রোগ অথবা অন্য ক্রনিক লিভার রোগ
+ইমিউনোডেফেশিয়েন্সি সিন্ড্রম
+রক্তের অস্বাভাবিকতা যেমন অস্থি মজ্জার হাইপোপ্লাসিয়া, লিউকোপিনিয়া, থ্রোম্বোসাইটোপিনিয়া, অথবা গুরুতর এনিমিয়া
+মেথোট্রেক্সেটের প্রতি অতিসংবেদনশীলতা
+সোরিয়াসিস বা রিউম্যাটয়েড আর্থ্রাইটিসে আক্রান্ত গর্ভবতী মহিলা
+সন্তান জন্মদানের সম্ভাবনা আছে যেসব মহিলাদের
+মাতৃদুগ্ধদানকালীন মায়েদের
+স্বামী-স্ত্রী যে কোনো একজনও যদি মেথোট্রেক্সেট সেবন করে থাকে তাহলে গর্ভধারণ থেকে বিরত থাকতে হবে, পুরুষ রোগীদের ক্ষেত্রে চিকিৎসা চলাকালীন সময়ে এবং সেটি বন্ধ হওয়ার কমপক্ষে ৩ মাস পর পর্যন্ত এবং মহিলাদের ক্ষেত্রে চিকিৎসা চলাকালীন সময়ে এবং সেটি বন্ধ হওয়ার কমপক্ষে একটি ডিম্বাশয় চক্রের সময় পর্যন্ত গর্ভাবস্থা এড়ানো উচিত
+
+### drug=methotrexate | section=pregnancy_lactation | lang=bn
+মেথোট্রেক্সেট US FDA প্রেগনেন্সি ক্যাটাগরি এক্স। নিওপ্লাস্টিক রোগের চিকিৎসার ক্ষেত্রে কেবল তখনই ব্যবহার করা উচিত যখন সম্ভাব্য সুবিধা ভ্রূণের ঝুঁকির বেশি হয়। মাতৃদুগ্ধদানকালীন মায়েদের ক্ষেত্রে মেথোট্রেক্সেট প্রতিনির্দেশিত।
+
+### drug=methyldopa | section=indications | lang=en
+Methyldopa is indicated in Hypertension.
+
+### drug=methyldopa | section=contraindications | lang=en
+Methyldopa is contraindicated in patients:
+with active hepatic disease, such as acute hepatitis and active cirrhosis
+with liver disorders previously associated with Methyldopa therapy
+with hypersensitivity to any component of these products
+on therapy with monoamine oxidase (MAO) inhibitors.
+
+### drug=methyldopa | section=pregnancy_lactation | lang=en
+Pregnancy category B. Methyldopa appears in breast milk. Therefore, caution should be exercised when Methyldopa is given to a nursing woman.
+
+### drug=methyldopa | section=indications | lang=bn
+মিথাইলডোপা উচ্চ রক্তচাপ নিয়ন্ত্রণের জন্য নির্দেশিত।
+
+### drug=methyldopa | section=contraindications | lang=bn
+কার্যকরী লিভারের রোগ যেমন-একিউট হেপাটাইটিস, একটিভ সিরোসিস। লিভারের অকার্যকারিতা যা পুর্বে মিথাইলডোপার চিকিৎসার সাথে সম্পর্কিত। মিথাইলডোপার যেকোন উপাদানের প্রতি সংবেদনশীলতা। মনো এমাইনো অক্সিডেজ ইনহিবিটর দ্বারা চিকিৎসাকালীন।
+
+### drug=methyldopa | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ক্যাটাগরী বি। স্তন্যদানকালে মিথাইলডোপা মাতৃদুগ্ধে নিঃসৃত হয়। সেজন্য স্তন্যদানকালে সতর্কতা অবলম্বন করা উচিত।
+
+### drug=metoclopramide-hydrochloride | section=indications | lang=en
+Metoclopramide nasal spray
+: This is a dopamine-2 (D2) antagonist indicated for the relief of symptoms in adults with acute and recurrent diabetic gastroparesis.
+Metoclopramide tablet
+:
+This is indicated in the treatment for 4 to 12 weeks of symptomatic, documented gastroesophageal reflux in adults who fail to respond to conventional therapy.
+Relief of symptoms in adults with acute and recurrent diabetic gastroparesis.
+Metoclopramide Injection
+:
+Diabetic Gastroparesis (Diabetic Gastric Stasis): Metoclopramide Injection is indicated for the relief of symptoms associated with acute and recurrent diabetic gastric stasis.
+The Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy: Metoclopramide Injection is indicated for the prophylaxis of vomiting associated with emetogenic cancer chemotherapy.
+The Prevention of Postoperative Nausea and Vomiting: Metoclopramide Injection is indicated for the prophylaxis of postoperative nausea and vomiting in those circumstances where nasogastric suction is undesirable.
+Small Bowel Intubation: Metoclopramide Injection may be used to facilitate small bowel intubation in adults and pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers.
+Radiological Examination: Metoclopramide Injection may be used to stimulate gastric emptying and intestinal transit of barium in cases where delayed emptying interferes with radiological examination of the stomach and/or small intestine.
+
+### drug=metoclopramide-hydrochloride | section=contraindications | lang=en
+Metoclopramide is contraindicated:
+In patients with a history of tardive dyskinesia (TD) or a dystonic reaction to metoclopramide.
+When stimulation of gastrointestinal motility might be dangerous (e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation).
+In patients with pheochromocytoma or other catecholamine-releasing paragangliomas. Reglan may cause a hypertensive/pheochromocytoma crisis, probably due to release of catecholamines from the tumor.
+In patients with epilepsy. Reglan may increase the frequency and severity of seizures.
+In patients with hypersensitivity to metoclopramide. Reactions have included laryngeal and glossal angioedema and bronchospasm.
+
+### drug=metoclopramide-hydrochloride | section=pregnancy_lactation | lang=en
+Pregnancy Category B. Reproduction studies performed in rats, mice and rabbits by the IM, IV, subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Nursing Mothers: Metoclopramide is excreted in human milk. Caution should be exercised when metoclopramide is administered to a nursing mother.
+
+### drug=metronidazole | section=indications | lang=en
+Metronidazole is indicated in the treatment of following diseases:
+The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).
+The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.
+In the treatment of urogenital trichomoniasis.
+Bacterial vaginosis (also known as non-specific vaginitis).
+All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers).
+Giardiasis.
+Acute ulcerative gingivitis.
+Anaerobically infected leg ulcers and pressure sores.
+Acute dental infections due to anaerobic organisms.
+Antibiotic associated pseudomembranus colitis.
+
+### drug=metronidazole | section=contraindications | lang=en
+Metronidazole is contraindicated in patients with a history of hypersensitivity to Metronidazole or other Nitroimidazole derivatives.
+
+### drug=metronidazole | section=pregnancy_lactation | lang=en
+US FDA Pregnancy Category of Metronidazole is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Metronidazole have been shown to be excreted in human milk. So, caution should be exercised when Metronidazole is administered to a nursing woman.
+
+### drug=metronidazole | section=indications | lang=bn
+মেট্রোনিডাজল নিম্নলিখিত রোগের চিকিৎসায় ব্যবহৃত হয়ঃ
+এনারুবিক ব্যাকটেরিয়া জনিত (বিশেষ করে ব্যাকটেরয়েড ও এনারুবিক স্ট্রেপটোকক্কি) অস্ত্রোপচার পরবর্তী সংক্রমণ প্রতিরোধে।
+এনারুবিক জীবাণু দ্বারা সংক্রমিত সেপটিসেমিয়া, ব্যাকটেরেমিয়া, পেরিটোনাইটিস, ব্রেইন এব্সেস, পেলভিক এব্সেস, পেলভিক সেলুলাইটিস ও অস্ত্রোপচার পরবর্তী ক্ষতের সংক্রমণের চিকিৎসায়।
+ইউরোজেনিটাল ট্রাইকোমোনিয়াসিসের চিকিৎসায়।
+ব্যাকটেরিয়াল ভ্যাজিনোসিস (যা নন-স্পেসিফিক ভ্যাজিনোসিস হিসেবে পরিচিত)।
+সকল ধরনের এ্যামেবিয়াসিস (ইনটেস্টিনাল, এক্সট্রা-ইনটেস্টিনাল এবং রোগের লক্ষণবিহীন কিন্তু সিস্ট বহনকারী অবস্থা)।
+জিয়ারডিয়াসিস।
+তীব্র আলসারেটিভ জিনজিভাইটিস।
+এনারুবিক জীবাণু দ্বারা সংক্রমিত পায়ের ঘা এবং প্রেসার র্সোস।
+এনারুবিক জীবাণুজনিত দাঁতের তীব্র সংক্রমণ।
+এন্টিবায়োটিক ব্যবহারজনিত সিউডোমেমব্রেনাস কলাইটিস।
+
+### drug=metronidazole | section=contraindications | lang=bn
+মেট্রোনিডাজল ও অন্যান্য নাইট্রোইমিডাজল জাতীয় ডেরিভেটিভের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে মেট্রোনিডাজল ব্যবহার প্রতিনির্দেশিত।
+
+### drug=metronidazole | section=pregnancy_lactation | lang=bn
+US FDA প্রেগন্যান্সি ক্যাটাগরী অনুযায়ী মেট্রোনিডাজল 'B' জাতীয় ঔষধ । অর্থাৎ, গর্ভাবস্থায় ব্যবহারের সুনিয়ন্ত্রিত ও পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন গবেষণা সর্বদা মানবদেহে কার্যকারিতা সম্বন্ধে পূর্ব ধারণা দেয় না, সেহেতু এই ঔষধটি গর্ভাবস্থায় সুনির্দিষ্টভাবে প্রয়োজন হলেই ব্যবহার করা উচিত। মেট্রোনিডাজল স্তন্যদুগ্ধে নিঃসৃত হয়। সুতরাং, স্তন্যদাত্রী মায়েদের ক্ষেত্রে মেট্রোনিডাজল ব্যবহারে সতর্কতা অবলম্বন করা উচিত ।
+
+### drug=mifepristone | section=indications | lang=en
+Mifepristone is indicated:
+As a medical alternative to surgical termination of intra-uterine pregnancy
+Softening and dilatation of the cervix uteri prior to surgical pregnancy termination
+Preparation for the action of prostaglandin analogues in the termination of pregnancy for medical reasons
+Labour induction for the expulsion of a dead fetus (fetal death in utero).
+
+### drug=mifepristone | section=contraindications | lang=en
+Mifepristone must not be administered if there is doubt as to the existence or age of the pregnancy or if an extra-uterine pregnancy is suspected. An ultrasound scan and/or measurement of Beta-hCG must be performed before administration. For first trimester abortions, Mifepristone is contraindicated if the pregnancy is beyond 49 days of amenorrhoea when used with Misoprostol, or beyond 63 days of amenorrhoea when used with Gemeprost. Mifepristone should never be prescribed in patients with chronic adrenal failure, known allergy to Mifepristone or to any component of the product, severe asthma uncontrolled by corticosteroid therapy, porphyrias and renal failure, liver failure or malnutrition, or during breast feeding. Mifepristone is a lipophilic compound and may theoretically be excreted in the mother\'s breast milk, however no data is available.
+
+### drug=mifepristone | section=pregnancy_lactation | lang=en
+Mifepristone is indicated for use in the termination of pregnancy (through 49 days’ pregnancy) and has no other approved indication for use during pregnancy. It is not known whether Mifepristone is excreted in human milk. Many hormones with a similar chemical structure, however, are excreted in breast milk. Since the effects of Mifepristone on infants are unknown, breast-feeding women should consult with their health care provider to decide if they should discard their breast milk for a few days following administration of the medications.
+
+### drug=mifepristone | section=indications | lang=bn
+মিফেপ্রিস্টোন নিম্নলিখিত ক্ষেত্রগুলোতে নির্দেশিত:
+জরায়ুর অভ্যন্তরীণ প্রাথমিক গর্ভাবস্থা অস্ত্রোপচার ছাড়াই অবসান (গর্ভপাত) ঘটানোর একটি চিকিৎসাগত বিকল্প হিসেবে।
+অস্ত্রোপচারের মাধ্যমে গর্ভাবস্থা অবসান ঘটানোর পূর্বে জরায়ুর মুখ বা সারভিক্স নরম এবং প্রসারিত করার জন্য।
+চিকিৎসাগত কারণে গর্ভাবস্থা অবসান ঘটানোর ক্ষেত্রে প্রোস্টাগ্ল্যান্ডিন অ্যানালগ-এর কার্যকারিতা বৃদ্ধির প্রস্তুতি হিসেবে।
+গর্ভেই শিশুর মৃত্যু হলে মৃত ভ্রূণ বা শিশু বের করে আনার জন্য প্রসব বেদনা বা লেবার ইনডাকশন তৈরি করতে।
+
+### drug=mifepristone | section=contraindications | lang=bn
+গর্ভাবস্থার অস্তিত্ব বা সঠিক মেয়াদ সম্পর্কে কোনো সন্দেহ থাকলে, অথবা জরায়ুর বাইরে গর্ভাবস্থা বা একটোপিক প্রেগন্যান্সি (Extra-uterine/Ectopic pregnancy) সন্দেহ হলে মিফেপ্রিস্টোন কোনোভাবেই ব্যবহার করা যাবে না। ঔষধ প্রয়োগের পূর্বে অবশ্যই একটি আল্ট্রাসাউন্ড স্ক্যান (USG) এবং/অথবা বিটা-এইচসিজি পরীক্ষা করা আবশ্যক।
+প্রথম ট্রাইমেস্টারের গর্ভপাতের ক্ষেত্রে, মিসোপ্রোস্টলের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৪৯ দিনের বেশি হলে এবং জেমপ্রোস্টের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৬৩ দিনের বেশি হলে মিফেপ্রিস্টোন ব্যবহার করা সম্পূর্ণ নিষিদ্ধ।
+এছাড়াও দীর্ঘস্থায়ী অ্যাড্রেনাল ফেইলিউর, মিফেপ্রিস্টোন বা এর যেকোনো উপাদানের প্রতি পরিচিত অ্যালার্জি, কর্টিকোস্টেরয়েড থেরাপির মাধ্যমে অনিয়ন্ত্রিত তীব্র হাঁপানি, পরফাইরিয়া (Porphyria), কিডনি ফেইলিউর, যকৃতের ফেইলিউর (Liver failure), চরম অপুষ্টি এবং স্তন্যদানকালে মিফেপ্রিস্টোন কখনোই প্রেসক্রিপশন করা উচিত নয়। মিফেপ্রিস্টোন একটি চর্বি-দ্রবণীয় (Lipophilic) উপাদান এবং এটি তাত্ত্বিকভাবে মায়ের বুকের দুধে নিঃসৃত হতে পারে, তবে এর কোনো সুনির্দিষ্ট ডাটা বা প্রমাণ নেই।
+
+### drug=mifepristone | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থা অবসান ঘটানোর জন্য (গর্ভাবস্থার মেয়াদ ৪৯ দিন পর্যন্ত) মিফেপ্রিস্টোন নির্দেশিত এবং গর্ভাবস্থায় এর অন্য কোনো অনুমোদিত ব্যবহার নেই।
+মিফেপ্রিস্টোন মানুষের বুকের দুধে নিঃসৃত হয় কি না তা জানা যায়নি। তবে একই রাসায়নিক গঠনযুক্ত অনেক হরমোনই বুকের দুধে নিঃসৃত হয়। যেহেতু শিশুর ওপর মিফেপ্রিস্টোনের প্রভাব অজ্ঞাত, তাই স্তন্যদায়ী মায়েদের ক্ষেত্রে এই ঔষধটি সেবনের পর কয়েক দিন বুকের দুধ ফেলে দেওয়া বা বন্ধ রাখা উচিত কি না, সে বিষয়ে চিকিৎসকের সাথে পরামর্শ করা উচিত।
+
+### drug=multivitamins-multiminerals-a-z-prenatal-preparation | section=indications | lang=en
+This is indicated for use in improving the nutritional status of women throughout the pregnancy and in the postnatal period for both lactating and non-lactating mothers. This is also indicated in improving the nutritional status of women prior to conception.
+
+### drug=multivitamins-multiminerals-a-z-prenatal-preparation | section=contraindications | lang=en
+This Multivitamins & Multiminerals is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+
+### drug=multivitamins-multiminerals-a-z-prenatal-preparation | section=pregnancy_lactation | lang=en
+Recommended.
+
+### drug=nifedipine | section=indications | lang=en
+Nifedipine is a specific and potent calcium-channel blocker with peripheral and coronary vasodilator properties. It reduces peripheral resistance, after load and blood pressure. It is used in the prophylaxis and treatment of angina, Raynauds phenomenon, ischaemic heart disease, hypertension and heart failure.
+
+### drug=nifedipine | section=contraindications | lang=en
+Cardiogenic shock, advanced aortic stenosis, nursing mothers, Gl obstruction, inflammatory bowel disease, hypotension and diabetes.
+
+### drug=nifedipine | section=pregnancy_lactation | lang=en
+There are no adequate and well controlled studies in pregnant women. It should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+### drug=nifedipine | section=indications | lang=bn
+নিফেডিপিন একটি সুনির্দিষ্ট এবং শক্তিশালী ক্যালসিয়াম-চ্যানেল ব্লকার, যা রক্তনালী প্রসারিত করতে সাহায্য করে। এটি শরীরের প্রান্তীয় রক্তনালীর প্রতিরোধ ক্ষমতা, হার্টের ওপর চাপ (after load) এবং রক্তচাপ কমায়। এটি মূলত নিম্নলিখিত ক্ষেত্রে প্রতিরোধক এবং চিকিৎসাস্বরূপ ব্যবহৃত হয়:
+এনজাইনা (বুকে ব্যথা)
+রেনল্ডস ফেনোমেনন (আঙুল বা পায়ের পাতা অতিরিক্ত ঠাণ্ডা হয়ে যাওয়া)
+ইস্কেমিক হার্ট ডিজিজ (হৃদরোগ)
+উচ্চ রক্তচাপ
+হার্ট ফেইলিউর বা হৃদযন্ত্রের নিষ্ক্রিয়তা
+
+### drug=nifedipine | section=contraindications | lang=bn
+কার্ডিওজেনিক শক
+অ্যাডভান্সড অ্যাওর্টিক স্টেনোসিস (হৃদপিণ্ডের ভাল্ব সংকুচিত হওয়া)
+স্তন্যদায়ী মা
+পরিপাকতন্ত্রে বাধা বা ব্লকেজ
+ইনফ্ল্যামেটরি বাওয়েল ডিজিজ (অন্ত্রের প্রদাহজনিত রোগ)
+নিম্ন রক্তচাপ
+ডায়াবেটিস
+
+### drug=nifedipine | section=pregnancy_lactation | lang=bn
+গর্ভবতী নারীদের ওপর পর্যাপ্ত এবং সুনিয়ন্ত্রিত কোনো গবেষণা নেই। গর্ভাবস্থায় এই ঔষধটি কেবলমাত্র তখনই ব্যবহার করা উচিত, যখন ভ্রূণের সম্ভাব্য ঝুঁকির চেয়ে মায়ের উপকার পাওয়ার সম্ভাবনা বেশি থাকে।

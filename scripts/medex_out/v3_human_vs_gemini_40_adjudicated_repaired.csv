@@ -1,0 +1,272 @@
+﻿id,drug,section,human_label,gemini_run_B_label,gemini_run_A_label,agree_human_vs_B,human_note,gemini_note,english,bangla,adjudicated_label,adjudication_reason
+R001,propylthiouracil,Pregnancy & Lactation,same,changed,changed,NO,in english hypothyroidism is mentioned hyperthyroidism in bangla | everything is same except the translation of hypothyroidism is hyperthyroidism in bangla,The Bangla specifies hyperthyroidism instead of hypothyroidism.,Propylthiouracil crosses the placenta and can induce fetal goiter and hypothyroidism. The lowest dose possible should be used after carefully weighing the mother’s needs against the risk to the fetus. Propylthiouracil is present in breast milk in small amounts and neonatal development should be closely monitored in any nursing mother treated with this drug.,প্রোপাইলথায়োইউরাসিল প্লাসেন্টা অতিক্রম করতে পারে এবং ভ্রূণের গলগণ্ড ও হাইপারথাইরয়েডিজম ঘটাতে পারে। মায়ের প্রয়োজনীয়তা ও ভ্রূণের ঝুঁকির কথা বিবেচনা করে সম্ভাব্য সর্বনিম্ন মাত্রা প্রয়োগ করতে হবে। প্রোপাইলথাইয়োইউরাসিল মাতৃদুগ্ধে অল্প পরিমাণে তাই মাতৃদুগ্ধ দানকালে এই ওষুধ সেবন করা হলে নবজাতক শিশুর অগ্রগতি নিবিড়ভাবে পর্যবেক্ষণ করতে হবে।,changed,The Bangla specifies hyperthyroidism instead of hypothyroidism.
+R002,aspirin,Contraindications,same,same,same,yes,nothing differs | translation is same,none,"Aspirin is contraindicated to the children (Reye's syndrome) less than 12 years, in breast-feeding and active peptic ulcer. It is also contraindicated in bleeding due to haemophilia, intracranial haemorrhage and other ulceration.","১২ বছরের নীচে বাচ্চাদের (রেইজ সিনড্রোম), দুগ্ধাদানকারীদের, সক্রিয় পেপটিক আলসারে এ্যাসপিরিন প্রতিনির্দেশিত। হিমােফিলিয়া, ইন্ট্রাক্রেনিয়াল হিমােরেজ এবং অন্যান্য ক্ষত থেকে রক্ত নিঃসরণের ক্ষেত্রেও ইহা প্রতিনির্দেশিত।",,
+R003,lithium-carbonate,Contraindications,same,same,same,yes,nothing differs | translation is same,none,"Renal insufficiency, cardiovascular insufficiency, Addison's disease and untreated hypothyroidism are all contraindications to lithium therapy.","কিডনির অকার্যকারিতা, হৃদযন্ত্রের অকার্যকারিতা, অ্যাডিসনস ডিজিজ (অ্যাড্রেনাল গ্রন্থির রোগ) এবং চিকিৎসা না করা হাইপোথাইরয়েডিজম (থাইরয়েড হরমোনের ঘাটতি)- এই সমস্ত রোগীদের ক্ষেত্রে লিথিয়াম থেরাপি ব্যবহার করা সম্পূর্ণ নিষিদ্ধ।",,
+R004,cholecalciferol-vitamin-d3,Precautions & Warnings,same,same,same,yes,nothing | translation is almost same,none,"Plasma-calcium concentration should be monitored at intervals in patients receiving high doses of Vitamin D3, in renal impairment, and during pregnancy & lactation. People using Digoxin and Thiazide Diuretics should consult a health care practitioner before supplementing with Vitamin D3. People with liver or kidney disease, primary hyperthyroidism, lymphoma, tuberculosis and granulomatous disease should consult a health care practitioner before supplementing with Vitamin D3.","অতিরিক্ত মাত্রার ভিটামিন ডি৩ সেবনকারী, কিডনীর জটিলতা সম্পন্ন, গর্ভাবস্থা এবং স্তন্যদানকারী মহিলাদের ক্ষেত্রে নির্দিষ্ট সময় অন্তর অন্তর সিরামে ক্যালসিয়াম এর মাত্রা পর্যবেক্ষণ করতে হবে। যেসব রোগী ডিজোক্সিন ও থায়াজাইড ডাইইউরেটিকস সেবন করে থাকেন তাদের ডাক্তারের পরামর্শ মতে ভিটামিন ডি৩ সেবন করা উচিত। যকৃৎ ও কিডনীর জটিলতা, প্রাইমারি হাইপারথাইরোয়েডিজম, লিমফোমা, টিউবারকিউলোসিস ও গ্র্যানুলোমেটাস এর মত রোগে আক্রান্ত রোগীদের ডাক্তারের পরামর্শ মতে ভিটামিন ডি৩ সেবন করা উচিত।",,
+R005,misoprostol,Pregnancy & Lactation,weaker,missing,missing,NO,many things appeared in english but not in bangla | english has more information than bangla translation is not complete,The Bangla omits the warning regarding the danger to other women of childbearing potential if the drug is taken by mistake.,"Because of the abortifacient property of the Misoprostol component, it is contraindicated in women who are pregnant. It should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID. In such patients, it may be prescribed if the patient:
+has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
+is capable of complying with effective contraceptive measures.
+has received both oral and written warnings of the hazards of Misoprostol, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+will begin it only on the second or third day of the next normal menstrual period.
+Excretion of the active metabolite (Misoprostol acid) into milk is possible but has not been studied. Because of the potential for serious adverse reactions in nursing infants, it is not recommended for use by nursing mothers.","গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত। গর্ভবতী হতে পারে এমন মহিলাদের ক্ষেত্রেও এটা ব্যবহার করা উচিত নয়, যদি না উক্ত রোগীর এন.এস.এ.আই.ডি থেরাপী প্রয়োজন হয় এবং অনুরূপ ওষুধজনিত গ্যাস্ট্রিক আলসারের উচ্চ ঝুঁকি থাকে। ঐরূপ রোগীর ক্ষেত্রে মিসোপ্রোষ্টল তখনই দেয়া যাবে যদি-
+থেরাপী শুরুর ২ সপ্তাহ আগে রোগীর সিরাম গর্ভাবস্থা পরীক্ষা ঋণাত্মক হয়ে থাকে।
+রোগী কার্যকর গর্ভনিরোধক পদ্ধতি গ্রহণ করতে পারে।
+মিসোপ্রোষ্টল ব্যবহারের সমস্যা, এর ব্যবহারে গর্ভনিরোধ পদ্ধতির সম্ভাব্য ব্যর্থতার ঝুঁকি- এসব বিষয়ে মৌখিক ও লিখিত উভয় প্রকার সতর্কতা বাণী জেনে থাকলে।
+রোগী পরবর্তী স্বাভাবিক রজাচক্রের ২য় বা ৩য় দিন মিসোপ্রোষ্টল থেরাপী শুরু করে।
+মিসোপ্রোষ্টলের কার্যকর মেটাবোলাইট (মিসোপ্রোষ্টল এসিড) বুকের দুধের মাধ্যমে নিঃসৃত হওয়া সম্ভব কিনা এখনও গবেষণা করা হয়নি। নবজাতকদের ক্ষেত্রে মারাত্মক প্রতিক্রিয়া ঘটাতে পারে বলে স্তন্যদায়ী মায়েদের ক্ষেত্রেপ্রযোজ্য নয়।",missing,The Bangla omits the warning regarding the danger to other women of childbearing potential if the drug is taken by mistake.
+R006,metronidazole,Interaction,same,missing,same,NO,no diifference | there are some information loss in bangla translation but overall meaning is same,The Bangla omits mention of drugs containing alcohol.,"Disulfiram
+: Psychotic reactions have been reported in patients who were using metronidazole and disulfiram concurrently.
+Alcohol
+: Alcoholic beverages and drugs containing alcohol should not be consumed during therapy and for at least one day afterwards because of the possibility of a disulfiram-like (antabuse effect) reaction (flushing, vomiting, tachycardia). Oral anticoagulant therapy (warfarin type): Potentiation of the anticoagulant effect and increased hemorrhagic risk caused by decreased hepatic catabolism. In case of co-administration, prothrombin time should be more frequently monitored and anticoagulant therapy adjusted during treatment with metronidazole.
+Lithium
+: Plasma levels of lithium may be increased by metronidazole.
+Cyclosporin
+: Serum cyclosporin and serum creatinine should be closely monitored when co-administration is necessary.
+Phenytoin or phenobarbital
+: increased elimination of metronidazole resulting in reduced plasma levels.
+5-Fluorouracil
+: Reduced clearance of 5-fluorouracil resulting in increased toxicity of 5-fluorouracil.
+Busulfan
+: Plasma levels of busulfan may be increased by metronidazole, which may lead to severe busulfan toxicity.","ডাইসালফাইরাম
+: মেট্রোনিডাজল এবং ডাইসালফাইরাম এক সাথে ব্যবহার করলে মানসিক প্রতিক্রিয়ার উদ্ভব হতে পারে বলে রিপোর্ট পাওয়া গেছে।
+অ্যালকোহল
+: মেট্রোনিডাজল দ্বারা চিকিৎসা চলাকালীন সময় এবং শেষ হবার অন্তত ১ দিন পর পর্যন্ত রোগীদের অ্যালকোহল জাতীয় পানীয় সেবন করা থেকে বিরত থাকার পরামর্শ দিতে হবে কারন সেটা ডাইসালফাইরাম প্রতিক্রিয়ার (অ্যানটাবউস ইফেক্ট- ত্বকে অত্যধিক রক্ত সরবরাহ, বমি, দ্রুত হৃদস্পন্দন) কারন হতে পারে।
+এন্টিকোয়াগুলেন্ট চিকিৎসা (ওয়ারফেরিন জাতীয়)
+: হেপাটিক ক্যাটাবলিসম কমে যাওয়ার কারনে এন্টিকোয়াগুলেন্ট এর প্রভাব বৃদ্ধি পায় এবং রক্তক্ষরন এর সম্ভবনা বেড়ে যায়। মেট্রোনিডাজল এর সাথে দেওয়া হলে নিয়মিত প্রোথ্রম্বিন টাইম পর্যবেক্ষণ করতে হবে এবং এন্টিকোয়াগুলেন্ট-এর মাত্রা সমন্বয় করতে হবে।
+লিথিয়াম
+: মেট্রোনিডাজল দ্বারা রক্তের প্লাজমা তে লিথিয়াম এর মাত্রা বৃদ্ধি পেতে পারে।
+সাইক্লোস্পরিন
+: সেরাম এ সাইক্লোস্পরিন এবং ক্রিয়েটিনিন এর মাত্রা নিবির ভাবে পর্যবেক্ষণ করতে হবে যদি মেট্রোনিডাজল এর সাথে দেওয়া হয়।
+ফেনাইটয়েন অথবা ফেনোবারবিটাল
+: মেট্রোনিডাজল নিঃসরণ এর মাত্রা বেড়ে যাওয়ায় প্লাজমাতে পরিমান কমে যায়।
+৫-ফ্লুরোইউরাসিল
+: শরীর থেকে নিঃসরণ এর মাত্রা কমে যাওয়ায় ৫-ফ্লুরোইউরাসিল দ্বারা বিষক্রিয়ার সম্ভবনা বৃদ্ধি পায়।
+বিউসালফান
+: মেট্রোনিডাজল প্লাজমাতে বিউসালফান এর পরিমান বাড়িয়ে দেয় যা বিউসালফান জনিত বিষক্রিয়া সৃষ্টি করতে পারে।",missing,the Bangla omits mention of drugs containing alcohol.
+R007,warfarin-sodium,Contraindications,same,same,same,yes,no difference | translation is same,none,"Warfarin can not be administered in the following cases;
+Actual or potential hemorrhagic conditions, eg. Peptic ulcer, or to patients with uncontrolled hypertension
+Severe hepatic or renal disease
+Pregnancy
+Known hypersensitivity to warfarin
+Bacterial endocarditis
+Its use within 24 hours following surgery or labor should be undertaken with caution, if at all.","ওয়ারফারিন নিম্নলিখিত ক্ষেত্রে দেয়া যাবেনা-
+প্রকৃত অথবা সম্ভাবনা পূর্ণ হেমোরেজিক কন্ডিশন যেমন, পেপটিক আলসার অথবা অনিয়ন্ত্রিত উচচ রক্তচাপ
+যকৃত বা বৃক্কের মারাত্মক কোন রোগ
+গর্ভাবস্থা
+ওয়ারফারিন-এর প্রতি অতিসংবেদনশীলতা
+ব্যাক্টেরিয়াল এন্ডোকার্ডাইটিস
+অস্ত্রোপচার বা প্রসবের ২৪ ঘন্টার মধ্যে এর ব্যবহার অত্যন্ত সতর্কতার সাথে করতে হবে, যদি তা একান্তই করতে হয়।",,
+R008,ferrous-ascorbate-folic-acid-zinc-sulfate,Interaction,same,changed,same,NO,in english it taking with meals but in bangla it metioned as খাবার গ্রহণের মাধ্যমে | ok with some minor mistakes,The Bangla mistranslates taking medicine with meals to reduce occasional discomfort as eating meals occasionally to reduce discomfort.,"Iron chelates with tetracycline. Since oral iron products interfere with absorption of oral tetracycline antibiotics, this product should not be taken within two hours of each other. Occasional gastrointestinal discomfort may be minimized by taking with meals. Absorption of iron may be impaired by concurrent administrations of penicillamine and antacid. In patients with renal failure, a risk of zinc accumulation may exist.","টেট্রাসাইক্লাইন এবং আয়রন একত্রে চিলেট ফর্ম করে। যেহেতু মুখে সেবনযোগ্য আয়রন ওরাল টেট্রাসাইক্লিন অ্যান্টিবায়োটিক এর শোষণে বাঁধা সৃস্টি করে, তাই এই দুটি ঔষধ একত্রে দুই ঘন্টার মধ্যে নেওয়া উচিৎ নয়। মাঝে মাঝে খাবার গ্রহণের মাধ্যমে গ্যাস্ট্রোইনটেস্টাইনাল অস্বস্তি হ্রাস করা যেতে পারে। পেনিসিলামাইন এবং অ্যান্টাসিড একযোগে গ্রহণের ফলে আয়রনের শোষণ ক্ষতিগ্রস্থ হতে পারে। বৃক্কীয় অকার্যকর রোগীদের মধ্যে শরীরে জিংক জমে যাওয়ার ঝুঁকি থাকতে পারে।",changed,in english it taking with meals but in bangla it metioned as খাবার গ্রহণের মাধ্যমে
+R009,ciprofloxacin,Pregnancy & Lactation,weaker,same,same,NO,preserve the meaning nothing differ | some information in bangla appeared in bangla in extended and different way,none,"Reproduction studies performed in mice, rats and rabbits using parenteral and oral administration did not reveal any evidence of teratogenicity, impairment of fertility or impairment of peri/post natal development. However as with other quinolones, Ciprofloxacin has been shown to cause arthropathy in immature animals and therefore its use during pregnancy is not recommended. Studies in rats have indicated that Ciprofloxacin is secreted in milk, administration to nursing mothers is thus not recommended.","ইঁদুর, খরগোশ ইত্যাদির ক্ষেত্রে সিপ্রোফ্লক্সাসিন মুখে সেবনের পর এবং ইনজেকশন দেবার পর বংশ বৃদ্ধির প্রক্রিয়া পর্যবেক্ষণ করে ভ্রুণের গঠন বিকৃতি, বংশ বিস্তার ক্ষমতার ক্ষতি হওয়া, প্রসবপূর্ব বা প্রসবোত্তর কালীন সময়ে বৃদ্ধির উপর এর কোন প্রভাব দেখা যায় নি। তবে অন্যান্য কুইনোলোনের মত সিপ্রোফ্লক্সাসিন অপরিণত জীবের ক্ষেত্রে আর্থোপ্যাথি সৃষ্টি করতে পারে এবং সে কারণে গর্ভকালীন অবস্থায় এর ব্যবহার নিদের্শিত নয়। ইঁদুরের উপর পরীক্ষায় দেখা গেছে যে সিপ্রোফ্লক্সাসিন দুগ্ধে নিঃসৃত হয় কাজেই স্তন্যদানরত মায়েদের ক্ষেত্রে এর ব্যবহার সুপারিশ করা হয় না।",same,nothing differs and translation is almost same by preserving the meaning
+R010,mifepristone,Interaction,same,same,same,yes,nothing differs | translation is almost same by preserving the meaning,none,"ketoconazole, itraconazole, erythromycin and grapefruit juice may inhibit its metabolism (increasing serum levels of mifepristone). Furthermore, rifampicin, dexamethasone, St John's Wort and certain anticonvulsants (phenytoin, phenobarbital, carbamazepine) may induce mifepristone metabolism (lowering serum levels of Mifepristone). Based on invitro inhibition information, co-administration of mifepristone may lead to an increase in serum levels of drugs that are CYP3A4 substrates.
+Limited evidence suggests that co-administration of NSAIDs on the day of prostaglandin administration does not adversely influence the effects of Mifepristone or the prostaglandin on cervical ripening or uterine contractility and does not reduce the clinical efficacy of medical termination of pregnancy.","কিটোকোনাজল, ইট্রাকোনাজল, ইরাইথ্রোমাইসিন এবং আঙুরের রস (Grapefruit juice) মিফেপ্রিস্টোনের মেটাবলিজম বা বিপাক প্রক্রিয়াকে বাধাগ্রস্ত করতে পারে, যার ফলে রক্তে মিফেপ্রিস্টোনের মাত্রা বৃদ্ধি পেতে পারে।
+অন্যদিকে রিফাম্পিসিন, ডেক্সামিথাসন, সেন্ট জনস ওর্ট এবং কিছু খিঁচুনির ঔষধ (ফেনিটোইন, ফেনোবারবিটাল, কার্বামাজেপিন) মিফেপ্রিস্টোনের মেটাবলিজম বাড়িয়ে দিতে পারে, যার ফলে রক্তে এর কার্যকারিতা বা মাত্রা কমে যেতে পারে।
+ল্যাবরেটরি তথ্যের ওপর ভিত্তি করে ধারণা করা হয় যে, মিফেপ্রিস্টোন একসঙ্গে ব্যবহার করলে CYP3A4 সাবস্ট্রেট যুক্ত অন্যান্য ঔষধের রক্তে ঘনত্ব বেড়ে যেতে পারে।
+সীমিত প্রমাণ থেকে জানা যায় যে, প্রোস্টাগ্ল্যান্ডিন প্রয়োগের দিন এনএসআইডি (NSAIDs- ব্যথানাশক ঔষধ) ব্যবহার করলে তা জরায়ুর মুখ নরম হওয়া বা জরায়ুর সংকোচনের ওপর মিফেপ্রিস্টোন বা প্রোস্টাগ্ল্যান্ডিনের কার্যকারিতায় কোনো নেতিবাচক প্রভাব ফেলে না এবং চিকিৎসাগত গর্ভপাতের সফলতার হারও কমায় না।",,
+R011,ferrous-ascorbate-folic-acid-zinc-sulfate,Pregnancy & Lactation,same,same,same,yes,no difference | translation is same by meaning,none,"If pregnant, or planning to become pregnant or are currently breast-feeding please contact your physician, before taking or continuing the drug. Administration in first trimester of pregnancy should be avoided unless definite evidence of iron deficiency is observed. Prophylaxis of iron deficiency is justified during the remainder of pregnancy specifically when zinc supplementation is required.","যদি গর্ভবতী হন, বা গর্ভবতী হওয়ার পরিকল্পনা করছেন বা বর্তমানে বুকের দুধ খাওয়ান ঔষধ গ্রহণ বা চালিয়ে যাওয়ার আগে দয়া করে আপনার চিকিৎসকের সাথে যোগাযোগ করুন। গর্ভাবস্থার প্রথম ট্রাইমিস্টারে এই প্রিপারেশন প্রয়োগের আগে আয়রন ঘাটতির সুনির্দিষ্ট প্রমাণ না দেখলে এড়ানো উচিৎ। গর্ভাবস্থার অবশিষ্ট সময় বিশেষত যখন জিংক পরিপূরক প্রয়োজন হয়, তখন আয়রনের ঘাটতির প্রফাইল্যাক্সিস ন্যায়সঙ্গত।",,
+R012,metformin-hydrochloride,Indications,same,same,same,yes,no difference | translation is same by meaning,none,"Metformin Hydrochloride tablet is indicated for the treatment of type 2 diabetes mellitus, particularly in overweight patients when dietary management and exercise alone does not result in adequate glycaemic control.
+In adults
+: Metformin may be used as monotherapy or in combination with other oral antidiabetic agents or with insulin.
+In children from 10 years of age and adolescents
+: Metformin may be used as monotherapy or in combination with insulin.
+A reduction of diabetic complications has been shown in overweight type 2 diabetic adult patients treated with metformin as first-line therapy after diet failure.","মেটফরমিন টাইপ
+-
+২
+ডায়াবেটিস
+মেলাইটাস
+এর
+চিকিৎসায়
+নির্দেশিত
+বিশেষ
+করে
+যেসব
+রোগীর
+ওজন
+মাত্রাতিরিক্ত
+এবং
+এককভাবে
+খাদ্যাভ্যাস
+নিয়ন্ত্রণ
+ও
+শরীরচর্চার
+মাধ্যমে
+রক্তের
+গ্লুকোজের
+পরিমাণ
+পর্যাপ্ত
+পরিমানে
+নিয়ন্ত্রণ
+হয়
+না
+।
+প্রাপ্ত
+বয়স্কদের
+ক্ষেত্রে
+:
+মেটফরমিন
+একক
+চিকিৎসা
+হিসেবে
+অথবা
+মুখে
+সেব্য
+অন্য
+ডায়াবেটিস
+নিয়ন্ত্রণকারী
+ওষুধের
+সাথে
+অথবা
+ইনসুলিনের
+সাথে
+ব্যবহৃত
+হতে
+পারে
+।
+শিশুদের
+ক্ষেত্রে
+১০
+বছর
+বয়স
+থেকে
+এবং
+কিশোরদের
+জন্য
+:
+মেটফরমিন
+একক
+চিকিৎসা
+হিসেবে
+অথবা
+ইনসুলিনের
+সাথে
+ব্যবহৃত
+হতে
+পারে
+।
+মাত্রাতিরিক্ত
+ওজনের
+প্রাপ্ত
+বয়স্ক
+টাইপ
+-
+২
+ডায়াবেটিস
+রোগীদের
+ক্ষেত্রে
+দেখা
+গেছে
+,
+খাদ্যাভ্যাস
+নিয়ন্ত্রণে
+কাজ
+না
+হলে
+প্রথম
+সারির
+চিকিৎসা
+হিসেবে
+মেটফরমিন
+ব্যবহার
+করলে
+ডায়াবেটিসের
+জটিলতা
+হ্রাস
+পায়
+।",,
+R013,amoxicillin-clavulanic-acid,Indications,stronger,same,same,NO,no difference | translation is same by meaning,none,"This combination is indicated for short-term treatment of bacterial infections at the following sites:
+Upper respiratory tract infections (including ENT) e.g.tonsillitis,sinusitis,otitis media.
+Lower respiratory tract infections e.g.acute and chronic bronchitis, lobar and bronchopneumonia.
+Genito-urinary tract infections e.g.cystitis,urethritis,pyelonephritis.
+Skin and soft tissue infections.
+Bone and joint infections e.g.osteomyelitis.
+Other infections e.g.septic abortion,puerperal sepsis,intra-abdominal sepsis etc.","ইহা নিম্নলিখিত ব্যাকটেরিয়া সংক্রমণে স্বল্পমেয়াদী চিকিৎসায় নির্দেশিত:
+শ্বাসনালীর উপরিভাগের সংক্রমণ (নাক, কান, গলাসহ) যেমন-টনসিলের প্রদাহ, সাইনাসের প্রদাহ, মধ্যকর্ণের প্রদাহ ইত্যাদি।
+শ্বাসনালীর নিম্নভাগের সংক্রমণ যেমন- তীব্র এবং দীর্ঘ মেয়াদী ব্রংকিয়াল প্রদাহ, লোবার এবং ব্রংকোনিউমোনিয়া ইত্যাদি।
+মূত্র-যৌন নালীর সংক্রমণ যেমন-মূত্রথলির প্রদাহ, মূত্রনালীর প্রদাহ, পায়েলোনেফ্রাইটিস ইত্যাদি।
+চর্ম ও নরম কলার সংক্রমণ।
+অস্থি ও অস্থিসন্ধির সংক্রমণ যেমন অস্থি মজ্জার প্রদাহ।
+অন্যান্য সংক্রমণ যেমন-সংক্রমিত গর্ভপাত, গর্ভপরবর্তী সেপসিস, ইন্ট্রা-অ্যাবডোমিনাল সেপসিস, ইত্যাদি।",same,no difference and translation is same by meaning
+R014,folic-acid-zinc-sulfate-monohydrate,Contraindications,missing,changed,changed,NO,info missing in bangla | bangla doesnot have enough info presented in english,The Bangla replaces untreated cobalamine deficiency with hypersensitivity to folic acid as a contraindication.,Zinc is contraindicated in patients having hypersensitivity to Zinc. Folic Acid is contraindicated in untreated cobalamine deficiency,যে সকল রােগীর জিংক এবং ফলিক এসিডের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে প্রতিনির্দেশিত।,changed,the Bangla replaces untreated cobalamine deficiency with hypersensitivity to folic acid as a contraindication
+R015,clotrimazole-vaginal-tablet,Pregnancy & Lactation,same,same,same,yes,no major difference | some minor words in english are ignored in bangla but that not change the overall meaning,none,"It is recommended that Clotrimazole should be used in pregnancy only when considered necessary by the physician. Clotrimazole is very poorly absorbed into the blood and the body after application to the skin or the vagina. Studies in women in their second or third trimesters have demonstrated no ill effects. It is not known if Clotrimazole is secreted in breast milk. Clotrimazole suppository can be used during pregnancy, but only under the supervision of Physician.","কেবল মাত্র ডাক্তার কর্তৃক প্রয়োজনীয়তা নির্ধারিত হলেই ক্লোট্রিমাজল গর্ভকালীন সময়ে ব্যবহার করা যাবে। ক্লোট্রিমাজোল ত্বকে ও যােনীপথে ব্যবহারের পর রক্তে খুবই কম পরিমানে শােষিত হয়, গর্ভাবস্থার দ্বিতীয় এবং তৃতীয় ট্রাইমিস্টারে ক্লোট্রিমাজোল কোন খারাপ প্রভাব প্রদর্শন করে না। ইহা মাতৃদুগ্ধে নিঃসরিত হয় কিনা তা এখনও জানা যায়নি। চিকিৎসকের পরামর্শক্রমে ক্লোট্রিমাজোল সাপােজিটরী গর্ভকালীন সময়ে ব্যবহার করা যেতে পারে।",,
+R016,carbetocin,Indications,same,same,same,yes,no major difference | translation is same by meaning,none,Carbetocin is indicated for the prevention of uterine atony and postpartum haemorrhage (excessive bleeding) following delivery of the infant by elective caesarean section under epidural or spinal anaesthesia.,"কার্বেটোসিন নির্দেশিত-
+এপিডুরাল বা স্পাইনাল অ্যানেস্থেশিয়ার অধীনে ইলেকটিভ সিজারিয়ান সেকশনের মাধ্যমে শিশুর প্রসবের পর জরায়ুর অ্যাটনি এবং
+প্রসবোত্তর রক্তক্ষরণ (অতিরিক্ত রক্তপাত) প্রতিরোধের জন্য",,
+R017,ibuprofen-oral,Precautions & Warnings,changed,stronger,stronger,NO,huge difference | some information in english is not present in bangla translation and some information in bangla is not present in english translation,The Bangla adds precautions for patients with gastrointestinal bleeding or ulcer history and hypersensitivity to other NSAIDs.,"Patients on long term therapy with ibuprofen require ocular monitoring at regular intervals, as changes in ocular function have been reported. Patients with SLE are more likely than others to develop hypersensitivity to ibuprofen. Ibuprofen should be prescribed with caution in patients with asthma.","আইবুপ্রোফেন পরিপাকান্ত্রের রক্তক্ষরণ অথবা আলসার এর পূর্ব-ইতিহাস আছে এমন রােগীদের ক্ষেত্রে সর্বোচ্চ সতর্কতার সাথে এবং কার্যকর সর্বনিম্ন মাত্রায় প্রয়োগ করতে হবে। আইবুপ্রােফেন দ্বারা দীর্ঘকালীন চিকিৎসার সময় চোখের অবস্থা পর্যবেক্ষণ করতে হবে, কারণ এক্ষেত্রে চোখের কার্যাবলীতে পরিবর্তন দেখা যায়। সিস্টেমিক লুপাস ইরাইথেমাটোসাস রোগীদের আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীলতা তৈরীর সম্ভাবনা বেশী। এ্যাজমা ও অন্যান্য ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ঔষধের প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে ইহা সতর্কতার সাথে প্রয়ােগ করতে হবে।",stronger,bangla add some important informations
+R018,phytomenadione-injection,Precautions & Warnings,weaker,missing,same,NO,info missing | information in english is not present in bangla translation,The Bangla omits the timing specification that monitoring is required after administration of Phytomenadione.,Careful monitoring of the coagulation parameters is necessary for patients with severely impaired liver function after administration of Phytomenadione .,লিভারের তীব্র অকার্যকারীতার রোগীর ক্ষেত্রে সাবধানতার সাথে কোয়াগুলেশন বৈশিষ্ট্য পর্যবেক্ষণ করতে হবে।,missing,The Bangla omits the timing specification that monitoring is required after administration of Phytomenadione.
+R019,carbamazepine,Contraindications,missing,changed,changed,NO,some minor info present in bangla but the main line are skipped,The Bangla lists tricyclic antidepressants themselves rather than allergy to them as a contraindication.,"This medicine should not be used if anybody is allergic to one or any of its ingredients. It can not be used also in the following conditions:
+Problems with the electrical message pathways in the heart (atrioventricular block)
+History of decreased blood cell production by the bone marrow (bone marrow depression)
+Hereditary blood disorders called porphyrias
+Allergy to tricyclic antidepressants
+People who have taken a monoamine-oxidase inhibitor antidepressant (MAOI) in the last 14 days",নিম্নলিখিত ক্ষেত্রে কার্বামাজেপিন ব্যবহার করা যাবে না কার্বামাজেপিন অথবা এর কোন উপাদানের প্রতি সংবেদনশীল রোগীদের ক্ষেত্রে এট্রিও ভেনট্রিকুলার ব্লক বোনমেরু ডিপ্রেশন পোরফাইরিয়াস ট্রাইসাইক্লিক এন্টিডিপ্রেসেন্ট। যারা বিগত ১৪ দিনের মধ্যে কোন মনোএমাইনো অক্সিডেজ এন্টিডিপ্রেসেন্ট গ্রহণ করেছে,changed,the Bangla lists tricyclic antidepressants themselves rather than allergy to them as a contraindication
+R020,labetalol-hydrochloride,Interaction,same,same,same,yes,no difference | translation is same by meaning,none,Labetalol may enhance the hypotensive effects of halothane. Care should be taken if labetalol is used concomitantly with either Class I antiarrhythmic agents or calcium antagonists of the verapamil type. The hypotensive effect of Labetalol may be reduced when used in combination with prostaglandin synthetase inhibitors (NSAIDs). Dosage adjustments may therefore be necessary. Concomitant use of tricyclic antidepressants may increase the incidence of tremor. Cimetidine may increase the bioavailability of Labetalol and care is required in oral dosing of the latter.,"ল্যাবেটালোল হ্যালোথেন-এর রক্তচাপ কমানোর ক্ষমতা বাড়িয়ে দিতে পারে।
+ক্লাস-১ (Class I) অ্যান্টিঅ্যারিদমিক এজেন্ট অথবা ভেরাপামিল টাইপের ক্যালসিয়াম অ্যান্টাগোনিস্টের সাথে ল্যাবেটালোল ব্যবহারের ক্ষেত্রে বিশেষ সতর্কতা অবলম্বন করা উচিত।
+প্রোস্টাগ্ল্যান্ডিন সিন্থেটেজ ইনহিবিটরস (NSAIDs বা ব্যথানাশক ওষুধ) এর সাথে ব্যবহার করলে ল্যাবেটালোলের রক্তচাপ কমানোর ক্ষমতা হ্রাস পেতে পারে। তাই ডোজ বা মাত্রা সমন্বয়ের প্রয়োজন হতে পারে।
+ট্রাইসাইক্লিক অ্যান্টিডিপ্রেসেন্টস (বিষণ্নতার ওষুধ) এর সাথে ব্যবহারে শরীরে কাঁপুনি (tremor) হওয়ার ঝুঁকি বাড়তে পারে।
+সিমেটিডিন ল্যাবেটালোলের জৈবউপলভ্যতা (bioavailability) বৃদ্ধি করতে পারে, তাই মুখে ল্যাবেটালোল সেবনের ক্ষেত্রে সতর্ক থাকা প্রয়োজন।",,
+R021,mebendazole,Interaction,same,same,same,yes,no difference | translation is same by meaning,none,Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentration.,"প্রাথমিক প্রমাণ থেকে জানা যায় যে, সিমেটিডিন মেবেনডাজলের বিপাকে বাধা দেয় এবং এর ফলে প্লাজমা ঘনত্ব বাড়ে যেতে পারে।",,
+R022,ibuprofen-oral,Pregnancy & Lactation,missing,changed,changed,NO,all info in english is not present in bangla translation | translation is not complete,The Bangla alters the lactation guidance and omits the absolute contraindication during the third trimester of pregnancy.,"Pregnancy
+: During the first and second trimester of pregnancy, ibuprofen should not be given unless clearly necessary. Ibuprofen is contraindicated during the last trimester of pregnancy.
+Lactation
+: Ibuprofen is excreted in the breast milk in very low concentration and is unlikely to affect the breastfed infant adversely.","বর্ধিষ্ণু গর্ভজাত সন্তানের উপর বিরূপ প্রতিক্রিয়ার সম্ভাবনা সর্বোতভাবে বাতিল করা যায় না। আইবুপ্রােফেন গর্ভাবস্থায় এবং স্তন্যদানকারী মহিলাদের দেওয়া উচিত নয়, যদি না ঝুঁকি অপেক্ষা মায়েদের সুবিধাসমূহ অধিক হয়।",changed,The Bangla alters the lactation guidance and omits the absolute contraindication during the third trimester of pregnancy
+R023,promethazine-hydrochloride,Contraindications,weaker,same,same,NO,"phenergan in english but in bangla its not mentioned and last line in bangla it metioned as ""প্রোমিথাজিন ব্যবহার থেকে বিরত থাকা উচিত"" but in english it is mentioned as ""Phenergan should be avoided"" | so some minor difference is there but overall meaning is same",none,"Promethazine is contraindicated for use in children less than two years of age
+Hypersensitivity to promethazine or to any of the excipients.
+Phenergan should not be used in patients who are in a coma or suffering from CNS depression of any cause. It must not be given to neonates or premature infants.
+Phenergan should be avoided in patients who have been taking monoamine oxidase inhibitors within the previous 14 days","দুই বছরের কম বয়সী শিশুদের ক্ষেত্রে প্রোমিথাজিনের ব্যাবহার নিষিদ্ধ।
+প্রােমিথাজিন অথবা এর কোন উপাদানে প্রতি অতিসংবেদনশীলতায়।
+প্রোমিথাজিন সেসব রােগীদের ব্যবহার করা উচিত নয় যারা কোমা অথবা অন্য যেকোন কারণে সিএনএস (কেন্দ্রীয় স্নায়ুতন্ত্রের) বিষাদগ্রস্ততায় ভুগছেন। নবজাতক অথবা মাতৃগর্ভ হতে অপরিণত অবস্থায় ভূমিষ্ঠ শিশুর ক্ষেত্রে এটি কোনভাবে দেয়া যাবে না।
+যে সমস্ত রােগী গত ১৪ দিন এর মধ্যে মনােএ্যামিনাে অক্সিডেজ ইনহিবিটরস ব্যবহার করেছেন তাদের প্রোমিথাজিন ব্যবহার থেকে বিরত থাকা উচিত।",same,no difference by meaning
+R024,magnesium-sulfate,Precautions & Warnings,missing,changed,changed,NO,no info in bangla | information in english is not present in bangla translation,"The Bangla omits most precautions, interactions, and overdose symptoms while introducing conditions not present in the English.","Magnesium salts should be administered with caution to patients with impaired renal function or those receiving digitalis glycosides. Parenteral administration of magnesium salts may enhance the effect of neuromuscular blocking agents or of central nervous system depressants. Monitor blood pressure, respiratory rate, urinary output and for signs of over dosage like loss of patellar reflex, weakness, nausea, sensation of warmth, flushing of skin, drowsiness, double, vision and slurred speech.","রেচনতন্ত্রের জটিলতা, পেশীদৌবর্ল্য, গর্ভাবস্থায়, সিরাম-ম্যাগনেসিয়াম সমাহরন / ঘনীভবন পর্যবেক্ষন করতে হবে।",changed,"The Bangla omits most precautions, interactions, and overdose symptoms while introducing conditions not present in the English"
+R025,erythromycin-oral,Pregnancy & Lactation,same,same,same,yes,no major difference | translation is almost same by meaning,none,"Clinical and Laboratory studies have been shown no evidence in human of teratogenicity or toxicity. However, caution should be exercised when prescribing this drug to pregnant patients and lactating mothers since erythromycin crosses the placental barrier and is excreted in breast milk.",ক্লিনিক্যাল ও ল্যাবরেটরী সমীক্ষায় মানবদেহে কোন ভ্রুণ বিকৃতি বা বিষাক্তি ঘটার প্রমানাদি পাওয়া যায়নি। তবে যেহেতু প্লাসেন্টা বাধা অতিক্রম করে এবং মাতৃ দুগ্ধে নিঃসরিত হয় সেহেতু গর্ভবতী ও স্তনদানকারী মায়েদের ক্ষেত্রে প্রয়োগে সাবধানতা অবলম্বন করা উচিত।,,
+R026,albendazole,Interaction,weaker,same,same,NO,pharmacodynamic or pharmacokinetic is not mentioned in bangla translation | some major words are missing in bangla translation,none,"No interaction involving Albendazole, either pharmacodynamic or pharmacokinetic, has been reported.",এ্যালবেনডাজলের অন্যান্য ঔষধের সাথে বিক্রিয়ার ক্ষেত্রে কোন তথ্য পাওয়া যায় নাই।,missing,pharmacodynamic or pharmacokinetic is not mentioned in bangla translation
+R027,mebendazole,Precautions & Warnings,same,same,same,yes,some minor difference | translation is almost same by meaning,none,"General
+: Periodic assessment of organ system functions, including haematopoietic and hepatic, is advisable during prolonged therapy.
+Information for Patients
+: Patients should be informed of the potential risk to the foetus in women taking mebendazole during pregnancy, especially during the first trimester. Patients should also be informed that cleanliness is important to prevent reinfection & transmission of the infection.","সাধারণ
+: দীর্ঘায়িত থেরাপির সময় হেমাটোপয়েটিক এবং হেপাটিক সহ অর্গান সিস্টেমের ক্রিয়াকলাপগুলির পর্যায়ক্রমিক মূল্যায়নের পরামর্শ দেওয়া হয়।
+রোগীদের জন্য তথ্য
+: গর্ভাবস্থায় মেবেনডাজল গ্রহণকারী মহিলাদের মধ্যে ভ্রূণের সম্ভাব্য ঝুঁকি সম্পর্কে রোগীদের অবহিত করা উচিত, বিশেষত প্রথম ত্রৈমাসিকের সময়। রোগীদের আরও অবহিত করা উচিত যে পুনরায় সংক্রমণ ও ছড়ানো রোধে পরিষ্কার পরিচ্ছন্নতা গুরুত্বপূর্ণ।",,
+R028,atorvastatin-calcium,Precautions & Warnings,same,same,same,yes,no major difference | translation is same by meaning,none,Liver effects: Liver function tests should be performed before the initiation of treatment and periodically thereafter. Atorvastatin should be used with caution in patients who consume substantial quantities of alcohol or have a history of liver disease. Atorvastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.,যকৃতের উপর প্রভাবঃ চিকিৎসা শুরুর আগে এবং চিকিৎসা শুরুর পরে নির্দিষ্ট সময়ের ব্যবধানে যকৃতের কার্যকারিতার পরীক্ষাগুলো করতে হবে। যাদের যকৃতের রোগ আছে অথবা যারা অতিরিক্ত পরিমাণে এলকোহল সেবন করে তাদের ক্ষেত্রে সতর্কতার সাথে এটরভাসটাটিন ব্যবহার করতে হবে। CPK লেভেল অতিরিক্ত বৃদ্ধি পেলে অথবা মায়োপ্যাথি দেখা দিলে বা দেখা দেওয়ার সম্ভাবনা থাকলে এটরভাসটাটিন থেরাপি বন্ধ করতে হবে।,,
+R029,phenobarbital,Interaction,weaker,same,same,NO,CNS depressant effects in english but in bangla it is mentioned as কেন্দ্রিয় স্নায়ুতন্ত্রের অবসাদ | the translaton can be improved,none,The concomitant use of Alcohol or other CNS depressants may produce additive CNS depressant effects.,অ্যালকোহল অথবা অন্যান্য কেন্দ্রিয় স্নায়ুতন্ত্র অনুদ্দীপক ঔষধ একসাথে ব্যবহার করলে অতিরিক্ত কেন্দ্রিয় স্নায়ুতন্ত্রের অবসাদ হতে পারে।,weaker,CNS depressant effects in english but in bangla it is mentioned as কেন্দ্রিয় স্নায়ুতন্ত্রের অবসাদ | the translaton can be improved
+R030,dexamethasone,Contraindications,changed,same,same,NO,ভাইরাসের সংক্রমণ becomes viral infections and Glucoma(english text) is available in bangla but becomes Glaucoma in english | so some minor difference is there but overall meaning is same,none,"Gastric and duodenal ulcers.
+Systemic and ophthalmic fungal infections.
+Viral infections, e.g. varicella and herpes genitalis infections. Viral infections of the eye.
+Glaucoma.
+Hypersensitivity to corticosteroids","গ্যাস্ট্রিক এবং ডিওডেনাল আলসার
+সিস্টেমিক এবং চোখে ছত্রাকের সংক্রমণ ভাইরাস সংক্রমণ, যেমন- ভেরিসেলা, হারপেস জেনিটালিস বা চোখে ভাইরাসের সংক্রমণ ইত্যাদি
+Glucoma
+কর্টিকোস্টেরয়েডের প্রতি অতিসংবেদনশীলতা",changed,ভাইরাসের সংক্রমণ becomes viral infections and Glucoma(english text) is available in bangla but becomes Glaucoma in english
+R031,lithium-carbonate,Precautions & Warnings,same,same,same,yes,almost no difference | translation is same by meaning,none,"Decreased tolerance to lithium has been reported to ensue from protracted sweating or diarrhoea and, if such occur, supplemental fluid and salt should be administered under careful medical supervision and lithium intake reduced or suspended until the condition is resolved.",দীর্ঘস্থায়ী বা অতিরিক্ত ঘাম অথবা ডায়রিয়ার কারণে শরীরে লিথিয়ামের সহনশীলতা কমে যাওয়ার খবর পাওয়া গেছে। এমনটি ঘটলে অত্যন্ত সতর্কতার সাথে চিকিৎসকের তত্ত্বাবধানে অতিরিক্ত তরল ও লবণ (যেমন- খাবার স্যালাইন) গ্রহণ করতে হবে এবং সমস্যা পুরোপুরি সমাধান না হওয়া পর্যন্ত লিথিয়ামের মাত্রা কমিয়ে দিতে হবে বা ঔষধ সাময়িকভাবে বন্ধ রাখতে হবে।,,
+R032,salbutamol,Indications,same,same,same,yes,no major difference | translation is same by meaning,none,"Salbutamol is indicated as a bronchodilator for use in-
+Asthma
+Chronic Bronchitis
+Emphysema and
+Other conditions associated with airways obstruction.","সালবিউটামল ব্রঙ্কোডাইলেটর (শ্বাসনালী প্রসারক) হিসেবে নিম্নলিখিত ক্ষেত্রে নির্দেশিত-
+অ্যাজমা বা হাঁপানি
+ক্রনিক ব্রঙ্কাইটিস
+এমফাইসেমা এবং
+শ্বাসনালীর বাধা বা ব্লকেজ জনিত অন্যান্য জটিলতায়।",,
+R033,indomethacin-oral,Indications,same,same,same,yes,no major difference | translation is same by meaning,none,"Indomethacin is indicated in-
+Rheumatoid arthritis
+Ankylosing spondylitis
+Osteoarthritis (degenerative joint disease)
+Gout
+Acute non-articular rheumatism (bursitis, synovitis, tendinitis).","ইনডোমেথাসিন নিম্নোক্ত উপসর্গে নির্দেশিত-
+রিউমাটয়েড আর্থ্রাটিস
+অ্যাংকিলুসিং স্পন্ডিলাইটিস
+অস্টিওআথ্রাটিস (ডিজেনেরেটিভ জয়েন্ট ডিজিস)
+গাউট
+তীব্র নন-আর্টিকুলার রিউমাটিজম্ (বারসাইটিস, সাইনোভাইটিস এবং টেনডোনাইটিস)।",,
+R034,ibuprofen-oral,Contraindications,missing,missing,missing,yes,almost nothing is present in bangla translation | information in english is not present in bangla translation,"The Bangla omits multiple contraindications including severe renal, hepatic, and heart failure, third trimester pregnancy, and active bleeding.","It is contraindicated in patients with known hypersensitivity to ibuprofen or any other components of this product. It is also contraindicated in patients with history of gastrointestinal bleeding or perforation, related to previous NSAIDs therapy, active or history of recurrent peptic ulcer/haemorrhage, severe renal failure or severe hepatic failure, severe heart failure (NYHA Class IV), last trimester of pregnancy, significant dehydration and cerebrovascular or other active bleeding.","আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত। এছাড়া যাদের সক্রিয় বা মারাত্মক পেপটিক আলসার রয়েছে, তাদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত।",,
+R035,medroxyprogesterone-acetate-injection,Precautions & Warnings,weaker,missing,missing,NO,first line in english is not present in bangla translation and (SHBG) is not available in bangla | so there are some major different,"The Bangla omits precautions regarding unexpected vaginal bleeding, fluid retention, depression, and diabetes.","Unexpected vaginal bleeding during therapy, patient with a pre-existing medical condition that might be adversely affected by fluid retention, patients with a history of treatment for clinical depression diabetic patient. It may decrease the level of the following endocrine biomarkers: Plasma /urinary steroid (eg: cortisol, oestrogen, pregnanediol , progesterone & testosterone ) Plasma /urinary gonadotrophin (eg: LH & FSH) & sex hormonebinding- globulin (SHBG)","ইহা নিম্নবর্ণিত এন্ডোক্রাইন বায়োমার্কারের পরিমান কমাতে পারে, যেমনঃ প্লাজমা (রক্তরস)/মুত্রনালী হরমোন (কর্টিসোল, এস্ট্রোজেন, প্রিগনানেডিওল, প্রোজেস্টেরন, টেস্টোসটেরন), প্লাজমা (রক্তরস)/ মুত্রনালীর গোনাট্রপিন (যেমনঃ এল.এইচ এবং এফ.এস.এইচ) এবং যৌন-হরমোন বন্ধক গ্লোবিউলিন।",missing,"The Bangla omits precautions regarding unexpected vaginal bleeding, fluid retention, depression, and diabetes"
+R036,progesterone-micronised-capsule,Contraindications,stronger,same,same,NO,in bangla পূর্ব ইতিহাস থাকলে এটি ব্যবহার করা যাবে না used but in english it is not metioned | so some minor difference is there but overall meaning is same,none,"Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood clots. It should not be used in a case of miscarriage and tissue left in the uterus.","অতি সংবেদনশীলতা (অ্যালার্জি), যকৃতের কর্মহীনতা, কারণ নির্ণয়হীন যোনিপথে রক্তপাত, পোরফাইরিয়া, জরায়ু ও যৌনাঙ্গের ক্যান্সার, স্তন ক্যান্সার, স্ট্রোক বা রক্ত জমাট বাঁধার পূর্ব ইতিহাস থাকলে এটি ব্যবহার করা যাবে না। অসম্পূর্ণ গর্ভপাতের ক্ষেত্রে (জরায়ুতে টিস্যু অবশিষ্ট থাকলে) এটি ব্যবহার করা উচিত নয়।",same,none
+R037,lithium-carbonate,Pregnancy & Lactation,same,same,same,yes,no difference | translation is same by meaning,none,"Pregnancy Category D. An increased incidence of cardiovascular abnormality has been noted in infants of women given lithium during the first 3 months of pregnancy, such use should be avoided unless essential. Breast feeding is not advised unless the benefits of lithium use outweigh the advantages.","এটি প্রেগন্যান্সি ক্যাটাগরি ডি (Category D) ভুক্ত ঔষধ। গর্ভাবস্থার প্রথম ৩ মাসে যেসব মায়েরা লিথিয়াম গ্রহণ করেছেন, তাদের নবজাতকদের মধ্যে হৃদযন্ত্রের অস্বাভাবিকতা বা বিকলাঙ্গতার উচ্চ হার লক্ষ্য করা গেছে। তাই অত্যন্ত জরুরি প্রয়োজন না হলে গর্ভাবস্থায় এর ব্যবহার এড়িয়ে চলতে হবে। লিথিয়াম ব্যবহারের উপকারিতা স্তন্যদানের সুবিধার চেয়ে বেশি গুরুত্বপূর্ণ না হলে স্তন্যদানকালীন সময়ে এই ঔষধ ব্যবহার করা উচিত নয়।",,
+R038,aspirin,Pregnancy & Lactation,same,same,same,yes,no difference | translation is same by meaning,none,"It is especially important not to use aspirin during the last 3 months of pregnancy unless specifically directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Aspirin penetrates into breast milk. So, it should be administered with caution to lactating mothers.","ইহা বিশেষভাবে উল্লেখ্য যে, সুনির্দিষ্টভাবে নির্দেশিত না হলে গর্ভাবস্থার শেষ ৩ মাসে এ্যাসপিরিন ব্যবহার করা উচিত নয়, কারণ ইহা গর্ভে অবস্থানরত শিশুর ক্ষতি করতে পারে এবং প্রসবের সময় সমস্যা সৃষ্টি করতে পারে। এ্যাসপিরিন মাতৃদুগ্ধে নিঃসৃত হয়, তাই দুগ্ধদানকারী মায়েদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত।",,
+R039,salbutamol,Precautions & Warnings,same,same,same,yes,almost no difference | translation is same by meaning,none,"Salbutamol should be used with caution in patients with hyperthyroidism, cardiovascular disease, occlusive vascular disorders, hypertension and aneurysms. Hypokalaemia associated with high doses of Salbutamol may result in increased susceptibility to digitalis-induced cardiac arrhythmia. Tachyphylaxis with resistance may occur with prolonged use of high dosage. Care is necessary when treating patients with diabetes mellitus or closed angle glaucoma, and in those receiving antihypertensive therapy.","হাইপারথাইরয়েডিজম, হৃদরোগ, রক্তনালী বন্ধ হয়ে যাওয়ার রোগ, উচ্চ রক্তচাপ এবং অ্যানিউরিজম (রক্তনালীর অস্বাভাবিক স্ফীতি) থাকা রোগীদের ক্ষেত্রে সালবুটামল সতর্কতার সাথে ব্যবহার করা উচিত। সালবুটামলের উচ্চ মাত্রার কারণে সৃষ্ট হাইপোক্যালেমিয়া (রক্তে পটাশিয়ামের স্বল্পতা), ডিজিটালিস-জনিত কার্ডিয়াক অ্যারিদমিয়ার (অস্বাভাবিক হৃদস্পন্দন) ঝুঁকি বাড়িয়ে দিতে পারে। দীর্ঘদিন ধরে উচ্চ মাত্রায় ব্যবহারের ফলে ওষুধটির প্রতি সহনশীলতা বা প্রতিরোধ ক্ষমতা তৈরি হতে পারে। ডায়াবেটিস মেলিটাস বা ক্লোজড অ্যাঙ্গেল গ্লুকোমা আক্রান্ত রোগীদের এবং যারা উচ্চ রক্তচাপের ওষুধ নিচ্ছেন, তাদের ক্ষেত্রে চিকিৎসার সময় বিশেষ সতর্কতা অবলম্বন করা প্রয়োজন।",,
+R040,dexamethasone,Interaction,same,missing,same,NO,first line in english bear more informatio than forst line in bangla | but overall meaning is almost same,The Bangla omits explanations that hypokalemia increases cardiac glycoside toxicity and that impaired glucose tolerance increases antidiabetic requirements.,"Diuretics and/or cardiac glycosides, since potassium loss may be enhanced.This is a particular risk in patients using cardiac glycosides; since hypokalaemia increases the toxicity of these drugs.
+Antidiabetics, since glucocorticoids may impair glucose tolerance, thereby increasing the need for antidiabetic drugs.
+Non-steroidal anti-inflammatory drugs, since the incidence and/or severity of gastro-intestinal ulceration may increase.
+Oral anti-coagulants since glucocorticoids may alter the need for these drugs.
+Glucocorticoids may be less effective when used concomitantly with liver enzyme inducing drugs,such as rifampicin, ephedrine, barbiturates, phenytoin and primidone.
+If patients undergoing long-term therapy with glucocorticoids are concomitantly given salicylates, any reduction in glucocorticoid dosage should be made with caution, since salicylate intoxication has been reported in such cases.
+Antacids;especially those containing magnesium trisilicate,have been reported to impair the gastro-intestinal absorption of glucocorticoids. Therefore, doses of one agent should be spaced as far as possible from the other.","ডাই-ইউরেটিকস বা কার্ডিয়াক গ্লুকোসাইডস এর সাথে একত্রে ব্যবহারে হাইপোক্যালেমিয়া হবার ঝুঁকি থাকে। অ্যান্টি-ডায়াবেটিক ওষুধের সাথে একত্রে ব্যবহারের ক্ষেত্রে এটি অ্যান্টি-ডায়াবেটিক ওষুধের চহিদা বাড়িয়ে দেয়। নন-স্টেরয়েডাল অ্যান্টি ইনফ্লামেটরী ওষুধের সাথে একত্রে ব্যবহারে পরিপাকতন্ত্রের আলসার হবার ঝুঁকি বাড়তে পারে। গ্লুকোকর্টিয়েড ওরাল এ্যান্টিকোয়াগুলেন্ট জাতীয় ওষুধের প্রয়োজনীয়তার পরিবর্তন করতে পারে। লিভার এনজাইম জনিত ওষুধ যেমন- রিফামপিসিন, এফেড্রিন, বারবিচুরেটস, ফিনাইটোইন এবং প্রিমিডোন প্রভৃতি ওষুধের সাথে একত্রে ব্যবহারকালে এর কার্যকারিতা কমে যেতে পারে। স্যালিসাইলেটের সাথে দীর্ঘমেয়াদী সেবনের ক্ষেত্রে সাবধানতার সাথে গ্লুকোকর্টিয়েডের মাত্রা কমাতে হবে। কারণ এ সকল ক্ষেত্রে স্যালিসাইলেট বিষক্রিয়ার তথ্য পাওয়া গেছে। ম্যাগনেশিয়াম ট্রাইসিলিকেট জাতীয় এন্টাসিড পরিপাকতন্ত্রে গ্লুকোকর্টিয়েডের শোষণকে ব্যহত করে। তাই একত্রে ব্যবহারের ক্ষেত্রে দুটি ওষুধের মাত্রার মধ্যে যথেষ্ট ব্যবধান রাখতে হবে।",missing,The Bangla omits explanations that hypokalemia increases cardiac glycoside toxicity and that impaired glucose tolerance increases antidiabetic requirements

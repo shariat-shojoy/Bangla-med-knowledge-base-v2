@@ -1,0 +1,252 @@
+### drug=salbutamol | section=indications | lang=en
+Salbutamol is indicated as a bronchodilator for use in-
+Asthma
+Chronic Bronchitis
+Emphysema and
+Other conditions associated with airways obstruction.
+
+### drug=salbutamol | section=pregnancy_lactation | lang=en
+The drug should be used during pregnancy only if the potential benefit justifies the potential risk of the fetus. It is not known whether this drug is excreted in human milk. Because of the potential of tumorigenecity shown for Salbutamol in some animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+### drug=salbutamol | section=indications | lang=bn
+সালবিউটামল ব্রঙ্কোডাইলেটর (শ্বাসনালী প্রসারক) হিসেবে নিম্নলিখিত ক্ষেত্রে নির্দেশিত-
+অ্যাজমা বা হাঁপানি
+ক্রনিক ব্রঙ্কাইটিস
+এমফাইসেমা এবং
+শ্বাসনালীর বাধা বা ব্লকেজ জনিত অন্যান্য জটিলতায়।
+
+### drug=salbutamol | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ওষুধটি কেবল তখনই ব্যবহার করা উচিত যখন ভ্রূণের সম্ভাব্য ঝুঁকির তুলনায় মায়ের সম্ভাব্য উপকারিতা বেশি গুরুত্বপূর্ণ বলে বিবেচিত হয়। এই ওষুধটি মাতৃদুগ্ধে নিঃসৃত হয় কিনা তা জানা যায়নি। কিছু প্রাণীর ওপর গবেষণায় সালবুটামলের টিউমার তৈরির সম্ভাব্য ঝুঁকি দেখা দেওয়ায়, মায়ের জন্য ওষুধের প্রয়োজনীয়তা বিবেচনা করে স্তন্যদান বন্ধ করা হবে নাকি ওষুধ খাওয়া বন্ধ করা হবে, সে বিষয়ে সিদ্ধান্ত নেওয়া উচিত।
+
+### drug=sodium-valproate | section=indications | lang=en
+Sodium Valproate is indicated for the treatment of all types of epilepsy, e.g.
+Partial seizures
+Absence seizures (petit mal)
+Generalized tonic-clonic seizures (grand mal)
+Myoclonic seizures
+Atonic seizures
+Mixed seizures that include absence attack
+Prophylaxis of febrile convulsion
+Prophylaxis of post-traumatic epilepsy.
+Sodium Valproate is also indicated in the treatment of bipolar disorder & prophylaxis of migraine.
+
+### drug=sodium-valproate | section=contraindications | lang=en
+Sodium Valproate is contraindicated to patients who have known hypersensitivity to the drug and liver dysfunction. Use of Sodium Valproate is restricted during pregnancy and in women of childbearing potential.
+
+### drug=sodium-valproate | section=pregnancy_lactation | lang=en
+Sodium Vaiproate crosses the placenta and in humans, exposure to valproate in the first trimester has been associated with neural tube defects such as anencephaly and spina bifida in newborn. Pregnant women treated with Sodium Vaiproate should be offered to estimate serum a-fetoprotein. Sodium Valproate is excreted in breast miik. However, breast-feeding by a mother taking Sodium Valproate probably causes no risk to the child.
+
+### drug=sodium-valproate | section=indications | lang=bn
+সোডিয়াম ভেলপ্রোয়েট সকল ধরনের মৃগীরোগ নিরাময়ে ব্যবহৃত হয় যেমন
+পারসিয়াস সিজারস
+এবসেন্স সিজারস (পেটিট ম্যাল)
+জেনারালাইজড টোনিক-ক্লোনিক সিজারস (গ্রান্ড ম্যাল)
+মায়োক্লোনিক সিজারস
+এটোনিক সিজারস
+মিশ্র সিজারস যার মধ্যে এবসেন্স অ্যাটাকও অন্তর্ভুক্ত
+ফেব্রাইল কনভালসন প্রতিরোধে
+আঘাতজনিত এপিলেন্সি প্রতিরোধে
+ইহা বাইপোলার ডিসঅর্ডারের চিকিৎসায় এবং মাইগ্রেন প্রতিরোধেও নির্দেশিত।
+
+### drug=sodium-valproate | section=contraindications | lang=bn
+সোডিয়াম ভেলপ্রোয়েট এর প্রতি অতিসংবেদনশীলতা ও লিভার ডিসফাংশন-এ ইহা নির্দেশিত নয়। গর্ভাবস্থায় এবং গর্ভধারণে ইচ্ছুক মহিলাদের ক্ষেত্রে সোডিয়াম ভেলপ্রোয়েট-এর ব্যবহার নির্দেশিত নয়।
+
+### drug=sodium-valproate | section=pregnancy_lactation | lang=bn
+সোডিয়াম ভেলপ্রোয়েট প্লাসেন্টা অতিক্রম করে এবং পর্ভবর্তী মহিলাদের প্রথম তিন মাস সোডিয়াম ভেলপ্রোয়েট প্রয়োগে নবজাতকের নিউরাল টিউব জটিলতা যেমন এনেনকেফালি এবং স্পাইনা বিফিডা দেখা গেছে। সোডিয়াম ভেলপ্রোয়েট গ্রহনকারী গর্ভবর্তী মহিলাদের সেরাম আলফা-ফেটোপ্রোটিন পরিমাপ করা উচিত। সোডিয়াম ভেলপ্রোয়েট মাতৃদুগ্ধের সাথে নিঃসৃত হয়, যদিও স্তন্যপানকারী বাচ্চাদের ক্ষেত্রে তা সম্ভবতঃ কোন ঝুঁকির কারণ নয়।
+
+### drug=sulphamethoxazole-trimethoprim | section=indications | lang=en
+Cotrimoxazole is bactericidal in vitro to a wide range of Gram-positive and Gram-negative organisms, including Streptococcus, Staphylococcus, Pneumococcus, Neisseria, B. catarrhalis, Escherichia coli, Klebsiella, Proteus spp., Haemophilus, Salmonella, Shigella, Vibrio cholerae, Brucella, Pneumocystis carinii, Nocardia and Bordetella. A particularly high degree of activity is exhibited against Haemophilus influenzae, E. coli and Proteus spp., making Cotrimoxazole particularly suitable for the treatment of chronic bronchitis and urinary tract infections. Cotrimoxazole exerts its bactericidal action by the sequential blockade of two bacterial enzyme systems in the biosynthesis of Folinic acid in the micro-organisms. The synergy thus produced accounts for the high degree of bactericidal activity.
+This combination is indicated in:
+Respiratory tract infections, including acute and chronic bronchitis (treatment and prophylaxis), bronchiectasis, lung abscess, lobar and broncho-pneumonia, Pneumocystis carinii pneumonitis, sinusitis and otitis media.
+Genito-urinary tract infections, including urethritis, acute and chronic cystitis, pyelonephritis, prostatitis and gonorrhoea.
+Gastro-intestinal tract infections, caused by Salmonella typhi and Salmonella paratyphi, including the chronic carrier state.
+Other infections, caused by a wide range of organisms confirmed to be susceptible to Cotrimoxazole and where the therapeutic benefits are considered to outweigh the possible occurrence of adverse events.
+Such infections include acute and chronic osteomyelitis, acute brucellosis, skin infections including pyoderma, abscesses and wound infections, septicaemia, bacillary dysentery and cholera (as an adjuvant to fluid and electrolyte replacement), nocardiosis and mycetoma.
+
+### drug=sulphamethoxazole-trimethoprim | section=contraindications | lang=en
+Hypersensitivity to trimethoprim or sulphonamides.
+Patients with documented megaloblastic anaemia due to folate deficiency.
+Patients showing marked liver parenchymal damage, blood dyscrasia, severe renal insufficiency, glucose 6-phosphate dehydrogenase deficiency.
+
+### drug=sulphamethoxazole-trimethoprim | section=pregnancy_lactation | lang=en
+Pregnancy and during the nursing period, because sulphonamides pass the placenta and are excreted in the breast milk and may cause kernicterus.
+
+### drug=terbutaline-sulfate | section=indications | lang=en
+Terbutaline sulfate is indicated for the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated with bronchitis and emphysema.
+
+### drug=terbutaline-sulfate | section=contraindications | lang=en
+Patients with known hypersensitivity to Terbutaline.
+
+### drug=terbutaline-sulfate | section=pregnancy_lactation | lang=en
+Although no teratogenic effects have been observed in animals or in patients, Terbutaline should only be administered with caution during the first trimester of pregnancy. Terbutaline is secreted via breast milk, but effect on the infant is unlikely at therapeutic doses.
+
+### drug=tetracycline-hydrochloride | section=indications | lang=en
+Tetracycline is a broad spectrum antibiotic. It is highly effective in the treatment of infections caused by Borrelia recurrentis (relapsing fever), Calymmatobacterium granulomatis (granuloma inguinale), Chlamydia species (psittacosis, lymphogranuloma venereum, trachoma, inclusion conjunctivitis, Francilsella tularensis (tularaemia), Haemophilus ducreyi (chancroid), Leptospira (meningitis, jaundice), Mycoplasma pneumoniae (non-gonococcal urethritis), Pseudomonas mallei (glanders and melioidosis), Rickettsiae (typhus fever, Q-fever, rocky mountain spotted fever), Vibrio species (cholera). It is also highly effective alone or in combination with streptomycin in the treatment of infections due to Brucella species (brucellosis), plagues and severe acne vulgaris. In acute intestinal amoebiasis, Tetracycline is useful adjunct to amoebicides. Tetracycline is indicated in pneumoniae, tetanus, gas gangrene, dysentery and as second or third line therapy in gonorrhoea and syphilis. Used as an adjunct therapy with bismuth subcitrate and metronidazole for eradicating H. pylori in the treatment of gastric and duodenal ulcer.
+
+### drug=tetracycline-hydrochloride | section=contraindications | lang=en
+A history of hypersensitivity to tetracycline, in cases of overt renal insufficiency, children under 12 years of age and pregnant or lactating women.
+
+### drug=tetracycline-hydrochloride | section=pregnancy_lactation | lang=en
+Tetracycline crosses the placenta, found in foetal tissues and has embryotoxic effect. Therefore, tetracycline should not be used in pregnancy unless considered essential in which case maximum daily dose should be 1 gm. Tetracycline has been found in human milk. Permanent tooth discoloration may occur in the developing infant and enamel hypoplasia has been reported.
+
+### drug=thalidomide | section=indications | lang=en
+Multiple Myeloma (MM)
+: Thalidomide in combination with dexamethasone is indicated for the treatment of patients with newly diagnosed multiple myeloma (MM).
+Erythema Nodosum Leprosum (ENL)
+: Thalidomide is indicated for the acute treatment of the cutaneous manifestations of moderate to severe erythema nodosum leprosum (ENL). It is also indicated as maintenance therapy for prevention and suppression of the cutaneous manifestations of ENL recurrence.
+
+### drug=thalidomide | section=contraindications | lang=en
+Thalidomide is contraindicated in females who are pregnant. Thalidomide can cause fetal harm when administered to a pregnant female. Thalidomide is contraindicated in patients who have demonstrated hypersensitivity to the drug or its components.
+
+### drug=thalidomide | section=pregnancy_lactation | lang=en
+Pregnancy
+: Based on the mechanism of action, human and animal data, thalidomide can cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential risk to a fetus. If pregnancy does occur during treatment, the drug should be immediately discontinued.
+Lactation
+: There is no information regarding the presence of thalidomide in human milk, the effects of thalidomide on the breastfed child, or the effects of thalidomide on milk production. Because many drugs are excreted in human milk and because of the potential for adverse reactions in a breastfed child from thalidomide, women should be advised not to breastfeed during treatment with thalidomide.
+Females and Males of Reproductive Potential-
+Pregnancy Testing
+: Females of reproductive potential must have 2 negative pregnancy tests before initiating Thalidomide. The first test should be performed within 10-14 days, and the second test within 24 hours prior to prescribing Thalidomide. Once treatment has started and during dose interruptions, pregnancy testing for females of reproductive potential should occur weekly during the first 4 weeks of use, then pregnancy testing should be repeated every 4 weeks in females with regular menstrual cycles. If menstrual cycles are irregular, the pregnancy testing should occur every 2 weeks.
+Contraception
+: Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously. Contraception must begin 4 weeks prior to initiating treatment with Thalidomide, during therapy, during dose interruptions, and continuing for 4 weeks following discontinuation of Thalidomide therapy.
+Males
+: Thalidomide is present in the semen of males who take Thalidomide. Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking Thalidomide, during dose interruptions and for up to 28 days after discontinuing Thalidomide.
+
+### drug=thalidomide | section=indications | lang=bn
+মাল্টিপল মায়েলোমা (এমএম)
+: থ্যালিডোমাইড ডেক্সামেথাসন এর সাথে একত্রে নতুন সনাক্তকৃত মাল্টিপল মায়েলোমা (এমএম) রোগীদের চিকিৎসার জন্য নির্দেশিত।
+এরিথিমা নোডোসাম লেপ্রোসাম (ইএনএল)
+: থ্যালিডোমাইড ত্বকে দেখা দেওয়া মাঝারি থেকে গুরুতর এরিথিমা নোডোসাম লেপ্রোসাম (ইএনএল) এর একিউট চিকিৎসার জন্য নির্দেশিত। ত্বকে ইএনএল এর বারবার ফিরে আসাকে প্রতিরোধ এবং দমনের জন্য মেইনটেনেন্স থেরাপি হিসাবেও এটি নির্দেশিত।
+
+### drug=thalidomide | section=contraindications | lang=bn
+গর্ভাবস্থায়
+: থ্যালিডোমাইড গর্ভবতী মহিলাদের ক্ষেত্রে প্রতিনির্দেশিত। গর্ভবতী মহিলা থ্যালিডোমাইড সেবন করলে এটি ভ্রূণের ক্ষতি করতে পারে।
+অতি সংবেদনশীলতা
+: থ্যালিডোমাইড বা ওষুধের অন্যান্য উপাদানগুলির প্রতি অতি সংবেদনশীলতা প্রদর্শনকারী রোগীদের ক্ষেত্রে থ্যালিডোমাইড প্রতিনির্দেশিত।
+
+### drug=thalidomide | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায়
+: কার্যপদ্ধতি, মানুষ এবং প্রাণীর তথ্য অনুযায়ী, থ্যালিডোমাইড গর্ভবতী মহিলাকে দেওয়া হলে ভ্রূণের ক্ষতি করতে পারে এবং গর্ভাবস্থায় এটি নিষিদ্ধ। যদি এই ওষুধটি গর্ভাবস্থায় ব্যবহার করা হয়, অথবা যদি এই ওষুধটি গ্রহণ করার সময় রোগী গর্ভবতী হয়, তাহলে রোগীকে ভ্রূণের সম্ভাব্য ঝুঁকি সম্পর্কে অবহিত করা উচিত। যদি চিকিৎসা চলাকালীন সময়ে রোগী গর্ভবতী হয় তবে ওষুধটি অবিলম্বে বন্ধ করা উচিত।
+মাতৃদুগ্ধ দানকালে
+: মাতৃদুগ্ধে থ্যালিডোমাইডের উপস্থিতি, দুধপানকারী শিশুর উপর, বা মাতৃদুগ্ধ উৎপাদনে থ্যালিডোমাইডের প্রভাব সম্পর্কিত কোনও তথ্য পাওয়া যায়নি। যেহেতু অনেক ওষুধ মাতৃদুগ্ধে নির্গত হয় এবং যেহেতু থ্যালিডোমাইড এর দ্বারা মাতৃদুগ্ধ পানকারী শিশুর মধ্যে বিরূপ প্রতিক্রিয়া হওয়ার সম্ভাবনা আছে, তাই রোগীকে থ্যালিডোমাইড দ্বারা চিকিৎসার সময় শিশুকে দুধ পান না করানোর পরামর্শ দেওয়া উচিত।
+প্রজনন সম্ভাবনাময় মহিলা এবং পুরুষ-
+প্রেগন্যান্সি পরীক্ষা
+: থ্যালিডোমাইড শুরু করার আগে প্রজনন সম্ভাবনাময় মহিলাদের অবশ্যই পরপর দুইবার প্রেগন্যান্সি পরীক্ষার ফলাফল না বোধক হতে হবে। প্রথম পরীক্ষাটি থ্যালিডোমাইড গ্রহণ শুরু করার পূর্বের ১০-১৪ দিনের মধ্যে এবং দ্বিতীয় পরীক্ষাটি থ্যালিডোমাইড গ্রহণ শুরু করার ২৪ ঘণ্টা পূর্বে করা উচিত। একবার চিকিৎসা শুরু হয়ে গেলে এবং সেবন মাত্রা পরিবর্তন বা ওষুধ গ্রহণ/বন্ধ রাখার সময়, প্রজনন সম্ভাবনাময় মহিলাদের ক্ষেত্রে ওষুধ গ্রহণ শুরুর প্রথম ৪ সপ্তাহে প্রতি সপ্তাহে একবার প্রেগন্যান্সি পরীক্ষা করা উচিত, তারপর যেসব মহিলাদের মাসিক চক্র নিয়মিত তাদের ক্ষেত্রে প্রতি ৪ সপ্তাহে একবার প্রেগন্যান্সি পরীক্ষা করা উচিত। যদি মাসিক চক্র অনিয়মিত হয়, তাহলে প্রতি ২ সপ্তাহে একবার প্রেগন্যান্সি পরীক্ষা করা উচিত।
+গর্ভনিরোধক ব্যবস্থা
+: থ্যালিডোমাইড গ্রহণকারী প্রজনন সম্ভাবনাময় মহিলাদের ধারাবাহিকভাবে সহবাস থেকে বিরত থাকা উচিত অথবা একই সাথে জন্মনিয়ন্ত্রণের ২টি নির্ভরযোগ্য পদ্ধতি ব্যবহার করা উচিত। থ্যালিডোমাইড দ্বারা চিকিৎসা শুরু করার ৪ সপ্তাহ আগে থেকে, চিকিৎসা চলাকালীন সময়ে, মাত্রা পরিবর্তনের সময় এবং থ্যালিডোমাইড চিকিৎসা বন্ধ করার পরে ৪ সপ্তাহ পর্যন্ত গর্ভনিরোধক ব্যবহার করতে হবে।
+পুরুষ
+: থ্যালিডোমাইড গ্রহণকারী পুরুষদের বীর্যে থ্যালিডোমাইড উপস্থিত থাকে। তাই থ্যালিডোমাইড গ্রহণের সময়, ডোজ পরিবর্তনের সময় এবং থ্যালিডোমাইড বন্ধ করার পরে ২৮ দিন পর্যন্ত থ্যালিডোমাইড গ্রহণকারী পুরুষদের যথাযথ গর্ভনিরোধক যেমন সহবাসের সময় ল্যাটেক্স বা সিনথেটিক কনডোম ব্যবহার করা উচিত।
+
+### drug=tranexamic-acid | section=indications | lang=en
+In medicine
+: Prophylaxis and therapy of hemophtoes, digestive hemorrhages, hemorrhagic syndromes in leukaemia, cirrhosis and hemophilia, thrombocytopenic purpura, accidents during thrombolytic therapy and transfusion.
+In surgery
+: Prophylaxis and antihemorrhagic therapy during operations of any type and nature and particularly in pulmonary, cardiovascular and abdominal surgery and post-operative and traumatic shock.
+In urology
+: Prophylaxis and antihemorrhagic therapy of prostatic, vesical and renal surgery. Hematurias.
+In obstetrics
+: Prophylaxis and therapy of post-partum and puerperium hemorrhages, hemorrhagic metrophathies, functional menometrorrhagias, idiopathic or IUD (lntra uterine Device) induced menorrhagias, primitive hyperfibrinolysis (abruptio placentae, premature placenta detachment) and in cervical conization.
+In otorhinolaryngology
+: Prophylaxis and antihemorrhagic therapy during a tonsillectomy, specialist surgery generally, epistaxis.
+In stomatology
+: Prophylaxis and antihemorrhagic therapy during maxillofacial operations, tooth extractions.
+In oncology (as supportive therapy)
+: To promote the formation of a fibrin capsule to wall off and thereby inhibit the growth of ovarian tumors. To cause regression of ascites secondary to carcinoma. To reduce bleeding during surgical interventions.
+
+### drug=tranexamic-acid | section=contraindications | lang=en
+Known individual hypersensitivity to the product. Thromboembolic disease, arterial and venous thrombosis, endocavitary hemorrhages, serious kidney failure.
+
+### drug=tranexamic-acid | section=pregnancy_lactation | lang=en
+Since the transplacental passage of the drug and its possible effects on the fetus are unknown, Tranexamic Acid should not be administered during known and presumed pregnancy. Tranexamic Acid passes into breast milk to a concentration of approximately one hundredth of the concentration in the maternal blood. An antifibrinolytic effect in the infant is unlikely.
+
+### drug=tranexamic-acid | section=indications | lang=bn
+মেডিসিনে
+: রক্তক্ষরণ, পরিপাক-নালী সম্বন্ধীয় রক্তক্ষরণ, লিউকেমিয়াজনিত রক্তক্ষরণ, লিভার সিরােসিস ও হেমােফিলিয়া, থ্রম্বােসাইটোপেনিক পারপুরা, থ্রম্বােলাইটিক চিকিৎসা এবং ট্রান্সফিউশনকালীন সময়ে দূর্ঘটনাজনিত রক্তক্ষরণের নিবারক ও চিকিৎসা হিসেবে।
+সার্জারিতে
+: যে কোন ধরনের অপারেশনের পূর্বে নিবারক হিসেবে বিশেষ করে ফুসফুস, হার্ট ও রক্তসঞ্চালনতন্ত্র, পেট সংক্রান্ত অপারেশনের পূর্বে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসায় অন্যান্য অপারেশনে ও আঘাতজনিত শক-এ।
+ইউরােলজিতে
+: প্রস্টেট গ্রন্থি, মূত্রথলি ও কিডনী অপারেশনের পূর্বে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসায় এবং হেমাটিউরিয়াতে।
+স্ত্রীরােগ ও প্রসূতি বিভাগে
+: পােষ্ট-পারটাম ও পিউয়ারপেরিয়াম এবং জরায়ু থেকে রক্তক্ষরণে; ফাংশনাল মেনমেট্রোরহেজিয়া, ইডিওপ্যাথিক অথবা আইইউডি (ইন্ট্রাইউটেরাইন ডিভাইস)-জনিত মেনরহেজিয়া; এব্রাপশিও প্লাসেন্টাজনিত (অকালে গর্ভফুল বিচ্ছিন্ন হওয়া) অতিমাত্রায় রক্তক্ষরণে এবং সারভাইকাল কোনাইজেশন সমস্যাদির পূর্বে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসায়।
+কান, নাক ও গলা সম্বন্ধীয়
+: টনসিল কেটে ফেলার ও ঐসব অংশের বিশেষ অপারেশনের আগে নিবারক হিসাবে ও অপারেশনকালীন সময়ে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসা হিসাবে এবং নাক দিয়া রক্ত পড়া বন্ধ করার চিকিৎসা হিসেবে।
+মুখগহ্বর সম্বন্ধীয়
+: চোয়াল ও মুখমন্ডলের অপারেশনে ও দাঁত উঠানাের আগে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসা হিসেবে।
+টিউমার সংক্রান্ত রক্তক্ষরণে (সহায়ক চিকিৎসা হিসেবে)
+: ওভারীর টিউমারের বৃদ্ধিকে বাধাগ্রস্থ করতে ফিব্রিন এর আবরণ দ্বারা ওভারীর টিউমারকে আবৃত করে, যাতে রক্তক্ষরণ বন্ধ থাকে। লিভারের ক্যান্সার হওয়ার ফলে যে পানি জমে তা দমিয়ে রাখে অর্থাৎ ক্যান্সারযুক্ত লিভারের অংশে ফাইব্রিন এর আবরণ দ্বারা আবৃত থাকে। টিউমারজনিত অপারেশনের সময়ে যে রক্তপাত হয় তার পরিমাণকে কমিয়ে রাখে বা বন্ধ করে।
+
+### drug=tranexamic-acid | section=contraindications | lang=bn
+সংবেদনশীল প্রতিক্রিয়া হয় এমন জানা রােগীকে, থ্রম্বোএম্বলিক অসুখ, ধমনী ও শিরার রক্তজমাট অবস্থায়, অভ্যন্তরীণ (শরীরের ভেতরে) রক্তক্ষরণে ও জটিল কিডনীর অসুখে দেয়া যাবেনা।
+
+### drug=tranexamic-acid | section=pregnancy_lactation | lang=bn
+যেহেতু ট্রানেক্সামিক এসিড গর্ভফুল ভেদ করে কি-না এবং গর্ভস্থ বাচ্চার উপর কোন বিরূপ প্রভাব ফেলে কি-না তা জানা যায়নি, সেহেতু জানা বা অনুমিত গর্ভাবস্থার ক্ষেত্রে ট্রানেক্সামিক এসিড ব্যবহার করা উচিত নয়। ট্রানেক্সামিক এসিড মায়ের দুধে মায়ের রক্তের তুলনায় প্রায় একশত ভাগের একভাগ ঘনত্বে উপস্থিত থাকে। শিশুর উপর এর এন্টিফিব্রিনােলাইটিক প্রভাব পড়ার সম্ভাবনা নেই।
+
+### drug=vitamin-a | section=indications | lang=en
+Illness due to vitamin A deficiency in ophthalmology such as night blindness, xerophthalmia and dermatological such as changes in skin, hair and nails. Concomitant therapy of mucosa illnesses such as sinusitis, bronchitis, in acne vulgaris, ichthyosis, Darier's disease, psoriasis etc. To meet vitmin A demand in growth, resistance to infections and night blindness. This is also indicated to meet vitamin A deficiency after diarrhoea and prophylaxis of measles.
+
+### drug=vitamin-a | section=contraindications | lang=en
+Hypervitaminosis of vitamin A. Sensitivity to any of the ingredients in this preparation.
+
+### drug=vitamin-a | section=pregnancy_lactation | lang=en
+Safety of amounts exceeding 6,000 Units of vitamin A daily during pregnancy has not been established at this time. The use of vitamin A in excess of the recommended dietary allowance may cause fetal harm when administered to a pregnant woman. Animal reproduction studies have shown fetal abnormalities associated with over-dosage in several species. Malformations of the central nervous system, the eye, the palate, and the urogenital tract are recorded. Vitamin Ain excess of the recommended dietary allowance is contraindicated in women who are or may become pregnant. If vitamin Ais used during pregnancy, or if the patient becomes pregnant while taking vitamin A, the patient should be apprised of the potential hazard to the fetus.
+The U.S. Recommended Daily Allowance (RDA) of vitamin A (5,000 Units) is recommended for nursing mothers.
+
+### drug=vitamin-a | section=indications | lang=bn
+ভিটামিন এ-এর ঘাটতিজনিত যে সমস্ত রোগ দেখা যায় যেমন-রাতকানা, জেরোফথ্যালমিয়া, ত্বক, চুল এবং নখের নানা ধরনের পরিবর্তনের চিকিৎসায়। এছাড়া মিউকোসা অসুস্থতার আনুসাংগিক চিকিৎসায় যেমন সাইনোসাইটিস, ব্রংকাইটিস, সর্দি, ইকথায়োসিস, ডেরিয়ার্স রোগ, ব্রন, সোরিয়াসিস ইত্যাদির চিকিৎসায়। বৃদ্ধির সময়ে, রোগ প্রতিরোধ ও রাতকানার প্রতিষেধক রূপে ভিটামিন এ-এর চাহিদা পূরণ করতেও এটি নির্দেশিত । এছাড়া ডায়রিয়ার পরবর্তী অবস্থায় ভিটামিন এ-এর ঘাটতি পূরণে এবং হামের প্রতিষেধক রূপে এটি নির্দেশিত।
+
+### drug=vitamin-a | section=contraindications | lang=bn
+ভিটামিন এ-এর প্রতি অতি সংবেদনশীল রোগীদের ক্ষেত্রে এটি বিরূপ নির্দেশিত ।
+
+### drug=warfarin-sodium | section=indications | lang=en
+Warfarin is indicated in the following conditions-
+Prophylaxis and/or treatment of thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement
+Indicated to reduce the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction
+Prophylaxis and treatment of venous thrombosis and pulmonary embolism
+Transient ischaemic attacks.
+
+### drug=warfarin-sodium | section=contraindications | lang=en
+Warfarin can not be administered in the following cases;
+Actual or potential hemorrhagic conditions, eg. Peptic ulcer, or to patients with uncontrolled hypertension
+Severe hepatic or renal disease
+Pregnancy
+Known hypersensitivity to warfarin
+Bacterial endocarditis
+Its use within 24 hours following surgery or labor should be undertaken with caution, if at all.
+
+### drug=warfarin-sodium | section=pregnancy_lactation | lang=en
+Warfarin is contraindicated in the first trimester of pregnancy because of the risk of teratogenicity. It should not be used in women who are or may become pregnant because the drug passes through the placental barrier and may cause fatal hemorrhage to the fetus. Warfarin appears in the milk of nursing mothers in an inactive form. Infants nursed by mothers treated with Warfarin had no change in prothrombin times. Effects in premature infants have not been evaluated.
+
+### drug=warfarin-sodium | section=indications | lang=bn
+ওয়ারফারিন নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+এট্রিয়াল ফিব্রিলেশন এবং/অথবা হৃৎপিন্ডের ভালভ প্রতিস্থাপনের ফলে উদ্ভূত থ্রম্বোএম্বলিক কমপ্লিকেশন রোধ অথবা চিকিৎসায়
+মায়োকার্ডিয়াল ইনফার্কশন এর পরে থ্রম্বোএম্বলিক ইভেন্ট যেমন স্ট্রোক, সিস্টেমিক এম্বোলাইজেশন এবং রিকারেন্ট মায়োকার্ডিয়াল ইনফার্কশন ও মৃত্যু ঝুঁকি কমাতে
+শিরার থ্রম্বোসিস এবং পালমোনারী এম্বলিজম এর চিকিৎসা ও প্রতিরোধে
+ট্রানজিয়েস্ট ইস্কিমিক এ্যটাকে।
+
+### drug=warfarin-sodium | section=contraindications | lang=bn
+ওয়ারফারিন নিম্নলিখিত ক্ষেত্রে দেয়া যাবেনা-
+প্রকৃত অথবা সম্ভাবনা পূর্ণ হেমোরেজিক কন্ডিশন যেমন, পেপটিক আলসার অথবা অনিয়ন্ত্রিত উচচ রক্তচাপ
+যকৃত বা বৃক্কের মারাত্মক কোন রোগ
+গর্ভাবস্থা
+ওয়ারফারিন-এর প্রতি অতিসংবেদনশীলতা
+ব্যাক্টেরিয়াল এন্ডোকার্ডাইটিস
+অস্ত্রোপচার বা প্রসবের ২৪ ঘন্টার মধ্যে এর ব্যবহার অত্যন্ত সতর্কতার সাথে করতে হবে, যদি তা একান্তই করতে হয়।
+
+### drug=warfarin-sodium | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থার প্রথম তিন মাসে ওয়ারফারিন গ্রহণ নিষেধ, কারণ টেরাটোজেনিসিটির সম্ভাবনা রয়েছে। ইহা গর্ভবর্তী অথবা গর্ভধারনের সম্ভাবনা রয়েছে এমন মহিলাদের ক্ষেত্রে দেয়া যাবেনা, কারন ইহা প্লাসেন্টা অতিক্রম করতে পারে ও ফিটাসের হেমোরেজ ঘটিয়ে জীবনাশংকা ডেকে আনতে পারে। ওয়ারফারিন মাতৃদুগ্ধে অকার্যকর অবস্থায় নিঃসৃত হয় ও মাতৃদুগ্ধ পানকারী শিশুদের ক্ষেত্রে প্রোথ্রথিন টাইম-এর কোন পরিবর্তন হয়না। প্রিম্যাচিউর শিশুদের ক্ষেত্রে ওয়ারফারিনের প্রভাব পরীক্ষিত নয়।
+### drug=zinc-sulfate-monohydrate | section=indications | lang=en
+This preparation is indicated in zinc deficiency and/or zinc losing conditions. Zinc deficiency can occur as a result of inadequate diet or malabsorption. Excessive loss of zinc can occur in trauma, burns, diarrhoea and protein losing conditions. A zinc supplement is given until clinical improvement occurs but it may need to be continued in severe malabsorption, metabolic disease or in zinc losing states.
+
+### drug=zinc-sulfate-monohydrate | section=contraindications | lang=en
+It is contraindicated in those who are hypersensitive to any component of the ingredient of this preparation.
+
+### drug=zinc-sulfate-monohydrate | section=pregnancy_lactation | lang=en
+The safety of this product in human pregnancy has not been established. Zinc crosses the placenta and is present in breast milk.
+
+### drug=zinc-sulfate-monohydrate | section=indications | lang=bn
+জিংক সালফেট মনোহাইড্রেট জিংকের ঘাটতি এবং জিংক ক্ষয় নিয়ন্ত্রণে নির্দেশিত। অপর্যাপ্ত খাবার অথবা শোষণের ঘাটতি জনিত কারণে জিংকের ঘাটতি হতে পারে। আঘাত, পোড়া, ডায়রিয়া এবং প্রোটিন ক্ষয়ের ফলেও জিংকের অতিরিক্ত ঘাটতি হতে পারে। শারীরিক অবস্থার উন্নতি না হওয়া পর্যন্ত সম্পূরক হিসেবে জিংক সেবন করতে হবে; তবে তীব্র শোষণের ঘাটতি, জিংক শোষণ জনিত ব্যাধি অথবা জিংকের ক্ষয় নিয়ন্ত্রণে দীর্ঘ দিন পর্যন্ত নিতে হতে পারে।
+
+### drug=zinc-sulfate-monohydrate | section=contraindications | lang=bn
+জিংক বা এটির কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এটি ব্যবহার করা যাবে না।
+
+### drug=zinc-sulfate-monohydrate | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় এই ঔষধের নিরাপত্তা প্রতিষ্ঠিত নয়। জিংক প্লাসেন্টা অতিক্রম করতে পারে এবং স্তন্যদুগ্ধে পাওয়া যায়।

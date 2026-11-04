@@ -1,0 +1,513 @@
+﻿id,drug,section,english,bangla,fluency_1to5,fidelity_same_weaker_stronger_changed_missing,what_differs,your_notes
+R001,propylthiouracil,Pregnancy & Lactation,Propylthiouracil crosses the placenta and can induce fetal goiter and hypothyroidism. The lowest dose possible should be used after carefully weighing the mother’s needs against the risk to the fetus. Propylthiouracil is present in breast milk in small amounts and neonatal development should be closely monitored in any nursing mother treated with this drug.,প্রোপাইলথায়োইউরাসিল প্লাসেন্টা অতিক্রম করতে পারে এবং ভ্রূণের গলগণ্ড ও হাইপারথাইরয়েডিজম ঘটাতে পারে। মায়ের প্রয়োজনীয়তা ও ভ্রূণের ঝুঁকির কথা বিবেচনা করে সম্ভাব্য সর্বনিম্ন মাত্রা প্রয়োগ করতে হবে। প্রোপাইলথাইয়োইউরাসিল মাতৃদুগ্ধে অল্প পরিমাণে তাই মাতৃদুগ্ধ দানকালে এই ওষুধ সেবন করা হলে নবজাতক শিশুর অগ্রগতি নিবিড়ভাবে পর্যবেক্ষণ করতে হবে।,,,,
+R002,aspirin,Contraindications,"Aspirin is contraindicated to the children (Reye's syndrome) less than 12 years, in breast-feeding and active peptic ulcer. It is also contraindicated in bleeding due to haemophilia, intracranial haemorrhage and other ulceration.","১২ বছরের নীচে বাচ্চাদের (রেইজ সিনড্রোম), দুগ্ধাদানকারীদের, সক্রিয় পেপটিক আলসারে এ্যাসপিরিন প্রতিনির্দেশিত। হিমােফিলিয়া, ইন্ট্রাক্রেনিয়াল হিমােরেজ এবং অন্যান্য ক্ষত থেকে রক্ত নিঃসরণের ক্ষেত্রেও ইহা প্রতিনির্দেশিত।",,,,
+R003,lithium-carbonate,Contraindications,"Renal insufficiency, cardiovascular insufficiency, Addison's disease and untreated hypothyroidism are all contraindications to lithium therapy.","কিডনির অকার্যকারিতা, হৃদযন্ত্রের অকার্যকারিতা, অ্যাডিসনস ডিজিজ (অ্যাড্রেনাল গ্রন্থির রোগ) এবং চিকিৎসা না করা হাইপোথাইরয়েডিজম (থাইরয়েড হরমোনের ঘাটতি)- এই সমস্ত রোগীদের ক্ষেত্রে লিথিয়াম থেরাপি ব্যবহার করা সম্পূর্ণ নিষিদ্ধ।",,,,
+R004,cholecalciferol-vitamin-d3,Precautions & Warnings,"Plasma-calcium concentration should be monitored at intervals in patients receiving high doses of Vitamin D3, in renal impairment, and during pregnancy & lactation. People using Digoxin and Thiazide Diuretics should consult a health care practitioner before supplementing with Vitamin D3. People with liver or kidney disease, primary hyperthyroidism, lymphoma, tuberculosis and granulomatous disease should consult a health care practitioner before supplementing with Vitamin D3.","অতিরিক্ত মাত্রার ভিটামিন ডি৩ সেবনকারী, কিডনীর জটিলতা সম্পন্ন, গর্ভাবস্থা এবং স্তন্যদানকারী মহিলাদের ক্ষেত্রে নির্দিষ্ট সময় অন্তর অন্তর সিরামে ক্যালসিয়াম এর মাত্রা পর্যবেক্ষণ করতে হবে। যেসব রোগী ডিজোক্সিন ও থায়াজাইড ডাইইউরেটিকস সেবন করে থাকেন তাদের ডাক্তারের পরামর্শ মতে ভিটামিন ডি৩ সেবন করা উচিত। যকৃৎ ও কিডনীর জটিলতা, প্রাইমারি হাইপারথাইরোয়েডিজম, লিমফোমা, টিউবারকিউলোসিস ও গ্র্যানুলোমেটাস এর মত রোগে আক্রান্ত রোগীদের ডাক্তারের পরামর্শ মতে ভিটামিন ডি৩ সেবন করা উচিত।",,,,
+R005,misoprostol,Pregnancy & Lactation,"Because of the abortifacient property of the Misoprostol component, it is contraindicated in women who are pregnant. It should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID. In such patients, it may be prescribed if the patient:
+has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
+is capable of complying with effective contraceptive measures.
+has received both oral and written warnings of the hazards of Misoprostol, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+will begin it only on the second or third day of the next normal menstrual period.
+Excretion of the active metabolite (Misoprostol acid) into milk is possible but has not been studied. Because of the potential for serious adverse reactions in nursing infants, it is not recommended for use by nursing mothers.","গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত। গর্ভবতী হতে পারে এমন মহিলাদের ক্ষেত্রেও এটা ব্যবহার করা উচিত নয়, যদি না উক্ত রোগীর এন.এস.এ.আই.ডি থেরাপী প্রয়োজন হয় এবং অনুরূপ ওষুধজনিত গ্যাস্ট্রিক আলসারের উচ্চ ঝুঁকি থাকে। ঐরূপ রোগীর ক্ষেত্রে মিসোপ্রোষ্টল তখনই দেয়া যাবে যদি-
+থেরাপী শুরুর ২ সপ্তাহ আগে রোগীর সিরাম গর্ভাবস্থা পরীক্ষা ঋণাত্মক হয়ে থাকে।
+রোগী কার্যকর গর্ভনিরোধক পদ্ধতি গ্রহণ করতে পারে।
+মিসোপ্রোষ্টল ব্যবহারের সমস্যা, এর ব্যবহারে গর্ভনিরোধ পদ্ধতির সম্ভাব্য ব্যর্থতার ঝুঁকি- এসব বিষয়ে মৌখিক ও লিখিত উভয় প্রকার সতর্কতা বাণী জেনে থাকলে।
+রোগী পরবর্তী স্বাভাবিক রজাচক্রের ২য় বা ৩য় দিন মিসোপ্রোষ্টল থেরাপী শুরু করে।
+মিসোপ্রোষ্টলের কার্যকর মেটাবোলাইট (মিসোপ্রোষ্টল এসিড) বুকের দুধের মাধ্যমে নিঃসৃত হওয়া সম্ভব কিনা এখনও গবেষণা করা হয়নি। নবজাতকদের ক্ষেত্রে মারাত্মক প্রতিক্রিয়া ঘটাতে পারে বলে স্তন্যদায়ী মায়েদের ক্ষেত্রেপ্রযোজ্য নয়।",,,,
+R006,metronidazole,Interaction,"Disulfiram
+: Psychotic reactions have been reported in patients who were using metronidazole and disulfiram concurrently.
+Alcohol
+: Alcoholic beverages and drugs containing alcohol should not be consumed during therapy and for at least one day afterwards because of the possibility of a disulfiram-like (antabuse effect) reaction (flushing, vomiting, tachycardia). Oral anticoagulant therapy (warfarin type): Potentiation of the anticoagulant effect and increased hemorrhagic risk caused by decreased hepatic catabolism. In case of co-administration, prothrombin time should be more frequently monitored and anticoagulant therapy adjusted during treatment with metronidazole.
+Lithium
+: Plasma levels of lithium may be increased by metronidazole.
+Cyclosporin
+: Serum cyclosporin and serum creatinine should be closely monitored when co-administration is necessary.
+Phenytoin or phenobarbital
+: increased elimination of metronidazole resulting in reduced plasma levels.
+5-Fluorouracil
+: Reduced clearance of 5-fluorouracil resulting in increased toxicity of 5-fluorouracil.
+Busulfan
+: Plasma levels of busulfan may be increased by metronidazole, which may lead to severe busulfan toxicity.","ডাইসালফাইরাম
+: মেট্রোনিডাজল এবং ডাইসালফাইরাম এক সাথে ব্যবহার করলে মানসিক প্রতিক্রিয়ার উদ্ভব হতে পারে বলে রিপোর্ট পাওয়া গেছে।
+অ্যালকোহল
+: মেট্রোনিডাজল দ্বারা চিকিৎসা চলাকালীন সময় এবং শেষ হবার অন্তত ১ দিন পর পর্যন্ত রোগীদের অ্যালকোহল জাতীয় পানীয় সেবন করা থেকে বিরত থাকার পরামর্শ দিতে হবে কারন সেটা ডাইসালফাইরাম প্রতিক্রিয়ার (অ্যানটাবউস ইফেক্ট- ত্বকে অত্যধিক রক্ত সরবরাহ, বমি, দ্রুত হৃদস্পন্দন) কারন হতে পারে।
+এন্টিকোয়াগুলেন্ট চিকিৎসা (ওয়ারফেরিন জাতীয়)
+: হেপাটিক ক্যাটাবলিসম কমে যাওয়ার কারনে এন্টিকোয়াগুলেন্ট এর প্রভাব বৃদ্ধি পায় এবং রক্তক্ষরন এর সম্ভবনা বেড়ে যায়। মেট্রোনিডাজল এর সাথে দেওয়া হলে নিয়মিত প্রোথ্রম্বিন টাইম পর্যবেক্ষণ করতে হবে এবং এন্টিকোয়াগুলেন্ট-এর মাত্রা সমন্বয় করতে হবে।
+লিথিয়াম
+: মেট্রোনিডাজল দ্বারা রক্তের প্লাজমা তে লিথিয়াম এর মাত্রা বৃদ্ধি পেতে পারে।
+সাইক্লোস্পরিন
+: সেরাম এ সাইক্লোস্পরিন এবং ক্রিয়েটিনিন এর মাত্রা নিবির ভাবে পর্যবেক্ষণ করতে হবে যদি মেট্রোনিডাজল এর সাথে দেওয়া হয়।
+ফেনাইটয়েন অথবা ফেনোবারবিটাল
+: মেট্রোনিডাজল নিঃসরণ এর মাত্রা বেড়ে যাওয়ায় প্লাজমাতে পরিমান কমে যায়।
+৫-ফ্লুরোইউরাসিল
+: শরীর থেকে নিঃসরণ এর মাত্রা কমে যাওয়ায় ৫-ফ্লুরোইউরাসিল দ্বারা বিষক্রিয়ার সম্ভবনা বৃদ্ধি পায়।
+বিউসালফান
+: মেট্রোনিডাজল প্লাজমাতে বিউসালফান এর পরিমান বাড়িয়ে দেয় যা বিউসালফান জনিত বিষক্রিয়া সৃষ্টি করতে পারে।",,,,
+R007,warfarin-sodium,Contraindications,"Warfarin can not be administered in the following cases;
+Actual or potential hemorrhagic conditions, eg. Peptic ulcer, or to patients with uncontrolled hypertension
+Severe hepatic or renal disease
+Pregnancy
+Known hypersensitivity to warfarin
+Bacterial endocarditis
+Its use within 24 hours following surgery or labor should be undertaken with caution, if at all.","ওয়ারফারিন নিম্নলিখিত ক্ষেত্রে দেয়া যাবেনা-
+প্রকৃত অথবা সম্ভাবনা পূর্ণ হেমোরেজিক কন্ডিশন যেমন, পেপটিক আলসার অথবা অনিয়ন্ত্রিত উচচ রক্তচাপ
+যকৃত বা বৃক্কের মারাত্মক কোন রোগ
+গর্ভাবস্থা
+ওয়ারফারিন-এর প্রতি অতিসংবেদনশীলতা
+ব্যাক্টেরিয়াল এন্ডোকার্ডাইটিস
+অস্ত্রোপচার বা প্রসবের ২৪ ঘন্টার মধ্যে এর ব্যবহার অত্যন্ত সতর্কতার সাথে করতে হবে, যদি তা একান্তই করতে হয়।",,,,
+R008,ferrous-ascorbate-folic-acid-zinc-sulfate,Interaction,"Iron chelates with tetracycline. Since oral iron products interfere with absorption of oral tetracycline antibiotics, this product should not be taken within two hours of each other. Occasional gastrointestinal discomfort may be minimized by taking with meals. Absorption of iron may be impaired by concurrent administrations of penicillamine and antacid. In patients with renal failure, a risk of zinc accumulation may exist.","টেট্রাসাইক্লাইন এবং আয়রন একত্রে চিলেট ফর্ম করে। যেহেতু মুখে সেবনযোগ্য আয়রন ওরাল টেট্রাসাইক্লিন অ্যান্টিবায়োটিক এর শোষণে বাঁধা সৃস্টি করে, তাই এই দুটি ঔষধ একত্রে দুই ঘন্টার মধ্যে নেওয়া উচিৎ নয়। মাঝে মাঝে খাবার গ্রহণের মাধ্যমে গ্যাস্ট্রোইনটেস্টাইনাল অস্বস্তি হ্রাস করা যেতে পারে। পেনিসিলামাইন এবং অ্যান্টাসিড একযোগে গ্রহণের ফলে আয়রনের শোষণ ক্ষতিগ্রস্থ হতে পারে। বৃক্কীয় অকার্যকর রোগীদের মধ্যে শরীরে জিংক জমে যাওয়ার ঝুঁকি থাকতে পারে।",,,,
+R009,ciprofloxacin,Pregnancy & Lactation,"Reproduction studies performed in mice, rats and rabbits using parenteral and oral administration did not reveal any evidence of teratogenicity, impairment of fertility or impairment of peri/post natal development. However as with other quinolones, Ciprofloxacin has been shown to cause arthropathy in immature animals and therefore its use during pregnancy is not recommended. Studies in rats have indicated that Ciprofloxacin is secreted in milk, administration to nursing mothers is thus not recommended.","ইঁদুর, খরগোশ ইত্যাদির ক্ষেত্রে সিপ্রোফ্লক্সাসিন মুখে সেবনের পর এবং ইনজেকশন দেবার পর বংশ বৃদ্ধির প্রক্রিয়া পর্যবেক্ষণ করে ভ্রুণের গঠন বিকৃতি, বংশ বিস্তার ক্ষমতার ক্ষতি হওয়া, প্রসবপূর্ব বা প্রসবোত্তর কালীন সময়ে বৃদ্ধির উপর এর কোন প্রভাব দেখা যায় নি। তবে অন্যান্য কুইনোলোনের মত সিপ্রোফ্লক্সাসিন অপরিণত জীবের ক্ষেত্রে আর্থোপ্যাথি সৃষ্টি করতে পারে এবং সে কারণে গর্ভকালীন অবস্থায় এর ব্যবহার নিদের্শিত নয়। ইঁদুরের উপর পরীক্ষায় দেখা গেছে যে সিপ্রোফ্লক্সাসিন দুগ্ধে নিঃসৃত হয় কাজেই স্তন্যদানরত মায়েদের ক্ষেত্রে এর ব্যবহার সুপারিশ করা হয় না।",,,,
+R010,mifepristone,Interaction,"ketoconazole, itraconazole, erythromycin and grapefruit juice may inhibit its metabolism (increasing serum levels of mifepristone). Furthermore, rifampicin, dexamethasone, St John's Wort and certain anticonvulsants (phenytoin, phenobarbital, carbamazepine) may induce mifepristone metabolism (lowering serum levels of Mifepristone). Based on invitro inhibition information, co-administration of mifepristone may lead to an increase in serum levels of drugs that are CYP3A4 substrates.
+Limited evidence suggests that co-administration of NSAIDs on the day of prostaglandin administration does not adversely influence the effects of Mifepristone or the prostaglandin on cervical ripening or uterine contractility and does not reduce the clinical efficacy of medical termination of pregnancy.","কিটোকোনাজল, ইট্রাকোনাজল, ইরাইথ্রোমাইসিন এবং আঙুরের রস (Grapefruit juice) মিফেপ্রিস্টোনের মেটাবলিজম বা বিপাক প্রক্রিয়াকে বাধাগ্রস্ত করতে পারে, যার ফলে রক্তে মিফেপ্রিস্টোনের মাত্রা বৃদ্ধি পেতে পারে।
+অন্যদিকে রিফাম্পিসিন, ডেক্সামিথাসন, সেন্ট জনস ওর্ট এবং কিছু খিঁচুনির ঔষধ (ফেনিটোইন, ফেনোবারবিটাল, কার্বামাজেপিন) মিফেপ্রিস্টোনের মেটাবলিজম বাড়িয়ে দিতে পারে, যার ফলে রক্তে এর কার্যকারিতা বা মাত্রা কমে যেতে পারে।
+ল্যাবরেটরি তথ্যের ওপর ভিত্তি করে ধারণা করা হয় যে, মিফেপ্রিস্টোন একসঙ্গে ব্যবহার করলে CYP3A4 সাবস্ট্রেট যুক্ত অন্যান্য ঔষধের রক্তে ঘনত্ব বেড়ে যেতে পারে।
+সীমিত প্রমাণ থেকে জানা যায় যে, প্রোস্টাগ্ল্যান্ডিন প্রয়োগের দিন এনএসআইডি (NSAIDs- ব্যথানাশক ঔষধ) ব্যবহার করলে তা জরায়ুর মুখ নরম হওয়া বা জরায়ুর সংকোচনের ওপর মিফেপ্রিস্টোন বা প্রোস্টাগ্ল্যান্ডিনের কার্যকারিতায় কোনো নেতিবাচক প্রভাব ফেলে না এবং চিকিৎসাগত গর্ভপাতের সফলতার হারও কমায় না।",,,,
+R011,ferrous-ascorbate-folic-acid-zinc-sulfate,Pregnancy & Lactation,"If pregnant, or planning to become pregnant or are currently breast-feeding please contact your physician, before taking or continuing the drug. Administration in first trimester of pregnancy should be avoided unless definite evidence of iron deficiency is observed. Prophylaxis of iron deficiency is justified during the remainder of pregnancy specifically when zinc supplementation is required.","যদি গর্ভবতী হন, বা গর্ভবতী হওয়ার পরিকল্পনা করছেন বা বর্তমানে বুকের দুধ খাওয়ান ঔষধ গ্রহণ বা চালিয়ে যাওয়ার আগে দয়া করে আপনার চিকিৎসকের সাথে যোগাযোগ করুন। গর্ভাবস্থার প্রথম ট্রাইমিস্টারে এই প্রিপারেশন প্রয়োগের আগে আয়রন ঘাটতির সুনির্দিষ্ট প্রমাণ না দেখলে এড়ানো উচিৎ। গর্ভাবস্থার অবশিষ্ট সময় বিশেষত যখন জিংক পরিপূরক প্রয়োজন হয়, তখন আয়রনের ঘাটতির প্রফাইল্যাক্সিস ন্যায়সঙ্গত।",,,,
+R012,metformin-hydrochloride,Indications,"Metformin Hydrochloride tablet is indicated for the treatment of type 2 diabetes mellitus, particularly in overweight patients when dietary management and exercise alone does not result in adequate glycaemic control.
+In adults
+: Metformin may be used as monotherapy or in combination with other oral antidiabetic agents or with insulin.
+In children from 10 years of age and adolescents
+: Metformin may be used as monotherapy or in combination with insulin.
+A reduction of diabetic complications has been shown in overweight type 2 diabetic adult patients treated with metformin as first-line therapy after diet failure.","মেটফরমিন টাইপ
+-
+২
+ডায়াবেটিস
+মেলাইটাস
+এর
+চিকিৎসায়
+নির্দেশিত
+বিশেষ
+করে
+যেসব
+রোগীর
+ওজন
+মাত্রাতিরিক্ত
+এবং
+এককভাবে
+খাদ্যাভ্যাস
+নিয়ন্ত্রণ
+ও
+শরীরচর্চার
+মাধ্যমে
+রক্তের
+গ্লুকোজের
+পরিমাণ
+পর্যাপ্ত
+পরিমানে
+নিয়ন্ত্রণ
+হয়
+না
+।
+প্রাপ্ত
+বয়স্কদের
+ক্ষেত্রে
+:
+মেটফরমিন
+একক
+চিকিৎসা
+হিসেবে
+অথবা
+মুখে
+সেব্য
+অন্য
+ডায়াবেটিস
+নিয়ন্ত্রণকারী
+ওষুধের
+সাথে
+অথবা
+ইনসুলিনের
+সাথে
+ব্যবহৃত
+হতে
+পারে
+।
+শিশুদের
+ক্ষেত্রে
+১০
+বছর
+বয়স
+থেকে
+এবং
+কিশোরদের
+জন্য
+:
+মেটফরমিন
+একক
+চিকিৎসা
+হিসেবে
+অথবা
+ইনসুলিনের
+সাথে
+ব্যবহৃত
+হতে
+পারে
+।
+মাত্রাতিরিক্ত
+ওজনের
+প্রাপ্ত
+বয়স্ক
+টাইপ
+-
+২
+ডায়াবেটিস
+রোগীদের
+ক্ষেত্রে
+দেখা
+গেছে
+,
+খাদ্যাভ্যাস
+নিয়ন্ত্রণে
+কাজ
+না
+হলে
+প্রথম
+সারির
+চিকিৎসা
+হিসেবে
+মেটফরমিন
+ব্যবহার
+করলে
+ডায়াবেটিসের
+জটিলতা
+হ্রাস
+পায়
+।",,,,
+R013,amoxicillin-clavulanic-acid,Indications,"This combination is indicated for short-term treatment of bacterial infections at the following sites:
+Upper respiratory tract infections (including ENT) e.g.tonsillitis,sinusitis,otitis media.
+Lower respiratory tract infections e.g.acute and chronic bronchitis, lobar and bronchopneumonia.
+Genito-urinary tract infections e.g.cystitis,urethritis,pyelonephritis.
+Skin and soft tissue infections.
+Bone and joint infections e.g.osteomyelitis.
+Other infections e.g.septic abortion,puerperal sepsis,intra-abdominal sepsis etc.","ইহা নিম্নলিখিত ব্যাকটেরিয়া সংক্রমণে স্বল্পমেয়াদী চিকিৎসায় নির্দেশিত:
+শ্বাসনালীর উপরিভাগের সংক্রমণ (নাক, কান, গলাসহ) যেমন-টনসিলের প্রদাহ, সাইনাসের প্রদাহ, মধ্যকর্ণের প্রদাহ ইত্যাদি।
+শ্বাসনালীর নিম্নভাগের সংক্রমণ যেমন- তীব্র এবং দীর্ঘ মেয়াদী ব্রংকিয়াল প্রদাহ, লোবার এবং ব্রংকোনিউমোনিয়া ইত্যাদি।
+মূত্র-যৌন নালীর সংক্রমণ যেমন-মূত্রথলির প্রদাহ, মূত্রনালীর প্রদাহ, পায়েলোনেফ্রাইটিস ইত্যাদি।
+চর্ম ও নরম কলার সংক্রমণ।
+অস্থি ও অস্থিসন্ধির সংক্রমণ যেমন অস্থি মজ্জার প্রদাহ।
+অন্যান্য সংক্রমণ যেমন-সংক্রমিত গর্ভপাত, গর্ভপরবর্তী সেপসিস, ইন্ট্রা-অ্যাবডোমিনাল সেপসিস, ইত্যাদি।",,,,
+R014,folic-acid-zinc-sulfate-monohydrate,Contraindications,Zinc is contraindicated in patients having hypersensitivity to Zinc. Folic Acid is contraindicated in untreated cobalamine deficiency,যে সকল রােগীর জিংক এবং ফলিক এসিডের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে প্রতিনির্দেশিত।,,,,
+R015,clotrimazole-vaginal-tablet,Pregnancy & Lactation,"It is recommended that Clotrimazole should be used in pregnancy only when considered necessary by the physician. Clotrimazole is very poorly absorbed into the blood and the body after application to the skin or the vagina. Studies in women in their second or third trimesters have demonstrated no ill effects. It is not known if Clotrimazole is secreted in breast milk. Clotrimazole suppository can be used during pregnancy, but only under the supervision of Physician.","কেবল মাত্র ডাক্তার কর্তৃক প্রয়োজনীয়তা নির্ধারিত হলেই ক্লোট্রিমাজল গর্ভকালীন সময়ে ব্যবহার করা যাবে। ক্লোট্রিমাজোল ত্বকে ও যােনীপথে ব্যবহারের পর রক্তে খুবই কম পরিমানে শােষিত হয়, গর্ভাবস্থার দ্বিতীয় এবং তৃতীয় ট্রাইমিস্টারে ক্লোট্রিমাজোল কোন খারাপ প্রভাব প্রদর্শন করে না। ইহা মাতৃদুগ্ধে নিঃসরিত হয় কিনা তা এখনও জানা যায়নি। চিকিৎসকের পরামর্শক্রমে ক্লোট্রিমাজোল সাপােজিটরী গর্ভকালীন সময়ে ব্যবহার করা যেতে পারে।",,,,
+R016,carbetocin,Indications,Carbetocin is indicated for the prevention of uterine atony and postpartum haemorrhage (excessive bleeding) following delivery of the infant by elective caesarean section under epidural or spinal anaesthesia.,"কার্বেটোসিন নির্দেশিত-
+এপিডুরাল বা স্পাইনাল অ্যানেস্থেশিয়ার অধীনে ইলেকটিভ সিজারিয়ান সেকশনের মাধ্যমে শিশুর প্রসবের পর জরায়ুর অ্যাটনি এবং
+প্রসবোত্তর রক্তক্ষরণ (অতিরিক্ত রক্তপাত) প্রতিরোধের জন্য",,,,
+R017,ibuprofen-oral,Precautions & Warnings,"Patients on long term therapy with ibuprofen require ocular monitoring at regular intervals, as changes in ocular function have been reported. Patients with SLE are more likely than others to develop hypersensitivity to ibuprofen. Ibuprofen should be prescribed with caution in patients with asthma.","আইবুপ্রোফেন পরিপাকান্ত্রের রক্তক্ষরণ অথবা আলসার এর পূর্ব-ইতিহাস আছে এমন রােগীদের ক্ষেত্রে সর্বোচ্চ সতর্কতার সাথে এবং কার্যকর সর্বনিম্ন মাত্রায় প্রয়োগ করতে হবে। আইবুপ্রােফেন দ্বারা দীর্ঘকালীন চিকিৎসার সময় চোখের অবস্থা পর্যবেক্ষণ করতে হবে, কারণ এক্ষেত্রে চোখের কার্যাবলীতে পরিবর্তন দেখা যায়। সিস্টেমিক লুপাস ইরাইথেমাটোসাস রোগীদের আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীলতা তৈরীর সম্ভাবনা বেশী। এ্যাজমা ও অন্যান্য ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ঔষধের প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে ইহা সতর্কতার সাথে প্রয়ােগ করতে হবে।",,,,
+R018,phytomenadione-injection,Precautions & Warnings,Careful monitoring of the coagulation parameters is necessary for patients with severely impaired liver function after administration of Phytomenadione .,লিভারের তীব্র অকার্যকারীতার রোগীর ক্ষেত্রে সাবধানতার সাথে কোয়াগুলেশন বৈশিষ্ট্য পর্যবেক্ষণ করতে হবে।,,,,
+R019,carbamazepine,Contraindications,"This medicine should not be used if anybody is allergic to one or any of its ingredients. It can not be used also in the following conditions:
+Problems with the electrical message pathways in the heart (atrioventricular block)
+History of decreased blood cell production by the bone marrow (bone marrow depression)
+Hereditary blood disorders called porphyrias
+Allergy to tricyclic antidepressants
+People who have taken a monoamine-oxidase inhibitor antidepressant (MAOI) in the last 14 days",নিম্নলিখিত ক্ষেত্রে কার্বামাজেপিন ব্যবহার করা যাবে না কার্বামাজেপিন অথবা এর কোন উপাদানের প্রতি সংবেদনশীল রোগীদের ক্ষেত্রে এট্রিও ভেনট্রিকুলার ব্লক বোনমেরু ডিপ্রেশন পোরফাইরিয়াস ট্রাইসাইক্লিক এন্টিডিপ্রেসেন্ট। যারা বিগত ১৪ দিনের মধ্যে কোন মনোএমাইনো অক্সিডেজ এন্টিডিপ্রেসেন্ট গ্রহণ করেছে,,,,
+R020,labetalol-hydrochloride,Interaction,Labetalol may enhance the hypotensive effects of halothane. Care should be taken if labetalol is used concomitantly with either Class I antiarrhythmic agents or calcium antagonists of the verapamil type. The hypotensive effect of Labetalol may be reduced when used in combination with prostaglandin synthetase inhibitors (NSAIDs). Dosage adjustments may therefore be necessary. Concomitant use of tricyclic antidepressants may increase the incidence of tremor. Cimetidine may increase the bioavailability of Labetalol and care is required in oral dosing of the latter.,"ল্যাবেটালোল হ্যালোথেন-এর রক্তচাপ কমানোর ক্ষমতা বাড়িয়ে দিতে পারে।
+ক্লাস-১ (Class I) অ্যান্টিঅ্যারিদমিক এজেন্ট অথবা ভেরাপামিল টাইপের ক্যালসিয়াম অ্যান্টাগোনিস্টের সাথে ল্যাবেটালোল ব্যবহারের ক্ষেত্রে বিশেষ সতর্কতা অবলম্বন করা উচিত।
+প্রোস্টাগ্ল্যান্ডিন সিন্থেটেজ ইনহিবিটরস (NSAIDs বা ব্যথানাশক ওষুধ) এর সাথে ব্যবহার করলে ল্যাবেটালোলের রক্তচাপ কমানোর ক্ষমতা হ্রাস পেতে পারে। তাই ডোজ বা মাত্রা সমন্বয়ের প্রয়োজন হতে পারে।
+ট্রাইসাইক্লিক অ্যান্টিডিপ্রেসেন্টস (বিষণ্নতার ওষুধ) এর সাথে ব্যবহারে শরীরে কাঁপুনি (tremor) হওয়ার ঝুঁকি বাড়তে পারে।
+সিমেটিডিন ল্যাবেটালোলের জৈবউপলভ্যতা (bioavailability) বৃদ্ধি করতে পারে, তাই মুখে ল্যাবেটালোল সেবনের ক্ষেত্রে সতর্ক থাকা প্রয়োজন।",,,,
+R021,mebendazole,Interaction,Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentration.,"প্রাথমিক প্রমাণ থেকে জানা যায় যে, সিমেটিডিন মেবেনডাজলের বিপাকে বাধা দেয় এবং এর ফলে প্লাজমা ঘনত্ব বাড়ে যেতে পারে।",,,,
+R022,ibuprofen-oral,Pregnancy & Lactation,"Pregnancy
+: During the first and second trimester of pregnancy, ibuprofen should not be given unless clearly necessary. Ibuprofen is contraindicated during the last trimester of pregnancy.
+Lactation
+: Ibuprofen is excreted in the breast milk in very low concentration and is unlikely to affect the breastfed infant adversely.","বর্ধিষ্ণু গর্ভজাত সন্তানের উপর বিরূপ প্রতিক্রিয়ার সম্ভাবনা সর্বোতভাবে বাতিল করা যায় না। আইবুপ্রােফেন গর্ভাবস্থায় এবং স্তন্যদানকারী মহিলাদের দেওয়া উচিত নয়, যদি না ঝুঁকি অপেক্ষা মায়েদের সুবিধাসমূহ অধিক হয়।",,,,
+R023,promethazine-hydrochloride,Contraindications,"Promethazine is contraindicated for use in children less than two years of age
+Hypersensitivity to promethazine or to any of the excipients.
+Phenergan should not be used in patients who are in a coma or suffering from CNS depression of any cause. It must not be given to neonates or premature infants.
+Phenergan should be avoided in patients who have been taking monoamine oxidase inhibitors within the previous 14 days","দুই বছরের কম বয়সী শিশুদের ক্ষেত্রে প্রোমিথাজিনের ব্যাবহার নিষিদ্ধ।
+প্রােমিথাজিন অথবা এর কোন উপাদানে প্রতি অতিসংবেদনশীলতায়।
+প্রোমিথাজিন সেসব রােগীদের ব্যবহার করা উচিত নয় যারা কোমা অথবা অন্য যেকোন কারণে সিএনএস (কেন্দ্রীয় স্নায়ুতন্ত্রের) বিষাদগ্রস্ততায় ভুগছেন। নবজাতক অথবা মাতৃগর্ভ হতে অপরিণত অবস্থায় ভূমিষ্ঠ শিশুর ক্ষেত্রে এটি কোনভাবে দেয়া যাবে না।
+যে সমস্ত রােগী গত ১৪ দিন এর মধ্যে মনােএ্যামিনাে অক্সিডেজ ইনহিবিটরস ব্যবহার করেছেন তাদের প্রোমিথাজিন ব্যবহার থেকে বিরত থাকা উচিত।",,,,
+R024,magnesium-sulfate,Precautions & Warnings,"Magnesium salts should be administered with caution to patients with impaired renal function or those receiving digitalis glycosides. Parenteral administration of magnesium salts may enhance the effect of neuromuscular blocking agents or of central nervous system depressants. Monitor blood pressure, respiratory rate, urinary output and for signs of over dosage like loss of patellar reflex, weakness, nausea, sensation of warmth, flushing of skin, drowsiness, double, vision and slurred speech.","রেচনতন্ত্রের জটিলতা, পেশীদৌবর্ল্য, গর্ভাবস্থায়, সিরাম-ম্যাগনেসিয়াম সমাহরন / ঘনীভবন পর্যবেক্ষন করতে হবে।",,,,
+R025,erythromycin-oral,Pregnancy & Lactation,"Clinical and Laboratory studies have been shown no evidence in human of teratogenicity or toxicity. However, caution should be exercised when prescribing this drug to pregnant patients and lactating mothers since erythromycin crosses the placental barrier and is excreted in breast milk.",ক্লিনিক্যাল ও ল্যাবরেটরী সমীক্ষায় মানবদেহে কোন ভ্রুণ বিকৃতি বা বিষাক্তি ঘটার প্রমানাদি পাওয়া যায়নি। তবে যেহেতু প্লাসেন্টা বাধা অতিক্রম করে এবং মাতৃ দুগ্ধে নিঃসরিত হয় সেহেতু গর্ভবতী ও স্তনদানকারী মায়েদের ক্ষেত্রে প্রয়োগে সাবধানতা অবলম্বন করা উচিত।,,,,
+R026,albendazole,Interaction,"No interaction involving Albendazole, either pharmacodynamic or pharmacokinetic, has been reported.",এ্যালবেনডাজলের অন্যান্য ঔষধের সাথে বিক্রিয়ার ক্ষেত্রে কোন তথ্য পাওয়া যায় নাই।,,,,
+R027,mebendazole,Precautions & Warnings,"General
+: Periodic assessment of organ system functions, including haematopoietic and hepatic, is advisable during prolonged therapy.
+Information for Patients
+: Patients should be informed of the potential risk to the foetus in women taking mebendazole during pregnancy, especially during the first trimester. Patients should also be informed that cleanliness is important to prevent reinfection & transmission of the infection.","সাধারণ
+: দীর্ঘায়িত থেরাপির সময় হেমাটোপয়েটিক এবং হেপাটিক সহ অর্গান সিস্টেমের ক্রিয়াকলাপগুলির পর্যায়ক্রমিক মূল্যায়নের পরামর্শ দেওয়া হয়।
+রোগীদের জন্য তথ্য
+: গর্ভাবস্থায় মেবেনডাজল গ্রহণকারী মহিলাদের মধ্যে ভ্রূণের সম্ভাব্য ঝুঁকি সম্পর্কে রোগীদের অবহিত করা উচিত, বিশেষত প্রথম ত্রৈমাসিকের সময়। রোগীদের আরও অবহিত করা উচিত যে পুনরায় সংক্রমণ ও ছড়ানো রোধে পরিষ্কার পরিচ্ছন্নতা গুরুত্বপূর্ণ।",,,,
+R028,atorvastatin-calcium,Precautions & Warnings,Liver effects: Liver function tests should be performed before the initiation of treatment and periodically thereafter. Atorvastatin should be used with caution in patients who consume substantial quantities of alcohol or have a history of liver disease. Atorvastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.,যকৃতের উপর প্রভাবঃ চিকিৎসা শুরুর আগে এবং চিকিৎসা শুরুর পরে নির্দিষ্ট সময়ের ব্যবধানে যকৃতের কার্যকারিতার পরীক্ষাগুলো করতে হবে। যাদের যকৃতের রোগ আছে অথবা যারা অতিরিক্ত পরিমাণে এলকোহল সেবন করে তাদের ক্ষেত্রে সতর্কতার সাথে এটরভাসটাটিন ব্যবহার করতে হবে। CPK লেভেল অতিরিক্ত বৃদ্ধি পেলে অথবা মায়োপ্যাথি দেখা দিলে বা দেখা দেওয়ার সম্ভাবনা থাকলে এটরভাসটাটিন থেরাপি বন্ধ করতে হবে।,,,,
+R029,phenobarbital,Interaction,The concomitant use of Alcohol or other CNS depressants may produce additive CNS depressant effects.,অ্যালকোহল অথবা অন্যান্য কেন্দ্রিয় স্নায়ুতন্ত্র অনুদ্দীপক ঔষধ একসাথে ব্যবহার করলে অতিরিক্ত কেন্দ্রিয় স্নায়ুতন্ত্রের অবসাদ হতে পারে।,,,,
+R030,dexamethasone,Contraindications,"Gastric and duodenal ulcers.
+Systemic and ophthalmic fungal infections.
+Viral infections, e.g. varicella and herpes genitalis infections. Viral infections of the eye.
+Glaucoma.
+Hypersensitivity to corticosteroids","গ্যাস্ট্রিক এবং ডিওডেনাল আলসার
+সিস্টেমিক এবং চোখে ছত্রাকের সংক্রমণ ভাইরাস সংক্রমণ, যেমন- ভেরিসেলা, হারপেস জেনিটালিস বা চোখে ভাইরাসের সংক্রমণ ইত্যাদি
+Glucoma
+কর্টিকোস্টেরয়েডের প্রতি অতিসংবেদনশীলতা",,,,
+R031,lithium-carbonate,Precautions & Warnings,"Decreased tolerance to lithium has been reported to ensue from protracted sweating or diarrhoea and, if such occur, supplemental fluid and salt should be administered under careful medical supervision and lithium intake reduced or suspended until the condition is resolved.",দীর্ঘস্থায়ী বা অতিরিক্ত ঘাম অথবা ডায়রিয়ার কারণে শরীরে লিথিয়ামের সহনশীলতা কমে যাওয়ার খবর পাওয়া গেছে। এমনটি ঘটলে অত্যন্ত সতর্কতার সাথে চিকিৎসকের তত্ত্বাবধানে অতিরিক্ত তরল ও লবণ (যেমন- খাবার স্যালাইন) গ্রহণ করতে হবে এবং সমস্যা পুরোপুরি সমাধান না হওয়া পর্যন্ত লিথিয়ামের মাত্রা কমিয়ে দিতে হবে বা ঔষধ সাময়িকভাবে বন্ধ রাখতে হবে।,,,,
+R032,salbutamol,Indications,"Salbutamol is indicated as a bronchodilator for use in-
+Asthma
+Chronic Bronchitis
+Emphysema and
+Other conditions associated with airways obstruction.","সালবিউটামল ব্রঙ্কোডাইলেটর (শ্বাসনালী প্রসারক) হিসেবে নিম্নলিখিত ক্ষেত্রে নির্দেশিত-
+অ্যাজমা বা হাঁপানি
+ক্রনিক ব্রঙ্কাইটিস
+এমফাইসেমা এবং
+শ্বাসনালীর বাধা বা ব্লকেজ জনিত অন্যান্য জটিলতায়।",,,,
+R033,indomethacin-oral,Indications,"Indomethacin is indicated in-
+Rheumatoid arthritis
+Ankylosing spondylitis
+Osteoarthritis (degenerative joint disease)
+Gout
+Acute non-articular rheumatism (bursitis, synovitis, tendinitis).","ইনডোমেথাসিন নিম্নোক্ত উপসর্গে নির্দেশিত-
+রিউমাটয়েড আর্থ্রাটিস
+অ্যাংকিলুসিং স্পন্ডিলাইটিস
+অস্টিওআথ্রাটিস (ডিজেনেরেটিভ জয়েন্ট ডিজিস)
+গাউট
+তীব্র নন-আর্টিকুলার রিউমাটিজম্ (বারসাইটিস, সাইনোভাইটিস এবং টেনডোনাইটিস)।",,,,
+R034,ibuprofen-oral,Contraindications,"It is contraindicated in patients with known hypersensitivity to ibuprofen or any other components of this product. It is also contraindicated in patients with history of gastrointestinal bleeding or perforation, related to previous NSAIDs therapy, active or history of recurrent peptic ulcer/haemorrhage, severe renal failure or severe hepatic failure, severe heart failure (NYHA Class IV), last trimester of pregnancy, significant dehydration and cerebrovascular or other active bleeding.","আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত। এছাড়া যাদের সক্রিয় বা মারাত্মক পেপটিক আলসার রয়েছে, তাদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত।",,,,
+R035,medroxyprogesterone-acetate-injection,Precautions & Warnings,"Unexpected vaginal bleeding during therapy, patient with a pre-existing medical condition that might be adversely affected by fluid retention, patients with a history of treatment for clinical depression diabetic patient. It may decrease the level of the following endocrine biomarkers: Plasma /urinary steroid (eg: cortisol, oestrogen, pregnanediol , progesterone & testosterone ) Plasma /urinary gonadotrophin (eg: LH & FSH) & sex hormonebinding- globulin (SHBG)","ইহা নিম্নবর্ণিত এন্ডোক্রাইন বায়োমার্কারের পরিমান কমাতে পারে, যেমনঃ প্লাজমা (রক্তরস)/মুত্রনালী হরমোন (কর্টিসোল, এস্ট্রোজেন, প্রিগনানেডিওল, প্রোজেস্টেরন, টেস্টোসটেরন), প্লাজমা (রক্তরস)/ মুত্রনালীর গোনাট্রপিন (যেমনঃ এল.এইচ এবং এফ.এস.এইচ) এবং যৌন-হরমোন বন্ধক গ্লোবিউলিন।",,,,
+R036,progesterone-micronised-capsule,Contraindications,"Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood clots. It should not be used in a case of miscarriage and tissue left in the uterus.","অতি সংবেদনশীলতা (অ্যালার্জি), যকৃতের কর্মহীনতা, কারণ নির্ণয়হীন যোনিপথে রক্তপাত, পোরফাইরিয়া, জরায়ু ও যৌনাঙ্গের ক্যান্সার, স্তন ক্যান্সার, স্ট্রোক বা রক্ত জমাট বাঁধার পূর্ব ইতিহাস থাকলে এটি ব্যবহার করা যাবে না। অসম্পূর্ণ গর্ভপাতের ক্ষেত্রে (জরায়ুতে টিস্যু অবশিষ্ট থাকলে) এটি ব্যবহার করা উচিত নয়।",,,,
+R037,lithium-carbonate,Pregnancy & Lactation,"Pregnancy Category D. An increased incidence of cardiovascular abnormality has been noted in infants of women given lithium during the first 3 months of pregnancy, such use should be avoided unless essential. Breast feeding is not advised unless the benefits of lithium use outweigh the advantages.","এটি প্রেগন্যান্সি ক্যাটাগরি ডি (Category D) ভুক্ত ঔষধ। গর্ভাবস্থার প্রথম ৩ মাসে যেসব মায়েরা লিথিয়াম গ্রহণ করেছেন, তাদের নবজাতকদের মধ্যে হৃদযন্ত্রের অস্বাভাবিকতা বা বিকলাঙ্গতার উচ্চ হার লক্ষ্য করা গেছে। তাই অত্যন্ত জরুরি প্রয়োজন না হলে গর্ভাবস্থায় এর ব্যবহার এড়িয়ে চলতে হবে। লিথিয়াম ব্যবহারের উপকারিতা স্তন্যদানের সুবিধার চেয়ে বেশি গুরুত্বপূর্ণ না হলে স্তন্যদানকালীন সময়ে এই ঔষধ ব্যবহার করা উচিত নয়।",,,,
+R038,aspirin,Pregnancy & Lactation,"It is especially important not to use aspirin during the last 3 months of pregnancy unless specifically directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Aspirin penetrates into breast milk. So, it should be administered with caution to lactating mothers.","ইহা বিশেষভাবে উল্লেখ্য যে, সুনির্দিষ্টভাবে নির্দেশিত না হলে গর্ভাবস্থার শেষ ৩ মাসে এ্যাসপিরিন ব্যবহার করা উচিত নয়, কারণ ইহা গর্ভে অবস্থানরত শিশুর ক্ষতি করতে পারে এবং প্রসবের সময় সমস্যা সৃষ্টি করতে পারে। এ্যাসপিরিন মাতৃদুগ্ধে নিঃসৃত হয়, তাই দুগ্ধদানকারী মায়েদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত।",,,,
+R039,salbutamol,Precautions & Warnings,"Salbutamol should be used with caution in patients with hyperthyroidism, cardiovascular disease, occlusive vascular disorders, hypertension and aneurysms. Hypokalaemia associated with high doses of Salbutamol may result in increased susceptibility to digitalis-induced cardiac arrhythmia. Tachyphylaxis with resistance may occur with prolonged use of high dosage. Care is necessary when treating patients with diabetes mellitus or closed angle glaucoma, and in those receiving antihypertensive therapy.","হাইপারথাইরয়েডিজম, হৃদরোগ, রক্তনালী বন্ধ হয়ে যাওয়ার রোগ, উচ্চ রক্তচাপ এবং অ্যানিউরিজম (রক্তনালীর অস্বাভাবিক স্ফীতি) থাকা রোগীদের ক্ষেত্রে সালবুটামল সতর্কতার সাথে ব্যবহার করা উচিত। সালবুটামলের উচ্চ মাত্রার কারণে সৃষ্ট হাইপোক্যালেমিয়া (রক্তে পটাশিয়ামের স্বল্পতা), ডিজিটালিস-জনিত কার্ডিয়াক অ্যারিদমিয়ার (অস্বাভাবিক হৃদস্পন্দন) ঝুঁকি বাড়িয়ে দিতে পারে। দীর্ঘদিন ধরে উচ্চ মাত্রায় ব্যবহারের ফলে ওষুধটির প্রতি সহনশীলতা বা প্রতিরোধ ক্ষমতা তৈরি হতে পারে। ডায়াবেটিস মেলিটাস বা ক্লোজড অ্যাঙ্গেল গ্লুকোমা আক্রান্ত রোগীদের এবং যারা উচ্চ রক্তচাপের ওষুধ নিচ্ছেন, তাদের ক্ষেত্রে চিকিৎসার সময় বিশেষ সতর্কতা অবলম্বন করা প্রয়োজন।",,,,
+R040,dexamethasone,Interaction,"Diuretics and/or cardiac glycosides, since potassium loss may be enhanced.This is a particular risk in patients using cardiac glycosides; since hypokalaemia increases the toxicity of these drugs.
+Antidiabetics, since glucocorticoids may impair glucose tolerance, thereby increasing the need for antidiabetic drugs.
+Non-steroidal anti-inflammatory drugs, since the incidence and/or severity of gastro-intestinal ulceration may increase.
+Oral anti-coagulants since glucocorticoids may alter the need for these drugs.
+Glucocorticoids may be less effective when used concomitantly with liver enzyme inducing drugs,such as rifampicin, ephedrine, barbiturates, phenytoin and primidone.
+If patients undergoing long-term therapy with glucocorticoids are concomitantly given salicylates, any reduction in glucocorticoid dosage should be made with caution, since salicylate intoxication has been reported in such cases.
+Antacids;especially those containing magnesium trisilicate,have been reported to impair the gastro-intestinal absorption of glucocorticoids. Therefore, doses of one agent should be spaced as far as possible from the other.","ডাই-ইউরেটিকস বা কার্ডিয়াক গ্লুকোসাইডস এর সাথে একত্রে ব্যবহারে হাইপোক্যালেমিয়া হবার ঝুঁকি থাকে। অ্যান্টি-ডায়াবেটিক ওষুধের সাথে একত্রে ব্যবহারের ক্ষেত্রে এটি অ্যান্টি-ডায়াবেটিক ওষুধের চহিদা বাড়িয়ে দেয়। নন-স্টেরয়েডাল অ্যান্টি ইনফ্লামেটরী ওষুধের সাথে একত্রে ব্যবহারে পরিপাকতন্ত্রের আলসার হবার ঝুঁকি বাড়তে পারে। গ্লুকোকর্টিয়েড ওরাল এ্যান্টিকোয়াগুলেন্ট জাতীয় ওষুধের প্রয়োজনীয়তার পরিবর্তন করতে পারে। লিভার এনজাইম জনিত ওষুধ যেমন- রিফামপিসিন, এফেড্রিন, বারবিচুরেটস, ফিনাইটোইন এবং প্রিমিডোন প্রভৃতি ওষুধের সাথে একত্রে ব্যবহারকালে এর কার্যকারিতা কমে যেতে পারে। স্যালিসাইলেটের সাথে দীর্ঘমেয়াদী সেবনের ক্ষেত্রে সাবধানতার সাথে গ্লুকোকর্টিয়েডের মাত্রা কমাতে হবে। কারণ এ সকল ক্ষেত্রে স্যালিসাইলেট বিষক্রিয়ার তথ্য পাওয়া গেছে। ম্যাগনেশিয়াম ট্রাইসিলিকেট জাতীয় এন্টাসিড পরিপাকতন্ত্রে গ্লুকোকর্টিয়েডের শোষণকে ব্যহত করে। তাই একত্রে ব্যবহারের ক্ষেত্রে দুটি ওষুধের মাত্রার মধ্যে যথেষ্ট ব্যবধান রাখতে হবে।",,,,
+R041,phenobarbital,Contraindications,Phenobarbital is contraindicated in patients with known Phenobarbital sensitivity or a history of latent porphyria.,যে সমস্ত রোগীর ফেনোবারবিটাল এর প্রতি সংবেদনশীলতার ইতিহাস আছে বা এলার্জির ইতিহাস রয়েছে তাদের প্রতি ইহা প্রতিনির্দেশিত।,,,,
+R042,mifepristone,Pregnancy & Lactation,"Mifepristone is indicated for use in the termination of pregnancy (through 49 days’ pregnancy) and has no other approved indication for use during pregnancy. It is not known whether Mifepristone is excreted in human milk. Many hormones with a similar chemical structure, however, are excreted in breast milk. Since the effects of Mifepristone on infants are unknown, breast-feeding women should consult with their health care provider to decide if they should discard their breast milk for a few days following administration of the medications.","গর্ভাবস্থা অবসান ঘটানোর জন্য (গর্ভাবস্থার মেয়াদ ৪৯ দিন পর্যন্ত) মিফেপ্রিস্টোন নির্দেশিত এবং গর্ভাবস্থায় এর অন্য কোনো অনুমোদিত ব্যবহার নেই।
+মিফেপ্রিস্টোন মানুষের বুকের দুধে নিঃসৃত হয় কি না তা জানা যায়নি। তবে একই রাসায়নিক গঠনযুক্ত অনেক হরমোনই বুকের দুধে নিঃসৃত হয়। যেহেতু শিশুর ওপর মিফেপ্রিস্টোনের প্রভাব অজ্ঞাত, তাই স্তন্যদায়ী মায়েদের ক্ষেত্রে এই ঔষধটি সেবনের পর কয়েক দিন বুকের দুধ ফেলে দেওয়া বা বন্ধ রাখা উচিত কি না, সে বিষয়ে চিকিৎসকের সাথে পরামর্শ করা উচিত।",,,,
+R043,diclofenac-sodium,Pregnancy & Lactation,"During pregnancy, Diclofenac should be employed only for compelling reasons. The lowest effective dose should be used. These types of drugs are not recommended during the first trimester of pregnancy. In view of insufficient clinical data, Diclofenac Sodium Gel is not recommended during pregnancy. A very insignificant quantity of Diclofenac may be detected in breast milk but no undesirable effects on the infant to be expected.","গর্ভবর্তী মায়েদের ক্ষেত্রে অপরিহার্য না হলে ব্যবহার না করাই উত্তম। ক্ষেত্রবিশেষে স্বল্প মাত্রায় ব্যবহার করা যেতে পারে। প্রথম ট্রাইমেস্টারে ব্যবহার করা উচিত নয়। অপর্যাপ্ত ক্লিনিক্যাল তথ্যের কারণে ডাইক্লোফেনাক সোডিয়াম জেল গর্ভাবস্থায় ব্যবহার করা অনুচিত। মাতৃদুগ্ধে অতি অল্প পরিমাণ ডাইক্লোফেনাক থাকতে পারে, তবে তা নবজাতকের কোন ক্ষতি করার কথা নয়।",,,,
+R044,indomethacin-oral,Precautions & Warnings,"Indomethacin capsule should be used with caution with psychiatric problems, epilepsy or parkinsonism since the drug may aggravate these conditions. It is not recommended for pregnant women, because at the present time clinical studies are insufficient. Indomethacin is not given nomally in neonates except when used to assist closure of a patent ductus arteriosus.",যেহেতু ইনডোমেথাসিন মৃগীরোগ অথবা পারকিনসনিজম বৃদ্ধিতে সহায়তা করে এজন্য এসব রোগীর ক্ষেত্রে সতর্কতা অবলম্বন করা উচিত। গর্ভবর্তী মহিলার ক্ষেত্রে ইহা নির্দেশিত নয় কারণ এখন পর্যন্ত পর্যাপ্ত পরিমাণে ক্লিনিক্যাল সমীক্ষা করা হয়নি। পেটেন্ট ডাক্টাস আর্টেরিওসাস চিকিৎসা ছাড়া সদ্যজাত শিশুদের ক্ষেত্রে ইনডোমেথাসিন ব্যবহার করা উচিত নয়।,,,,
+R045,azithromycin-dihydrate,Precautions & Warnings,"As with erythromycin and other macrolides, rare serious allergic reactions, including angioneurotic oedema and anaphylaxis, has been reported. Some of these reactions with azithromycin have resulted in recurrent symptoms and required a long period of observation and treatment.",অন্যান্য এন্টিবায়োটিকের মতোই অসংবেদনশীল অনুজীবঘটিত অতিসংক্রমণ (ফাঙ্গাল অতিসংক্রমণসহ) ঘটনার ব্যাপারে সতর্ক থাকতে হবে। মাত্রাধিক্য বৃক্কীয় বৈকল্যতার ক্ষেত্রে এটির ব্যবহারে সতর্কতা অবলম্বন করতে হবে।,,,,
+R046,nitrofurantoin,Interaction,"Antacids containing Magnesium Trisilicate, when administered concomitantly with Nitrofurantoin, reduce both the rate and extent of absorption of Uricosuric drugs, such as Probenecid and Sulfinpyrazone, can inhibit renal tubular secretion of Nitrofurantoin.","নাইট্রোফিউরানটোইন এর সাথে ম্যাগনেসিয়াম ট্রাইসিলিকেট এর কোন এন্টাসিড একসাথে খেলে এটা নাইট্রফিউরানটোইনের পরিশােষনের মাত্রা ও পরিমাণ কমিয়ে দেয়। ইউরিকোসুরিক ঔষধ, যেমন- প্রবিনিসিড, সালফিলপাইরাজোন বৃক্কের নালিকায় নাইট্রোফিউরানটোইন এর নিঃসরন বন্ধ করে দেয়।",,,,
+R047,cefixime-trihydrate,Interaction,"In common with other cephalosporins, increases in prothrombin times have been noted in a few patients. Care should therefore be taken in patients receiving anticoagulant therapy.",কার্বামাজেপিন: যুগপৎ ব্যবহার কার্বামাজেপিন-এর প্লাজমা ঘনত্ব বৃদ্ধি করে। ওয়ারফেরিন এবং অন্যান্য এণ্টিকোয়াগোলেণ্ট: যুগপৎ ব্যবহার প্রোথ্রোম্বিন সময় বৃদ্ধি করে।,,,,
+R048,clotrimazole-vaginal-tablet,Indications,"Clotrimazole rectal preparation is indicated in vaginal itching, burning and discharge associated with recurrent vaginal yeast infections (Vaginal candidiasis) and also in viginitis due to Candida species as well as Mycotic infections complicated by other microorganisms sensitive to the drug.","ভ্যাজাইনাল চুলকানি, পূনঃসংক্রমণ মূলক ভ্যাজাইনাল সংক্রমণ (মূলত ভ্যাজাইনাল ক্যানডিডা), ছত্রাক দ্বারা ভ্যাজাইনাইটিস, ক্লোট্রিমাজল এর প্রতি সংবেদনশীল এমন যেকোন ছত্রাক দ্বারা তৈরী ভ্যাজাইনাল প্রদাহে ক্লোট্রিমাজল ভ্যাজাইনাল ট্যাবলেট কার্যকর।",,,,
+R049,clindamycin,Interaction,"Clindamycin enhances the action of other neuromuscular blocking agents. Therefore, it should be used with caution in patients receiving such agents. Antagonism has been demonstrated between clindamycin and erythromycin in vitro. Because of possible clinical significance, these two drugs should not be administered concurrently.","ক্লিন্ডামাইসিন নিউরোমাসকুলার ব্লকিং ওষুধের কার্যকারিতা বৃদ্ধি করে। সেজন্য এ ধরণের ওষুধের সাথে ব্যবহারে সতর্কতা অবলম্বন করতে হবে। ল্যাবরেটরী পরীক্ষায় দেখা গিয়াছে যে, ক্লিন্ডামাইসিন ও ইরাইথ্রোমাইসিন পরষ্পরের কার্যকারিতা প্রতিহত করে। ক্লিনিক্যাল গুরুত্বের কথা বিবেচনা করে, এ দু'টি ওষুধ একসাথে ব্যবহার করা উচিত নয়।",,,,
+R050,thalidomide,Contraindications,Thalidomide is contraindicated in females who are pregnant. Thalidomide can cause fetal harm when administered to a pregnant female. Thalidomide is contraindicated in patients who have demonstrated hypersensitivity to the drug or its components.,"গর্ভাবস্থায়
+: থ্যালিডোমাইড গর্ভবতী মহিলাদের ক্ষেত্রে প্রতিনির্দেশিত। গর্ভবতী মহিলা থ্যালিডোমাইড সেবন করলে এটি ভ্রূণের ক্ষতি করতে পারে।
+অতি সংবেদনশীলতা
+: থ্যালিডোমাইড বা ওষুধের অন্যান্য উপাদানগুলির প্রতি অতি সংবেদনশীলতা প্রদর্শনকারী রোগীদের ক্ষেত্রে থ্যালিডোমাইড প্রতিনির্দেশিত।",,,,
+R051,mifepristone,Contraindications,"Mifepristone must not be administered if there is doubt as to the existence or age of the pregnancy or if an extra-uterine pregnancy is suspected. An ultrasound scan and/or measurement of Beta-hCG must be performed before administration. For first trimester abortions, Mifepristone is contraindicated if the pregnancy is beyond 49 days of amenorrhoea when used with Misoprostol, or beyond 63 days of amenorrhoea when used with Gemeprost. Mifepristone should never be prescribed in patients with chronic adrenal failure, known allergy to Mifepristone or to any component of the product, severe asthma uncontrolled by corticosteroid therapy, porphyrias and renal failure, liver failure or malnutrition, or during breast feeding. Mifepristone is a lipophilic compound and may theoretically be excreted in the mother\'s breast milk, however no data is available.","গর্ভাবস্থার অস্তিত্ব বা সঠিক মেয়াদ সম্পর্কে কোনো সন্দেহ থাকলে, অথবা জরায়ুর বাইরে গর্ভাবস্থা বা একটোপিক প্রেগন্যান্সি (Extra-uterine/Ectopic pregnancy) সন্দেহ হলে মিফেপ্রিস্টোন কোনোভাবেই ব্যবহার করা যাবে না। ঔষধ প্রয়োগের পূর্বে অবশ্যই একটি আল্ট্রাসাউন্ড স্ক্যান (USG) এবং/অথবা বিটা-এইচসিজি পরীক্ষা করা আবশ্যক।
+প্রথম ট্রাইমেস্টারের গর্ভপাতের ক্ষেত্রে, মিসোপ্রোস্টলের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৪৯ দিনের বেশি হলে এবং জেমপ্রোস্টের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৬৩ দিনের বেশি হলে মিফেপ্রিস্টোন ব্যবহার করা সম্পূর্ণ নিষিদ্ধ।
+এছাড়াও দীর্ঘস্থায়ী অ্যাড্রেনাল ফেইলিউর, মিফেপ্রিস্টোন বা এর যেকোনো উপাদানের প্রতি পরিচিত অ্যালার্জি, কর্টিকোস্টেরয়েড থেরাপির মাধ্যমে অনিয়ন্ত্রিত তীব্র হাঁপানি, পরফাইরিয়া (Porphyria), কিডনি ফেইলিউর, যকৃতের ফেইলিউর (Liver failure), চরম অপুষ্টি এবং স্তন্যদানকালে মিফেপ্রিস্টোন কখনোই প্রেসক্রিপশন করা উচিত নয়। মিফেপ্রিস্টোন একটি চর্বি-দ্রবণীয় (Lipophilic) উপাদান এবং এটি তাত্ত্বিকভাবে মায়ের বুকের দুধে নিঃসৃত হতে পারে, তবে এর কোনো সুনির্দিষ্ট ডাটা বা প্রমাণ নেই।",,,,
+R052,dexamethasone,Pregnancy & Lactation,Pregnancy Category C.There are no adequate and well-controlled studies in pregnant women. Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Glucocorticoids appear in breast milk.Mothers taking high dosages of corticosteroids should be advised not to breast-feed,"গর্ভাবস্থা ও স্তন্যদানকালে ব্যবহার
+: প্রেগনেন্সি ক্যাটাগরি- সি। মাতৃদুগ্ধে নিঃসৃত হওয়ায় উচ্চমাত্রায় গ্লুকোকর্টিয়েড গ্রহণকারী মায়েদের স্তন্যদান বন্ধ রাখতে হবে।",,,,
+R053,azithromycin-dihydrate,Pregnancy & Lactation,"Pregnancy Category of Azithromycin Dihydrate is B. Animal reproduction studies have demonstrated that Azithromycin has no evidence of harm to the fetus. There are no adequate and well controlled studies in pregnant women. Since animal reproduction studies are not always predictive of human response, Azithromycin should be used during pregnancy only if adequate alternatives are not available. It is not known whether Azithromycin is secreted in breast milk. So, caution should be exercised when Azithromycin is administered to nursing women.","প্রেগন্যান্সি ক্যাটাগরী অনুযায়ী এজিথ্রোমাইসিন ডাইহাইড্রেট 'B' শ্রেণীভূক্ত ঔষধ। প্রাণিজ প্রজনন নিরীক্ষায় দেখা গেছে, এজিথ্রোমাইসিন এর Fetus এর উপর কোন ক্ষতিকর প্রভাব নেই। গর্ভবতী মহিলাদের উপর এজিথ্রোমাইসিন ব্যবহারের কোন পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন নিরীক্ষা সর্বদা মানবদেহের ক্ষেত্রে কার্যকরী নয়, সেহেতু এক্ষেত্রে কোন বিকল্প পাওয়া না গেলেই এজিথ্রোমাইসিন ব্যবহার করা যেতে পারে। মাতৃদুগ্ধে এজিথ্রোমাইসিনের নিঃসরণ সংক্রান্ত কোন তথ্য জানা যায়নি। সুতরাং, স্তন্যদাত্রী মায়েদের ক্ষেত্রে এজিথ্রোমাইসিন ব্যবহারে সতর্কতা অবলম্বন করা উচিত।",,,,
+R054,amoxicillin-clavulanic-acid,Precautions & Warnings,"Co-amoxiclav should be used with care in patients on anticoagulation therapy or with severe hepatic dysfunction. In patients with moderate or severe renal impairment, dosage should be adjusted. During the administration of a high dose of Co-amoxiclav adequate fluid intake and urinary output should be maintained to minimize the possibility of crystalluria.",যকৃতের তীব্র কার্যক্ষমতা হ্রাস বা রক্ত জমাট বিরোধী চিকিৎসা গ্রহণকারী রোগীদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত। ইহা উচ্চ মাত্রায় সেবনকালে প্রচুর পানি পান করা উচিত যাতে প্রচুর মূত্রত্যাগের মাধ্যমে ক্রিস্টালইউরিয়ার সম্ভাব্যতা হ্রাস পায়।,,,,
+R055,diazepam,Pregnancy & Lactation,"Diazepam and its active metabolites cross the placental barrier and also pass into breast milk. So, it should be avoided if possible during pregnancy and lactation. US FDA pregnancy category D.",ডায়াজিপাম এবং এর বিপাকীয় যৌগ প্লাসেন্টায় প্রবেশ করে। এছাড়া মাতৃদুগ্ধেও এর উপস্থিতি লক্ষ্য করা যায়। তাই গর্ভাবস্থা ও স্তন্যদানকালে এর ব্যবহার পরিহার করা উচিত। USFDA প্রেগনেন্সি ক্যাটেগরী-ডি।,,,,
+R056,prochlorperazine-maleate,Precautions & Warnings,"Caution should be taken while performing tasks that require alertness, such as driving or using machinery. The use of alcohol can cause extreme drowsiness. This medication may increase sensitivity to sunlight. Prolonged sun exposure should be avoided and sunscreen and protective clothing should be taken when anybody is exposed to the sun. This medication can reduce sweating making it more susceptible to heatstroke.",গাড়ি অথবা যন্ত্রপাতি চালনার সময় সতর্কতা অবলম্বন করা প্রয়ােজন। এলকোহল ব্যবহারে তীব্র ঘুম ঘুম ভাব দেখা দিতে পারে। এই ওষুধ সূর্যালােকের প্রতি প্রতিক্রিয়া বৃদ্ধি করতে পারে; তাই দীর্ঘ সময় সূর্যালােকে থাকা এড়িয়ে চলতে হবে কিংবা সূর্যালােক থেকে বাঁচার জন্য সানস্ক্রীন অথবা প্রয়ােজনীয় কাপড় ব্যবহার করতে হবে। এই ওষুধ ব্যবহারে গরমে জ্ঞান হারানাের ঘটনা ঘটতে পারে।,,,,
+R057,metronidazole,Contraindications,Metronidazole is contraindicated in patients with a history of hypersensitivity to Metronidazole or other Nitroimidazole derivatives.,মেট্রোনিডাজল ও অন্যান্য নাইট্রোইমিডাজল জাতীয় ডেরিভেটিভের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে মেট্রোনিডাজল ব্যবহার প্রতিনির্দেশিত।,,,,
+R058,vitamin-a,Contraindications,Hypervitaminosis of vitamin A. Sensitivity to any of the ingredients in this preparation.,ভিটামিন এ-এর প্রতি অতি সংবেদনশীল রোগীদের ক্ষেত্রে এটি বিরূপ নির্দেশিত ।,,,,
+R059,iron-sucrose,Contraindications,"The use of Iron Sucrose is contraindicated in patients with evidence of Iron overload, in patients with known hypersensitivity to Iron Sucrose or any of its inactive components, and in patients with anaemia not caused by Iron deficiency. It is also contraindicated in patients with history of allergic disorders including asthma, eczema and anaphylaxis, liver disease and infections.","রোগী যাদের দেহে আয়রণের পরিমাণ অতিরিক্ত, আয়রণ সুক্রোজ অথবা এর অসক্রিয় উপাদানের প্রতি সংবেদনশীলতা, রক্তস্বল্পতা যা আয়রণের অভাবজনিত কারণে নয়। এছাড়াও ইহা এ্যাজমা, যকৃতের সমস্যা এবং কোন এনাফাইলাক্সিস- এর ইতিহাস রয়েছে এমন রোগীদের ক্ষেত্রে প্রতিনির্দেশিত।",,,,
+R060,clindamycin,Pregnancy & Lactation,"Pregnancy Category B. Clindamycin crosses the placenta in humans. After multiple doses, amniotic fluid concentrations were approximately 30% of maternal concentrations. Clindamycin should be used in pregnancy only if clearly needed. Clindamycin has been reported to appear in breast milk. Therefore, it is not recommended for nursing mothers if not clearly needed.",প্রেগন্যান্সি ক্যাটেগরি বি। ক্লিন্ডামাইসিন মানবদেহের প্লাসেন্টা অতিক্রম করে। এমনিওটিক ফ্লুয়িডে এ ওষুধের মাত্রা মায়ের মাত্রার ৩০%। সুনির্দিষ্ট প্রয়োজনীয়তা থাকলেই কেবলমাত্র ক্লিন্ডামাইসিন গর্ভকালে ব্যবহার করা উচিত। মাতৃদুগ্ধে ক্লিন্ডামাইসিন উপস্থিতির তথ্য পাওয়া গিয়াছে। সুতরাং স্তন্যদানকালে এ ওষুধটির সুনির্দিষ্ট প্রয়োজনীয়তা না থাকলে নির্দেশিত নয়।,,,,
+R061,cholecalciferol-vitamin-d3,Contraindications,Vitamin D3 is contraindicated in all diseases associated with hypercalcaemia. It is also contraindicated in patients with known hypersensitivity to Vitamin D3 (or medicines of the same class) and any of the excipients. It is contraindicated if there is evidence of Vitamin D3 toxicity.,হাইপারক্যালসেমিয়ার সাথে সম্পর্কযুক্ত সকল রোগে ভিটামিন ডি৩ প্রতিনির্দেশিত। এছাড়াও ভিটামিন ডিত এবং এর অন্যান্য উপাদানের প্রতি সংবেদনশীল রোগীর ক্ষেত্রে এবং ভিটামিন ডি৩ এর বিষক্রিয়ার কোন প্রমান থাকলেও এটি প্রতিনির্দেশিত।,,,,
+R062,metronidazole,Pregnancy & Lactation,"US FDA Pregnancy Category of Metronidazole is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Metronidazole have been shown to be excreted in human milk. So, caution should be exercised when Metronidazole is administered to a nursing woman.","US FDA প্রেগন্যান্সি ক্যাটাগরী অনুযায়ী মেট্রোনিডাজল 'B' জাতীয় ঔষধ । অর্থাৎ, গর্ভাবস্থায় ব্যবহারের সুনিয়ন্ত্রিত ও পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন গবেষণা সর্বদা মানবদেহে কার্যকারিতা সম্বন্ধে পূর্ব ধারণা দেয় না, সেহেতু এই ঔষধটি গর্ভাবস্থায় সুনির্দিষ্টভাবে প্রয়োজন হলেই ব্যবহার করা উচিত। মেট্রোনিডাজল স্তন্যদুগ্ধে নিঃসৃত হয়। সুতরাং, স্তন্যদাত্রী মায়েদের ক্ষেত্রে মেট্রোনিডাজল ব্যবহারে সতর্কতা অবলম্বন করা উচিত ।",,,,
+R063,levonorgestrel-for-emergency-contraception,Contraindications,If you have hypersensitivity to levonorgestrel or any of the excipients of Levonorgestrel.,যদি লিভােনোরজেস্ট্রেল বা এই বড়ির অন্যান্য উপাদান এ আপনার সংবেদনশীলতা থেকে থাকে তাহলে ইহা প্রতিনির্দেশিত।,,,,
+R064,levonorgestrel-for-emergency-contraception,Interaction,"Interactions with other medicines and other forms of interaction: Simultaneous administration of certain anticonvulsant agents (phenobarbitone, phenytoin, primidone, carbamazepine), also other medications such as rifampicin, and griseofulvin can reduce or suppress the effectiveness of this emergency contraception.","অন্যান্য ঔষধের সাথে প্রতিক্রিয়া এবং আনুষাঙ্গিক প্রতিক্রিয়া সমূহঃ একই সংগে খিচুনী রােধক ঔষধ যেমন (ফেনোবারবিটন ফেনিইটইন, প্রিমিডন, কারবামাজিপিন) এবং কিছু সংখ্যক ঔষধ যেমন- রিফামপিসিন, এবং গ্রিসােফুলভিন, ইমার্জেন্সি জন্মনিরােধকের কার্যকারিতা কমাতে বা বন্ধ করতে পারে।",,,,
+R065,losartan-potassium,Indications,"Hypertension
+: Losartan Potassium tablet is indicated for the treatment of hypertension. It may be used alone or in combination with other antihypertensive agents (eg. thiazide diuretics).
+Renal Protection in Type-2 Diabetic Patients with Proteinuria
+: Losartan Potassium tablet is indicated to delay the progression of renal disease in hypertensive type-2 diabetics with proteinuria, defined as urinary albumin to creatinine ratio >300 mg/g.","উচ্চরক্তচাপ
+: লোসারটান পটাশিয়াম উচ্চরক্তচাপের চিকিৎসায় নির্দেশিত। এটা এককভাবে অথবা যৌথভাবে অন্যান্য উচ্চরক্তচাপরোধী ঔষধের (যেমন থায়াজাইড ডাইইউরেটিক) সাথে ব্যবহার করা যেতে পারে।
+প্রোটিন ইউরিয়াসহ টাইপ-২ ডায়াবেটিস রোগীর কিডনী সুরক্ষা
+: লোসারটান পটাশিয়াম প্রোটিন ইউরিয়া যখন মূত্রের এলবুমিন ও ক্রিয়েটিনিন এর অনুপাত ৩০০ মিঃগ্রাঃ/গ্রাম এর বেশী থাকে এমন টাইপ-২ ডায়াবেটিস রোগীর কিডনী রোগের বিস্তার দীর্ঘায়িত করার জন্য নির্দেশিত।",,,,
+R066,amoxicillin-trihydrate,Indications,"Amoxicillin Trihydrate is indicated in the treatment of infections due to susceptible ß-lactamase negative strains of microorganisms. These infections include
+Ear, nose and throat infections (i.e. otitis media, sinusitis, tonsillitis, pharyngitis, laryngitis)
+Lower respiratory tract infections (i.e. pneumonia, acute and chronic bronchitis lung abscess, empyema, bronchiectasis)
+Skin and soft tissue infections (i.e. cellulitis, carbuncles, furunculosis, infected wounds, abscess)
+Genito-urinary tract infections (i.e. pyelonephritis, cystitis and urethritis)
+Venereal disease (i.e. acute uncomplicated gonorrhoea)
+In dental abscess, it is used as short-term therapy.
+It is also indicated in combination with Clarithromycin and Lansoprazole (as triple therapy), for the treatment of patients with H. pylori infection and duodenal ulcer disease and to reduce the risk of duodenal ulcer recurrence.","এমোক্সিসিলিন, ß-ল্যাকটামেজ তৈরী করে না এমন সব সংবেদনশীল বিভিন্ন প্রজাতির ব্যাকটেরিয়া দ্বারা সৃষ্ট সংক্রমণের চিকিৎসায় ব্যবহৃত হয়। এ জাতীয় সংক্রমণগুলো হচ্ছে-
+কান, নাক ও গলার সংক্রমণ (যেমন-ওটাইটিস মিডিয়া, সাইনুসাইটিস, টনসিলাইটিস, ফ্যারিনজাইটিস, ল্যারিনজাইটিস)
+নিম্ন শ্বাসনালীর সংক্রমণ (যেমন-নিউমোনিয়া, একিউট এবং ক্রনিক ব্রংকাইটিস, লাং এব্সেস, এমপায়েমা, ব্রংকিএকটাসিস)
+ত্বক ও নরম কলার সংক্রমণ (যেমন-সেলুলাইটিস, কার্বাংক্যালস, ফুরাংকিউলোসিস, সংক্রমিত ক্ষত, এব্সেস)
+জেনিটো-ইউরেনারি ট্রাক্ট সংক্রমণ (যেমন- পায়েলোনেফ্রাইটিস, সিস্টাইটিস এবং ইউরেথ্রাইটিস)
+ভেনেরাল ডিজিজ (যেমন-একিউট আনকমপ্লিকেটেড গণোরিয়া)।
+দাঁতের এব্সেস-এর ক্ষেত্রে, এটি শর্ট-টার্ম থেরাপি হিসেবে ব্যবহৃত হয়।
+H. pylori-জনিত ডিওডেনাল আলসার বা এর ঝুঁকি কমাতে এটি ক্লারিথ্রোমাইসিন ও ল্যান্সোপ্রাজোলের সাথে (ট্রিপল থেরাপি হিসেবে) ব্যবহৃত হয়।",,,,
+R067,erythromycin-oral,Interaction,Recent data from studies of erythromycin reveals that its use in patients who are receiving high dosage of theophylline may be associated with an increase of serum theophylline levels and potential theophylline toxicity. In such cases this dose of theophylline should be reduced.,"থিওফাইলিন, কার্বামাজেপিন, ডিগক্সিন, ওয়ারফেরিন এবং আরগোটামিন।",,,,
+R068,enoxaparin-sodium,Contraindications,"Patients with known hypersensitivity to Enoxaparin Sodium, heparin or other low molecular weight heparins. Patients with active major bleeding and conditions with a high risk of uncontrolled hemorrhage including recent hemorrhagic stroke.","ইনোক্সাপারিন সোডিয়াম, হেপারিন অথবা অন্যান্য স্বল্প আনাবিক ওজন বিশিষ্ট হেপারিনের প্রতি অতি সংবেদনশীলতা। মেজর কটিং ডিসওর্ডার যেমন- থ্রোম্বোসাইটোপেনিয়ার ইতিহাস, সক্রিয় পাকতান্ত্রিক আলসার অথবা জৈবিক সমস্যা যা রক্তপাত ঘটাতে পারে, মস্তিষ্কে রক্তরণজনিত স্ট্রোক। বিরল ক্ষেত্রে, কিউটোনিয়াস বা সিসটেমিক অ্যালর্জি বিক্রিয়া হতে পারে।",,,,
+R069,nitrofurantoin,Contraindications,"Anuria, oliguria or significant impairment of renal function are contraindications. This drug is contraindicated in pregnant patients at 38-42 weeks, during labor and delivery. Nitrofurantoin is also contraindicated in those patients with known hypersensitivity to Nitrofurantoin.","এ্যানুরিয়া, অলিগইউরিয়া অথবা বৃক্কের মারাত্মক অসমকার্যকারিতায় এটি প্রতিনির্দেশিত। এই ওষুধটি ৩৮-৪২ সপ্তাহের গর্ভবতী রােগীদের ক্ষেত্রে, প্রসবপূর্ব ও প্রসবকালীন সময়ে প্রতিনির্দেশিত। যেসব রােগী নাইট্রোফিউরানটোইন এর প্রতি অতি সংবেদনশীল তাদের ক্ষেত্রে এটি প্রতিনির্দেশিত।",,,,
+R070,clindamycin,Indications,"Clindamycin has been shown to be effective in the treatment of the following infections when caused by susceptible anaerobic bacteria or susceptible strains of gram positive bacteria such as Streptococci, Staphylococci and Pneumococci; Upper respiratory infections, Lower respiratory infections, Skin and soft tissue infections, Bone and joint infections, Pelvic infections, Intra-abdominal infections, Septicemia and endocarditis, Dental infections. As an alternative therapy when used in combination with quinine or amodiaquine for the treatment of multi-drug resistant Plasmodium falciporum infection.","অ্যান-অ্যারোবিক ও গ্রাম-পজিটিভ ব্যাকটেরিয়া যেমন স্ট্রেপ্টোকক্কি, স্ট্যাফাইলোকক্কি ও নিউমোকক্কি সংক্রমণে কার্যকর। উর্ধ্ব শ্বাসনালীর সংক্রমণ, নিম্ন শ্বাসনালীর সংক্রমণ, ত্বক ও কোমল কলার সংক্রমণ, অস্থি ও অস্থিসন্ধির সংক্রমণ, পেলভিক সংক্রমণ, উদরের অভ্যন্তরীণ সংক্রমণ, সেপ্টিসেমিয়া ও এন্ডোকার্ডাইটিস, দাঁতের সংক্রমণ, মাল্টি ড্রাগ রেসিসট্যান্ট পাসমোডিয়াম ফ্যালসিপোরাম সংক্রমণে কুইনাইন ও এমোডিয়াকুইনের সাথে বিকল্প সহযোগী চিকিৎসা হিসাবে।",,,,
+R071,metformin-hydrochloride,Pregnancy & Lactation,"Pregnancy
+: Uncontrolled diabetes during pregnancy (gestational or permanent) is associated with an increased risk of congenital abnormalities and perinatal mortality. When the patient plans to become pregnant and during pregnancy, it is recommended that diabetes is not treated with metformin but insulin be used to maintain blood glucose levels as close to normal as possible, to reduce the risk of malformations of the foetus.
+Breastfeeding
+: Metformin is excreted into human breast milk. No adverse efects were observed in breastfed newborns/infants. However, as only limited data are available, breastfeeding is not recommended during metformin treatment. A decision on whether to discontinue breastfeeding should be made, taking into account the benefit of breastfeeding and the potential risk to adverse effects on the child.","গর্ভাবস্থায় (গর্ভকালীন অথবা স্থায়ী) অনিয়ন্ত্রিত ডায়াবেটিস শিশুর জন্মগত অস্বাভাবিকতা এবং পেরিন্যাটাল (জন্মের পর এক থেকে চার সপ্তাহ সময়কাল) মৃত্যুহার এর ঝুঁকি বৃদ্ধির সাথে জড়িত। ভ্রুণের বিকলাঙ্গতার ঝুঁকি কমাতে, রোগী গর্ভধারণের পরিকল্পনা করলে এবং গর্ভধারণের সময় মেটফরমিন দিয়ে ডায়াবেটিসের চিকিৎসা নির্দেশিত নয় কিন্তু রক্তের গ্লুকোজের পরিমান যতটা সম্ভব স্বাভাবিকের কাছাকাছি বজায় রাখার জন্য ইনসুলিন প্রয়োগ করতে হবে।
+স্তন্যদানকালে: মেটফরমিন মায়ের বুকের দুধের মাধ্যমে নি:সৃত হয়। স্তন্যদানকালে নবজাতকের কোন বিরূপ প্রতিক্রিয়া পরিলক্ষিত হয়নি। তবুও যেহেতু এক্ষেত্রে সীমিত তথ্য পাওয়া গেছে তাই মেটফরমিন দিয়ে চিকিৎসা চলাকালে স্তন্যদান নির্দেশিত নয়। স্তন্যদানের উপকারিতা এবং শিশুর উপর সম্ভাব্য বিরূপ প্রতিক্রিয়াসমূহের প্রভাব বিবেচনা করে মা স্তন্যদান বন্ধ রাখবে কিনা এই সিদ্ধান্ত গ্রহণ করা উচিত।",,,,
+R072,cefuroxime-axetil,Pregnancy & Lactation,"US FDA pregnancy category of Cefuroxime is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Cefuroxime have been shown to be excreted in human milk. So, caution should be exercised when Cefuroxime is administered to a nursing woman.","US FDA প্রেগন্যান্সি ক্যাটাগরী অনুযায়ী সেফিউরক্সিম 'B' জাতীয় ঔষধ। অর্থাৎ, গর্ভাবস্থায় ব্যবহারের সুনিয়ন্ত্রিত ও পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন গবেষণা সর্বদা মানবদেহের জন্য কার্যকর নয়, সেহেতু এই ঔষধটি গর্ভাবস্থায় সুনির্দিষ্টভাবে প্রয়োজন হলেই ব্যবহার করা উচিত। সেফিউরক্সিম স্তন্যদুগ্ধে নিঃসৃত হয়। সুতরাং, স্তন্যদাত্রী মায়েদের ক্ষেত্রে সেফিউরক্সিম ব্যবহারে সতর্কতা অবলম্বন করা উচিত।",,,,
+R073,prochlorperazine-maleate,Contraindications,"Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.","প্রােক্লোরপেরাজিন অথবা এর সদৃশ কোন উপাদানের প্রতি অতিমাত্রায় প্রতিক্রিয়াশীল হলে, গুরুতর সিএনএস বিষণ্ণতা, কোমাতে নির্দেশিত নয়। ২ বছর অথবা ১০ কেজি ওজনের নিচে বাচ্চাদের জন্য নির্দেশিত নয়।",,,,
+R074,cefuroxime-axetil,Precautions & Warnings,"Cefuroxime should be given with care to patients receiving concurrent treatment with potent diuretics & who has history of colitis. Cephalosporin antibiotics may in general be given safely to patients who are hypersensitive to penicillin although cross reactions have reported. Cefuroxime has shown, that is not likely to be a problem at the recommended to dose levels.",যে সমস্থ রোগীর শক্তিশালী ডাইউরেটিক সেবন করছে অথবা যাদের কোলাইটিসের ইতিহাস আছে তাদের ক্ষেত্রে সেফিউরক্সিম সতর্কতার সাথে ব্যবহার করতে হবে। যদিও যে সব রোগী পেনিসিলিনের প্রতি অতি সংবেদনশীল তাদের ক্ষেত্রে সাধারণত সেফালোস্পোরিন ব্যবহার নিরাপদ যদিও ক্রস রিঅ্যাকশনের সম্ভাবনা থাকে। সাধারণত নির্ধারিত মাত্রায় সেফিউরক্সিম ব্যবহারে এই সমস্যা দেখা যায় না।,,,,
+R075,progesterone-micronised-capsule,Precautions & Warnings,"Severe renal insufficiency, diabetes mellitus, seizures, migraine, headache, heart diseases, depression.","তীব্র কিডনি বৈকল্য, ডায়াবেটিস মেলিটাস, খিঁচুনি, মাইগ্রেন, মাথাব্যথা, হৃদরোগ এবং বিষণ্ণতার রোগীদের ক্ষেত্রে সতর্কতার সাথে ব্যবহার করতে হবে।",,,,
+R076,fluconazole,Pregnancy & Lactation,"Fluconazole adverse fetal efects have been seen in animals only at dose levels associated with maternal toxicity. These levels are many times in excess of those recommended for therapeutic use. There has been little use during human pregnancy. Accordingly, fuconazole should not be used in pregnancy or in women of child bearing potential unless adequate contraception is employed.","US FDA প্রেগনেন্সি ক্যাটাগরী অনুযায়ী ফ্লুকোনাজল 'C' শ্রেনীভূক্ত ঔষধ। সুতরাং, প্রত্যাশিত সুবিধা, Fetus এর ঝুঁকির চেয়ে বেশী না হলে গর্ভাবস্থায় ও স্তন্যদানকালে ফ্লুকোনাজল ব্যবহারে বিরত থাকা উচিত।",,,,
+R077,enoxaparin-sodium,Interaction,"It is recommended that agents which affect hemostasis should be discontinued prior to Enoxaparin Sodium therapy unless strictly indicated. These agents include medications such as: acetylsalicylic acid (and derivatives), NSAIDs (including ketorolac), ticlopidine,clopidogrel,dextran 40,glucocorticoids, thrombolytics and anticoagulants, other antiplatelet aggregation agents including glycoprotein llb/llla antagonists. If the combination is indicated, should be used with careful clinical and laboratory monitoring.","যে সমস্ত উপাদান রক্তরণের ঝুঁকি বৃদ্ধি করে ইনোক্সাপারিন সোডিয়াম ইঞ্জেকশন ব্যবহারের পূর্বে সেগুলো বন্ধ করা উচিত, যদি না সেগুলো অপরিহার্য হয়। এ সমস্ত ওষুধগুলো হচ্ছে, এন্টিকোয়াগুলেন্ট, পাটিলেট ইনহিবিটর যেমন- এসিটাইল সেলিসাইলিক এসিড, সেলিসাইলেটস, এনএসআইডি সমূহ (কিটোরোলাক ট্রোমিথামিনসহ), ডাইপাইরিডামল অথবা সালফিনপাইরাজোন। যদি একত্রে ব্যবহার আবশ্যিক হয় তবে রোগীদের ক্লিনিক্যাল এবং ল্যাবরেটরী অনুসন্ধানের মাঝে রাখতে হবে।",,,,
+R078,magnesium-sulfate,Contraindications,"Magnesium Sulfate contra-indicated in the case of a defect of the heart's electrical message pathways resulting in decreased function of the heart (heart block), severe damage to the muscular wall of the heart (myocardium) and significantly decreased kidney function.","ম্যাগনেসিয়াম সালফেট হার্ট ব্লক, মায়োকার্ডিয়াম এবং কিডনীর স্বাভাবিক ক্রিয়াতে প্রতিনির্দেশিত।",,,,
+R079,ferrous-ascorbate-folic-acid-zinc-sulfate,Contraindications,It is contraindicated in patients with haemolytic anaemia and in conditions with increased hypersensitivity to any of its components and increased body iron content.,এটি হিমোলাইটিক রক্তস্বল্পতাজনিত রোগীদের ক্ষেত্রে এবং এর যে কোনও উপাদানের প্রতি হাইপারসেন্সিটিভিটি আছে এমন রোগীদের ক্ষেত্রে ইহা প্রতিনির্দেশিত। শরীরে আয়রনের আধিক্য থাকলেও ইহা প্রতিনির্দেশিত।,,,,
+R080,lamotrigine,Precautions & Warnings,"Discontinue at the first sign of rash. Blood dyscrasias (e.g., neutropenia, thrombocytopenia, pancytopenia): may occur. Monitor for signs of anemia, unexpected infection, or bleeding. Suicidal behavior and ideation: Monitor for suicidal thoughts or behaviors. Aseptic meningitis: Monitor for signs of meningitis.","ফুসকুড়ি দেখা যাওয়ার সাথে সাথে ওষুধ বন্ধ করে দিতে হবে। রক্তের ভারসাম্যের ব্যাঘাত (যেমন- নিউট্রোপেনিয়া, প্রমবোসাইটোপেনিয়া, প্যানসাইটোপেনিয়া): হতে পারে। রক্তস্বল্পতা, অপ্রত্যাশিত সংক্রমণ অথবা রক্তপাত এর লক্ষণ নিয়মিত পর্যবেক্ষণ করতে হবে। আত্মহত্যার প্রবণতা এবং কল্পনা: রোগীর আত্মহত্যার প্রবণতা এবং কল্পনার দিকে নজর রাখতে হবে। এসেপটিক মেনিনজাইটিস: মেনিনজাইটিস এর লক্ষণ পর্যবেক্ষণ করতে হবে।",,,,
+R081,nitrofurantoin,Pregnancy & Lactation,"Pregnancy Category B. There are no adequate and well-controlled studies in pregnant women. This drug should be used during pregnancy only if clearly needed. Nitrofurantoin has been detected in human breast milk in trace amounts. Because of the potential for serious adverse reactions from Nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.",প্রেগন্যান্সি ক্যাটেগরি বি। গর্ভবতী মায়েদের উপর কোন পর্যাপ্ত এবং সুনিয়ন্ত্রিত পরীক্ষা হয়নি। এই ঔষধটি গর্ভাবন্থায় তখনই দেয়া যাবে যখন এটি সুস্পষ্টভাবে নির্দেশিত। নাইট্রোফিউরানটোইন অল্প পরিমাণে মাতৃদুগ্ধে নিঃসরিত হয়। যেহেতু ১ মাসের নিচে বাচ্চাদেয় ক্ষেত্রে মারাত্মক পার্শ্ব-প্রতিক্রিয়া দেখা যেতে পারে সেহেতু এই ওযুধ দেয়ার পূর্বে এর গুরুত্ব বিবেচনা করে হয় দুগ্ধদান থেকে বিরত থাকতে হবে অথবা ঔষধ খাওয়া থেকে বিরত থাকতে হবে।,,,,
+R082,dydrogesterone,Pregnancy & Lactation,So far there were no indications of a harmful effect of Dydrogesterone use during pregnancy. Dydrogesterone is excreted in the milk of nursing mothers. A risk to the breastfed child cannot be excluded. Dydrogesterone should not be used during breast-feeding. There is no evidence that Dydrogesterone decreases fertility.,এখনও পর্যন্ত গর্ভাবস্থায় ডাইড্রোজেস্টেরন ব্যবহারের ক্ষতিকারক প্রভাবের কোনো তথ্য পাওয়া যায়নি। স্তন্যদানকারী মায়েদের দুধে ডাইড্রোজেস্টেরনের উপস্থিতি পাওয়া যায়; তাই স্তন্যপানকারী বাচ্চাদের ঝুঁকির কথা বাদ দেওয়া যায় না। বুকের দুধ খাওয়ানোর সময় ডাইড্রোজেস্টেরন ব্যবহার করা উচিত নয়। ডাইড্রোজেস্টেরন উর্বরতা হ্রাস করে এমন কোন প্রমাণ নেই।,,,,
+R083,carbamazepine,Pregnancy & Lactation,"Pregnancy category D. Carbamazepine and its epoxide metabolite are transferred to breast milk. Because of the potential serious side effects, decision should me made whether to discontinue nursing or discontinue the drug.",প্রেগনেন্সি ক্যাটাগরি-ডি। কার্বামাজেপিন এবং এর ইপোক্সাইড মেটাবোলাইট মাতৃদুগ্ধে নিঃসৃত হয়। সম্ভাব্য ক্ষতিকর প্রতিক্রিয়ারোধে মাতৃদুগ্ধ সেবন অথবা ওষুধ সেবন বন্ধ করতে হবে।,,,,
+R084,ceftriaxone-sodium,Pregnancy & Lactation,"Its safety in human pregnancy has not been established. Therefore, it should not be used in pregnancy unless absolutely indicated. Low concentrations of Ceftriaxone are excreted in human milk. Caution should be exercised when Ceftriaxone is administered to a lactating mother.",গর্ভাবস্থায় মানবদেহে সেফট্রায়াক্সনের নিরাপত্তা এখনো প্রমাণিত হয়নি। সুতরাং সম্পূণরুপে নির্দেশিত না হলে গর্ভাবস্থায় এটি ব্যবহার করা যাবেনা। যেহেতু মাতৃদুগ্ধে সেফট্রায়াক্সন অল্পমাত্রায় নিঃসরিত হয় সুতরাং স্তন্যদানকারী মায়েদের ক্ষেত্রে ইহা সাবধানতা ও সতর্কতার সাথে ব্যবহার করা উচিৎ।,,,,
+R085,iron-sucrose,Interaction,Drug-drug interactions involving Iron Sucrose have not been studied. Iron Sucrose Injection should not be administered concomitantly with oral iron preparations since the absorption of oral Iron is reduced. Even oral Iron therapy should not be given until 5 days after last injection.,আয়রণ সুক্রোজের সাথে অন্য ওষুধের কোন প্রতিক্রিয়া রয়েছে কিনা তা এখনো পর্যবেক্ষণ করা হয়নি। তবে আয়রণ সুক্রোজ কোন সেব্য আয়রণ ওষুধের সাথে ব্যবহার করা উচিত নয়। আয়রণ ইঞ্জেক্‌শন দেয়ার পরবর্তীতে ৫ দিনের মধ্যে সেব্য আয়রণ ব্যবহার করা উচিত নয়।,,,,
+R086,pyridoxine-hydrochloride-doxylamine-succinate,Indications,This combination is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.,ইহা গর্ভকালীন অবস্থায় মাথা ঘোরানো এবং বমি বমি ভাব চিকিৎসায় নির্দেশিত।,,,,
+R087,propylthiouracil,Interaction,"With medicine
+: Anticoagulants (oral)- Due to the potential inhibition of vitamin K activity by Propylthiouracil, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, and especially before surgical procedures.
+p-adrenergic blocking agents- Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid.
+Digitalis glycosides- Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed.
+Theophylline- Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed.
+With food
+: In case of Propylthiouracil, there are no specific foods that patients must exclude from diet when receiving this medication.","ওষুধের সাথে
+: এন্টিকোয়াগুলেন্ট (মুখে সেব্য)- যেহেতু প্রোপাইলথায়োইউরাসিল ভিটামিন এর কার্যকারিতায় বাঁধা দেয়, তাই মুখে সেব্য এন্টিকোয়াগুলেন্ট (যেমনঃ ওয়ারফারিন) কার্যকারিতা বৃদ্ধি পেতে পারে; PT/INR এর অতিরিক্ত পর্যবেক্ষণ করতে হবে, বিশেষ করে শল্যচিকিৎসার পূর্বে।
+বিটা-অ্যাড্রেনারজিক ব্লকিং উপাদান- হাইপারথাইরয়েডিজমের ফলে বিটা ব্লকার গুলোর নিষ্কাশন আনুপাতিকভাবে বেড়ে যেতে পারে। হাইপারথাইরয়েড রোগী যখন ইউথাইরয়েড হয়ে যাবে তখন বিটা ব্লকার এর মাত্রা কমাতে হবে।
+ডিজিটালিস গ্লাইকোসাইডস- হাইপারথাইরয়েড রোগী যখন একটি স্থির ডিজিটালিস গ্লাইকোসাইডস সেবনরত অবস্থায় ইউথাইরয়েড হয়ে যাবে তখন রক্তে ডিজিটালিস এর মাত্রা বেড়ে যেতে পারে, তাই ডিজিটালিস গ্লাইকোসাইডস এর মাত্রা কমাতে হতে পারে।
+থিওফাইলিন- হাইপারথাইরয়েড রোগী যখন একটি স্থির থিওফাইলিন সেবনরত অবস্থায় ইউথাইরয়েড হয়ে যাবে তখন থিওফাইলিন এর নিষ্কাশন কমে যেতে পারে, তাই থিওফাইলিন এর মাত্রা কমাতে হতে পারে।
+খাবারের সাথে
+: প্রোপাইলথায়োইউরাসিল এর ক্ষেত্রে এমন কোনও নির্দিষ্ট খাদ্য নেই যা এই ওষুধ সেবন কালে রোগীকে খাবার তালিকা থেকে বর্জন করতে হবে।",,,,
+R088,warfarin-sodium,Pregnancy & Lactation,Warfarin is contraindicated in the first trimester of pregnancy because of the risk of teratogenicity. It should not be used in women who are or may become pregnant because the drug passes through the placental barrier and may cause fatal hemorrhage to the fetus. Warfarin appears in the milk of nursing mothers in an inactive form. Infants nursed by mothers treated with Warfarin had no change in prothrombin times. Effects in premature infants have not been evaluated.,"গর্ভাবস্থার প্রথম তিন মাসে ওয়ারফারিন গ্রহণ নিষেধ, কারণ টেরাটোজেনিসিটির সম্ভাবনা রয়েছে। ইহা গর্ভবর্তী অথবা গর্ভধারনের সম্ভাবনা রয়েছে এমন মহিলাদের ক্ষেত্রে দেয়া যাবেনা, কারন ইহা প্লাসেন্টা অতিক্রম করতে পারে ও ফিটাসের হেমোরেজ ঘটিয়ে জীবনাশংকা ডেকে আনতে পারে। ওয়ারফারিন মাতৃদুগ্ধে অকার্যকর অবস্থায় নিঃসৃত হয় ও মাতৃদুগ্ধ পানকারী শিশুদের ক্ষেত্রে প্রোথ্রথিন টাইম-এর কোন পরিবর্তন হয়না। প্রিম্যাচিউর শিশুদের ক্ষেত্রে ওয়ারফারিনের প্রভাব পরীক্ষিত নয়।",,,,
+R089,losartan-potassium,Precautions & Warnings,"Use of Losartan Potassium during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. In patients who are intravascularly volume-depleted (e.g., those treated with high-dose diuretics), symptomatic hypotension may occur. Plasma concentration of Losartan Potassium is significantly increased in cirrhotic patients. Changes in renal function including renal failure have been reported in renal impaired patient.",গর্ভাবস্থায় দ্বিতীয় ও তৃতীয় ট্রাইমেস্টারে লোসারটান পটাশিয়াম ব্যবহার করলে নবজাতকের বৃক্কীয় কার্যকারিতা মারাত্বকভাবে কমে যায় এবং নবজাতক ও Fetus নষ্ট বা মৃত্যু হার বেড়ে যায়। যে সকল রোগীর ইন্ট্রাভাস্কুলার ভলিউম কম (যেমনঃ উচ্চ মাত্রায় ডাইইউরেটিক ব্যবহার করেছে এমন) তাদের লক্ষণ জনিত নিম্নরক্তচাপ হতে পারে। সিরোটিক রোগীর ক্ষেত্রে লোসারটান পটাশিয়ামের রক্ত রস ঘনত্ব উলে­খযোগ্য হারে বৃদ্ধি পায়। বৃক্কীয় অকার্যকরী রোগীর ক্ষেত্রে অকার্যকারিতা বেড়ে যেতে পারে বা বৃক্ক বিকল হতে পারে।,,,,
+R090,ciprofloxacin,Interaction,"Concurrent administration of Ciprofloxacin should be avoided with Magnesium or Aluminum containing antacids or sucralfate or with other products containing Calcium, Iron or Zinc. These products may be taken two hours after or six hours before Ciprofloxacin. Ciprofloxacin should not be taken concurrently with milk or other dairy products, since absorption of Ciprofloxacin may be significantly reduced. Dietary calcium is a part of a meal, however, does not significantly affect the absorption of Ciprofloxacin.","ম্যাগনেসিয়াম/এ্যালুমিনিয়াম জাতীয় এন্টাসিড, সুক্রালফেট অথবা ক্যালসিয়াম, আয়রন এবং জিংক এর উপস্থিতি আছে এমন কোন ঔষধ সিপ্রোফ্লক্সাসিনের সাথে সেবনযোগ্য নয়। এগুলো সেবনের ছয় ঘন্টা পূর্বে অথবা দুই ঘন্টা পর সিপ্রোফ্লক্সাসিন সেবনযোগ্য। দুধ অথবা দুগ্ধজাত খাবারের সাথে সিপ্রোফ্লক্সাসিন সেবনযোগ্য নয়। কারণ এতে করে সিপ্রোফ্লক্সাসিন এর পরিশোষণ দারুণভাবে কমে যায়। খাদ্যের ক্যালসিয়াম সিপ্রোফ্লক্সাসিনের পরিশোষণকে প্রভাবিত করে না।",,,,
+R091,dydrogesterone,Contraindications,"Hypersensitivity to the active substance or to any of the excipients
+Known or suspected progestogen dependent neoplasms
+Undiagnosed vaginal bleeding
+If used to prevent endometrial hyperplasia (in women using estrogens)
+Thrombophlebitis or thromboembolic disorders.
+Cerebrovascular or coronary artery disease, or a past history of these conditions.
+Hepatic disease or dysfunction, a history of cholestatic jaundice or pruritus of pregnancy and in Dubin-Johnson syndrome and Rotor syndrome.
+History of herpes in pregnancy.
+Sickle cell anaemia.
+Benign or malignant liver tumours which develop during the use of oral contraceptives","কোন মূল উপাদান বা আনুসঙ্গিক উপাদানের প্রতি অতি সংবেদনশীলতা
+যোনিপথে রক্তপাত যা নির্ণয় করা হয়নি
+প্রোজেস্টোজেন নির্ভর নিওপ্লাজম হয়েছে বা হওয়ার ব্যাপারে সন্দেহ রয়েছে এমন রোগী
+এন্ডোমেট্রিয়াল হাইপারপ্লাসিয়া প্রতিরোধ করতে ব্যবহৃত হয় (ইস্ট্রোজেন ব্যবহার করে এমন মহিলাদের (ক্ষত্রে) থ্রম্বোফ্লেবাইটিস বা থ্রম্বো এম্বোলিক ডিসঅর্ডার
+সেরিব্রোভাসকুলার বা করোনারি ধমনী রোগ, বা এই অবস্থা অতীতে হয়েছে এমন রোগী
+হেপাটিক রোগ বা ডিসফাংশন, কোলেস্ট্যাটিক জন্ডিস বা গর্ভাবস্থার ধ্রুরিটাস এবং ডুবিন-জনসন সিন্ড্রোম
+এবং রটর সিনড্রোমের রোগীদের ক্ষেত্রে
+গর্ভাবস্থায় হারপিস হয়েছে এমন রোগীদের
+সিকেল সেল অ্যানিমিয়া
+বিনাইন বা ম্যালিগন্যান্ট লিডার টিউমার যা ওরাল গর্ভনিরোধক ব্যবহারের সময় হয়ে থাকে",,,,
+R092,aspirin,Interaction,"Salicylates may enhance the effect of anticoagulants, oral hypoglycaemic agents, phenytoin and sodium valporate. They inhibit the uricosuric effect of probenecid and may increase the toxicity of sulphonamides. They may also precipitate bronchospasm or induce attacks of asthma in susceptible subjects.","অ্যান্টিকোয়াগুল্যান্টস, ওরাল হাইপোগ্লাইকাইমিক এজেন্টস, ফিনাইটয়েন এবং সোডিয়াম ভ্যালপ্রোয়েটের প্রভাব স্যালিসিলেটস বাড়িয়ে তুলতে পারে। তারা প্রোবেনসিডের ইউরিকোসরিক প্রভাবকে বাধা দেয় এবং সালফোনামাইডের বিষাক্ততা বাড়িয়ে তুলতে পারে। তারা ব্রোঙ্কোস্পাজমকে বাধা দিতে পারে বা সংবেদনশীল বিষয়ে অ্যাজমা আক্রমণ করতে পারে।",,,,
+R093,mebendazole,Pregnancy & Lactation,"Mebendazole is not recommended in pregnant women. It is not known whether mebendazole is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when it is administered to a nursing mother.","গর্ভবতী মহিলাদের মধ্যে মেবেনডাজল নির্দেশিত নয়। বুকের দুধে মেবেনডাজল নির্গত হয় কিনা তা জানা যায়নি। যেহেতু অনেকগুলি ওষুধ বুকের দুধে নিষ্কাশিত হয়, তাই দুগ্ধদানকারী মায়েদের ক্ষেত্রে মেবেনডাজল ব্যাবহারে সাবধানতা অবলম্বন করা উচিৎ।",,,,
+R094,ceftriaxone-sodium,Contraindications,Ceftriaxone should not be given to patients with a history of hypersensitivity to cephalosporin antibiotics.,সেফালোস্পোরিন এন্টিবায়োটিকের প্রতি সংবেদনশীল রোগীদের ক্ষেত্রে সেফট্রায়াক্সন প্রয়োগ করা উচিৎ নয়।,,,,
+R095,levetiracetam,Contraindications,Hypersensitivity to the active substance or other pyrrolidone derivatives or to any of the excipients.,"ওষুধের সক্রিয় উপাদান, অন্য পাইরোলিডন জাতীয় উপাদান অথবা এর যেকোন উপাদানের প্রতি অতিসংবেদনশীলতার ক্ষেত্রে ব্যবহার নির্দেশিত নয়।",,,,
+R096,cefixime-trihydrate,Precautions & Warnings,"Cefixime should be given with caution to patients who have shown hypersensitivity to other drugs. Cephalosporin should be given with caution to penicillin-sensitive patients, as there is some evidence of partial cross-allergenicity between the penicillins and the cephalosporins. Patients have had severe reactions (including anaphylaxis) to both classes of drugs. If an allergic effect occurs with Cefixime, the drug should be discontinued and the patient treated with appropriate agents if necessary. Cefixime should be administered with caution in patients with markedly impaired renal function. Treatment with broad spectrum antibiotics alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile is a primary cause of antibiotic-associated diarrhoea. Use in pregnancy and lactation: There are no adequate and well-controlled studies in pregnant women. Cefixime should therefore not be used in pregnancy or in nursing mothers unless considered essential by the physician.","যাদের অন্ত্রনালীর রোগ, বিশেষ করে বৃহদন্ত্রে প্রদাহ রয়েছে তাদের ক্ষেত্রে বিশেষ সতর্কতা অবলম্বন করতে হবে। ঝুঁকিপূর্ণ বৃক্কীয় অকার্যকারিতায় এবং যাদের অবিরাম এম্বুলেটরী পেরিটোনিয়াল ডায়ালাইসিস এবং হিমোডায়ালাইসিস করতে হয় তাদের ক্ষেত্রে ঔষধটি সতর্কতার সাথে ব্যবহার করতে হয়। শুধুমাত্র গুরুতর বৃক্কীয় অকার্যকারিতায় (ক্রিয়েটিনিন ক্লিয়ারেন্স <২০ মিঃলিঃ/মিঃ) মাত্রা পরিবর্তন করতে হয়, এ ক্ষেত্রে দৈনিক একক মাত্রা ২০০ মিঃগ্রাঃ এর অধিক অতিক্রম করা উচিৎ নয়।",,,,
+R097,propylthiouracil,Contraindications,Propylthiouracil is contraindicated in the presence of hypersensitivity to the drug or any of the other product components.,প্রোপাইলথায়োইউরাসিল বা এর যে কোন উপাদানের প্রতি অতিসংবেদনশীলতার ক্ষেত্রে এটি প্রতিনির্দেশিত।,,,,
+R098,medroxyprogesterone-acetate-injection,Contraindications,"Known or suspected pregnancy, Undiagnosed vaginal bleeding, Known or suspected malignancy of breast ( when used for ovulation suppression or gynaecology indications), Severe liver dysfunction, Known hypersensitivity to medroxyprogesterone acetate or any component of the drug.","জানা অথবা অনুমেয় গর্ভধারণ, জানা অথবা অনুমেয় স্তন ক্যান্সার, গুরুতর লিভার অক্ষমতা, মেড্রোক্সিপ্রোজেস্টেরন এসিটেট অথবা উপাদানের প্রতি অতি সংবেদনশীলতা।",,,,
+R099,promethazine-hydrochloride,Interaction,"Promethazine Hydrochloride may enhance the action of any anticholinergic agent, tricyclic antidepressant, sedative or hypnotic, Alcohol should be avoided during drug treatment.
+Phenergan may interfere with immunologic urine pregnancy tests to produce false-positive or false-negative results.
+Phenergan should be discontinued at least 72 hours before the start of skin tests using allergen extracts as it may inhibit the cutaneous histamine response thus producing false-negative results.","প্রোমিথাজিন যেকোন এ্যান্টিকোলিনার্জিক এজেন্ট, ট্রাইসাইক্লিক এন্টিডিপ্রেসেন্ট, সিডেটিভ অথবা নিদ্রাকারক ওষুধের ক্রিয়া বৃদ্ধি করতে পারে। ওষুধ দিয়ে চিকিৎসার সময় এ্যালকোহল পান করা থেকে বিরত থাকা উচিত।
+প্রোমিথাজিন প্রস্রাবের মাধ্যমে ইউমিনােলজিক গর্ভধারণ পরীক্ষা বাধাগ্রস্থ করে ভুল ফলাফল দিতে পারে। ত্বকের এ্যালার্জেন আহরণের পরীক্ষা শুরুর কমপক্ষে ৭২ ঘন্টা পূর্বে ফেনারগান গ্রহণ বন্ধ রাখা উচিত। যেহেতু এটি ত্বকের নিচে হিস্টামিনের কার্যকারিতাকে বাধা দেয় তাই ভুল ফলাফল পাওয়া যায়।
+গাড়ি চালানাে এবং অন্যান্য ঝুঁকিপূর্ণ কাজের সময় ফেনারগান গাড়ি চালনা এবং অপারেটিং মেশিনের দক্ষতাকে যথেষ্ট প্রভাবিত করে। প্রথমবার ফেনারগান গ্রহণকারী রােগীদের কিছু দিন গাড়ি ও মেশিনারীজ নিয়ন্ত্রিত ভাবে চালানাে উচিত যতদিন না এটা প্রতিষ্ঠিত হয় যে তাদের কেন্দ্রীয় স্নায়ুতন্ত্র ওষুধের প্রভাবে অতিসংবেদনশীল নয় এবং রােগী অস্থিতিবােধ, বিভ্রান্তি অথবা ঝিমুনিভাব দ্বার আক্রান্ত নয়।",,,,
+R100,atenolol,Precautions & Warnings,"General: Patients already on a beta blocker must be evaluated carefully before Atenolol is administered. Initial and subsequent Atenolol dosages can be adjusted downward depending on clinical observations including pulse and blood pressure. Atenolol may aggravate peripheral arterial circulatory disorders.
+Impaired Renal Function: The drug should be used with caution in patients with impaired renal function.
+Geriatric Use:
+Hypertension and Angina Pectoris: Due to Coronary Atherosclerosis: Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Acute Myocardial Infarction: Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.","সাধারণ: কোন একটি বিটা ব্লকার গ্রহণ করছে এমন রােগীর উপর এটিনোলল প্রয়ােগের পূর্বে অবশ্যই রােগীকে যত্নসহকারে পর্যবেক্ষণ করতে হবে। চিকিৎসা সম্পর্কিত পর্যবেক্ষণ যেমন- নাড়ির স্পন্দন এবং উচ্চ রক্তচাপ এর উপর ভিত্তি করে এটিনোললের প্রারম্ভিক এবং পরবর্তী মাত্রার নিম্নাভিমুখী সমন্বয় করতে হবে। এটিনোলল পার্শ্বিয় রক্ত নালীর রক্ত সংবহনের সমস্যার অবনতি ঘটাতে পারে।
+বৃক্কের অকার্যকারীতায়: রেনালের (যেসকল রােগীর বৃক্কের/ কিডনীর অকার্যকারীতার সমস্যা রয়েছে) কার্যকারীতার সমস্যার রােগীর ক্ষেত্রে ওষুধটি সর্তকতার সাথে প্রয়ােগ করা উচিত।
+বয়স্কদের ক্ষেত্রে ব্যবহার:
+করােনারী এ্যাথেরােস্কেরােসিসের কারণে সংঘঠিত উচ্চ রক্তচাপ এবং এনজিনা পেক্‌টরিস রােগীর ক্ষেত্রে
+: বয়স্ক রােগীদের মাত্রা নির্ধারণের ক্ষেত্রে সর্তকতা অবলম্বন করা উচিত, স্বাভাবিকভাবে মাত্রা পরিসীমার সর্বনিম্ন মাত্রা দিয়ে চিকিৎসা শুরু করা উচিত, তাছাড়া মাত্রা নির্ধারণের ক্ষেত্রে রােগীর যকৃত/ লিভার, কিডনী/ বৃক্ক অথবা হৃদপিন্ডের কার্যকারিতা এবং রােগীর অন্যান্য রােগ অথবা রােগী অন্য যেসকল ওষুধ ব্যবহার করছেন। সে বিষয়গুলােও বিবেচনায় আনতে হবে
+এ্যাকিউট মায়ােকার্ডিয়াল ইনফার্কশন
+: সাধারণত, বয়স্ক রােগীর মাত্রা নির্বাচনের ক্ষেত্রে সর্তকতা অবলম্বন করা উচিত এবং তা স্বাভাবিকভাবে মাত্রা পরিসীমার সর্বনিম্ন মাত্রা দিয়ে চিকিৎসা শুরু করা উচিত। তাছাড়া মাত্রা নির্ধারণের ক্ষেত্রে রােগীর যকৃত/লিভার, কিডনী/বৃক্ক অথবা হৃদপিণ্ডের কার্যকারিতা এবং রােগীর অন্যান্য রােগ অথবা রােগী অন্য যে সকল ওষুধ ব্যবহার করছেন সে বিষয়গুলােও বিবেচনায় আনতে হবে। উচ্চ রক্তচাপ অথবা মায়ােকার্ডিয়াল ইনফার্কশন এর রােগীদের মূল্যায়নের ক্ষেত্রে সর্বদা কিডনীর কার্যকারীতা পরিমাপ করা উচিত।",,,,
+R101,atorvastatin-calcium,Pregnancy & Lactation,"Pregnancy
+: Atorvastatin is contraindicated during pregnancy. Safety in pregnant women has not been established. No controlled clinical trials with atorvastatin have been conducted in pregnant women. Rare reports of congenital anomalies following intrauterine exposure to HMG-CoA reductase inhibitors have been received. Animal studies have shown toxicity to reproduction. Maternal treatment with atorvastatin may reduce the fetal levels of mevalonate which is a precursor of cholesterol biosynthesis. Atorvastatin should not be used in women who are pregnant, trying to become pregnant or suspect they are pregnant. Treatment with atorvastatin should be suspended for the duration of pregnancy or until it has been determined that the woman is not pregnant
+Lactation
+: It is not known whether atorvastatin or its metabolites are excreted in human milk. In rats, plasma concentrations of atorvastatin and its active metabolites are similar to those in milk. Because of the potential for serious adverse reactions, women taking atorvastatin should not breastfeed their infants. Atorvastatin is contraindicated during breastfeeding.","গর্ভাবস্থায়
+: গর্ভাবস্থায় এ্যাটোরভাস্টাটিন গ্রহন সম্পূর্ণ নিষিদ্ধ। গর্ভবতী মহিলাদের ক্ষেত্রে এটির নিরাপদ ব্যবহার এখনও প্রতিষ্ঠিত হয়নি। গর্ভবতী মহিলাদের উপর এ্যাটোরভাস্টাটিন সম্পর্কিত কোন নিয়ন্ত্রিত ক্লিনিক্যাল ট্রায়েল করা হয় নাই। দুর্লভ ক্ষেত্রে, HMG-CoA রিডাকটেজ ইনহিবিটরের গর্ভকালীন ব্যবহারে জন্মগত ত্রুটি এর সম্পর্ক দেখা যায়। প্রানিদের ক্ষেত্রে প্রজননে বিষক্রিয়া দেখা গিয়েছে। প্রসব কালীন চিকিৎসায় এ্যাটোরভাস্টাটিনের ব্যবহার ভ্রুনের মেভালোনেটের (কোলেস্টেরল উৎপাদনের প্রধান উপাদান) মাত্রা কমিয়ে দেয়। গর্ভবতী, গর্ভধারনের চেষ্টা করছেন এমন অথবা যাদের গর্ভবতী হওয়ার সম্ভাবনা রয়েছে এরূপ মহিলাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন ব্যবহার করা যাবে না। গর্ভাবস্থায় বা যতদিন প্রমানিত না হয় যে রোগী গর্ভবর্তী ততদিন এ্যাটোরভাস্টাটিনের ব্যবহার বন্ধ রাখতে হবে।
+স্তন্যদান
+: এ্যাটোরভাস্টাটিন বা এর কোন মেটাবোলাইট মাতৃদুগ্ধ থেকে নিঃসৃত হয় নাকি সেটা এখন জানা যায়নি। ইঁদুরের ক্ষেত্রে, এ্যাটোরভাস্টাটিনের প্লাজমা ঘনত্ব দুগ্ধে নিঃসৃত এ্যাটোরভাস্টাটিনের সমতুল্য। তীব্র পার্শ্বপ্রতিক্রিয়া থাকার কারনে যে সকল মহিলারা তাদের বাচ্চাদের স্তন্যদান করেন তাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন না ব্যবহার করাই উচিত। এ্যাটোরভাস্টাটিন স্তন্যদানকালে সেবনযোগ্য নয়।",,,,
+R102,diazepam,Contraindications,"Diazepam is contraindicated in myasthenia gravis, pulmonary insufficiency, respiratory depression and hypersensitivity to bezodiazepine.","শ্বাসযন্ত্রের উচ্চ সংবেদনশীলতা, ফুসফুসের হ্রাসকৃত কার্যকারিতা, রেসপিরেটরী ডিপ্রেশন, মাইয়েস্থেনিয়া গ্রাভিস-এ সকল ক্ষেত্রে ডায়াজিপাম ব্যবহার করা যাবে না।",,,,
+R103,pyridoxine-hydrochloride-doxylamine-succinate,Interaction,"Use of Doxylamine Succinate & Pyridoxine Hydrochloride is contraindicated in women who are taking monoamine oxidase inhibitors (MAOIs), which prolong and intensify the adverse central nervous system effects (the anticholinergic effects) of antihistamines. Concurrent use of alcohol and other CNS depressants (such as hypnotic sedatives and tranquilizers) with Doxylamine Succinate & Pyridoxine Hydrochloride is not recommended.",যে সকল মহিলারা ডক্সিলামিন সাক্সিনেট এবং পাইরিডক্সিন হাইড্রোক্লোরাইড ব্যবহার করছে তাদের ক্ষেত্রে মনোএমিন অক্সিডেস (এমএও) প্রতি নির্দেশক কারণ মনোএমিন অক্সিডেস অ্যান্টিহিস্টামিন গুলির বিরূপ কেন্দ্রীয় স্নায়ুতন্ত্রের প্রভাবগুলি (অ্যান্টিকোলিনার্জিক প্রভাব) দীর্ঘায়িত করে এবং তীব্র করে তোলে। পাশাপাশি ডক্সিলামিন সাক্সিনেট এবং পাইরিডক্সিন হাইড্রোক্লোরাইডের সাথে অ্যালকোহল এবং অন্যান্য সিএনএস ঔষধ (যেমন হিপনোটিক সেডিটিভস এবং ট্রানকিউলাইজার) একসাথে ব্যবহারের পরামর্শ দেওয়া হয় না।,,,,
+R104,losartan-potassium,Pregnancy & Lactation,"Pregnancy Category D. The risk to the fetus increases if Losartan Potassium is administered during the second or third trimesters of pregnancy. It is not known whether Losartan Potassium is excreted in human milk, as many drugs are excreted in human milk and because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.","প্রেগন্যান্সি ক্যাটাগরী 'D'। গর্ভবস্থায় দ্বিতীয় ও তৃতীয় ট্রাইমেস্টারে লোসারটান পটাশিয়াম ব্যবহার করলে নবজাতকের ঝুঁকি বেড়ে যায়। মাতৃদুগ্ধের সাথে লোসারটান পটাশিয়াম নিঃসৃত হয় কিনা জানা যায়নি, যেহেতু অনেক ঔষধ মাতৃদুগ্ধের সাথে নিঃসৃত হয় এবং দুগ্ধপোষ্য শিশুর উপর বিরূপ প্রতিক্রিয়া হওয়ার সম্ভাবনা থাকার কারণে মায়ের উপর ঔষধের গুরুত্ব বিবেচনা করে স্তন্যদান বন্ধ করতে হবে অথবা ঔষধের ব্যবহার বন্ধ করতে হবে।",,,,
+R105,dinoprostone,Precautions & Warnings,"Caution should be exercised in administration of Dinoprostone Gel in patients with: Hypertonus, Sustained Uterine Contractility or Fetal Distress, Hypertonic Uterine Contractility or Tetanic Uterine Contractions, Asthma, Glaucoma, Heart Diseases, Depression.","ডায়নোপ্রোস্টোন জেল ব্যবহার করার সময় সতর্কতা অবলম্বন করা উচিত সেসব রোগীদের ক্ষেত্রে যাদের: হাইপারটোনাস, টেকসই জরায়ু সংকোচন বা ভ্রূণের যন্ত্রণা, হাইপারটোনিক জরায়ু সংকোচন বা টেটানিক জরায়ু সংকোচন, হাঁপানি, গ্লুকোমা, হৃদরোগ, বিষণ্নতা বিদ্যমান।",,,,
+R106,indomethacin-oral,Contraindications,"Indomethacin is contraindicated in patients with ulcer, gastritis, active ulcerative colitis, and it should be used with caution in patients with a history of these disorders. In these cases, administration of Indomethacin suppositories should be preferred. It is also contraindicated in the previously hypersensitive patients.","ইনডোমেথাসিন আলসার, গ্যাস্ট্রিকের প্রদাহ এবং প্রত্যক্ষ আলসারেটিভ কোলাইটিস-এ নির্দেশিত নয়। এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার সাথে ব্যবহার করা উচিতি। তদুপরি এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার ক্ষেত্রে ব্যবহার করা উচিত। এই ওষুধের প্রতি অতিসংবেদনশীল রোগীর ক্ষেত্রে এই ওষুধের ব্যবহার নির্দেশিত নয়।",,,,
+R107,iron-sucrose,Pregnancy & Lactation,"Pregnancy Category-B. No adequate and well controlled studies in pregnant women. This drug should be used during pregnancy only if clearly needed. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Iron Sucrose is administered to a nursing woman.",প্রেগনেন্সী কেটাগোরী-বি। গর্ভবতী মহিলাদের নিয়ে এ বিষয়ে পর্যাপ্ত ও নিয়ন্ত্রিত পরীক্ষা হয়নি। পরিষ্কারভাবে প্রয়োজন হলে গর্ভবতীদের ক্ষেত্রে ব্যবহার করা উচিত। মাতৃদুগ্ধ থেকে এই ওষুধটি নিঃসরিত হয় কিনা জানা যায়নি। যেহেতু অনেক ওষুধই মাতৃ দুগ্ধ থেকে নিঃসরিত হয়। এই ওষুধটি সাবধানতার সাথে ব্যবহার করা উচিত।,,,,
+R108,phytomenadione-injection,Interaction,Phytomenadione antagonises the effect of coumarin-type anticoagulants. Coadministration of anticonvulsants can impair the action of vitamin K-1.,ভিটামিন কে-১ কোউমারিন জাতীয় এন্টিকোয়াগুলেন্ট এর কাজকে ব্যহত করে। এন্টিকনভালসেন্ট ভিটামিন কে-১ এর কার্যকারিতাকে ব্যহত করে।,,,,
+R109,diazepam,Interaction,"Concomitant intake with alcohol is not recommended. Sedation may be increased due to concomitant use of neuroleptics (antipsychotics), hypnotics, sedative antihistamines and CNS depressants e.g., general anesthetics, narcotic analgesics or antidepressants. Diazepam clearance is increased by concomitant administration of phonobarbitone and is decreased by administration of cimetidine. Omeprazole and isoniazide inhibit diazepam metabolism.","এলকোহলের সাথে ডায়াজিপাম এর ব্যবহার নির্দেশিত নয়। স্নায়ুতন্ত্রীয় ওষুধ, হিপনােটিক, নিদ্রা উদ্রেককারী এন্টিহিস্টামিন এবং কেন্দ্রীয় স্নায়ুতন্ত্র অবসাদকারী ওষুধের সাথে ডায়াজিপাম এর ব্যবহারে নিদ্রালুতা বৃদ্ধি পেতে পারে। ফেনােবারবিটোন ডায়াজিপাম এর নিঃসরণ বৃদ্ধি করে এবং সিমেটিডিন হ্রাস করে। ওমিপ্রাজল এবং আইসােনিয়াজাইড ডায়াজিপাম এর বিপাক ক্রিয়ায় বাঁধা প্রদান করে।",,,,
+R110,levonorgestrel-for-emergency-contraception,Pregnancy & Lactation,"This medicine is not indicated in case of pre-existing pregnancy and cannot interrupt it. In case of failure of this contraceptive mean persisting pregnancy, epidemiological studies indicate no adverse effects of progestogen on the malformation of a fetus. Lactation is possible. However, since levonorgestrel is secreted into breast milk, it is suggested that you breastfeed immediately before taking each Levonorgestrel tablet and that you skip the nursing following each Levonorgestrel administration.","গর্ভাবস্থায় এই ঔষধ অনুমােদিত নয় এবং গর্ভাবস্থায় কোন পরিবর্তন ঘটাতে পারে না। এই ঔষধ খাওয়ার পরেও যদি গর্ভধারন হয়ে থাকে, তবে সমীক্ষা প্রমান করে যে প্রজেষ্টোজেন ভ্রুনের গঠনের কোন ক্ষতি বা বিরূপ প্রতিক্রিয়া ফেলে না। এই ঔষধ সেবনের পরেও স্তন্যদান সম্ভব। তথাপি, লিভােনোরজেসট্রেল মায়ের বুকের দুধে নিঃসৃত হতে পারে তাই ইহা সেবনের পূর্বেই স্তন্যদান করা উচিৎ।",,,,
+R111,phenytoin-sodium,Contraindications,Phenytoin is contraindicated in those patients who are hyper sensitive to phenytoin and hydentoins.,যে সব রোগীদের ফেনিটোইন ও অন্যান্য হাইডেনটোইন এর প্রতি অতি সংবেদনশীলতা প্রতীয়মান হয়েছে সেই সব রোগীর ক্ষেত্রে ফেনিটোইন ব্যবহার নিষিদ্ধ।,,,,
+R112,phytomenadione-injection,Indications,"Phytomenadione (Vitamin K-1) is indicated in following indications-
+Prophylaxis and treatment of haemorrhagic disease in the newborn.
+Haemorrhage or risk of haemorrhage as a result of severe hypoprothrombinemia (i.e. deficiency of clotting factors II, VII, IX and X) of various etiologies, including overdosage of courmarin-type anticoagulants, their combination with phenylbutazone, and other forms of hypovitaminosis K (e.g. in obstructive jaundice as well as liver and intestinal disorders, and after prolonged treatment with antibiotics, sulphonamides or salicylates).
+Prevention and treatment of bleeding due to vitamin K deficiency.","ফাইটোমেনাডিওন (ভিটামিন কে-১) নিম্নোক্ত উপসর্গে নির্দেশিত-
+নবজাতকের ক্ষেত্রে প্রতিরোধক হিসাবে ও হেমোরেজিক অবস্থায় ব্যবহার্য।
+তীব্র হাইপোপ্রোথ্রম্বিনেমিয়ার (i.e. deficiency of clotting factors II, VII, IX and X) কারনে সৃষ্ট হেমোরেজ বা তার ঝুঁকি, কোউমারিন জাতীয় অ্যান্টি কোয়াগুলেন্টের অতিমাত্রায় ব্যবহার, ফিনাইল বিউটাজোন এবং হাইপোভিটামিনোসিস-কে (জন্ডিস, লিভার ও ইন্টেসটাইনের অকার্যকারিতা, দীর্ঘমেয়াদী অ্যান্টিবায়োটিক, সালফোনামাইড, সালফোনামাইড ও স্যালিসাইলেটের ব্যবহার)।
+ভিটামিন কে এর অভাবজনিত রক্তক্ষরণে ব্যবহার্য।",,,,
+R113,magnesium-sulfate,Indications,"Magnesium Sulfate injection is indicated mainly for the treatment of hypomagnesaemia and magnesium deficiency states. Irregular heart beats, some time it may be used as a laxative. Magnesium Sulfate injection is used in the treatment of magnesium deficiency. Magnesium Sulfate has anticonvulsant properties when administered parentally, it may be used to prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia. It is also used in bronchial asthma & cardiovascular disorder.","ম্যাগনেসিয়াম সালফেট ইনজেকশন সাধারনত হাইপারম্যাগনেসেমিয়া চিকিৎসার জন্য এবং ম্যাগনেসিয়াম এর ঘাটতি পূরণে ব্যবহার করা হয়। মাঝে মাঝে এটি অনিয়মিত হৃদস্পন্দন এবং রোচক ঔষধ হিসেবেও ব্যবহার করা হয়। মাগনেসিয়াম সালফেটের খিচুনি বিরোধী বৈশিষ্ট্য আছে যদি মাংসপেশীতে প্রয়োগ করা হয়। এটি খিচুনি প্রতিরোধ, ও নিয়ন্ত্রনেও ব্যবহার করা হয়। এটি অ্যাজমা ও হার্টের ব্যাধিতেও ব্যবহার করা হয়।",,,,
+R114,phenytoin-sodium,Indications,Phenytoin is an anticonvulsant which is used in the treatment of status epilepticus of grandmal type. It may also be used in the prevention and treatment of seizures occur during neurosurgery.,ফেনিটোইন একটি খিচুনী বিরোধী ঔষধ যাহা গ্রান্ডমাল স্বভাবের ষ্ট্যাটাস ইপিলেপটিকাস চিকিৎসায় ব্যবহৃত হয় ইহা ছাড়াও ইহা নিউরোসার্জারী (স্নায়ু শৈল্য চিকিৎসা) চলাকালীন খিচুনীর চিকিৎসা ও প্রতিরক্ষায় ব্যবহৃত হয়।,,,,
+R115,amoxicillin-trihydrate,Interaction,"Concurrent use of Amoxicillin and Probenecid may result in increased and prolonged blood levels of Amoxicillin. Amoxicillin may affect the gut flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.","এমোক্সিসিলিন ও প্রোবেনেসিডের সাথে যুগপৎ ব্যবহারে এমোক্সিসিলিনের প্লাজমা ঘনত্ব বৃদ্ধি ও দীর্ঘস্থায়ী হতে পারে। এমোক্সিসিলিন, আন্ত্রিক ফ্লোরা নষ্ট করতে পারে যা ইস্ট্রোজেনের পূণঃশোষণ কমিয়ে ফেলে এবং মুখে সেবনযোগ্য ইস্ট্রোজেন-প্রোজেস্টেরন সংবলিত জন্মপ্রতিরোধক জাতীয় ঔষধের কার্যকারিতা হ্রাস করতে পারে।",,,,
+R116,promethazine-hydrochloride,Indications,"Promethazine Hydrochloride is indicated in-
+Potent long-acting antihistamine with additional anti-emetic and sedative/calming effects.
+Indicated in symptomatic treatment of allergic conditions of the respiratory tract and skin.
+Sensitization reactions to drug or foreign proteins, anaphylactic reactions.
+For sedation, allergic rhinitis, urticaria and insomnia.
+As an adjunct in pre-operative sedation in surgery and obstetrics.
+As a paediatric sedative","প্রোমিথাজিন হাইড্রোক্লরাইড নিম্নোক্ত উপসর্গে নির্দেশিত-
+এটি
+শক্তিশালী
+দীর্ঘমেয়াদী
+কার্যকরী
+এ্যান্টিহিস্টাসিন
+হিসেবে
+নির্দেশিত
+।
+এছাড়াও
+এর
+বমিরােধী
+,
+নিদ্রা
+ও
+প্রশান্তিকারক
+বাড়তি
+প্রভাব
+রয়েছে
+।
+উপসর্গযুক্ত
+শ্বাসতন্ত্রের
+এবং
+ত্বকের
+এ্যালার্জির
+চিকিৎসায়
+নির্দেশিত
+।
+ওষুধ
+অথবা
+বহিরাগত
+প্রােটিনের
+প্রতি
+সংবেদনশীলতার
+প্রতিক্রিয়ায়
+,
+অ্যানাফাইল্যাকটিক
+প্রতিক্রিয়ায়
+।
+নিদ্রাকারক
+হিসেবে
+,
+নাকের
+এক
+ধরনের
+প্রদাহ
+,
+চামড়ায়
+ফুসকুড়ি
+এবং
+অনিদ্রায়
+।
+অস্ত্রোপাচার
+এবং
+প্রসবের
+পূর্বে
+নিদ্রাকারক
+হিসেবে
+অন্য
+কোন
+ওষুধের
+সহযােগে
+ব্যবহৃত
+হয়
+।
+শিশুদের
+নিদ্রাকারক
+হিসেবে।",,,,
+R117,prochlorperazine-maleate,Interaction,"Alcohol, barbiturate & other sedatives may increase the CNS depressant action. Some drugs like Antacids, antiparkinson's drug, lithium may interfere the absorption of Prochlorperazine. This drug may interfere with the plasma concentration of Propanolol and Phenobarbital.","এ্যালকোহল, বারবিচুরেট এবং অন্যান্য ঘুমের ওষুধ কেন্দ্রীয় স্নায়ুতন্ত্রের অবদমনকারী ক্রিয়াকে বাড়িয়ে দিতে পারে। এন্টাসিড, পারকিনসনস রােগের ওষুধ এবং লিথিয়াম প্রােক্লোরপেরাজিনের শােষণে বাধা দান করে। এই ওষুধ প্লাসমায় প্রােপানােলল এবং ফেনোবারবিটাল এর ঘনত্বে প্রভাব ফেলতে পারে।",,,,
+R118,dinoprostone,Indications,"Dinoprostone is indicated to helps in the induction of labor, and widens the cervix for easy delivery. It is also used to initiate an abortion at about 12 to 20 weeks of pregnancy and also indicated to help clean out the vagina after a miscarriage.",ডাইনোপ্রোস্টোন প্রসবের জন্য সাহায্য করে এবং সহজে প্রসবের জন্য জরায়ুকে প্রশস্ত করে। এটি গর্ভাবস্থার প্রায় ১২ থেকে ২০ সপ্তাহে গর্ভপাত শুরু করতেও ব্যবহৃত হয় এবং গর্ভপাতের পরে যোনি পরিষ্কার করতে সাহায্য করার জন্যও নির্দেশিত হয়।,,,,
+R119,lamotrigine,Interaction,"Valproate increases lamotrigine concentrations more than 2-fold. Carbamazepine, phenytoin, phenobarbital, primidone, and rifampin decrease lamotrigine concentrations by approximately 40%. Estrogen-containing oral contraceptives decrease lamotrigine concentrations by approximately 50%. Protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir decrease lamotrigine exposure by approximately 50% and 32% respectively.","ভ্যালপ্রোয়েট ল্যামোট্রিজিনের মাত্রা দুই গুণের বেশি বাড়িয়ে দেয়। কার্বামাজেপাইন, ফেনিটোইন, ফেনোবারবিটাল, প্রিমিডোন এবং রিফামপিন, ল্যামোট্রিজিনের মাত্রা প্রায় ৪০% কমিয়ে দেয়। ইস্ট্রোজেন সম্বলিত মৌখিক গর্ভনিরোধক ল্যামোট্রিজিনের মাত্রা প্রায় ৫০% কমিয়ে দেয়। প্রোটিয়েজ বাধাদানকারী লোপিনাভির/রিটোনাভির এবং এটাজানাভির/রিটোনাভির ল্যামট্রিজিনের মাত্রা প্রায় ৫০% এবং ৩২% কমিয়ে দেয়।",,,,
+R120,zinc-sulfate-monohydrate,Pregnancy & Lactation,The safety of this product in human pregnancy has not been established. Zinc crosses the placenta and is present in breast milk.,গর্ভাবস্থায় এই ঔষধের নিরাপত্তা প্রতিষ্ঠিত নয়। জিংক প্লাসেন্টা অতিক্রম করতে পারে এবং স্তন্যদুগ্ধে পাওয়া যায়।,,,,

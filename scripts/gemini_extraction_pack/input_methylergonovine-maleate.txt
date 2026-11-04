@@ -1,0 +1,11 @@
+### drug=methylergonovine-maleate | section=indications | lang=en
+Following delivery of the placenta, for routine management of uterine atony, hemorrhage and subinvolution of the uterus. For control of uterine hemorrhage in the second stage of labor following delivery of the anterior shoulder.
+
+### drug=methylergonovine-maleate | section=contraindications | lang=en
+Hypertension; toxemia; pregnancy; and hypersensitivity.
+
+### drug=methylergonovine-maleate | section=pregnancy_lactation | lang=en
+Pregnancy
+Category C. Animal reproductive studies have not been conducted with Methylergonovine. It is also not known whether methylergonovine maleate can cause fetal harm or can affect reproductive capacity. Use of Methylergonovine is contraindicated during pregnancy because of its uterotonic effects.
+Breast-feeding
+: Mothers should not breast-feed during treatment with Methylergonovine. Milk secreted during this period should be discarded. Methylergonovine may produce adverse effects in the breast-feeding infant. Methylergonovine may also reduce the yield of breast milk. Mothers should wait at least 12 hours after administration of the last dose of Methylergonovine before initiating or resuming breast feeding

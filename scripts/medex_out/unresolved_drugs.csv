@@ -1,0 +1,14 @@
+query,problem,medex_id,medex_name,reason,decision,checked_on
+methylergometrine,none,1482,Methylergonovine Maleate,spelling: MedEx uses methylergonovine,add to overrides.csv,2026-10-30
+sulfamethoxazole + trimethoprim,none,1024,Sulphamethoxazole + Trimethoprim,spelling: sulpha- not sulfa-,add to overrides.csv,2026-10-30
+anti-D immunoglobulin,none,546,Human Anti-D Immunoglobulins,name form,add to overrides.csv,2026-10-30
+phytomenadione (vitamin K),none,885,Phytomenadione (Injection),MedEx splits injection (885) and oral (1626); injection is the newborn prophylaxis form,add 885 to overrides.csv; oral 1626 optional later,2026-10-30
+vitamin A (retinol),none,1156,Vitamin A,name form,add to overrides.csv,2026-10-30
+oral rehydration salts,none,78,Oral rehydration salt [glucose based],MedEx splits ORS by type: 78 glucose; 915 rice; 352 flavoured glucose; 2405 tasty,add 78 to overrides.csv (standard ORS); others optional,2026-10-30
+isoxsuprine,none,,,no index row contains "isoxsup",not in MedEx index; leave out unless a site search finds it,2026-10-30
+poractant alfa,none,,,no index row contains "poractant",not yet checked under "surfactant",TODO
+etonogestrel,none,,,no index row contains "etonogestrel",not in MedEx index; leave out,2026-10-30
+ethinylestradiol + levonorgestrel,none,,,only triple combinations with ferrous fumarate found (441; 440 is norgestrel),not yet checked under "levonorgestrel" and "estradiol",TODO
+hydralazine,ambiguous,,,only combination found (2415 Isosorbide Dinitrate + Hydralazine),leave out (single drug not in MedEx index),2026-10-30
+ferrous fumarate,ambiguous,,,only combinations found (463 with folic acid; 441; 440),leave out,2026-10-30
+calcium carbonate + vitamin D3,ambiguous,169,Conventional Calcium + Vitamin D3,candidate only: composition unverified,open page and check it is calcium carbonate before adding,TODO

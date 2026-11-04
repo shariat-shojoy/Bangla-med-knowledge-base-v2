@@ -1,0 +1,312 @@
+### drug=diclofenac-sodium | section=indications | lang=en
+Diclofenac Sodium is indicated in-
+Rheumatology
+: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.
+Surgery and Traumatology
+: Sprain, bruises, dislocations, fractures, softtissue injuries, surgical interventions.
+Obstetrics and Gynecology
+: Primary dysmenorrhoea, episiotomy, adnexitis, endometritis, parametritis, salpingitis, and mastitis.
+Otorhinolaryngology
+: As pre-operative medication for the prevention of pain, inflammation, and swelling.
+Dentistry
+: Post-operative and post-traumatic pain, inflammation, and swelling.
+Other indications
+: For the prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract, renal and biliary colic.
+
+### drug=diclofenac-sodium | section=contraindications | lang=en
+Contraindicated to the patients hypersensitive to any ingredient of the products. Peptic ulcer, hypersensitivity to Diclofenac like other non-steroid anti-inflammatory agents, Diclofenac is also contra-indicated in asthmatic patient in whom attack with asthma, urticaria or acute rhinitis are precipitated by acetylsalicylic acid or by other drugs with prostaglandin synthetase inhibitor. This Gel should not be used under occlusive airtight dressings.
+
+### drug=diclofenac-sodium | section=pregnancy_lactation | lang=en
+During pregnancy, Diclofenac should be employed only for compelling reasons. The lowest effective dose should be used. These types of drugs are not recommended during the first trimester of pregnancy. In view of insufficient clinical data, Diclofenac Sodium Gel is not recommended during pregnancy. A very insignificant quantity of Diclofenac may be detected in breast milk but no undesirable effects on the infant to be expected.
+
+### drug=diclofenac-sodium | section=indications | lang=bn
+বাত সংক্রান্ত রোগ
+: প্রদাহঘটিত ও অবশকারী বাত, দীর্ঘস্থায়ী, হাড়ের জটিল বহুমুখী প্রদাহ, কশেরুকার আড়ষ্টকারী প্রদাহ, হাড়ের প্রদাহ, কশেরুকার বিচ্যুতি, তীব্র বাত, গেঁটে বাত (অর্থ্রাইটিস)।
+অস্ত্রোপচার ও আঘাতজনিত
+: মচকানো, কালশিরে, বিচ্যুতি, হাড়ের আঘাত, কোমল পেশীর গভীর ক্ষত, তীব্র ব্যথা অস্ত্রোপচারজনিত ক্ষত ও আঘাত।
+ধাত্রী ও স্ত্রীরোগ
+: ব্যথাযুক্ত ঋতুস্রাব, জরায়ুর প্রদাহ, জনননালীর প্রদাহ, স্তনে প্রদাহ এবং ফোলা।
+নাক-কান-গলা
+: নাক, কান ও গলা সংক্রান্ত যে কোন ধরনের ব্যথা ও প্রদাহ। অস্ত্রোপচার-পূর্ববর্তী প্রদাহ ও ফোলা বিরোধী চিকিৎসায়।
+দাঁত ব্যথা
+: অস্ত্রোপচারের পরবর্তী ও আঘাতের ফলে সৃষ্ট ব্যথা, প্রদাহ এবং ফোলা।
+অন্যান্য
+: মূত্রনালী ও জননেন্দ্রীয়ে ব্যথা, ফুলে যাওয়া, অস্ত্রোপচারোত্তর ব্যথা ও প্রদাহ, কিডনী পিত্তনালীর ব্যথায় ব্যবহার্য।
+
+### drug=diclofenac-sodium | section=contraindications | lang=bn
+ডাইক্লোফেনাক সোডিয়াম অতিসংবেদনশীল, সক্রিয় পেপটিক আলসার এবং হাঁপানী রোগীদের ক্ষেত্রে নির্দেশিত নয়। ডাইক্লোফেনাক অথবা এর জেল বেস, অ্যাসিটাইল স্যালিসাইলিক এসিড অথবা অন্যান্য ননষ্টেরয়েডাল প্রদাহরোধী উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে আরডন জেল ব্যবহার করা যাবে না। বন্ধ এবং বায়ুরোধী ড্রেসিং এর ক্ষেত্রে আব্রডন জেল ব্যবহার করা যাবে না।
+
+### drug=diclofenac-sodium | section=pregnancy_lactation | lang=bn
+গর্ভবর্তী মায়েদের ক্ষেত্রে অপরিহার্য না হলে ব্যবহার না করাই উত্তম। ক্ষেত্রবিশেষে স্বল্প মাত্রায় ব্যবহার করা যেতে পারে। প্রথম ট্রাইমেস্টারে ব্যবহার করা উচিত নয়। অপর্যাপ্ত ক্লিনিক্যাল তথ্যের কারণে ডাইক্লোফেনাক সোডিয়াম জেল গর্ভাবস্থায় ব্যবহার করা অনুচিত। মাতৃদুগ্ধে অতি অল্প পরিমাণ ডাইক্লোফেনাক থাকতে পারে, তবে তা নবজাতকের কোন ক্ষতি করার কথা নয়।
+
+### drug=dinoprostone | section=indications | lang=en
+Dinoprostone is indicated to helps in the induction of labor, and widens the cervix for easy delivery. It is also used to initiate an abortion at about 12 to 20 weeks of pregnancy and also indicated to help clean out the vagina after a miscarriage.
+
+### drug=dinoprostone | section=contraindications | lang=en
+Dinoprostone Gel is contraindicated in the following patients: Hypersensitivity to this drug or to any ingredient in the formulation, Patients in whom oxytocic drugs are contraindicated or where prolonged contractions of the uterus are considered inappropriate, history of cesarean section or major uterine surgery, major degree of cephalopelvic disproportion, history of difficult labor and/or traumatic delivery, Grand multiparae with six or more previous term pregnancies, suspected or clinically evident pre-existing fetal distress, Patients with overdistention of the uterus (multiple pregnancy, polyhydromnias), ruptured amniotic membranes or suspected chorioamnionitis, Patients with unexplained vaginal bleeding during the pregnancy, fetal malpresentation, gynecological, obstetrical or medical conditions that preclude vaginal delivery, history of epilepsy, patients whose pregnancy is complicated by an abnormal position of the placenta or umbilical cord.
+
+### drug=dinoprostone | section=pregnancy_lactation | lang=en
+Dinoprostone classified in FDA pregnancy category C. It is not recommended during pregnancy, labor or delivery and in mothers who are breast feeding.
+
+### drug=dinoprostone | section=indications | lang=bn
+ডাইনোপ্রোস্টোন প্রসবের জন্য সাহায্য করে এবং সহজে প্রসবের জন্য জরায়ুকে প্রশস্ত করে। এটি গর্ভাবস্থার প্রায় ১২ থেকে ২০ সপ্তাহে গর্ভপাত শুরু করতেও ব্যবহৃত হয় এবং গর্ভপাতের পরে যোনি পরিষ্কার করতে সাহায্য করার জন্যও নির্দেশিত হয়।
+
+### drug=dinoprostone | section=contraindications | lang=bn
+ডাইনোপ্রোস্টোন জেল নিম্নলিখিত রোগীদের জন্য প্রতিনির্দেশিত: এই ওষুধের প্রতি অত্যধিক সংবেদনশীলতা বা ফর্মুলেশনের কোন উপাদান, রোগীদের যাদের মধ্যে অক্সিটোসিক ওষুধ প্রতিনির্দেশিত বা যেখানে জরায়ুর দীর্ঘায়িত সংকোচন অনুপযুক্ত বলে মনে করা হয়, পূর্বে সিজারিয়ান সেকসন হয়ে থাকলে বা জরায়ু অস্ত্রোপচার, সেফালোপেলভিক অসামঞ্জস্যতা, জটিল প্রসবের ইতিহাস এবং/অথবা আঘাতমূলক ডেলিভারি, গ্র্যান্ড মাল্টিপ্যার সহ ছয় বা ততোধিক পূর্ববর্তী মেয়াদী গর্ভধারণ, সন্দেহভাজন বা ক্লিনিক্যালি রিপোর্টে পূর্ব বিদ্যমান ভ্রূণ, জরায়ুর অতিরিক্ত দূরত্বের রোগী (একাধিক গর্ভাবস্থা, পলিহাইড্রোমনিয়াস), ফেটে যাওয়া অ্যামনিওটিক মেমব্রেন বা সন্দেহজনক কোরিওঅ্যামনিওনাইটিস, গর্ভাবস্থায় অপ্রত্যাশিত যোনিপথে রক্তপাতের রোগী, ভ্রূণের অস্বাভাবিকতা, গাইনোকোলজিকাল, যোনিপথে প্রসবের বাধা দেয় এমন প্রসূতি বা চিকিৎসার অবস্থা, মৃগীরোগের ইতিহাস, যেসব রোগীর গর্ভাবস্থা প্লাসেন্টা বা নাভির কর্ডের অস্বাভাবিক অবস্থানের কারণে জটিল।
+
+### drug=dinoprostone | section=pregnancy_lactation | lang=bn
+ডাইনোপ্রোস্টোন FDA প্রেগন্যান্সি ক্যাটাগরি সি তে শ্রেণীবদ্ধ। গর্ভাবস্থা, প্রসব বা প্রসবের সময় এবং বুকের দুধ খাওয়ানো মায়েদের ক্ষেত্রে এটি সুপারিশ করা হয় না।
+
+### drug=doxycycline-hydrochloride | section=indications | lang=en
+Doxycycline Hydrochloride is indicated in the following infections caused by susceptible microorganisms:
+Respiratory tract infections
+: Pneumonia, influenza, sinusitis, bronchitis, tonsillitis, tracheitis.
+Gastrointestinal tract infections
+: Cholera, traveler's diarrhea, shigella dysentery, acute intestinal amebiasis.
+Chlamydial infections
+: Lympho-granuloma venereum, psittacosis, trachoma.
+Sexually transmitted disease
+s: Non gonococcal urethritis, acute pelvic inflammatory disease, uncomplicated urethral and endocervical or rectal infections, gonorrhoea, syphilis, pyelonephritis, cystitis.
+Other infections
+: Impetigo, furunculosis, inclusion conjunctivitis, brucellosis, tularemia, cellulitis, acne and Q-fever.
+
+### drug=doxycycline-hydrochloride | section=contraindications | lang=en
+Doxycycline is contraindicated to the patients who have shown hypersensitivity to any of the tetracyclines. Doxycycline is contraindicated to the children under 8 years of age. It is also contraindicated to pregnant women and to the lactating mothers.
+
+### drug=doxycycline-hydrochloride | section=pregnancy_lactation | lang=en
+Doxycycline should be avoided in pregnant women, because of the risk of both staining and effect on bone growth in the foetus. Doxycyclines enter breast milk, and mothers taking these drugs should not breastfeed their child.
+
+### drug=doxycycline-hydrochloride | section=indications | lang=bn
+ডক্সিসাইক্লিন হাইড্রোক্লোরাইড নিম্নোক্ত উপসর্গে নির্দেশিত-
+রেসপীরেটরী ট্রাক্ট ইনফেকশন
+: নিউমােনিয়া, ইনফ্লুয়েঞ্জা, সাইনুসাইটিস, ব্রঙ্কাইটিস, টনসিলাইটিস, ট্রাকিয়াইটিস।
+গ্রাস্ট্রোইনটেসটিনাল ইনফেকশন
+: কলেরা, ট্রাভেলারস ডায়রিয়া, সিজেলা ডিসেন্ট্রি, একিউট ইনটেসটিনাল এমেবিয়াসিস।
+ক্লামিডেল ইনফেকশন
+: লিম্ফোগ্রানুলোমা, ভেনেরিয়াম লিটাকোসিস, ট্রাকোমা।
+সেক্সুয়ালী ট্রান্সমিটেড ডিজিজেস
+: নন-গনকক্কাল ইউরেথ্রাইটিস, একিউট পেলভিক ডিজিজ, আনকমপ্লিকেটেড ইরেথ্রাল ও এন্ডােসারভাইকাল অথবা রেকটাল ইনফেকশন, গনােরিয়া, সিফিলিস, পাইলোনেফ্রাইটিস, সিসটাইসিস।
+অন্যান্য সংক্রমণ
+: ইমপেটিগাে, ফুরানকুলােসিস, ইনফ্লশন কনজাঙ্কটিভাইটিস, ব্রুসেলােসিস, টুলারেমিয়া সেলুলাইটিস, একনি ও কিউ-ফিভার।
+
+### drug=doxycycline-hydrochloride | section=contraindications | lang=bn
+টেট্রাসাইক্লিনের প্রতি অতিসংবেদনশীলতা আছে এমন রােগীদের ক্ষেত্রে, ৮ বছর বয়সের নীচের শিশুদের ক্ষেত্রে এবং গর্ভবতী ও স্তন্যদানকারী মায়েদের ক্ষেত্রে প্রতিনির্দেশিত।
+
+### drug=doxycycline-hydrochloride | section=pregnancy_lactation | lang=bn
+গর্ভবতী মহিলাদের ক্ষেত্রে ডোক্সিসাইক্লিন এড়ানো উচিত, কারণ ভ্রূণের হাড়ের বৃদ্ধিতে ইহা ঝুঁকির কারণ। ডক্সিসাইক্লাইনগুলি মায়ের দুধে প্রবেশ করে এবং এই ওষুধ গ্রহণকারী মায়েরা তাদের সন্তানের বুকের দুধ খাওয়ানো থেকে বিরত থাকা উচিত।
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=indications | lang=en
+This combination tablet is indicated for:
+As an oral contraceptive
+Treatment of moderate acne vulgaris
+Treatment of premenstrual dysphoric disorder (PMDD)
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=contraindications | lang=en
+This tablet should not be used:
+Known or suspected pregnancy
+If you have heart disease, clotting of blood in the vein
+If you suffer from liver disease or jaundice
+If you suffer from high blood pressure, migraine, feel something hard in your breast, diabetes with vascular involvement, experience excessive bleeding for which no reason has yet been ascertained
+The presence or a history of venous or arterial thromboembolic events (e.g. deep venous thrombosis, pulmonary embolism, myocardial infarction or of a cerebrovascular accident)
+History of migraine with focal neurological symptoms
+Pancreatitis or a history thereof if associated with severe hypertriglyceridaemia
+Severe renal insufficiency or acute renal failure
+Presence or history of liver tumours (benign or malignant)
+Undiagnosed vagina! bleeding
+Hypersensitivity to any of the components of this preparation.
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=pregnancy_lactation | lang=en
+Use during pregnancy
+: This is contraindicated during pregnancy. Pregnancy must be excluded before starting this tablet. If pregnancy occurs during use of this tablet, the preparation must be withdrawn immediately. Women who discontinue oral contraceptives with the intent of becoming pregnant, a non-hormonal method of contraception is recommended for three months before attempting to conceive.
+Use during lactation
+: Lactation may be influenced by combined pill as they may reduce the quantity and change the composition of breast milk, therefore the use of estrogen containing combined pill should generally not be recommended until the nursing mother has completely weaned her child. Small amounts of the contraceptive steroids and/or their metabolites may be excreted with the milk.
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=indications | lang=bn
+এই ট্যাবলেটি নিম্নোক্ত উপসর্গে নির্দেশিত-
+গর্ভনিরোধক হিসেবে
+মাঝারি ধরনের ব্রণের চিকিৎসায় এবং
+প্রিমিন্সট্রুয়াল ডিসফোরিক ডিসঅর্ডার এর চিকিৎসায়
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=contraindications | lang=bn
+এই ট্যাবলেট ব্যাবহার করা উচিত নয়:
+জানা অথবা সম্ভাব্য গর্ভাবস্থা
+যদি আপনার হৃদরোগ, ধমনীতে রক্ত জমাট বাঁধা রোগ থাকে
+যদি আপনি লিভারের কোন অসুখ অথবা জন্ডিসে আক্রান্ত হয়ে থাকেন
+যদি আপনি উচ্চ রক্তচাপ, তীব্র মাথা ব্যথা, স্তনের ভেতর গোটা বা শক্ত কিছু অনুভব করা, ডায়াবেটিস এর সাথে ধমনীর জটিলতা, অত্যধিক রক্তস্রাব যার কারণ নির্ণয় হয়নি এসব অসুবিধা প্রত্যক্ষ করেন
+যদি আপনার ধমনী বা শিরাতে থ্রম্বোইম্বোলিক ইভেন্ট (যেমন- ডীপ ভেনাস থ্রম্বোসিস, পালমোনারী ইম্বোলিজম, মায়োকার্ডিয়াল ইনফ্রাকশন এবং সেরেব্রোভাস্কুলার অ্যাকসিডেন্ট) থাকে
+যদি আপনার প্যানক্রিয়াটাইটিস বা হাইপার ট্রাইগ্লিসারেডেমিয়া এর ইতিহাস থাকে
+রেনাল ইনসাফিসিয়েন্সি বা অ্যাকিউট রেনাল ফেইলিওর এর ক্ষেত্রে
+যদি আপনার লিভার টিউমার বা এর ইতিহাস থাকে
+যোনীপথে অনির্ণেয় রক্তক্ষরণ
+এই ট্যাবলেট এর যে কোন উপাদানের প্রতি অতি সংবেদনশীলতা
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায়
+: গর্ভাবস্থায় এই ট্যাবলেট প্রতিনির্দেশিত। এই ট্যাবলেট শুরু করার আগে নিশ্চিত হতে হবে যে আপনি গর্ভবর্তী নন। যদি এই ট্যাবলেট গ্রহণকালে গর্ভধারণ হয় তাহলে সাথে সাথে এই ট্যাবলেট এর ব্যাবহার বন্ধ করতে হবে। যে সমস্ত মহিলারা গর্ভধারণের জন্য জন্মনিয়ন্ত্রণ ট্যাবলেট খাওয়া বন্ধ করেন তাদেরকে গর্ভধারণের তিন মাস পুর্বে নন-হরমোনাল জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহারের জন্য নির্দেশ করা হয়।
+স্তন্যদানকালে
+: কম্বাইন্ড জন্মনিয়ন্ত্রণ ট্যাবলেট খেলে তা স্তন্যদানের ক্ষেত্রে বাঁধা হতে পারে। এই ক্ষেত্রে বুকের দুধের পরিমাণ কমে যাওয়া ও উপাদানের পরিবর্তন হতে পারে। তাই, ইস্ট্রোজেন ধারণকারী জন্মনিয়ন্ত্রণ ট্যাবলেট এর ব্যবহার শিশু সম্পূর্ণভাবে মায়ের বুকের দুধ ভিন্ন অন্য খাবারে অভ্যস্ত না হওয়া পর্যন্ত স্থগিত রাখতে হবে। যেসব মায়েরা স্তন্যদান কালে জন্মনিয়ন্ত্রণ ট্যাবলেট খান তাদের বুকের দুধে সামান্য পরিমাণ জন্মনিয়ন্ত্রণ ট্যাবলেট এর স্টেরয়েড বা তাদের উপজাত এর উপস্থিতি পরিলক্ষিত হয়েছে।
+
+### drug=dydrogesterone | section=indications | lang=en
+Dydrogesterone tablet is indicated in-
+Progesterone deficiencies
+:
+Treatment of threatened miscarriage
+Treatment of habitual miscarriage
+Treatment of dysmenorrhoea
+Treatment of endometriosis
+Treatment of secondary amenorrhoea
+Treatment of irregular cycles
+Treatment of dysfunctional uterine bleeding
+Treatment of infertility due to luteal insufficiency
+Luteal support as part of an Assisted Reproductive Technology (ART)
+Hormone Replacement Therapy
+: To counteract the effects of unopposed oestrogen on the endometrium in hormone replacement therapy for women with disorders due to natural or surgical induced menopause with an intact uterus.
+
+### drug=dydrogesterone | section=contraindications | lang=en
+Hypersensitivity to the active substance or to any of the excipients
+Known or suspected progestogen dependent neoplasms
+Undiagnosed vaginal bleeding
+If used to prevent endometrial hyperplasia (in women using estrogens)
+Thrombophlebitis or thromboembolic disorders.
+Cerebrovascular or coronary artery disease, or a past history of these conditions.
+Hepatic disease or dysfunction, a history of cholestatic jaundice or pruritus of pregnancy and in Dubin-Johnson syndrome and Rotor syndrome.
+History of herpes in pregnancy.
+Sickle cell anaemia.
+Benign or malignant liver tumours which develop during the use of oral contraceptives
+
+### drug=dydrogesterone | section=pregnancy_lactation | lang=en
+So far there were no indications of a harmful effect of Dydrogesterone use during pregnancy. Dydrogesterone is excreted in the milk of nursing mothers. A risk to the breastfed child cannot be excluded. Dydrogesterone should not be used during breast-feeding. There is no evidence that Dydrogesterone decreases fertility.
+
+### drug=dydrogesterone | section=indications | lang=bn
+প্রোজেস্টেরনের ঘাটতির চিকিৎসা
+ডাইড্রোজেস্টেরন নিরর্দেশিত, যেমন:
+থ্রেটেন্ড গর্ভপাত
+হ্যাবিচুয়াল গর্ভপাত
+ডিসমেনোরিয়া (মাসিকের সময় প্রচন্ড ব্যথা)
+এন্ডোমেট্রিওসিস
+অকার্যকর জরায়ু রক্তপাত (ডিইউবি)
+সেকেন্ডারি এমেনোরিয়া (ঋতুস্রাব বন্ধ হওয়া)
+অনিয়মিত মাসিক চক্র
+অ্যাসিস্টেন্ড রিপ্রোডাক্টিভ টেকনোলজির (এআরটি) অংশ হিসেবে লুটিয়াল সাপোর্টের জন্য
+লুটিয়াল অপর্যাপ্ততার কারণে বন্ধ্যাত্ম
+: হরমোন রিপ্লেসমেন্ট থেরাপী (এইচআরটি): অক্ষত জরায়ুতে প্রাকৃতিকভাবে বা অস্ত্রোপচার দ্বারা মেনোপজ হয়েছে এমন মহিলাদের জন্য হরমোন রিপ্লেসমেন্ট থেরাপিতে এন্ডোমেট্রিয়ামে ইস্ট্রোজেনের প্রভাব প্রতিহত করতে ব্যবহার করা হয়।
+
+### drug=dydrogesterone | section=contraindications | lang=bn
+কোন মূল উপাদান বা আনুসঙ্গিক উপাদানের প্রতি অতি সংবেদনশীলতা
+যোনিপথে রক্তপাত যা নির্ণয় করা হয়নি
+প্রোজেস্টোজেন নির্ভর নিওপ্লাজম হয়েছে বা হওয়ার ব্যাপারে সন্দেহ রয়েছে এমন রোগী
+এন্ডোমেট্রিয়াল হাইপারপ্লাসিয়া প্রতিরোধ করতে ব্যবহৃত হয় (ইস্ট্রোজেন ব্যবহার করে এমন মহিলাদের (ক্ষত্রে) থ্রম্বোফ্লেবাইটিস বা থ্রম্বো এম্বোলিক ডিসঅর্ডার
+সেরিব্রোভাসকুলার বা করোনারি ধমনী রোগ, বা এই অবস্থা অতীতে হয়েছে এমন রোগী
+হেপাটিক রোগ বা ডিসফাংশন, কোলেস্ট্যাটিক জন্ডিস বা গর্ভাবস্থার ধ্রুরিটাস এবং ডুবিন-জনসন সিন্ড্রোম
+এবং রটর সিনড্রোমের রোগীদের ক্ষেত্রে
+গর্ভাবস্থায় হারপিস হয়েছে এমন রোগীদের
+সিকেল সেল অ্যানিমিয়া
+বিনাইন বা ম্যালিগন্যান্ট লিডার টিউমার যা ওরাল গর্ভনিরোধক ব্যবহারের সময় হয়ে থাকে
+
+### drug=dydrogesterone | section=pregnancy_lactation | lang=bn
+এখনও পর্যন্ত গর্ভাবস্থায় ডাইড্রোজেস্টেরন ব্যবহারের ক্ষতিকারক প্রভাবের কোনো তথ্য পাওয়া যায়নি। স্তন্যদানকারী মায়েদের দুধে ডাইড্রোজেস্টেরনের উপস্থিতি পাওয়া যায়; তাই স্তন্যপানকারী বাচ্চাদের ঝুঁকির কথা বাদ দেওয়া যায় না। বুকের দুধ খাওয়ানোর সময় ডাইড্রোজেস্টেরন ব্যবহার করা উচিত নয়। ডাইড্রোজেস্টেরন উর্বরতা হ্রাস করে এমন কোন প্রমাণ নেই।
+
+### drug=enalapril-maleate | section=indications | lang=en
+Hypertension
+: All grades of essential hypertension and renovascular hypertension.
+Heart failure
+: In heart failure, Enalapril Maleate should be used as an adjunctive therapy with non-potassium-sparing diuretics and, where appropriate, digitalis.
+Severe heart failure
+: Treatment with Enalapril Maleate should always be initiated in hospital under close medical supervision. When used as an adjunct to conventional therapy in these patients, Enalapril Maleate improves symptoms, and reduces mortality and hospitalization.
+Mild to moderate heart failure
+: Treatment with Enalapril Maleate should always be initiated under close medical supervision. When used as an adjunct to conventional therapy in these patients, Enalapril Maleate improves symptoms, and reduces mortality and hospitalization.
+
+### drug=enalapril-maleate | section=contraindications | lang=en
+Hypersensitivity to the product or any of its components, and in patients with a history of angioneurotic oedema relating to previous treatment with an ACE inhibitor.
+
+### drug=enalapril-maleate | section=pregnancy_lactation | lang=en
+Enalapril has been shown to be fetotoxic in rabbits during middle and late pregnancy. Because of these findings Enalapril is contra-indicated in pregnancy. Enalapril and enalaprilat are excreted in human milk; caution should be exercised if Enalapril is given to lactating mothers.
+
+### drug=enoxaparin-sodium | section=indications | lang=en
+Enoxaparin is indicated in:
+Treatment of deep vein thrombosis, with or without pulmonary embolism.
+Treatment of unstable angina and non-Q-wave myocardial infarction, administered concurrently with aspirin.
+Prevention of thrombus formation in the extra-corporal circulation during haemodialysis.
+Prophylaxis of venous thromboembolic disease (prevention of blood clot formation in the veins), in particular those which may be associated with orthopedic or general surgery.
+Prophylaxis of venous thromboembolic disease in medical patients bedridden due to acute illness, including cardiac insufficiency, respiratory failure, severe infections, rheumatic diseases.
+
+### drug=enoxaparin-sodium | section=contraindications | lang=en
+Patients with known hypersensitivity to Enoxaparin Sodium, heparin or other low molecular weight heparins. Patients with active major bleeding and conditions with a high risk of uncontrolled hemorrhage including recent hemorrhagic stroke.
+
+### drug=enoxaparin-sodium | section=pregnancy_lactation | lang=en
+Pregnancy category B. In humans, there is no evidence that Enoxaparin Sodium crosses the placental barrier. As there are no adequate and well-controlled studies in pregnant women, Enoxaparin Sodium should be used during pregnancy only if clearly needed. Pregnant women with mechanical prosthetic heart valves may be at a higher risk for thromboembolism.
+It is not known whether Enoxaparin is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or discontinue Enoxaparin, taking into account the importance of Enoxaparin to the mother and the known benefits of nursing.
+
+### drug=enoxaparin-sodium | section=indications | lang=bn
+ইনোক্সাপারিন সোডিয়াম নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+পালমোনারী এমবোলিজম সহ অথবা ব্যতীত গভীর শিরার থ্রোম্বোসিসের চিকিৎসায়।
+আনস্টেবল এনজাইনা এবং ননকিউওয়েভ মায়োকার্ডিয়াল ইনফার্কশানের চিকিৎসায় এসপিরিনের সাথে একত্রে।
+হেমোডায়ালাইসিস এর সময় এক্সট্রা করপোরাল সঞ্চালনে রক্ত জমাট বাধার প্রতিরোধে।
+শিরার থ্রোম্বোএম্বালিক রোগ প্রতিরোধে (শিরায় রক্ত জমাট বাধা প্রতিরোধে) বিশেষভাবে অর্থোপেডিক বা সাধারণ সার্জারীর ক্ষেত্রে।
+শিরার থ্রোম্বোএম্বালিক রোগ প্রতিরোধে বিছানায় শায়িত তীব্র অসুস্থ রোগীদের ক্ষেত্রে যেমন কার্ডিয়াক ইনসাফিসিয়েন্সি, শ্বসণতন্ত্রের ব্যর্থতায়, মারাত্মক সংক্রমণে, রিউমাটিক রোগে।
+
+### drug=enoxaparin-sodium | section=contraindications | lang=bn
+ইনোক্সাপারিন সোডিয়াম, হেপারিন অথবা অন্যান্য স্বল্প আনাবিক ওজন বিশিষ্ট হেপারিনের প্রতি অতি সংবেদনশীলতা। মেজর কটিং ডিসওর্ডার যেমন- থ্রোম্বোসাইটোপেনিয়ার ইতিহাস, সক্রিয় পাকতান্ত্রিক আলসার অথবা জৈবিক সমস্যা যা রক্তপাত ঘটাতে পারে, মস্তিষ্কে রক্তরণজনিত স্ট্রোক। বিরল ক্ষেত্রে, কিউটোনিয়াস বা সিসটেমিক অ্যালর্জি বিক্রিয়া হতে পারে।
+
+### drug=enoxaparin-sodium | section=pregnancy_lactation | lang=bn
+প্রেগন্যান্সী ক্যাটেগরী বি। মাতৃদুগ্ধে এনোক্সাপ্যারিন নিঃসৃত হয় কিনা তা জানা যায়নি।
+
+### drug=ergometrine-maleate | section=indications | lang=en
+Active management of the third stage of labour
+Treatment and prophylaxis of postpartum haemorrhage
+Excessive uterine bleeding
+Postpartum and post-abortion bleeding.
+
+### drug=ergometrine-maleate | section=contraindications | lang=en
+Pregnancy, 1st and 2nd stage of labour, patients with preeclampsia, eclampsia or threatened spontaneous abortion; porphyria.
+
+### drug=ergometrine-maleate | section=pregnancy_lactation | lang=en
+Pregnancy Category X. Studies in animals or human beings have demonstrated foetal abnormalities or there is evidence of foetal risk based on human experience or both, and the risk of the use of the drug in pregnant women clearly outweighs any possible benefit. The drug is contraindicated in women who are or may become pregnant.
+
+### drug=erythromycin-oral | section=indications | lang=en
+Erythromycin is highly effective in the treatment of a wide variety of clinical infections.
+Upper respiratory tract infections
+: Tonsilitis, Peritonsillar abscess, Pharyngitis, laryngitis, Sinusitis. Secondary infections in colds and influenza.
+Lower respiratory tract infections
+: Tracheitis, acute and chronic bronchitis.
+Ear infections
+: Otitis media, otitis externa, mastoiditis.
+Eye infections
+: Blepharitis, established trachoma.
+Skin and Soft tissue infections
+: Boils and carbuncles, impetigo, abscesses, pustular acne, paromychia, cellulitis, erysipelas.
+Gastrointestinal tract infections
+: Cholecystitis, staphylococcal enterocolitis.
+Prophylaxis
+: Pre and post-operative, trauma, burns, rheumatic fever.
+Other infections
+: Osteomyelitis, diptheria, scarlet fever, whooping cough.
+
+### drug=erythromycin-oral | section=contraindications | lang=en
+Known hypersensitivity to Erythromycin.
+
+### drug=erythromycin-oral | section=pregnancy_lactation | lang=en
+Clinical and Laboratory studies have been shown no evidence in human of teratogenicity or toxicity. However, caution should be exercised when prescribing this drug to pregnant patients and lactating mothers since erythromycin crosses the placental barrier and is excreted in breast milk.
+
+### drug=erythromycin-oral | section=indications | lang=bn
+ব্যাপক ধরণের ক্লিনিক্যাল সংক্রমণের চিকিৎসায় ইরাইথ্রোমাইসিন খুব কার্যকরী। যেমন-
+উর্ধ্ব-শ্বাসনালীর সংক্রমণে
+: টনসিল প্রদাহ, গলবিল প্রদাহ, সাইনাস প্রদাহ, ঠান্ডা ও ইনফ্লুয়েঞ্জায়, পরিটনসিলীয় আনুষঙ্গিক সংক্রমণ।
+নিন্ম শ্বাসনালীর সংক্রমণে
+: শ্বাসনালী প্রদাহ, তীব্র ও দীর্ঘস্থায়ী ব্রঙ্কাইটিস, ব্রস্কোনিউমোনিয়া, লোবার নিউমোনিয়া, ব্রঙ্কিয়েকটোসিস্, হুপিংকফ।
+কর্ণ সংক্রমণ
+: মধ্যকর্ণপ্রদাহ, বহিঃকর্ণপ্রদাহ, কর্ণপশ্চাৎস্থিত অস্থি প্রদাহ।
+চক্ষু সংক্রমণ
+: অক্ষিপত্র প্রদাহ, প্রতিষ্ঠিত ট্রাকোমা।
+ত্বক ও কোমল টিস্যু সংক্রমণ
+: ফোঁড়া ও বিষব্রণ, চর্মদল, কোষপ্রদাহ।
+পাকান্ত্রিক সংক্রমণ
+: পাকাশয় ও পিত্তাশয় সংক্রমণ।
+অন্যান্য সংক্রমণ
+: অস্থিমজ্জা প্রদাহ, ডিপথেরিয়া, স্কারলেট জ্বর ও হুপিংকফ।
+
+### drug=erythromycin-oral | section=contraindications | lang=bn
+যাদের ক্ষেত্রে এই প্রিপাবেশনের কোন উপাদানের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে ইরাইথ্রোমাইসিনের ব্যবহার নিষিদ্ধ।
+
+### drug=erythromycin-oral | section=pregnancy_lactation | lang=bn
+ক্লিনিক্যাল ও ল্যাবরেটরী সমীক্ষায় মানবদেহে কোন ভ্রুণ বিকৃতি বা বিষাক্তি ঘটার প্রমানাদি পাওয়া যায়নি। তবে যেহেতু প্লাসেন্টা বাধা অতিক্রম করে এবং মাতৃ দুগ্ধে নিঃসরিত হয় সেহেতু গর্ভবতী ও স্তনদানকারী মায়েদের ক্ষেত্রে প্রয়োগে সাবধানতা অবলম্বন করা উচিত।

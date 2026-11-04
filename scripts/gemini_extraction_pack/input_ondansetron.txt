@@ -1,0 +1,18 @@
+### drug=ondansetron | section=indications | lang=en
+Ondansetron is a serotonin subtype 3 (5-HT3) receptor antagonist indicated:
+Prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy.
+Prevention and treatment of post-operative nausea and vomiting.
+Prevention of radiotherapy-induced nausea and vomiting.
+
+### drug=ondansetron | section=contraindications | lang=en
+Contraindicated in patients known to have hypersensitivity to the drug or any of its components. Concomitant use of apomorphine.
+
+### drug=ondansetron | section=pregnancy_lactation | lang=en
+Carcinogenic effects were not seen in 2-year studies in rats and mice with oral Ondansetron doses up to 10 and 30 mg/kg per day, respectively. Ondansetron was not mutagenic in standard tests for mutagenicity. Oral administration of Ondansetron up to 15 mg/kg per day did not affect fertility or general reproduction performance of male and female rats.
+Reproduction studies have been performed in pregnant rats and rabbits at daily oral doses up to 15 and 30 mg/kg per day, respectively, and have revealed no evidence of impaired fertility or harm to the fetus due to Ondansetron. There are, however, no adequate and well-controlled studies in pregnant women. Ondansetron is excreted in the breast milk of rats. So caution should be exercised when Ondansetron is administered to a nursing women.
+
+### drug=ondansetron | section=indications | lang=bn
+অনড্যানসেট্‌রন একটি সুনির্দিষ্ট সেরােটোনিন (৫-এইচটি৩) রিসেপ্টর এন্টাগনিষ্ট যা নিম্নোক্ত উপসর্গে নির্দেশিত-
+উচ্চক্ষমতাসম্পন্ন এমিটোজেনিক ক্যান্সার কেমােথেরাপীর ক্ষেত্রে বমি বমি ভাব ও বমি প্রতিরােধে।
+অস্ত্রপাচার পরবর্তী বমি বমি ভাব ও বমি প্রতিরােধে।
+রেডিওথেরাপীর ক্ষেত্রে বমি বমি ভাব ও বমি প্রতিরােধে।

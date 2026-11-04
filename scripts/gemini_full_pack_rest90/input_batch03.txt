@@ -1,0 +1,218 @@
+### drug=cholecalciferol-vitamin-d3 | section=indications | lang=en
+Vitamin D3 deficiency can occur in people whose exposure to sunlight is limited and in those whose diet is deficient in vitamin D3.
+Cholecalciferol is essential for the effective calcium and phosphate absorption required for healthy bones and teeth, preventing rickets, osteomalacia and osteoporosis.
+Cholecalciferol is also essential to prevent pre-eclampsia during pregnancy and breast feeding as it is an essential nutrient for a growing infant.
+Cholecalciferol has vital role on immunity boost up.
+
+### drug=cholecalciferol-vitamin-d3 | section=contraindications | lang=en
+Vitamin D3 is contraindicated in all diseases associated with hypercalcaemia. It is also contraindicated in patients with known hypersensitivity to Vitamin D3 (or medicines of the same class) and any of the excipients. It is contraindicated if there is evidence of Vitamin D3 toxicity.
+
+### drug=cholecalciferol-vitamin-d3 | section=pregnancy_lactation | lang=en
+Studies have shown safe use of doses up to 4000 IU during pregnancy. The recommended daily intake for pregnant women is 400 IU, however, in women who are considered to be Vitamin D3 deficient a higher dose may be required. During pregnancy women should follow the advice of their medical practitioner as their requirements may vary depending on the severity of their disease and their response to treatment
+Vitamin D3 and its metabolites are excreted in breast milk. Overdose in infants induced by nursing mothers has not been observed; however, when prescribing additional vitamin D3 to a breast-fed child the practitioner should consider the dose of any additional vitamin D3 given to the mother.
+
+### drug=cholecalciferol-vitamin-d3 | section=indications | lang=bn
+যেসব মানুষ সূর্যালোকের সংস্পর্শে কম আসে এবং যাদের খাদ্যে ভিটামিন ডি এর ঘাটতি রয়েছে তাদের দেহে ভিটামিন ডি এর ঘাটতি দেখা যায়। ভিটামিন ডি৩ পর্যাপ্ত ক্যালসিয়াম ও ফসফেট শোষণের মাধ্যমে মজবুত অস্থি ও দাঁত গঠন; রিকেটস, অস্টিওম্যালাসিয়া, অস্টিওপোরোসিস প্রতিরোধে খুবই গুরুত্বপূর্ণ। ভিটামিন ডি৩, গর্ভাবস্থায় প্রি-একলামসিয়া প্রতিরোধে গুরুত্বপূর্ণ উপাদান এবং শিশুদের পুষ্টির জন্য স্তন্যদানকালে অতি প্রয়োজনীয়
+
+### drug=cholecalciferol-vitamin-d3 | section=contraindications | lang=bn
+হাইপারক্যালসেমিয়ার সাথে সম্পর্কযুক্ত সকল রোগে ভিটামিন ডি৩ প্রতিনির্দেশিত। এছাড়াও ভিটামিন ডিত এবং এর অন্যান্য উপাদানের প্রতি সংবেদনশীল রোগীর ক্ষেত্রে এবং ভিটামিন ডি৩ এর বিষক্রিয়ার কোন প্রমান থাকলেও এটি প্রতিনির্দেশিত।
+
+### drug=cholecalciferol-vitamin-d3 | section=pregnancy_lactation | lang=bn
+গবেষণায় দেখা গেছে, গর্ভাবস্থায় ৪০০০ আই ইউ পর্যন্ত ভিটামিন ডি৩ নিরাপদ। গর্ভবতীদের জন্য নির্দেশিত দৈনিক সেবন মাত্রা ৪০০ আই ইউ। তবে যে সব নারীদের ভিটামিন ডি৩ এর ঘাটতি রয়েছে তারা বেশী মাত্রায় সেবন করতে পারে। গর্ভবতীদের উচিত চিকিৎসকের পরার্মশ অনুযায়ী ভিটামিন ডি৩ সেবন করা। কারন, রোগের ধরন এবং চিকিৎসায় সাড়াদানের উপর তাদের ভিটামিন ডি৩ এর চাহিদার তারতম্য হতে পারে।
+ভিটামিন ডি৩ এবং এর বিপাককৃত উপাদান গুলো বুকের দুধে নিঃসরিত হয়। বুকের দুধ পানরত নবজাতকদের মধ্যে ভিটামিন ডি৩ এর মাত্রাধিক্যতা পরিলক্ষিত হয় নাই। তারপরও বুকের দুধ পানরত শিশুদের ভিটামিন ডি৩ এর সেবন মাত্রা বৃদ্ধির সময় মায়ের ভিটামিন ডি৩ সেবন মাত্রার দিকে লক্ষ্য রাখতে হবে।
+
+### drug=ciprofloxacin | section=indications | lang=en
+Ciprofloxacin is indicated for the treatment of single infection or mixed infections caused by two or more susceptible organisms. It can also be used for infections caused by organisms resistant to other antibiotics including Aminoglycosides, Penicillins and Cephalosporins.
+As antibacterial concentrations of Ciprofloxacin are obtained in serum and body tissues as well as in the urine following administration by mouth, Ciprofloxacin has been suggested for use in the treatment of a wide range of infections caused by susceptible organisms including infections of the urinary, respiratory and gastrointestinal tracts, gonorrhoea and septicaemia. The extensive tissue penetration of Ciprofloxacin combined with its enhanced antibacterial activity (including antipseudomonal activity), enables Ciprofloxacin to be used alone (pending sensitivity results) or in combination with an Aminoglycoside or with beta lactam antibiotics for instance when severe neutropenia is present or with an antibiotic active against anaerobes where the presence of bacteroides fragilis is suspected. Ciprofloxacin is indicated for the treatment of the following infections caused by sensitive bacteria:
+Severe systemic infections: e.g. septicaemia, bacteraemia, peritionitis, infections in immunosuppressed patients with haematological or solid tumors and in patients in intensive care unit with specific problems such as infected burns.
+Respiratory tract infections: Lobar and bronchopneumonia, acute and chronic bronchitis, acute exacerbation of cystic fibrosis, bronchiectasis, empyema.
+Urinary tract infections: Uncomplicated and complicated urethritis, cystitis, pyelonephritis, prostatitis, epididymitis.
+Skin and soft tissue infections: e.g. infected ulcers, wound infections, abscesses, cellulitis, otitis externa, erysipelas, infected burns.
+Gastro-intestinal infections: e.g. enteric fever, infective diarrhea.
+Infection of the biliary tract: e.g. cholangitis, cholecystitis, empyema of the gall bladder.
+Intra abdominal infections: e.g. peritonitis, intra abdominal abscesses.
+Bone and joint infection: Osteomyelitis, septic arthritis.
+Pelvic infections: e.g. salpingitis, endometritis, pelvic inflammatory diseases.
+Eye, ear, nose and throat infections: e.g. otitis media, sinusitis, mastoiditis, tonsillitis.
+Gonorrhoea: Including urethral, rectal and pharyngeal gonorrhoea caused by beta-lactamase producing organisms or organisms moderately sensitive to penicillin.
+
+### drug=ciprofloxacin | section=contraindications | lang=en
+Patients with a history of hypersensitivity to Ciprofloxacin or to other quinolones.
+
+### drug=ciprofloxacin | section=pregnancy_lactation | lang=en
+Reproduction studies performed in mice, rats and rabbits using parenteral and oral administration did not reveal any evidence of teratogenicity, impairment of fertility or impairment of peri/post natal development. However as with other quinolones, Ciprofloxacin has been shown to cause arthropathy in immature animals and therefore its use during pregnancy is not recommended. Studies in rats have indicated that Ciprofloxacin is secreted in milk, administration to nursing mothers is thus not recommended.
+
+### drug=ciprofloxacin | section=indications | lang=bn
+সিপ্রোফ্লক্সাসিন একক সংক্রমণ এবং দুই বা ততোধিক সংবেদনশীল অনুজীব দ্বারা সৃষ্ট মিশ্র সংক্রমণে নির্দেশিত। এ্যামাইনোগ্লাইকোসাইড, পেনিসিলিনসমূহ এবং সেফালোসপরিনসহ অন্য এন্টিবায়োটিকে রেজিস্ট্যান্ট অনুজীব দ্বারা সৃষ্ট সংক্রমণেও এর ব্যবহার হয়ে থাকে। যেহেতু মুখে সেবনের পর সিপ্রোফ্লক্সাসিন সেরামে, টিস্যুতে এবং মুত্রে ব্যাকটেরিয়া বিরোধী ঘনত্বে উপস্থিত থাকে, সেহেতু সংবেদশীল অনুজীব দ্বারা সৃষ্ট বহুবিধ সংক্রমণের চিকিৎসায় যথা মুত্রতন্ত্র ও শ্বাসতন্ত্রের সংক্রমণ, গণোরিয়া, সেপটিসেমিয়া ইত্যাদিতে সিপ্রোফ্লক্সাসিন নির্দেশিত হয়। টিস্যুতে ব্যাপক অন্তর্ভেদ এবং অধিকতর ব্যকটেরিয়া বিরোধী কার্যক্ষমতার জন্যে (সিডোমোনাস বিরোধী কার্যক্ষমতাসহ) সিপ্রোফ্লক্সাসিনকে সেনসিটিভিটি পরীক্ষা ব্যাতিরেকেই এককভাবে বা এ্যামাইনোগ্লাইকোসাইড/বিটা ল্যাকটাম এন্টিবায়োটিক সহযোগে, তীব্র নিউট্রোপেনিয়ায় ব্যবহার করা যায় অথবা ব্যাকটেরয়েডস ফ্রাজিলিস এর উপস্থিতি ধারণা করা হলে এ্যানারোব এর বিরুদ্ধে কার্যকরী এন্টিবায়োটিকের সাথেও সিপ্রোফ্লক্সাসিন ব্যবহার করা হয়। সিপ্রোফ্লক্সাসিন সংবেদশীল ব্যাকটেরিয়া দ্বারা সৃষ্ট নিম্নলিখিত সংক্রমণ সমূহে নির্দেশিত হয়ঃ
+তীব্র সিসটেমিক সংক্রমণ
+: সেপটিসেনিয়া, ব্যাকটেরিমিয়া, পেরিটোনাইটিস, হেমাটোলজিক্যাল অথবা কঠিন টিউমার সম্বলিত ইমিউনো সাপ্রেসড রোগীদের সংক্রমণে এবং ইনটেনসিভ কেয়ার ইউনিটে অবস্থিত রোগী যাদের নির্দিষ্ট কোন জটিলতা যথা সংক্রমিত ক্ষত রয়েছে এদের ক্ষেত্রে।
+শ্বাসতন্ত্র সংক্রমণ
+: লোবার নিউমোনিয়া, ব্রঙ্কোনিউমোনিয়া, তীব্র ও জটিল ব্রঙ্কাইটিস, সিসটিক ফাইব্রোসিসের জটিলতা, ব্রঙ্কিয়েকটেসিস এবং এমপায়িমা।
+মূত্রতন্ত্র সংক্রমণ
+: জটিল এবং জটিল নয় এরূপ মূত্রনালীর সংক্রমণ, সিসটাইটিস, পাইলোনেফ্রাইটিস, প্রস্টেটাইটিস, ইপিডিডাইমিটিস।
+ত্বক ও কোমল কোষ কলার সংক্রমণ
+: সংক্রমণযুক্ত আলসার, ক্ষতের সংক্রমণ, এ্যাবসেস, সেলুলাইটিস, ওটাইটিস এক্সটারনা, ইরিসিপেলাস, সংক্রমিত ক্ষত।
+পাকান্ত্রিক সংক্রমণ
+: আন্ত্রিক জ্বর সংক্রমনজনিত ডায়ারিয়া।
+বিলিয়ারীপথের সংক্রমণ
+: কলানজাইটিস, কলেসিসটাইটিস, গলব্লাডারে পুজসঞ্চায়ন।
+অন্ত:উদরীয় সংক্রমন
+: পেরিটোনাইটিস, অন্ত: উদরীয় এ্যাবসেস।
+অস্থি ও অস্থিসন্ধির সংক্রমণ
+: অষ্টিওমাইলাইটিস, সেপটিক আর্থ্রাইটিস।
+পেলভিক সংক্রমণ
+: স্যালপিনজাইটিস, এন্ডোমেট্রাইটিস, পেলভিক ইনফ্লামেটরী ব্যাধি।
+চোখ, নাক, কান ও গলার সংক্রমণ
+: ওটাইটিস মিডিয়া, সাইনুসাইটিস ম্যাসটয়ডাইটিস, টনসিলাইটিস।
+গনোরিয়া
+: ইউরেথ্রাল, রেকটাল এবং ফ্যারিঞ্জিয়াল গনোরিয়াসহ বিটা ল্যাকটামেজ নি:সরণকারী জীবাণু বা পেনিসিলিনে মাঝারী ধরনের সংবেদনশীল জীবাণু দ্বারা সৃষ্ট গনোরিয়া
+মাইক্রোবায়োলজি
+: দেহ বহির্ভূত পরীক্ষায় দেখা গেছে যে সিপ্রোফ্লক্সাসিনের বাকটেরিয়া বিরোধী কার্যকারিতা, ব্যাকটেরিয়ার ডি.এন.এ জাইরেজ এর প্রশমনের দরুন হয়ে থাকে। সিপ্রোফ্লক্সাসিনের কার্যকারিতার এই পদ্ধতি অন্যান্য এন্টিবায়োটিক যথা পেনিসিলিন, সেফালোসপরিন, এ্যামাইনোগ্লাইকোসাইড এবং টেট্রাসাইক্লিনের তুলনায় ভিন্ন সুতরাং এসব এন্টিবায়োটিকে রেজিস্ট্যান্ট অনুজীব সমূহ সাধারনত: সিপ্রোফ্লক্সাসিনের প্রতি সংবেদনশীল হয়ে থাকে।
+
+### drug=ciprofloxacin | section=contraindications | lang=bn
+সিপ্রোফ্লক্সাসিন এবং অন্যান্য কুইনোলোন গ্রুপের ওষুধের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এই ওষুধ দেয়া যাবে না।
+
+### drug=ciprofloxacin | section=pregnancy_lactation | lang=bn
+ইঁদুর, খরগোশ ইত্যাদির ক্ষেত্রে সিপ্রোফ্লক্সাসিন মুখে সেবনের পর এবং ইনজেকশন দেবার পর বংশ বৃদ্ধির প্রক্রিয়া পর্যবেক্ষণ করে ভ্রুণের গঠন বিকৃতি, বংশ বিস্তার ক্ষমতার ক্ষতি হওয়া, প্রসবপূর্ব বা প্রসবোত্তর কালীন সময়ে বৃদ্ধির উপর এর কোন প্রভাব দেখা যায় নি। তবে অন্যান্য কুইনোলোনের মত সিপ্রোফ্লক্সাসিন অপরিণত জীবের ক্ষেত্রে আর্থোপ্যাথি সৃষ্টি করতে পারে এবং সে কারণে গর্ভকালীন অবস্থায় এর ব্যবহার নিদের্শিত নয়। ইঁদুরের উপর পরীক্ষায় দেখা গেছে যে সিপ্রোফ্লক্সাসিন দুগ্ধে নিঃসৃত হয় কাজেই স্তন্যদানরত মায়েদের ক্ষেত্রে এর ব্যবহার সুপারিশ করা হয় না।
+
+### drug=clindamycin | section=indications | lang=en
+Clindamycin has been shown to be effective in the treatment of the following infections when caused by susceptible anaerobic bacteria or susceptible strains of gram positive bacteria such as Streptococci, Staphylococci and Pneumococci; Upper respiratory infections, Lower respiratory infections, Skin and soft tissue infections, Bone and joint infections, Pelvic infections, Intra-abdominal infections, Septicemia and endocarditis, Dental infections. As an alternative therapy when used in combination with quinine or amodiaquine for the treatment of multi-drug resistant Plasmodium falciporum infection.
+
+### drug=clindamycin | section=contraindications | lang=en
+Clindamycin is contraindicated in patients previously found to be sensitive to clindamycin or any of the ingredients of this medicine.
+
+### drug=clindamycin | section=pregnancy_lactation | lang=en
+Pregnancy Category B. Clindamycin crosses the placenta in humans. After multiple doses, amniotic fluid concentrations were approximately 30% of maternal concentrations. Clindamycin should be used in pregnancy only if clearly needed. Clindamycin has been reported to appear in breast milk. Therefore, it is not recommended for nursing mothers if not clearly needed.
+
+### drug=clindamycin | section=indications | lang=bn
+অ্যান-অ্যারোবিক ও গ্রাম-পজিটিভ ব্যাকটেরিয়া যেমন স্ট্রেপ্টোকক্কি, স্ট্যাফাইলোকক্কি ও নিউমোকক্কি সংক্রমণে কার্যকর। উর্ধ্ব শ্বাসনালীর সংক্রমণ, নিম্ন শ্বাসনালীর সংক্রমণ, ত্বক ও কোমল কলার সংক্রমণ, অস্থি ও অস্থিসন্ধির সংক্রমণ, পেলভিক সংক্রমণ, উদরের অভ্যন্তরীণ সংক্রমণ, সেপ্টিসেমিয়া ও এন্ডোকার্ডাইটিস, দাঁতের সংক্রমণ, মাল্টি ড্রাগ রেসিসট্যান্ট পাসমোডিয়াম ফ্যালসিপোরাম সংক্রমণে কুইনাইন ও এমোডিয়াকুইনের সাথে বিকল্প সহযোগী চিকিৎসা হিসাবে।
+
+### drug=clindamycin | section=contraindications | lang=bn
+ক্লিন্ডামাইসিন অথবা এ ওষুধের যে কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে প্রতিনির্দেশিত।
+
+### drug=clindamycin | section=pregnancy_lactation | lang=bn
+প্রেগন্যান্সি ক্যাটেগরি বি। ক্লিন্ডামাইসিন মানবদেহের প্লাসেন্টা অতিক্রম করে। এমনিওটিক ফ্লুয়িডে এ ওষুধের মাত্রা মায়ের মাত্রার ৩০%। সুনির্দিষ্ট প্রয়োজনীয়তা থাকলেই কেবলমাত্র ক্লিন্ডামাইসিন গর্ভকালে ব্যবহার করা উচিত। মাতৃদুগ্ধে ক্লিন্ডামাইসিন উপস্থিতির তথ্য পাওয়া গিয়াছে। সুতরাং স্তন্যদানকালে এ ওষুধটির সুনির্দিষ্ট প্রয়োজনীয়তা না থাকলে নির্দেশিত নয়।
+
+### drug=clotrimazole-vaginal-tablet | section=indications | lang=en
+Clotrimazole rectal preparation is indicated in vaginal itching, burning and discharge associated with recurrent vaginal yeast infections (Vaginal candidiasis) and also in viginitis due to Candida species as well as Mycotic infections complicated by other microorganisms sensitive to the drug.
+
+### drug=clotrimazole-vaginal-tablet | section=contraindications | lang=en
+It is contraindicated in patients with known hypersensitivity to any of the components of this product.
+
+### drug=clotrimazole-vaginal-tablet | section=pregnancy_lactation | lang=en
+It is recommended that Clotrimazole should be used in pregnancy only when considered necessary by the physician. Clotrimazole is very poorly absorbed into the blood and the body after application to the skin or the vagina. Studies in women in their second or third trimesters have demonstrated no ill effects. It is not known if Clotrimazole is secreted in breast milk. Clotrimazole suppository can be used during pregnancy, but only under the supervision of Physician.
+
+### drug=clotrimazole-vaginal-tablet | section=indications | lang=bn
+ভ্যাজাইনাল চুলকানি, পূনঃসংক্রমণ মূলক ভ্যাজাইনাল সংক্রমণ (মূলত ভ্যাজাইনাল ক্যানডিডা), ছত্রাক দ্বারা ভ্যাজাইনাইটিস, ক্লোট্রিমাজল এর প্রতি সংবেদনশীল এমন যেকোন ছত্রাক দ্বারা তৈরী ভ্যাজাইনাল প্রদাহে ক্লোট্রিমাজল ভ্যাজাইনাল ট্যাবলেট কার্যকর।
+
+### drug=clotrimazole-vaginal-tablet | section=contraindications | lang=bn
+ক্লোট্রিমাজল এর প্রতি অতি সংবেদনশীলতার ক্ষেত্রে।
+
+### drug=clotrimazole-vaginal-tablet | section=pregnancy_lactation | lang=bn
+কেবল মাত্র ডাক্তার কর্তৃক প্রয়োজনীয়তা নির্ধারিত হলেই ক্লোট্রিমাজল গর্ভকালীন সময়ে ব্যবহার করা যাবে। ক্লোট্রিমাজোল ত্বকে ও যােনীপথে ব্যবহারের পর রক্তে খুবই কম পরিমানে শােষিত হয়, গর্ভাবস্থার দ্বিতীয় এবং তৃতীয় ট্রাইমিস্টারে ক্লোট্রিমাজোল কোন খারাপ প্রভাব প্রদর্শন করে না। ইহা মাতৃদুগ্ধে নিঃসরিত হয় কিনা তা এখনও জানা যায়নি। চিকিৎসকের পরামর্শক্রমে ক্লোট্রিমাজোল সাপােজিটরী গর্ভকালীন সময়ে ব্যবহার করা যেতে পারে।
+
+### drug=cyanocobalamin | section=indications | lang=en
+This preparation is indicated in Pernicious anemia, Vitamin B12 deficiency due to low intake from food, Thyrotoxicosis, Hemorrhage, Malignancy, Liver or kidney disease, Gastric bypass surgery, total or partial gastrectomy, Gluten enteropathy or sprue, folic acid deficiency, macrocytic anaemia.
+
+### drug=cyanocobalamin | section=contraindications | lang=en
+Leber's disease, tobacco amblyopia.
+
+### drug=cyanocobalamin | section=pregnancy_lactation | lang=en
+Pregnancy Category A. Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).
+Lactation: Drug distributed in milk.
+
+### drug=dexamethasone | section=indications | lang=en
+Dexamethasone is indicated in-
+Allergic states
+: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis and serum sickness.
+Collagen disease
+: Like lupus erythematosus, rheumatoid arthritis etc.
+Dermatologic diseases
+: Bullous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus and severe erythema multiforme (Stevens-Johnson syndrome).
+Endocrine disorders
+: Primary or secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with cancer and nonsuppurative thyroiditis.
+Gastrointestinal diseases
+: Regional enteritis and ulcerative colitis.
+Hematologic disorders
+: Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond-Blackfan anemia), idiopathic thrombocytopenic purpura in adults and selected cases of secondary thrombocytopenia.
+Neoplastic diseases
+: Leukemias and lymphomas.
+Nervous system
+: Acute exacerbations of multiple sclerosis, cerebral edema associated with primary or metastatic brain tumor, craniotomy or head injury.
+Ophthalmic diseases
+: Temporal arteritis, uveitis, and ocular inflammatory conditions unresponsive to topical corticosteroids.
+Renal diseases
+: To induce a diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus.
+Respiratory diseases
+: Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
+Rheumatic disorders
+: As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute rheumatic carditis, ankylosing spondylitis, psoriatic arthritis, rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy). For the treatment of dermatomyositis, polymyositis, and systemic lupus erythematosus.
+Miscellaneous
+: Diagnostic testing of adrenocortical hyperfunction, trichinosis with neurologic or myocardial involvement, tuberculous meningitis with subarachnoid block or impending block when used with appropriate antituberculous chemotherapy.
+
+### drug=dexamethasone | section=contraindications | lang=en
+Gastric and duodenal ulcers.
+Systemic and ophthalmic fungal infections.
+Viral infections, e.g. varicella and herpes genitalis infections. Viral infections of the eye.
+Glaucoma.
+Hypersensitivity to corticosteroids
+
+### drug=dexamethasone | section=pregnancy_lactation | lang=en
+Pregnancy Category C.There are no adequate and well-controlled studies in pregnant women. Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Glucocorticoids appear in breast milk.Mothers taking high dosages of corticosteroids should be advised not to breast-feed
+
+### drug=dexamethasone | section=indications | lang=bn
+এলার্জি
+: এ্যাজমা, এটপিক ডার্মাটাইটিস, ওষুধের প্রতি অতি সংবেদনশীলতা, বিভিন্ন প্রকার রাইনাইটিস এবং সেরাম সিকনেস। এসব ক্ষেত্রে প্রচলিত সাধারণ চিকিৎসা কার্যকরী না হলে বা রোগ তীব্র মাত্রায় হলে ডেক্সোনেক্স নির্দেশিত।
+কোলাজেন ডিজিজ
+: যেমন লুপাস ইরাইদেমাটোসাস, রিউমাটয়েড আর্থ্রাইটিস।
+চর্মরোগ
+: বুলাস ডার্মাটাইটিস হারপেটিফরমিস, এক্সফলিয়েটিভ ইরাইথ্রোডার্মা, মাইকোসি ফাংগয়েডস, পেমফিংগাস এবং তীব্র পর্যায়ে ইরাইদেমা মাল্টিফরমি (স্টিভেন জনসন সিন্ড্রোম)।
+এন্ড্রোক্রাইন ডিজিজ
+: প্রাথমিক বা দ্বিতীয় পর্যায়ে এ্যাডরেনোকর্টিকাল ঘাটতি, জন্মগত এ্যাডরেনাল হাইপারপ্লাসিয়া, ক্যানসারজনিত হাইপারক্যালসিমিয়া এবং ননসাপুরেটিভ থাইরয়েডাইটিস।
+পরিপাকতন্ত্র জনিত সমস্যা
+: রিজিওনাল এন্টারাইটিস, আলসারেটিভ কোলাইটিস।
+হেমাটোলজিক্যাল ডিজিজ
+: একোয়ার্ড (অটোইমিউন) হেমোলাইটিক অ্যানিমিয়া, জন্মগত (ইরাইথ্রয়েড) হাইপোপ্লাস্টিক অ্যানিমিয়া, ইডিওপ্যাথিক থ্রম্বোসাইটোপেনিক পুরপুরা এবং সেকেন্ডারি থ্রম্বোসাইটোপেনিয়ায় কিছু কিছু ক্ষেত্রে এটি নির্দেশিত।
+নিউপ্লাস্টিক ডিজিজ
+: লিউকেমিয়া এবং লিম্ফোমা ।
+স্নায়ুতন্ত্রের সমস্যা
+: মাল্টিপল স্ক্লেরোসিসের তীব্র পর্যায়, মস্তিষ্কের প্রাথমিক অথবা মেটাস্টেটিক টিউমারের সাথে ইডিমা থাকলে, ক্রোনিওটোমি বা মস্তিষ্কের আঘাতে।
+চক্ষু জনিত সমস্যা
+: টেম্পোরাল আর্টারাইটিস, ইউভিয়াইটিসহ এবং চোখের বিভিন্ন প্রদাহজনিত রোগ যেখানে স্থানীয়ভাবে কর্টিকোস্টেরয়েড কার্যকরী নয়।
+কিডনী জনিত রোগ
+: ইডিওপ্যাথিক নেফ্রোটিক সিন্ড্রোম বা লুপাস ইরাইদেমাটোসাস এ প্রস্রাবের নির্গমন বাড়াতে অথবা প্রোটিনিউরিয়া প্রতিরোধ করতে।
+শ্বসনতন্ত্রের রোগ
+: বেরিলিওসিস, তীব্র আকারে যক্ষা হলে অন্যান্য ওষুধের পাশাপাশি, ইডিওপ্যাথিক ইউসিনোফিলিক নিউমোনিয়া, লক্ষণযুক্ত সারকয়েডোসিস।
+রিউম্যাটিক ডিজিজ
+: তীব্র মাত্রায় বাতজনিত আথ্রাইটিস, তীব্র মাত্রায় রিউম্যাটিক কার্ডাইটিস, অ্যানকাইলোসিং স্পন্ডিলাইটিস, সোরিয়াটিক আথ্রাইটিস, রিউমাটয়েড আথ্রাইটিস, ডারমাটোমায়োসাইটিস, পলিমায়োসাইটিস, সিসটেমিক লুপাস ইরাইদেমাটোসাস।
+অন্যান্য
+: অ্যাডরেনোকর্টিক্যাল হাইপারফাংশন নির্ণয়ে, ট্রাইকিনোসিসে স্নায়ু কিংবা মায়োকার্ডিয়াম আক্রান্ত হলে, যক্ষাজনিত মেনিনজাইটিস প্রভৃতি ক্ষেত্রে নির্দেশিত।
+
+### drug=dexamethasone | section=contraindications | lang=bn
+গ্যাস্ট্রিক এবং ডিওডেনাল আলসার
+সিস্টেমিক এবং চোখে ছত্রাকের সংক্রমণ ভাইরাস সংক্রমণ, যেমন- ভেরিসেলা, হারপেস জেনিটালিস বা চোখে ভাইরাসের সংক্রমণ ইত্যাদি
+Glucoma
+কর্টিকোস্টেরয়েডের প্রতি অতিসংবেদনশীলতা
+
+### drug=dexamethasone | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থা ও স্তন্যদানকালে ব্যবহার
+: প্রেগনেন্সি ক্যাটাগরি- সি। মাতৃদুগ্ধে নিঃসৃত হওয়ায় উচ্চমাত্রায় গ্লুকোকর্টিয়েড গ্রহণকারী মায়েদের স্তন্যদান বন্ধ রাখতে হবে।
+
+### drug=diazepam | section=indications | lang=en
+Diazepam is indicated for the short-term treatment of mild to moderate anxiety, excitation, agitation, fear, aggressiveness, etc. Anxiety reactions caused by stressed conditions, anxiety states with somatic expression, acute alcohol withdrawal, status epilepticus, premedication for surgical procedures, febrile convulsions, insomnia of hospitalized patients.
+Diazepam nasal spray is indicated for the acute treatment of intermittent, stereotypic episodes of frequent seizure activity (i.e., seizure clusters, acute repetitive seizures) that are distinct from a patient’s usual seizure pattern in patients with epilepsy 6 years of age and older.
+
+### drug=diazepam | section=contraindications | lang=en
+Diazepam is contraindicated in myasthenia gravis, pulmonary insufficiency, respiratory depression and hypersensitivity to bezodiazepine.
+
+### drug=diazepam | section=pregnancy_lactation | lang=en
+Diazepam and its active metabolites cross the placental barrier and also pass into breast milk. So, it should be avoided if possible during pregnancy and lactation. US FDA pregnancy category D.
+
+### drug=diazepam | section=indications | lang=bn
+মৃদু থেকে মাঝারী দুশ্চিন্তা, অতি উত্তেজনা, ভয়, উগ্র স্বভাব এসব ক্ষেত্রে ডায়াজিপাম স্বল্পকালীন চিকিৎসায় ব্যবহৃত হয়। এলকোহল প্রত্যাহারের লক্ষনাদির চিকিৎসায়, মাংশপেশীর খিচুনি, মৃগী রােগীর খিচুনি প্রতিরােধে, অস্ত্রোপচারের প্রাক-চিকিৎসায়, জ্বর জনিত খিঁচুনি ডায়াজিপাম ব্যবহৃত হয়।
+
+### drug=diazepam | section=contraindications | lang=bn
+শ্বাসযন্ত্রের উচ্চ সংবেদনশীলতা, ফুসফুসের হ্রাসকৃত কার্যকারিতা, রেসপিরেটরী ডিপ্রেশন, মাইয়েস্থেনিয়া গ্রাভিস-এ সকল ক্ষেত্রে ডায়াজিপাম ব্যবহার করা যাবে না।
+
+### drug=diazepam | section=pregnancy_lactation | lang=bn
+ডায়াজিপাম এবং এর বিপাকীয় যৌগ প্লাসেন্টায় প্রবেশ করে। এছাড়া মাতৃদুগ্ধেও এর উপস্থিতি লক্ষ্য করা যায়। তাই গর্ভাবস্থা ও স্তন্যদানকালে এর ব্যবহার পরিহার করা উচিত। USFDA প্রেগনেন্সি ক্যাটেগরী-ডি।

@@ -1,0 +1,29 @@
+### drug=promethazine-hydrochloride | section=indications | lang=en
+Promethazine Hydrochloride is indicated in-
+Potent long-acting antihistamine with additional anti-emetic and sedative/calming effects.
+Indicated in symptomatic treatment of allergic conditions of the respiratory tract and skin.
+Sensitization reactions to drug or foreign proteins, anaphylactic reactions.
+For sedation, allergic rhinitis, urticaria and insomnia.
+As an adjunct in pre-operative sedation in surgery and obstetrics.
+As a paediatric sedative
+
+### drug=promethazine-hydrochloride | section=contraindications | lang=en
+Promethazine is contraindicated for use in children less than two years of age
+Hypersensitivity to promethazine or to any of the excipients.
+Phenergan should not be used in patients who are in a coma or suffering from CNS depression of any cause. It must not be given to neonates or premature infants.
+Phenergan should be avoided in patients who have been taking monoamine oxidase inhibitors within the previous 14 days
+
+### drug=promethazine-hydrochloride | section=pregnancy_lactation | lang=en
+There is epidemiological evidence for the safety of promethazine in pregnancy and animal studies have shown no hazard, nevertheless, it should not be used in pregnancy unless the physician considers it essential. The use of Phenergan is not recommended in the two weeks prior to delivery in view of the risk of irritability and excitement in the neonate. When promethazine has been given in high doses during late pregnancy, promethazine has caused prolonged neurological disturbances in the infant. Promethazine should be used in pregnancy only if the potential benefts to the patient are weighed against the possible risk to the fetus. Promethazine is excreted in breastmilk. There are risks of neonatal irritability and excitement.
+
+### drug=promethazine-hydrochloride | section=indications | lang=bn
+প্রোমিথাজিন হাইড্রোক্লরাইড নিম্নোক্ত উপসর্গে নির্দেশিত- এটি শক্তিশালী দীর্ঘমেয়াদী কার্যকরী এ্যান্টিহিস্টাসিন হিসেবে নির্দেশিত । এছাড়াও এর বমিরােধী , নিদ্রা ও প্রশান্তিকারক বাড়তি প্রভাব রয়েছে । উপসর্গযুক্ত শ্বাসতন্ত্রের এবং ত্বকের এ্যালার্জির চিকিৎসায় নির্দেশিত । ওষুধ অথবা বহিরাগত প্রােটিনের প্রতি সংবেদনশীলতার প্রতিক্রিয়ায় , অ্যানাফাইল্যাকটিক প্রতিক্রিয়ায় । নিদ্রাকারক হিসেবে , নাকের এক ধরনের প্রদাহ , চামড়ায় ফুসকুড়ি এবং অনিদ্রায় । অস্ত্রোপাচার এবং প্রসবের পূর্বে নিদ্রাকারক হিসেবে অন্য কোন ওষুধের সহযােগে ব্যবহৃত হয় । শিশুদের নিদ্রাকারক হিসেবে।
+
+### drug=promethazine-hydrochloride | section=contraindications | lang=bn
+দুই বছরের কম বয়সী শিশুদের ক্ষেত্রে প্রোমিথাজিনের ব্যাবহার নিষিদ্ধ।
+প্রােমিথাজিন অথবা এর কোন উপাদানে প্রতি অতিসংবেদনশীলতায়।
+প্রোমিথাজিন সেসব রােগীদের ব্যবহার করা উচিত নয় যারা কোমা অথবা অন্য যেকোন কারণে সিএনএস (কেন্দ্রীয় স্নায়ুতন্ত্রের) বিষাদগ্রস্ততায় ভুগছেন। নবজাতক অথবা মাতৃগর্ভ হতে অপরিণত অবস্থায় ভূমিষ্ঠ শিশুর ক্ষেত্রে এটি কোনভাবে দেয়া যাবে না।
+যে সমস্ত রােগী গত ১৪ দিন এর মধ্যে মনােএ্যামিনাে অক্সিডেজ ইনহিবিটরস ব্যবহার করেছেন তাদের প্রোমিথাজিন ব্যবহার থেকে বিরত থাকা উচিত।
+
+### drug=promethazine-hydrochloride | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ইপিডেমিওলজিক্যঅল তথ্য প্রমাণ এবং প্রানীকূলের উপর করা স্টাডিতে প্রােমিথাজিনের ব্যবহারে ক্ষতিকারক কিছু পাওয়া না গেলেও গর্ভাবস্থায় এটি ব্যবহার করা উচিত নয় যদি না চিকিৎসক এটি অত্যাবশ্যকীয় মনে করেন। নবজাতকের বিরক্তি এবং উত্তেজনার প্রবনতার সম্ভাব্য ঝুঁকির কথা বিবেচনা করে প্রসবের দুই সপ্তাহ পূর্বে প্রোমিথাজিন এর ব্যবহার নির্দেশিত নয়। প্রােমিথাজিন যদি গর্ভাবস্থার শেষের দিকে উচ্চ মাত্রায় দেওয়া হয়, তখন প্রােমিথাজিন শিশুর মধ্যে দীর্ঘস্থায়ী স্নায়ুবিক ব্যাঘাতের সৃষ্টি করে। গর্ভাবস্থায় প্রােমিথাজিন ব্যবহার করা উচিত যদি রােগীর সম্ভাব্য সুবিধাগুলি ভ্রুণের সম্ভাব্য ঝুঁকির তুলনায় অধিক করা হয়। প্রাপ্ত তথ্য অনুযায়ী বুকের দুধে এর নিঃসরণের পরিমাণ খুবই নগণ্য। তবুও নবজাতকের বিরক্তি এবং উত্তেজনার প্রবনতার সম্ভাব্য ঝুঁকি আছে। প্রোমিথাজিন বুকের দুধে নিঃসৃত হয়। নবজাতকের বিরক্তিভাব ও উত্তেজনার ঝুঁকি রয়েছে। প্রোমিথাজিন স্তন্যপান করানাের ক্ষেত্রে ব্যবহারের সুপারিশ করা হয় না।

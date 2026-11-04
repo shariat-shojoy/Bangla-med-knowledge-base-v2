@@ -1,0 +1,115 @@
+﻿query,status,id,slug,matched_name,tier,role,candidates,list_id_unverified
+oxytocin,resolved,854,oxytocin,Oxytocin,1,core,854:Oxytocin(100),854
+carbetocin,resolved,197,carbetocin,Carbetocin,2,core,197:Carbetocin(100),
+methylergometrine,override,1482,methylergonovine-maleate,Methylergonovine Maleate,1,core,,748
+ergometrine,resolved,425,ergometrine-maleate,Ergometrine Maleate,2,core,425:Ergometrine Maleate(79),
+misoprostol,resolved,764,misoprostol,Misoprostol,1,core,764:Misoprostol(100) | 358:Diclofenac Sodium + Misoprostol(30) | 758:Mifepristone + Misoprostol(30),764
+carboprost,resolved,1401,carboprost-tromethamine,Carboprost Tromethamine,2,core,1401:Carboprost Tromethamine(79),2263
+dinoprostone,resolved,2326,dinoprostone,Dinoprostone,2,core,2326:Dinoprostone(100),
+tranexamic acid,resolved,1099,tranexamic-acid,Tranexamic Acid,1,core,1099:Tranexamic Acid(100),
+mifepristone,resolved,757,mifepristone,Mifepristone,1,core,757:Mifepristone(100) | 758:Mifepristone + Misoprostol(30),753
+progesterone,override,924,progesterone-micronised-capsule,Progesterone Micronised (Capsule),1,core,,959
+dydrogesterone,resolved,400,dydrogesterone,Dydrogesterone,2,core,400:Dydrogesterone(100) | 2300:Estradiol + Dydrogesterone(30),
+nifedipine,resolved,807,nifedipine,Nifedipine,1,core,807:Nifedipine(100),808
+atosiban,resolved,1819,atosiban-acetate,Atosiban Acetate,2,core,1819:Atosiban Acetate(79),1819
+salbutamol,resolved,1318,salbutamol,Salbutamol,2,core,1318:Salbutamol(100) | 1317:Salbutamol (Inhaler)(79) | 1784:Salbutamol + Ipratropium (Inhaler)(30) | 625:Salbutamol + Ipratropium (Solution for inhalation)(30),1002
+terbutaline,resolved,1053,terbutaline-sulfate,Terbutaline Sulfate,1,caution,1053:Terbutaline Sulfate(79),1062
+isoxsuprine,none,,,,2,caution,,644
+indomethacin,override,605,indomethacin-oral,Indomethacin (Oral),2,caution,,
+magnesium sulfate,resolved,1551,magnesium-sulfate,Magnesium Sulfate,1,core,1551:Magnesium Sulfate(100),713
+calcium gluconate,resolved,182,calcium-gluconate,Calcium Gluconate,1,antidote,182:Calcium Gluconate(100) | 174:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C(30) | 2044:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3(30) | 1201:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3(30),
+diazepam,resolved,355,diazepam,Diazepam,2,core,355:Diazepam(100),
+labetalol,resolved,1821,labetalol-hydrochloride,Labetalol Hydrochloride,1,core,1821:Labetalol Hydrochloride(79),1821
+methyldopa,resolved,744,methyldopa,Methyldopa,1,core,744:Methyldopa(100),746
+hydralazine,ambiguous,,,Isosorbide Dinitrate + Hydralazine Hydrochloride,1,core,2415:Isosorbide Dinitrate + Hydralazine Hydrochloride(30),586
+captopril,resolved,195,captopril,Captopril,1,contrast,195:Captopril(100),218
+enalapril,resolved,409,enalapril-maleate,Enalapril Maleate,1,contrast,409:Enalapril Maleate(79),
+losartan,resolved,699,losartan-potassium,Losartan Potassium,1,contrast,699:Losartan Potassium(79) | 550:Losartan Potassium + Hydrochlorothiazide(30),
+atenolol,resolved,88,atenolol,Atenolol,2,caution,88:Atenolol(100) | 63:Amlodipine Besilate + Atenolol(30) | 89:Atenolol + Chlorthalidone(30),
+betamethasone,resolved,1617,betamethasone,Betamethasone,1,core,1617:Betamethasone(100) | 1615:Betamethasone Valerate(79) | 123:Betamethasone Dipropionate(79) | 1616:Betamethasone Sodium Phosphate(78),183
+dexamethasone,resolved,335,dexamethasone,Dexamethasone,1,core,335:Dexamethasone(100) | 337:Dexamethasone (Ophthalmic)(79) | 238:Dexamethasone + Chloramphenicol(30) | 341:Dexamethasone + Tobramycin(30),344
+aspirin,resolved,85,aspirin,Aspirin,1,core,85:Aspirin(100) | 86:Clopidogrel + Aspirin(30) | 1299:Aspirin + Dipyridamole(30),
+enoxaparin,resolved,411,enoxaparin-sodium,Enoxaparin Sodium,1,core,411:Enoxaparin Sodium(79),
+heparin,resolved,566,heparin-sodium,Heparin Sodium,2,core,566:Heparin Sodium(79) | 2031:Allium cepa + Heparin + Allantoin(30),
+warfarin,resolved,1166,warfarin-sodium,Warfarin Sodium,1,contrast,1166:Warfarin Sodium(79),1119
+doxylamine + pyridoxine,override,1443,pyridoxine-hydrochloride-doxylamine-succinate,Pyridoxine Hydrochloride + Doxylamine Succinate,2,core,,393
+ondansetron,resolved,827,ondansetron,Ondansetron,2,caution,827:Ondansetron(100),838
+metoclopramide,resolved,748,metoclopramide-hydrochloride,Metoclopramide Hydrochloride,1,core,748:Metoclopramide Hydrochloride(79),744
+prochlorperazine,resolved,922,prochlorperazine-maleate,Prochlorperazine Maleate,2,core,922:Prochlorperazine Maleate(79),955
+promethazine,override,1346,promethazine-hydrochloride,Promethazine Hydrochloride,2,core,,
+folic acid,resolved,495,folic-acid,Folic Acid,1,core,495:Folic Acid(100) | 467:Ferrous Sulfate + Folic Acid + Zinc Sulfate(30) | 202:Carbonyl Iron + Folic Acid + Zinc Sulfate(30) | 463:Ferrous Fumarate + Folic acid(30),499
+ferrous sulfate,resolved,465,ferrous-sulfate,Ferrous Sulfate,1,core,465:Ferrous Sulfate(100) | 467:Ferrous Sulfate + Folic Acid + Zinc Sulfate(30) | 461:Ferrous Ascorbate + Folic Acid + Zinc Sulfate(30) | 466:Ferrous Sulfate + Folic Acid(30),
+ferrous fumarate,ambiguous,,,Ferrous Fumarate + Folic acid,2,core,463:Ferrous Fumarate + Folic acid(30) | 441:Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate(30) | 440:Norgestrel + Ethinyl Estradiol + Ferrous Fumarate(30),
+iron sucrose,resolved,406,iron-sucrose,Iron Sucrose,2,core,406:Iron Sucrose(100),
+calcium carbonate,resolved,173,calcium-carbonate,Calcium Carbonate,2,core,173:Calcium Carbonate(100) | 1451:Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate(30) | 174:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C(30) | 2044:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3(30),
+cholecalciferol,resolved,252,cholecalciferol-vitamin-d3,Cholecalciferol [Vitamin D3],2,core,252:Cholecalciferol [Vitamin D3](78),
+zinc sulfate,resolved,1144,zinc-sulfate-monohydrate,Zinc Sulfate Monohydrate,1,core,1144:Zinc Sulfate Monohydrate(79) | 467:Ferrous Sulfate + Folic Acid + Zinc Sulfate(30) | 202:Carbonyl Iron + Folic Acid + Zinc Sulfate(30) | 103:Neomycin Sulfate + Bacitracin Zinc(30),
+vitamin A (retinol),override,1156,vitamin-a,Vitamin A,2,core,,
+cyanocobalamin,resolved,311,cyanocobalamin,Cyanocobalamin,2,core,311:Cyanocobalamin(100),
+ferrous ascorbate + folic acid + zinc sulfate,resolved,461,ferrous-ascorbate-folic-acid-zinc-sulfate,Ferrous Ascorbate + Folic Acid + Zinc Sulfate,2,core,461:Ferrous Ascorbate + Folic Acid + Zinc Sulfate(100),461
+folic acid + zinc sulfate monohydrate,resolved,498,folic-acid-zinc-sulfate-monohydrate,Folic Acid + Zinc Sulfate Monohydrate,2,core,498:Folic Acid + Zinc Sulfate Monohydrate(100),498
+calcium carbonate + vitamin D3,ambiguous,,,Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3,2,core,1201:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3(52) | 2141:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3 + Multiminerals(51) | 2044:Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3(50),214
+ampicillin,resolved,71,ampicillin-sodium,Ampicillin Sodium,1,core,71:Ampicillin Sodium(79),67
+amoxicillin,resolved,69,amoxicillin-trihydrate,Amoxicillin Trihydrate,1,core,69:Amoxicillin Trihydrate(79) | 70:Amoxicillin + Clavulanic Acid(30) | 2197:Vonoprazan + Amoxicillin + Clarithromycin(30) | 76:Lansoprazole + Amoxicillin + Clarithromycin(30),61
+amoxicillin + clavulanic acid,resolved,70,amoxicillin-clavulanic-acid,Amoxicillin + Clavulanic Acid,2,core,70:Amoxicillin + Clavulanic Acid(100),
+benzathine benzylpenicillin,resolved,110,benzathine-benzylpenicillin,Benzathine Benzylpenicillin,2,core,110:Benzathine Benzylpenicillin(100),
+cefixime,resolved,217,cefixime-trihydrate,Cefixime Trihydrate,2,core,217:Cefixime Trihydrate(79),230
+ceftriaxone,resolved,225,ceftriaxone-sodium,Ceftriaxone Sodium,1,core,225:Ceftriaxone Sodium(79),233
+cefuroxime,resolved,226,cefuroxime-axetil,Cefuroxime Axetil,2,core,226:Cefuroxime Axetil(79) | 227:Cefuroxime Axetil + Clavulanic Acid(30),
+cefazolin,resolved,1454,cefazolin-sodium,Cefazolin Sodium,2,core,1454:Cefazolin Sodium(79),
+gentamicin,override,1505,gentamicin-sulfate-injection,Gentamicin Sulfate (Injection),1,core,,528
+metronidazole,resolved,751,metronidazole,Metronidazole,1,core,751:Metronidazole(100) | 753:Metronidazole + Neomycin Sulphate + Polymyxin B + Nystatin(30) | 752:Metronidazole + Miconazole Nitrate(30),750
+azithromycin,override,100,azithromycin-dihydrate,Azithromycin Dihydrate,2,core,,129
+erythromycin,override,427,erythromycin-oral,Erythromycin (Oral),2,core,,416
+clindamycin,resolved,273,clindamycin,Clindamycin,2,core,273:Clindamycin(100) | 1588:Clindamycin (Lotion)(79) | 1834:Clindamycin (Vaginal Cream)(78) | 275:Clindamycin + Tretinoin(30),
+nitrofurantoin,resolved,814,nitrofurantoin,Nitrofurantoin,2,caution,814:Nitrofurantoin(100) | 1330:Nitrofurantoin + Nitrofurantoin Microcrystals(30),
+sulfamethoxazole + trimethoprim,override,1024,sulphamethoxazole-trimethoprim,Sulphamethoxazole + Trimethoprim,2,caution,,
+doxycycline,resolved,394,doxycycline-hydrochloride,Doxycycline Hydrochloride,1,contrast,394:Doxycycline Hydrochloride(79),
+tetracycline,resolved,1060,tetracycline-hydrochloride,Tetracycline Hydrochloride,2,contrast,1060:Tetracycline Hydrochloride(79),
+ciprofloxacin,resolved,263,ciprofloxacin,Ciprofloxacin,2,contrast,263:Ciprofloxacin(100) | 266:Ciprofloxacin (Ophthalmic)(79) | 264:Ciprofloxacin + Dexamethasone(30) | 265:Ciprofloxacin + Hydrocortisone Acetate(30),
+fluconazole,resolved,474,fluconazole,Fluconazole,2,contrast,474:Fluconazole(100) | 475:Fluconazole (Ophthalmic)(79),
+clotrimazole,override,291,clotrimazole-vaginal-tablet,Clotrimazole (Vaginal tablet),2,core,,291
+albendazole,resolved,16,albendazole,Albendazole,2,caution,16:Albendazole(100),
+mebendazole,resolved,714,mebendazole,Mebendazole,2,core,714:Mebendazole(100),
+anti-D immunoglobulin,override,546,human-anti-d-immunoglobulins,Human Anti-D Immunoglobulins,2,core,,
+paracetamol,resolved,860,paracetamol,Paracetamol,1,core,860:Paracetamol(100) | 861:Paracetamol + Caffeine(30) | 862:Paracetamol + Tramadol Hydrochloride(30) | 2494:Ibuprofen + Paracetamol(30),860
+ibuprofen,override,593,ibuprofen-oral,Ibuprofen (Oral),1,caution,,
+diclofenac,override,357,diclofenac-sodium,Diclofenac Sodium,1,contrast,,
+insulin (human),resolved,1225,insulin-human-rdna,Insulin Human [rDNA],2,core,1225:Insulin Human [rDNA](79) | 2364:Regular Insulin Human + Isophane Insulin Human(30),
+metformin,resolved,734,metformin-hydrochloride,Metformin Hydrochloride,2,core,734:Metformin Hydrochloride(79) | 1285:Linagliptin + Metformin Hydrochloride(30) | 1580:Empagliflozin + Metformin Hydrochloride(30) | 737:Sitagliptin + Metformin Hydrochloride(30),
+levothyroxine,resolved,1174,levothyroxine-sodium,Levothyroxine Sodium,2,core,1174:Levothyroxine Sodium(79),
+propylthiouracil,resolved,1826,propylthiouracil,Propylthiouracil,2,core,1826:Propylthiouracil(100),
+carbimazole,resolved,200,carbimazole,Carbimazole,2,contrast,200:Carbimazole(100),
+sodium valproate,resolved,1004,sodium-valproate,Sodium Valproate,1,contrast,1004:Sodium Valproate(100),1016
+carbamazepine,resolved,196,carbamazepine,Carbamazepine,2,contrast,196:Carbamazepine(100),
+phenytoin,resolved,883,phenytoin-sodium,Phenytoin Sodium,2,contrast,883:Phenytoin Sodium(79),
+lamotrigine,resolved,656,lamotrigine,Lamotrigine,2,caution,656:Lamotrigine(100),
+levetiracetam,resolved,675,levetiracetam,Levetiracetam,2,core,675:Levetiracetam(100),
+methotrexate,resolved,739,methotrexate,Methotrexate,1,contrast,739:Methotrexate(100),740
+isotretinoin,override,640,isotretinoin-oral,Isotretinoin (Oral),1,contrast,,647
+thalidomide,resolved,1061,thalidomide,Thalidomide,2,contrast,1061:Thalidomide(100),1068
+atorvastatin,resolved,92,atorvastatin-calcium,Atorvastatin Calcium,2,contrast,92:Atorvastatin Calcium(79) | 2049:Atorvastatin + Ezetimibe(30) | 68:Amlodipine Besilate + Atorvastatin(30),
+lithium carbonate,resolved,692,lithium-carbonate,Lithium Carbonate,2,contrast,692:Lithium Carbonate(100),
+phytomenadione (vitamin K),override,885,phytomenadione-injection,Phytomenadione (Injection),1,core,,
+caffeine citrate,resolved,2035,caffeine-citrate,Caffeine Citrate,1,core,2035:Caffeine Citrate(100),199
+phenobarbital,resolved,879,phenobarbital,Phenobarbital,2,core,879:Phenobarbital(100),
+chlorhexidine,override,1492,chlorhexidine-gluconate-71,Chlorhexidine Gluconate [7.1%],2,core,,
+poractant alfa,none,,,,2,core,,
+oral rehydration salts,override,78,oral-rehydration-salt-glucose-based,Oral rehydration salt [glucose based],1,core,,
+levonorgestrel,resolved,681,levonorgestrel-for-emergency-contraception,Levonorgestrel [For emergency contraception],2,core,681:Levonorgestrel [For emergency contraception](77) | 441:Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate(30),
+medroxyprogesterone,override,720,medroxyprogesterone-acetate-injection,Medroxyprogesterone Acetate (Injection),2,core,,
+etonogestrel,none,,,,2,core,,
+ethinylestradiol + levonorgestrel,none,,,,2,caution,,
+progesterone (vaginal gel),override,1597,progesterone-micronised-vaginal-gel,Progesterone Micronised (Vaginal Gel),2,core,,
+progesterone (vaginal pessary),override,1637,progesterone-micronised-vaginal-pessary,Progesterone Micronised (Vaginal Pessary),2,core,,
+phytomenadione (oral),override,1626,phytomenadione-oral,Phytomenadione (Oral),2,core,,
+hepatitis B immunoglobulin,override,1430,hepatitis-b-immuneglobulin,Hepatitis B Immuneglobulin,2,core,,
+tetanus immunoglobulin,override,1056,human-tetanus-immunoglobulin,Human Tetanus Immunoglobulin,2,core,,
+cabergoline,override,1434,cabergoline,Cabergoline,2,caution,,
+drospirenone + ethinylestradiol (0.02 mg),override,396,drospirenone-ethinyl-estradiol-002-mg,Drospirenone + Ethinyl Estradiol (0.02 mg),2,caution,,
+ethinylestradiol + desogestrel (0.03 mg),override,332,ethinyl-estradiol-desogestrel-003-mg,Ethinyl Estradiol + Desogestrel (0.03 mg),2,caution,,
+ethinylestradiol + levonorgestrel + ferrous fumarate,override,441,ethinyl-estradiol-levonorgestrel-ferrous-fumarate,Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate,2,caution,,
+multivitamins and multiminerals (prenatal),override,1202,multivitamins-multiminerals-a-z-prenatal-preparation,Multivitamins & Multiminerals [A-Z prenatal preparation],2,core,,
+vitamins and minerals (pregnancy and breast-feeding formula),override,779,10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula,10 Vitamin & 6 Mineral [Pregnancy and Breast Feeding Formula],2,core,,
+ferrous sulfate + folic acid,override,466,ferrous-sulfate-folic-acid,Ferrous Sulfate + Folic Acid,2,core,,
+ferrous fumarate + folic acid,override,463,ferrous-fumarate-folic-acid,Ferrous Fumarate + Folic acid,2,core,,

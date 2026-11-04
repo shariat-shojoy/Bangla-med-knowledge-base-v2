@@ -1,0 +1,330 @@
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=indications | lang=en
+This combination tablet is indicated to prevent pregnancy. Oral contraceptives are a very effective method of birth control. When taken correctly (without missing tablets), the chance of becoming pregnant is very low.
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=contraindications | lang=en
+Do not use the combined Pill if you have any of the conditions listed below. If any of these apply to you, tell your doctor before starting to use this tablet. Your doctor may advise you to use a different type of Pill or an entirely different (non-hormonal) method of birth control.
+If you have, or have ever had a disorder affecting the blood circulation. In particular, those conditions relating to thrombosis. Thrombosis is the formation of a blood clot. This may occur in the blood vessels of the legs (deep vein thrombosis), the lungs (pulmonary embolism), the heart (heart attack), the brain (stroke), or other parts of the body.
+If you have or have ever had a condition that may be a first sign of a heart attack (such as angina pectoris or chest pain) or stroke (such as transient ischaemic attack or small reversible stroke).
+If you have diabetes mellitus with blood vessel damage.
+If you have jaundice (yellowing of the skin) or severe liver disease.
+If you have or have had cancer of the breast or the genital organs.
+If you have or have had a benign or malignant tumour in the liver.
+If you have any unexplained vaginal bleeding.
+If you are pregnant or think you might be pregnant.
+If you are allergic to any of the ingredients of this tablet.
+If any of these conditions appear for the first time while using the Pill, stop taking it at once and consult your doctor. In the meantime, use non-hormonal contraceptive measures.
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=pregnancy_lactation | lang=en
+The Pill and Breastfeeding: This tablet is generally not recommended for use during breast feeding. If you wish to take the Pill while breastfeeding, please seek the advice of your doctor.
+The Pill and Pregnancy: This tablet must not be used by women who are pregnant, or who think they may be pregnant.
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=indications | lang=bn
+গর্ভনিরোধক হিসাবে ইহা নির্দেশিত। মুখে খাওয়া জন্মনিয়ন্ত্রণ বড়ি জন্মনিয়ন্ত্রণের সবচেয়ে নির্ভরযোগ্য পদ্ধতি। সঠিকভাবে গ্রহণ করা হলে (কোন বড়ি বাদ না দিয়ে) গর্ভধারণের ঝুঁকি নেই বললেই চলে।
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=contraindications | lang=bn
+যদি নিম্নবর্ণিত অবস্থাগুলির কোন একটি আপনার হয়ে থাকে, তবে কমবাইন্ড পিল ব্যবহার করবেন না। যদি এইগুলির একটিও আপনার ক্ষেত্রে প্রয়োজ্য হয়, তবে এই ট্যাবলেটে খাবার পূর্বে ডাক্তারকে বলুন। ডাক্তার আপনার জন্য ভিন্ন ধরণের পিল বা সম্পূর্ণ ভিন্ন (হরমোন বহির্ভূত) জন্মনিয়ন্ত্রণ ব্যবস্থা দেবেন।
+আপনার এমন কোন জটিলতা আছে বা ছিল যাতে রক্ত সরবরাহ বিঘ্নিত হয়, বিশেষ করে থ্রম্বসিস সম্পর্কিত অবস্থাসমূহ। থ্রম্বসিসে রক্ত জমাট বেধে যায়। এ অবস্থা পায়ের রক্তনালীতে (ডিপ ভেইন থ্রম্বসিস), ফুসফুসে (পালমোনারী এমবলিজম), হৃদপিন্ডে (হৃদরোগ), মস্তিষ্কে (স্ট্রোক), বা দেহের অন্য কোথাও সৃষ্টি হাতে পারে।
+আপনার এমন কোন অবস্থা আছে বা ছিল যা হৃদরোগের প্রাথমিক লক্ষণ হতে পারে (যেমন এনজিনা পেক্টরিস বা বুকে ব্যাথা) বা স্ট্রোক (যেমন ক্ষণস্থায়ী ইশকেমিক আক্রমণ বা ক্ষুদ্র পুণঃআক্রমণাত্বক স্ট্রোক) দেখা দিলে
+আপনার রক্তনালীর ক্ষতিগ্রস্থততা সহ ডায়াবেটিস দেখা দিলে।
+আপনার যদি জন্ডিস (ত্বক হলুদ হওয়া) বা প্রকট যকৃতের ব্যাধি হয়ে থাকে।
+আপনার স্তন বা যৌনাঙ্গে ক্যান্সার দেখা দেয় বা অতীতে হলে।
+আপনার যকৃতে (লিভার) সাধারণ বা বিপজ্জনক টিউমার দেখা দিলে বা অতীতে হয়ে থাকলে।
+অজানা কারণে আপনার ভ্যাজিনাল রক্তস্রাব হলে।
+আপনি যদি গর্ভধারণ করেন কিংবা মনে হয় আপনার গর্ভ সঞ্চার হয়েছে।
+এই ট্যাবলেটে-এর কোন একটি উপাদানের ক্ষেত্রে আপনি সংবেদনশীল হলে।
+পিল খাওয়ার সময় এই সব অবস্থা প্রথম বারের মতো দেখা দিলে সাথে সাথে পিল খাওয়া বন্ধ করুন ও ডাক্তারের পরামর্শ নিন। ইতিমধ্যে অন্য কোন হরমোনবিহীন জন্মনিয়ন্ত্রণ ব্যবস্থা গ্রহণ করুন।
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=pregnancy_lactation | lang=bn
+পিল ও স্তন্যদান
+: শিশুকে বুকের দুধ খাওয়ানোর সময় এই ট্যাবলেট খাওয়ার কথা বলা হয় না। স্তন্যদানের সময় আপনি পিল খেতে চাইলে আপনার ডাক্তারের পরামর্শ নিন।
+পিল ও গর্ভধারণ
+: গর্ভবতী মহিলা বা যারা গর্ভধারণ করতে চান তাদের এই ট্যাবলেট খাওয়া উচিত নয়।
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=indications | lang=en
+This combination tablet is indicated in-
+Inhibit Ovulation
+Inhibit sperm to enter into the uterus by condensing uterine mucus
+Inhibit fertilized egg to accept by uterus by protecting the growth of membrane inside the uterus
+It reduces the movement of sperm by minimizing normal movement of fallopian tube. So sperms die as it takes long time to come into contact of Ova
+This combination tablet is suitable for:
+Women aged between 15-69 years (except smoker and who use tobacco regularly)
+Women who want an effective, temporary contraceptive method
+Women who is suffering from anemia due to excessive blood loss during menstruation
+Women having irregular menstruation cycle
+Breastfeeding mother (if child age is more than 6 months).
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=contraindications | lang=en
+Contraindicated in case of known hypersensitivity to any of the components of this product.
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=pregnancy_lactation | lang=en
+This pill is contraindicated in pregnancy. Discontinue this pill if pregnancy occurs. Combined hormonal contraceptives (CHCs) and/or metabolites are present in human milk and in breast-fed infants. CHCs including this pill can reduce milk production in breastfeeding females.
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=indications | lang=en
+This preparation is indicated on prophylaxis of iron deficiency especially when inadequate diet calls for supplementary zinc and iron during pregnancy and anemia.
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=contraindications | lang=en
+It is contraindicated in patients with haemolytic anaemia and in conditions with increased hypersensitivity to any of its components and increased body iron content.
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=pregnancy_lactation | lang=en
+If pregnant, or planning to become pregnant or are currently breast-feeding please contact your physician, before taking or continuing the drug. Administration in first trimester of pregnancy should be avoided unless definite evidence of iron deficiency is observed. Prophylaxis of iron deficiency is justified during the remainder of pregnancy specifically when zinc supplementation is required.
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=indications | lang=bn
+এই প্রিপারেশনটি আয়রন ঘাটতির প্রোফাইল্যাক্সিসে নির্দেশিত, বিশেষত যখন অপর্যাপ্ত ডায়েটের কারনে গর্ভাবস্থায় এবং রক্তস্বল্পতার সময় পরিপূরক জিংক এবং আয়রনের প্রয়োজন হয়।
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=contraindications | lang=bn
+এটি হিমোলাইটিক রক্তস্বল্পতাজনিত রোগীদের ক্ষেত্রে এবং এর যে কোনও উপাদানের প্রতি হাইপারসেন্সিটিভিটি আছে এমন রোগীদের ক্ষেত্রে ইহা প্রতিনির্দেশিত। শরীরে আয়রনের আধিক্য থাকলেও ইহা প্রতিনির্দেশিত।
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=pregnancy_lactation | lang=bn
+যদি গর্ভবতী হন, বা গর্ভবতী হওয়ার পরিকল্পনা করছেন বা বর্তমানে বুকের দুধ খাওয়ান ঔষধ গ্রহণ বা চালিয়ে যাওয়ার আগে দয়া করে আপনার চিকিৎসকের সাথে যোগাযোগ করুন। গর্ভাবস্থার প্রথম ট্রাইমিস্টারে এই প্রিপারেশন প্রয়োগের আগে আয়রন ঘাটতির সুনির্দিষ্ট প্রমাণ না দেখলে এড়ানো উচিৎ। গর্ভাবস্থার অবশিষ্ট সময় বিশেষত যখন জিংক পরিপূরক প্রয়োজন হয়, তখন আয়রনের ঘাটতির প্রফাইল্যাক্সিস ন্যায়সঙ্গত।
+
+### drug=ferrous-fumarate-folic-acid | section=indications | lang=en
+This preparation is indicated in-
+Prophylaxis and treatment of Iron deficiency anaemia in pregnancy.
+Prevention of megaloblastic anaemia of pregnancy.
+
+### drug=ferrous-fumarate-folic-acid | section=contraindications | lang=en
+This is contraindicated in patients with pernicious anaemia and anaemia other than those due to iron deficiency. The nature and causes of anaemia should be established. Absorption of Ferrous Fumerate & Folic acid is inhibited by Magnesium trisillicate and Antacid containing carbonate.
+
+### drug=ferrous-fumarate-folic-acid | section=indications | lang=bn
+এই প্রিপারেশনটি নির্দেশিত -
+গর্ভাবস্থায় প্রফাইল্যাক্সিস এবং আয়রনের অভাবজনিত রক্তাল্পতার চিকিত্সায়।
+গর্ভাবস্থার মেগালোব্লাস্টিক অ্যানিমিয়া প্রতিরোধে।
+
+### drug=ferrous-sulfate | section=indications | lang=en
+Ferrous Sulfate is indicated in the treatment and prevention of iron deficiency anaemia and anaemia of pregnancy where routine administration of iron is necessary.
+
+### drug=ferrous-sulfate | section=contraindications | lang=en
+Iron therapy is contraindicated in haemachromatosis and haemosiderosis.It should not be given to patients receiving repeated blood transfusion or with anaemia not produced by iron deficiency.
+
+### drug=ferrous-sulfate | section=indications | lang=bn
+আয়রনের ঘাটতিজনিত রক্তাল্পতা এবং গর্ভাবস্থার রক্তাল্পতার চিকিত্সা এবং প্রতিরোধে ফেরাস সালফেট নির্দেশিত, যখন আয়রনের নিয়মিত সেবন প্রয়োজন।
+
+### drug=ferrous-sulfate-folic-acid | section=indications | lang=en
+This capsule is a haematinic preparation for the treatment and prophylaxis of iron and folic acid deficiency, especially during pregnancy and lactation.
+
+### drug=ferrous-sulfate-folic-acid | section=contraindications | lang=en
+Contraindicated in patients receiving repeated blood transfusions or in patients with anaemias not produced by iron deficiency unless iron deficiency is also present.
+
+### drug=ferrous-sulfate-folic-acid | section=indications | lang=bn
+এই টাইড রিলিজ ক্যাপসুল একটি রক্তবর্ধক ঔষধ যা লৌহ ও ফলিক এসিডের ঘাটতিতে বিশেষ করে গর্ভকালীন এবং স্তন্যদানকালীন সময়ে চিকিৎসায় ও প্রতিষেধক হিসাবে ব্যবহৃত হয়।
+
+### drug=fluconazole | section=indications | lang=en
+Fluconazole is indicated in-
+Vaginal Candidiasis
+Oropharyngeal Candidiasis
+Esophageal Candidiasis
+Tinea corporis/Tinea cruris/Tinea pedis/Other Tinea
+Kerion
+Pityriasis versicolor
+Onychomycosis
+Invasive candidal infections and cryptococcal infections (including meningitis)
+Prevention of cryptococcal meningitis
+Prevention of fungal infections in immunocompromised patients
+Systemic Candidiasis and Cryptococcal infection
+In Superficial Candidiasis
+In Systemic Candidiasis & Cryptococcal infection
+Other indications-
+Fungal urinary tract infections
+Disseminated candidiasis
+Prophylaxis for fungal infection in neutropenic cancer patients.
+Acute treatment of other systemic fungal infections such as coccidioidomycosis and histoplasmosis.
+
+### drug=fluconazole | section=contraindications | lang=en
+Fluconazole should not be used in patients with known hypersensitivity to Fluconazole or to related triazole compounds.
+
+### drug=fluconazole | section=pregnancy_lactation | lang=en
+Fluconazole adverse fetal efects have been seen in animals only at dose levels associated with maternal toxicity. These levels are many times in excess of those recommended for therapeutic use. There has been little use during human pregnancy. Accordingly, fuconazole should not be used in pregnancy or in women of child bearing potential unless adequate contraception is employed.
+
+### drug=fluconazole | section=indications | lang=bn
+ফ্লুকোনাজল নিম্নোক্ত উপসর্গে নির্দেশিত-
+ভ্যাজাইনাল ক্যান্ডিডিয়াসিস
+অবোফ্যারিজিয়ান ক্যান্ডিডিয়াসিস
+ইসোফ্যাজিয়াল ক্যান্ডিডিয়াসিস
+টিনিয়া কর্পোরিস/টিনিয়া ক্রুরিস/টিনিয়া পেডিস/অন্যান্য টিনিয়া
+কেরিয়ন
+পিটাইরিয়াসিস ভার্সিকলার
+অন্যইকোমাইকোসিস
+ইনভেসিভ ক্যান্ডিডাল ইনফেকশন এবং ক্রিপ্টোকক্কাল ইনফেকশন (মেনিঞ্জাইটিস সহ)
+ক্রিপ্টোকক্কাল মেনিঞ্জাইটিস প্রিভেনশন
+ইমিউনোকম্প্রেমাইজড ছত্রাক সংক্রমণ প্রতিরোধ রোগীদের
+সুপারফিশিয়াল ক্যান্ডিডিয়াসিস
+সিস্টেমিক ক্যান্ডিডিয়াসিস এবং ক্রিপ্টোকক্কাল সংক্রমণে
+
+### drug=fluconazole | section=contraindications | lang=bn
+ফ্লুকোনাজল বা অন্যান্য ট্রাইএজল জাতীয় ঔষধের-এর প্রতি অতিসংবেদনশীলতায় এটি প্রতিনির্দেশিত।
+
+### drug=fluconazole | section=pregnancy_lactation | lang=bn
+US FDA প্রেগনেন্সি ক্যাটাগরী অনুযায়ী ফ্লুকোনাজল 'C' শ্রেনীভূক্ত ঔষধ। সুতরাং, প্রত্যাশিত সুবিধা, Fetus এর ঝুঁকির চেয়ে বেশী না হলে গর্ভাবস্থায় ও স্তন্যদানকালে ফ্লুকোনাজল ব্যবহারে বিরত থাকা উচিত।
+
+### drug=folic-acid | section=indications | lang=en
+Folic acid is indicated for the treatment of-
+Folic acid deficiency
+Megaloblastic anemia
+Anemias of nutritional origins, pregnancy, infancy, or childhood.
+
+### drug=folic-acid | section=contraindications | lang=en
+Folic acid is contraindicated in patients who have shown previous intolerance to the drug.
+
+### drug=folic-acid | section=pregnancy_lactation | lang=en
+No special precautions are known.
+
+### drug=folic-acid | section=indications | lang=bn
+এই প্রিপারেসনটি নিম্নোক্ত উপসর্গে নির্দেশিত-
+ফলিক এসিড ঘাটতি
+মেগালোব্লাস্টিক রক্তসল্পতা
+পুষ্টি উৎস, গর্ভাবস্থা, শৈশবকালীন রক্তসল্পতার চিকিৎসায়।
+
+### drug=folic-acid | section=contraindications | lang=bn
+যারা ফলিক এসিড অথবা এই ফরমুলেশনের যে কোন উপাদান এর প্রতি অসহিষ্ণুতা আছে তাদের ক্ষেত্রে এই প্রিপারেশনটি প্রতিনির্দেশিত।
+
+### drug=folic-acid | section=pregnancy_lactation | lang=bn
+বিশেষ কোন সতর্কতার প্রয়োজন নেই।
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=indications | lang=en
+This tablet is indicated for the treatment and prophylaxis of Folic Acid and Zinc deficiencies.
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=contraindications | lang=en
+Zinc is contraindicated in patients having hypersensitivity to Zinc. Folic Acid is contraindicated in untreated cobalamine deficiency
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=pregnancy_lactation | lang=en
+Recommended during pregnancy & lactation.
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=indications | lang=bn
+এই ট্যাবলেট জিংক এবং ফলিক এসিডের অভাবজনিত রােগের চিকিৎসায় ও প্রতিরােধে নির্দেশিত।
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=contraindications | lang=bn
+যে সকল রােগীর জিংক এবং ফলিক এসিডের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে প্রতিনির্দেশিত।
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ও স্তন্যদানকালে এই ট্যাবলেট নির্দেশিত।
+
+### drug=heparin-sodium | section=indications | lang=en
+Heparin Sodium Injection is indicated for-
+Prophylaxis and treatment of venous thromboembolism and pulmonary embolism;
+Atrial fibrillation with embolization;
+Treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation);
+Prevention of clotting in arterial and cardiac surgery;
+Prophylaxis and treatment of peripheral arterial embolism;
+Anticoagulant use in blood transfusions, extracorporeal circulation, dialysis procedures and as an aid in the maintenance of catheter patency.
+
+### drug=heparin-sodium | section=contraindications | lang=en
+Heparin sodium should not be used in the following patients:
+With severe thrombocytopenia; in whom suitable blood coagulation tests e.g, the whole-blood clotting time, partial thromboplastin time etc- cannot be performed at appropriate intervals (this contraindication refers to full-dose heparin; there is usually no need to monitor coagulation parameters in patients receiving low dose heparin);
+With an uncontrollable active bleeding state, except when this is due to disseminated intravascular coagulation.
+
+### drug=heparin-sodium | section=pregnancy_lactation | lang=en
+Use in Pregnancy (Category C) Heparin does not cross the placental barrier. Animal reproduction studies have not been conducted with heparin sodium. It is not known whether heparin sodium can cause foetal harm when administered to a pregnant woman or can affect reproduction capacity. Heparin sodium should be given to pregnant women only if clearly needed. Heparin Sodium is not excreted in human milk.
+
+### drug=hepatitis-b-immuneglobulin | section=indications | lang=en
+In order to prevent recurrence of hepatitis B virus infection after liver transplantation for liver failure caused by hepatitis B virus. In order to give rapidly available antibodies against hepatitis B virus to prevent hepatitis B in the following cases:
+In case of accidental exposure in non-immunised subjects (that is persons who have not been vaccinated against the hepatitis B virus; including persons whose vaccination is incomplete or status unknown).
+In haemodialysed patients (that is patients with a severe renal failure that need a blood purification by an artificial kidney), until vaccination has become effective
+In the newborn of a hepatitis B virus carrier-mother.
+In subjects who did not show an immune response after vaccination (that is persons in which the vaccination did not become effective) and for whom a continuous prevention is necessary due to the continuous risk of being infected with hepatitis B virus.
+
+### drug=hepatitis-b-immuneglobulin | section=contraindications | lang=en
+If you are allergic (hypersensitive) to human immunoglobulins or to any of the other ingredients of Hepatitis b immune globulin. For example, if you have a deficiency of immunoglobulin A (IgA), you may develop, in the blood, antibodies against the immunoglobulin A. Hepatitis b immune globulin contains small quantity of IgA and therefore severe allergic reactions could occur. The physician must therefore weigh the benefit of treatment with Hepatitis b immune globulin against the potential risk of allergic reactions.
+
+### drug=hepatitis-b-immuneglobulin | section=pregnancy_lactation | lang=en
+Pregnancy
+: The safety of this medicinal product for use in human pregnancy has not been established in controlled clinical trials and therefore should only be given with caution to pregnant women and breast-feeding mothers. Clinical experience with immunoglobulins suggests that no harmful effects on the course of pregnancy, or on the fetus and the neonate are to be expected.
+Breastfeeding
+: Immunoglobulins are excreted into the milk and may contribute to the transfer of protective antibodies to the neonate.
+Fertility
+: Clinical experience with immunoglobulins suggests that no harmful effects on fertility are to be expected.
+Driving and using machines
+: No effects on ability to drive and use machines have been observed
+
+### drug=human-anti-d-immunoglobulins | section=indications | lang=en
+Pregnancy and Other Obstetrical Conditions in Rh-Negative Women, Unless the Father or Baby are Conclusively Rh Negative:
+Pregnancy/delivery of an Rh-positive baby irrespective of the ABO groups of the mother and baby
+Abortion/threatened abortion at any stage of gestation
+Ectopic pregnancy
+Antepartum fetal-maternal hemorrhage (suspected or proven) resulting from antepartum hemorrhage (e.g., placenta previa), amniocentesis, chorionic villussampling, percutaneous umbilical blood sampling, other obstetrical manipulative procedure (e.g., version) or abdominal trauma
+Transfusion of Rh incompatible blood or blood products
+Transfusion: Prevention of Rh immunization in any Rh-negative person after incompatible transfusion of Rh-positive blood or blood products (e.g., red blood cells, plateletconcentrates, granulocyte concentrates)
+
+### drug=human-anti-d-immunoglobulins | section=contraindications | lang=en
+Splenectomised or rhesus-negative patients, in whom the resultant haemolysis may exacerbate pre-existing anaemia. Hypersensitivity.
+
+### drug=human-anti-d-immunoglobulins | section=pregnancy_lactation | lang=en
+Pregnancy
+Category C. Either studies in animals have revealed adverse effects on the foetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the foetus.
+
+### drug=human-tetanus-immunoglobulin | section=indications | lang=en
+Indications and uses Human Tetanus Immunoglobulin is indicated for -
+Prophylaxis of tetanus following injury in patients whose immunization is incomplete or uncertain.
+Therapeutically in the treatment of tetanus.
+Tetanus immunoglobulin should always be administered in conjunction with an active tetanus vaccination unless there are contraindications or confirmations of adequate vaccination.
+
+### drug=human-tetanus-immunoglobulin | section=contraindications | lang=en
+Known hypersensitivity to any of the components of the product
+Known hypersensitivity to human immunoglobulins
+Like any other intramuscular injections, human tetanus immunoglobulin is not advocated for patients with bleeding disorders
+In patients with a history of immunoglobulin A (IgA) deficiency or severe anaphylactic reactions to plasma products, the risk-benefit ratio must be considered
+
+### drug=human-tetanus-immunoglobulin | section=pregnancy_lactation | lang=en
+The safety for use of human tetanus immunoglobulin in human pregnancy has not been established in controlled clinical trials. Long lasting clinical experience with immunoglobulins suggests that no harmful effects on the course of pregnancy, or on the fetus and the neonate are to be expected.
+
+### drug=ibuprofen-oral | section=indications | lang=en
+Ibuprofen is indicated in-
+Relief of the signs and symptoms of rheumatoid arthritis and osteoarthritis
+Treatment of primary dysmenorrhea
+Control of mild to moderate pain generally and particularly when pain is associated with inflammation
+Reduction of fever
+Dental and period pain
+Relief of backache
+Rheumatic pain
+Muscular pain
+
+### drug=ibuprofen-oral | section=contraindications | lang=en
+It is contraindicated in patients with known hypersensitivity to ibuprofen or any other components of this product. It is also contraindicated in patients with history of gastrointestinal bleeding or perforation, related to previous NSAIDs therapy, active or history of recurrent peptic ulcer/haemorrhage, severe renal failure or severe hepatic failure, severe heart failure (NYHA Class IV), last trimester of pregnancy, significant dehydration and cerebrovascular or other active bleeding.
+
+### drug=ibuprofen-oral | section=pregnancy_lactation | lang=en
+Pregnancy
+: During the first and second trimester of pregnancy, ibuprofen should not be given unless clearly necessary. Ibuprofen is contraindicated during the last trimester of pregnancy.
+Lactation
+: Ibuprofen is excreted in the breast milk in very low concentration and is unlikely to affect the breastfed infant adversely.
+
+### drug=ibuprofen-oral | section=indications | lang=bn
+আইবুপ্রােফেন নিম্নোক্ত উপসর্গে নির্দেশিত-
+রিউমাটয়েড আর্থাইটিস
+অস্টিওআথ্রাইটিস
+গাউটি আর্থ্রাইটিস
+জুভেনাইল পলিআর্গ্রাইটিস
+এনকাইলজিং স্পন্ডিলাইটিস
+সাইনােভাইটিস
+কোমর ব্যথা
+ডিসমেনােরিয়া
+জ্বর
+মাইগ্রেন
+নরম কোষ কলার আঘাত এবং
+দাঁত ও পেশীর প্রদাহ ও ব্যথা ইত্যাদি ক্ষেত্রে নির্দেশিত।
+
+### drug=ibuprofen-oral | section=contraindications | lang=bn
+আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত। এছাড়া যাদের সক্রিয় বা মারাত্মক পেপটিক আলসার রয়েছে, তাদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত।
+
+### drug=ibuprofen-oral | section=pregnancy_lactation | lang=bn
+বর্ধিষ্ণু গর্ভজাত সন্তানের উপর বিরূপ প্রতিক্রিয়ার সম্ভাবনা সর্বোতভাবে বাতিল করা যায় না। আইবুপ্রােফেন গর্ভাবস্থায় এবং স্তন্যদানকারী মহিলাদের দেওয়া উচিত নয়, যদি না ঝুঁকি অপেক্ষা মায়েদের সুবিধাসমূহ অধিক হয়।
+
+### drug=indomethacin-oral | section=indications | lang=en
+Indomethacin is indicated in-
+Rheumatoid arthritis
+Ankylosing spondylitis
+Osteoarthritis (degenerative joint disease)
+Gout
+Acute non-articular rheumatism (bursitis, synovitis, tendinitis).
+
+### drug=indomethacin-oral | section=contraindications | lang=en
+Indomethacin is contraindicated in patients with ulcer, gastritis, active ulcerative colitis, and it should be used with caution in patients with a history of these disorders. In these cases, administration of Indomethacin suppositories should be preferred. It is also contraindicated in the previously hypersensitive patients.
+
+### drug=indomethacin-oral | section=indications | lang=bn
+ইনডোমেথাসিন নিম্নোক্ত উপসর্গে নির্দেশিত-
+রিউমাটয়েড আর্থ্রাটিস
+অ্যাংকিলুসিং স্পন্ডিলাইটিস
+অস্টিওআথ্রাটিস (ডিজেনেরেটিভ জয়েন্ট ডিজিস)
+গাউট
+তীব্র নন-আর্টিকুলার রিউমাটিজম্ (বারসাইটিস, সাইনোভাইটিস এবং টেনডোনাইটিস)।
+
+### drug=indomethacin-oral | section=contraindications | lang=bn
+ইনডোমেথাসিন আলসার, গ্যাস্ট্রিকের প্রদাহ এবং প্রত্যক্ষ আলসারেটিভ কোলাইটিস-এ নির্দেশিত নয়। এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার সাথে ব্যবহার করা উচিতি। তদুপরি এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার ক্ষেত্রে ব্যবহার করা উচিত। এই ওষুধের প্রতি অতিসংবেদনশীল রোগীর ক্ষেত্রে এই ওষুধের ব্যবহার নির্দেশিত নয়।

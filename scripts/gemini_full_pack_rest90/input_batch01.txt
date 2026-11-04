@@ -1,0 +1,304 @@
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=indications | lang=en
+This preparation is indicated for treatment of vitamin & mineral deficiency in pregnant and lactating mothers. It fulfills the increased demand of nutrients during pregnancy and lactation and thus ensures a healthy baby.
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=contraindications | lang=en
+This product is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=pregnancy_lactation | lang=en
+It is recommended to use in pregnancy and lactation.
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=indications | lang=bn
+এই সংমিশ্রণটি ভিটামিন ও খনিজ এর ঘাটতি পূরণের জন্য গর্ভবতী ও স্তন্যদানকারী মায়েদের জন্য নির্দেশিত। এটি গর্ভাবস্থায় ও স্তন্যদানকালীন পুষ্টির বর্ধিত চাহিদা পূরণ করে এবং সুস্থ সন্তান নিশ্চিত করে।
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=contraindications | lang=bn
+এর উপাদানগুলোর কোনটির প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে প্রতিনির্দেশিত।
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=pregnancy_lactation | lang=bn
+এটি গর্ভাবস্থায় ও স্তন্যদানকালীন ব্যবহার করার পরামর্শ দেওয়া হয়েছে।
+
+### drug=albendazole | section=indications | lang=en
+Albendazole is indicated in single and mixed infestations of-
+Hookworm (Ancylostoma, Necator)
+Roundworm (Ascaris)
+Threadworm (Enterobius)
+Whipworm (Trichuris)
+Strongyloides
+Tapeworm
+Opisthorchi
+Hydatid.
+
+### drug=albendazole | section=contraindications | lang=en
+Neonates
+: Albendazole is not normally used in neonates.
+Children
+: Reduction of the dose from 400 mg to 200 mg may be indicated in children weighing less than 10 kg but there are no grounds for a general reduction in dosage to children.
+Pregnant woman
+: Albendazole should not be given during pregnancy or women thought to be pregnant. No information is available on placental transfer.
+Concurrent disease
+: There is no evidence to suggest that dose should be altered in renal, hepatic or cardiac failure.
+
+### drug=albendazole | section=pregnancy_lactation | lang=en
+US FDA Pregnancy category of Albendazole is C. So, Albendazole should be avoided in pregnancy and lactation unless the potential benefits to the other outweigh the possible risks to the fetus.
+
+### drug=albendazole | section=indications | lang=bn
+এ্যালবেনডাজল নিম্নোক্ত একক বা মিশ্র ইনফেস্টেশনে নির্দেশিত-
+হুকওয়ার্ম (এনকাইলোষ্টোমা, নেকাটর)
+কেঁচোকৃমি (এসকারিস)
+সূতাকৃমি (এন্টারোবিয়াস)
+হুইপওয়ার্ম (ট্রাইচুরিস)
+গোলকৃমি
+ফিতাকৃমি
+ওপিসথর্কি
+স্থূলকোষ কৃমি বিশেষ (হাইডাটিড)।
+
+### drug=albendazole | section=contraindications | lang=bn
+নবজাত শিশু
+: এ্যালবেনডাজল সাধারণত নবজাতকের ক্ষেত্রে ব্যবহার করা উচিত নয়।
+শিশুদের ক্ষেত্রে
+: দশ কেজির কম ওজনের শিশুদের ক্ষেত্রে ৪০০ মি.গ্রা. ট্যাবলেট এর পরিবর্তে ২০০ মি.গ্রা. ট্যাবলেট নির্দেশিত, কিন্তু এই ধরনের পরিবর্তিত সেবনমাত্রার প্রসঙ্গে কোন ব্যাখ্যা নাই৷
+গর্ভবতী মহিলা
+: এ্যালবেনডাজল গর্ভবতী মহিলাদের ক্ষেত্রে নির্দেশিত নয়। কিন্তু এ্যালবেনডাজলের জন্য গর্ভপরিস্রাব স্থানাস্তর এর কোন তথ্য পাওয়া যায় নাই।
+অন্যান্য অসুস্থতার ক্ষেত্রে
+: রেনাল, হেপাটিক অথবা কার্ডিয়াক ফেইলিওর-এ এ্যালবেনডাজল সেবনমাত্রা পরিবর্তন প্রমাণিত নয়।
+
+### drug=albendazole | section=pregnancy_lactation | lang=bn
+US FDA প্রেগনেন্সি ক্যাটাগরী অনুযায়ী এলবেনডাজল 'C' শ্রেণীভূক্ত ঔষধ। সুতরাং, প্রত্যাশিত সুবিধা, Fetue এর ঝুঁকির চেয়ে বেশি না হলে গর্ভাবস্থায় ও স্তন্যদানকালে এলবেনডাজল ব্যবহারে বিরত থাকা উচিত।
+
+### drug=amoxicillin-clavulanic-acid | section=indications | lang=en
+This combination is indicated for short-term treatment of bacterial infections at the following sites:
+Upper respiratory tract infections (including ENT) e.g.tonsillitis,sinusitis,otitis media.
+Lower respiratory tract infections e.g.acute and chronic bronchitis, lobar and bronchopneumonia.
+Genito-urinary tract infections e.g.cystitis,urethritis,pyelonephritis.
+Skin and soft tissue infections.
+Bone and joint infections e.g.osteomyelitis.
+Other infections e.g.septic abortion,puerperal sepsis,intra-abdominal sepsis etc.
+
+### drug=amoxicillin-clavulanic-acid | section=contraindications | lang=en
+History of Penicillin hypersensitivity. Attention should be paid to possible cross-sensitivity with other beta-lactam antibiotics e.g. cephalosporins. Also contraindicated for patients with a previous history of Co-amoxiclav or Penicillin-associated cholestatic jaundice.
+
+### drug=amoxicillin-clavulanic-acid | section=pregnancy_lactation | lang=en
+Animal studies with orally and parenterally administered Co-amoxiclav have shown no teratogenic effect. The drug has been used orally in human pregnancy in a limited number of cases with no untoward effect; however, the use of Co-amoxiclav in pregnancy is not recommended unless considered essential by the physician. During lactation, trace quantities of Amoxicillin can be detected in breast milk.
+
+### drug=amoxicillin-clavulanic-acid | section=indications | lang=bn
+ইহা নিম্নলিখিত ব্যাকটেরিয়া সংক্রমণে স্বল্পমেয়াদী চিকিৎসায় নির্দেশিত:
+শ্বাসনালীর উপরিভাগের সংক্রমণ (নাক, কান, গলাসহ) যেমন-টনসিলের প্রদাহ, সাইনাসের প্রদাহ, মধ্যকর্ণের প্রদাহ ইত্যাদি।
+শ্বাসনালীর নিম্নভাগের সংক্রমণ যেমন- তীব্র এবং দীর্ঘ মেয়াদী ব্রংকিয়াল প্রদাহ, লোবার এবং ব্রংকোনিউমোনিয়া ইত্যাদি।
+মূত্র-যৌন নালীর সংক্রমণ যেমন-মূত্রথলির প্রদাহ, মূত্রনালীর প্রদাহ, পায়েলোনেফ্রাইটিস ইত্যাদি।
+চর্ম ও নরম কলার সংক্রমণ।
+অস্থি ও অস্থিসন্ধির সংক্রমণ যেমন অস্থি মজ্জার প্রদাহ।
+অন্যান্য সংক্রমণ যেমন-সংক্রমিত গর্ভপাত, গর্ভপরবর্তী সেপসিস, ইন্ট্রা-অ্যাবডোমিনাল সেপসিস, ইত্যাদি।
+
+### drug=amoxicillin-clavulanic-acid | section=contraindications | lang=bn
+যারা পেনিসিলিনের প্রতি অতিসংবেদনশীল এবং যাদের ক্ষেত্রে পেনিসিলিন বা কো-এমোক্সিক্লাভ জনিত কোলিস্ট্যাটিক জন্ডিসের ইতিহাস আছে তাদের জন্য কো-এমোক্সিক্লাভ নির্দেশিত নয়। অন্যান্য বিটা ল্যাকটাম এন্টিবায়োটিকের (যেমন: সেফালোস্পোরিন) সম্ভাব্য আন্তঃসংবেদনশীলতার প্রতি সতর্ক থাকতে হবে।
+
+### drug=amoxicillin-clavulanic-acid | section=pregnancy_lactation | lang=bn
+প্রাণীদের ক্ষেত্রে মুখে এবং প্যারেন্টেরাল কো-অ্যামোক্সিক্লাভ প্রয়োগের পর গর্ভস্থ প্রাণীর অংগ বিকাশের উপর কোন প্রভাব লক্ষ্য করা যায় না। নির্দিষ্ট সংখ্যক রোগীদের ক্ষেত্রে গর্ভাবস্থায় এ ওষুধ মুখে প্রয়োগের পর কোনরূপ বিরূপ প্রতিক্রিয়া দেখা যায় নাই। তথাপি চিকিৎসক কর্তৃক একান্ত অপরিহার্য বিবেচিত না হলে গর্ভাবস্থায় কো-অ্যামোক্সিক্লাভ গ্রহণ করা উচিত নয়। স্তন্যদানকালীন সময়ে খুবই সামান্য পরিমাণ এমোক্সিসিলিন মাতৃদুগ্ধে পাওয়া যায় ।
+
+### drug=amoxicillin-trihydrate | section=indications | lang=en
+Amoxicillin Trihydrate is indicated in the treatment of infections due to susceptible ß-lactamase negative strains of microorganisms. These infections include
+Ear, nose and throat infections (i.e. otitis media, sinusitis, tonsillitis, pharyngitis, laryngitis)
+Lower respiratory tract infections (i.e. pneumonia, acute and chronic bronchitis lung abscess, empyema, bronchiectasis)
+Skin and soft tissue infections (i.e. cellulitis, carbuncles, furunculosis, infected wounds, abscess)
+Genito-urinary tract infections (i.e. pyelonephritis, cystitis and urethritis)
+Venereal disease (i.e. acute uncomplicated gonorrhoea)
+In dental abscess, it is used as short-term therapy.
+It is also indicated in combination with Clarithromycin and Lansoprazole (as triple therapy), for the treatment of patients with H. pylori infection and duodenal ulcer disease and to reduce the risk of duodenal ulcer recurrence.
+
+### drug=amoxicillin-trihydrate | section=contraindications | lang=en
+Amoxicillin is contraindicated in penicillin hypersensitive patients.
+
+### drug=amoxicillin-trihydrate | section=pregnancy_lactation | lang=en
+US FDA pregnancy category of Amoxicillin is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Amoxicillin has been shown to be excreted in human milk. So, caution should be exercised when Amoxicillin is administered to a lactating mother.
+
+### drug=amoxicillin-trihydrate | section=indications | lang=bn
+এমোক্সিসিলিন, ß-ল্যাকটামেজ তৈরী করে না এমন সব সংবেদনশীল বিভিন্ন প্রজাতির ব্যাকটেরিয়া দ্বারা সৃষ্ট সংক্রমণের চিকিৎসায় ব্যবহৃত হয়। এ জাতীয় সংক্রমণগুলো হচ্ছে-
+কান, নাক ও গলার সংক্রমণ (যেমন-ওটাইটিস মিডিয়া, সাইনুসাইটিস, টনসিলাইটিস, ফ্যারিনজাইটিস, ল্যারিনজাইটিস)
+নিম্ন শ্বাসনালীর সংক্রমণ (যেমন-নিউমোনিয়া, একিউট এবং ক্রনিক ব্রংকাইটিস, লাং এব্সেস, এমপায়েমা, ব্রংকিএকটাসিস)
+ত্বক ও নরম কলার সংক্রমণ (যেমন-সেলুলাইটিস, কার্বাংক্যালস, ফুরাংকিউলোসিস, সংক্রমিত ক্ষত, এব্সেস)
+জেনিটো-ইউরেনারি ট্রাক্ট সংক্রমণ (যেমন- পায়েলোনেফ্রাইটিস, সিস্টাইটিস এবং ইউরেথ্রাইটিস)
+ভেনেরাল ডিজিজ (যেমন-একিউট আনকমপ্লিকেটেড গণোরিয়া)।
+দাঁতের এব্সেস-এর ক্ষেত্রে, এটি শর্ট-টার্ম থেরাপি হিসেবে ব্যবহৃত হয়।
+H. pylori-জনিত ডিওডেনাল আলসার বা এর ঝুঁকি কমাতে এটি ক্লারিথ্রোমাইসিন ও ল্যান্সোপ্রাজোলের সাথে (ট্রিপল থেরাপি হিসেবে) ব্যবহৃত হয়।
+
+### drug=amoxicillin-trihydrate | section=contraindications | lang=bn
+পেনিসিলিন জাতীয় ঔষধের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এমোক্সিসিলিন প্রতিনির্দেশিত।
+
+### drug=amoxicillin-trihydrate | section=pregnancy_lactation | lang=bn
+US FDA-এর প্রেগন্যান্সি ক্যাটাগরী অনুযায়ী এমোক্সিসিলিন 'B' শ্রেণীভূক্ত ঔষধ। তাছাড়া, গর্ভাবস্থায় এটি ব্যবহারের সুনিয়ন্ত্রিত ও পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন গবেষণা সর্বদা মানবদেহে কার্যকারিতা সন্বন্ধে পূর্ব ধারণা দেয় না, সেহেতু এই ঔষধটি গর্ভাবস্থায় কেবল সুনির্দিষ্টভাবে প্রয়োজন হলেই ব্যবহার করা উচিত। এমোক্সিসিলিন স্তন্যদুগ্ধে নিঃসৃত হয়। সুতরাং, স্তন্যদাত্রী মায়েদের ক্ষেত্রে এমোক্সিসিলিন ব্যবহারে সতর্কতা অবলম্বন করা উচিত।
+
+### drug=ampicillin-sodium | section=indications | lang=en
+Ampicillin is indicated in the treatment of infections caused by susceptible strains of the designated organism listed below:
+Infections of the Genitourinary Tract Including Gonorrhea
+: E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, and nonpenicillinase-producing N. gononhoeae.
+Infections of the Respiratory Tract
+: Nonpenicillinase-producing H. influenzae and staphylococci, and streptococci including streptococcus pneumoniae.
+Infections of the Gastrointestinal Tract
+: Shigella, S. typhosa and other Salmonella, E. coli, P. mirabilis, and enterococci.
+Meningitis
+: O. Meningitides.
+Bacteriology studies to determine the causative organisms and their sensetivity to ampicillin should be performed. Therapy may be instituted prior to the results of susceptibility testing.
+
+### drug=ampicillin-sodium | section=contraindications | lang=en
+Hypersensitivity to ampicillin and other penicillins.
+
+### drug=ampicillin-sodium | section=pregnancy_lactation | lang=en
+Pregnancy Category B. Either animal-reproduction studies have not demonstrated a fetal risk but there are no controlled studies in pregnant women or animal-reproduction studies have shown an adverse effect (other than a decrease in fertility) that was not confirmed in controlled studies in women in the 1st trimester (and there is no evidence of a risk in later trimesters).
+
+### drug=aspirin | section=indications | lang=en
+Aspirin is indicated in the following indications-
+Prophylaxis against arterial occlusive events
+: Myocardial infarction, myocardial re-infarction, after bypass surgery, acute ischaemic stroke/TIA.
+Mild to moderate pain
+: Headache, muscle pain, dysmenorrhoea and toothache etc.
+Chronic disease accompanied by pain and inflammation
+: Osteoarthritis.
+Antipyretic
+: Cold fever and influenzae.
+
+### drug=aspirin | section=contraindications | lang=en
+Aspirin is contraindicated to the children (Reye's syndrome) less than 12 years, in breast-feeding and active peptic ulcer. It is also contraindicated in bleeding due to haemophilia, intracranial haemorrhage and other ulceration.
+
+### drug=aspirin | section=pregnancy_lactation | lang=en
+It is especially important not to use aspirin during the last 3 months of pregnancy unless specifically directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Aspirin penetrates into breast milk. So, it should be administered with caution to lactating mothers.
+
+### drug=aspirin | section=indications | lang=bn
+এ্যাসপিরিন নিম্নোক্ত উপসর্গে নির্দেশিত-
+ধমনীর প্রতিবন্ধকতার প্রতিষেধক হিসেবে
+: মায়ােকার্ডিয়াল ইনফার্কশন, মায়ােকার্ডিয়াল রি-ইনফার্কশন, বাইপাস সার্জারী, একিউট ইস্কেমিক স্ট্রোক/ ট্রানজিয়েন্ট ইস্কেমিক স্ট্রোক (টিআইএ)।
+মৃদু থেকে মাঝারী ধরণের ব্যথা
+: মাথা ব্যথা, মাংসপেশীর ব্যথা, ঋতুকষ্ট ও দাঁতের ব্যথা।
+ব্যথা এবং প্রদাহজনিত দীর্ঘস্থায়ী রােগ
+: অস্থিসন্ধির বাতজনিত ব্যথা।
+জ্বর উপশমক হিসেবে
+: ঠাণ্ডা জ্বর ও ইনফ্লুয়েঞ্জার মত সাধারণ জ্বরে ব্যবহার্য।
+
+### drug=aspirin | section=contraindications | lang=bn
+১২ বছরের নীচে বাচ্চাদের (রেইজ সিনড্রোম), দুগ্ধাদানকারীদের, সক্রিয় পেপটিক আলসারে এ্যাসপিরিন প্রতিনির্দেশিত। হিমােফিলিয়া, ইন্ট্রাক্রেনিয়াল হিমােরেজ এবং অন্যান্য ক্ষত থেকে রক্ত নিঃসরণের ক্ষেত্রেও ইহা প্রতিনির্দেশিত।
+
+### drug=aspirin | section=pregnancy_lactation | lang=bn
+ইহা বিশেষভাবে উল্লেখ্য যে, সুনির্দিষ্টভাবে নির্দেশিত না হলে গর্ভাবস্থার শেষ ৩ মাসে এ্যাসপিরিন ব্যবহার করা উচিত নয়, কারণ ইহা গর্ভে অবস্থানরত শিশুর ক্ষতি করতে পারে এবং প্রসবের সময় সমস্যা সৃষ্টি করতে পারে। এ্যাসপিরিন মাতৃদুগ্ধে নিঃসৃত হয়, তাই দুগ্ধদানকারী মায়েদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত।
+
+### drug=atenolol | section=indications | lang=en
+Atenolol is indicated-
+In the management of hypertension. It may be used alone or concomitantly with other antihypertensive agents, particularly with a thiazide-type diuretic.
+For the long-term management of patients with angina pectoris.
+In the management of hemodynamically stable patients with defnite or suspected acute myocardial infarction to reduce cardiovascular mortality.
+
+### drug=atenolol | section=contraindications | lang=en
+Atenolol is contraindicated in-
+Sinus bradycardia, heart block greater than first degree, cardiogenic shock, and overt cardiac failure.
+Those patients with a history of hypersensitivity to the atenolol or any of the drug product’s components.
+
+### drug=atenolol | section=pregnancy_lactation | lang=en
+Pregnancy Category D. Caution should be exercised when Atenolol is administered to a nursing woman. Clinically significant bradycardia has been reported in breast-fed infants. Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
+
+### drug=atenolol | section=indications | lang=bn
+এটিনোলল নিম্নেবর্ণিত উপসর্গে নির্দেশিত-
+উচ্চরক্তচাপের ব্যবস্থাপনায়। এটি এককভাবে অথবা অন্যান্য উচ্চরক্তচাপ নিয়ন্ত্রনের ওষুধের সাথে যৌথভাবে, বিশেষ করে থায়াজাইড-টাইপ ডাইইউরেটিক সমূহের সাথে প্রয়ােগ করা যেতে পারে।
+এ্যানজিনা পেক্‌টোরিস (হৃদপিণ্ডে অপর্যাপ্ত রক্ত সঞ্চালন জনিত বুকে তীব্র ব্যথা) রােগীর দীর্ঘমেয়াদী ব্যবস্থাপনায়।
+যেসকল রােগীর শরীরে রক্ত প্রবাহ স্বাভাবিক বা স্থিতিশীল কিন্তু সুনির্দিষ্ট অথবা তীব্র মায়ােকার্ডিয়াল ইনফার্কশনের (হৃদপিণ্ডে অপর্যাপ্ত রক্ত সঞ্চালন জনিত কারণে হৃদপেশীর ধ্বংস হওয়ার) আশা রয়েছে তাদের হৃদরােগ সংক্রান্ত মৃত্যুহার কমানাের জন্য।
+
+### drug=atenolol | section=contraindications | lang=bn
+এটিনোল নিম্নেবর্ণিত ক্ষেত্রে নিষিদ্ধ -
+সাইনাস ব্র্যাডিকার্ডিয়া, প্রথম ডিগ্রী অপেক্ষা অধিক ডিগ্রীর হার্ট ব্লক, কার্ডিওজেনিক শক্ এবং সুনির্দিষ্ট কার্ডিয়াক ফেইলুর।
+এটিনােলল অথবা এর অন্য কোন উপাদানের প্রতি অতিসংবেদনশীলতা রয়েছে এমন রােগীদের ক্ষেত্রে।
+
+### drug=atenolol | section=pregnancy_lactation | lang=bn
+প্রেগনেন্সি ক্যাটাগরি ডি (এটি গর্ভাবস্থায় সেবন নিষিদ্ধ)। স্তন্যদানকারী মায়ের ক্ষেত্রে এটিনোলল প্রয়ােগে সর্তকা অবলম্বন করা উচিত। এক্ষেত্রে দুগ্ধ গ্রহণকারী শিশুর মারাত্মক ব্রাডিকার্ডিয়া (স্বাভাবিকের চেয়ে কম হৃদস্পন্দন) হওয়ার তথ্য পাওয়া গেছে। অপরিনত ভাবে জন্ম নেওয়া শিশু অথবা কিডনীর কার্যকারিতার সমস্যা আছে এমন শিশুর ক্ষেত্রে বিরূপ প্রতিক্রিয়ার সম্ভাবনা আরও বেশি হতে পারে।
+
+### drug=atorvastatin-calcium | section=indications | lang=en
+Atorvastatin is indicated as an adjunct to diet to reduce elevated total cholesterol, LDL cholesterol, apolipoprotein B (Apo-B) and triglycerides levels in following diseases when response to diet and other non-pharmacological measures is inadequate.
+To reduce total cholesterol and LDL cholesterol in patients with heterozygous and homozygous familial hypercholesterolemia.
+To reduce elevated cholesterol and triglycerides in patient with mixed dyslipidemia (Fredrickson Type Ia and Ib).
+For the treatment of patients with elevated serum triglyceride levels in hypertriglyceridaemia (Fredrickson Type IV).
+For the treatment of patients with dysbetalipoproteinaemia (Fredrickson Type III).
+To reduce cardiac ischaemic events in patients with asymptomatic or mild to moderate symptomatic coronary artery disease with elevated LDL-cholesterol level.
+To reduce total and LDL-cholesterol concentrations patients with hypercholesterolemia associated with or exacerbated by diabetes mellitus or renal transplantation.
+
+### drug=atorvastatin-calcium | section=contraindications | lang=en
+Atorvastatin should not be used in patient with hypersensitivity to any component of this medication. Atorvastatin is contraindicated in active liver disease or unexplained persistent elevations of serum transaminases. It is also contraindicated in patient with history of serious adverse reaction to prior administration of HMG-CoA reductase inhibitors.
+
+### drug=atorvastatin-calcium | section=pregnancy_lactation | lang=en
+Pregnancy
+: Atorvastatin is contraindicated during pregnancy. Safety in pregnant women has not been established. No controlled clinical trials with atorvastatin have been conducted in pregnant women. Rare reports of congenital anomalies following intrauterine exposure to HMG-CoA reductase inhibitors have been received. Animal studies have shown toxicity to reproduction. Maternal treatment with atorvastatin may reduce the fetal levels of mevalonate which is a precursor of cholesterol biosynthesis. Atorvastatin should not be used in women who are pregnant, trying to become pregnant or suspect they are pregnant. Treatment with atorvastatin should be suspended for the duration of pregnancy or until it has been determined that the woman is not pregnant
+Lactation
+: It is not known whether atorvastatin or its metabolites are excreted in human milk. In rats, plasma concentrations of atorvastatin and its active metabolites are similar to those in milk. Because of the potential for serious adverse reactions, women taking atorvastatin should not breastfeed their infants. Atorvastatin is contraindicated during breastfeeding.
+
+### drug=atorvastatin-calcium | section=indications | lang=bn
+এটরভাসটাটিন খাদ্যের সাথে সম্পূরক হিসাবে বর্ধিত টোটাল কোলেস্টেরল, LDL কোলেস্টেরল, এপোলিপোপ্রোটিন-বি (এপো-বি) এবং ট্রাইগ্লিসারাইড কমানোর জন্য যেখানে খাদ্য বা ননফার্মাকোলজিক্যাল ব্যবস্থা অপর্যাপ্ত সেখানে নিম্নলিখিত রোগের ক্ষেত্রে ব্যবহৃত হয়।
+হোমোজাইগাস ও হেটারোজাইগাস ফ্যামিলিয়াল হাইপারকোলেস্টেরোলেমিয়া রোগীর টোটাল কোলেস্টেরল ও LDL কোলেস্টেরল কমাতে।
+মিক্সড ডিসলিপিডেমিয়া (ফ্রেডরিকসন টাইপ-Ia ও Ib) রোগীর বর্ধিত কোলেস্টেরল ও ট্রাইগ্লিসারাইড কমাতে।
+হাইপারট্রাইগ্লিসারাইডেমিয়া (ফ্রেডরিকসন টাইপ-IV) রোগীর বর্ধিত সিরাম ট্রাইগ্লিসারাইড কমাতে।
+ডিসবেটালিপোপ্রোটিনেমিয়া (ফ্রেডরিকসন টাইপ-III) রোগীর এপোলিপোপ্রোটিন-বি কমাতে।
+বর্ধিত LDL কোলেস্টেরল আছে এমন এসিম্পটোম্যাটিক বা মৃদু থেকে মৃদুতর সিম্পটোম্যাটিক করোনারী আর্টারী রোগের কার্ডিয়াক ইস্কেমিক পর্যায় কমাতে।
+ডায়াবেটিস ম্যালাইটাস এবং রেনাল ট্রান্সপ্লান্ট হয়েছে এমন রোগীর বর্ধিত টোটাল কোলেস্টেরল, LDL কোলেস্টেরল কমাতে।
+
+### drug=atorvastatin-calcium | section=contraindications | lang=bn
+যে সমস্ত রোগী এই ঔষধের যে কোন উপাদানের প্রতি অতিসংবেদনশীল তাদের ক্ষেত্রে এটরভাসটাটিন ব্যবহার করা যাবে না। সক্রিয় যকৃতের রোগ, কোন কারণ ছাড়া সিরাম ট্রান্সএমাইনেজ বৃদ্ধি ইত্যাদি ক্ষেত্রে এটরভাসটাটিন প্রতিনির্দেশিত। HMG-CoA রিডাকটেজ প্রতিবন্ধক ব্যবহার করার পর যে সমন্ত রোগীর মারাত্বক বিরূপ প্রতিক্রিয়া পরিলক্ষিত হয় তাদের ক্ষেত্রে এটি প্রতিনির্দেশিত।
+
+### drug=atorvastatin-calcium | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায়
+: গর্ভাবস্থায় এ্যাটোরভাস্টাটিন গ্রহন সম্পূর্ণ নিষিদ্ধ। গর্ভবতী মহিলাদের ক্ষেত্রে এটির নিরাপদ ব্যবহার এখনও প্রতিষ্ঠিত হয়নি। গর্ভবতী মহিলাদের উপর এ্যাটোরভাস্টাটিন সম্পর্কিত কোন নিয়ন্ত্রিত ক্লিনিক্যাল ট্রায়েল করা হয় নাই। দুর্লভ ক্ষেত্রে, HMG-CoA রিডাকটেজ ইনহিবিটরের গর্ভকালীন ব্যবহারে জন্মগত ত্রুটি এর সম্পর্ক দেখা যায়। প্রানিদের ক্ষেত্রে প্রজননে বিষক্রিয়া দেখা গিয়েছে। প্রসব কালীন চিকিৎসায় এ্যাটোরভাস্টাটিনের ব্যবহার ভ্রুনের মেভালোনেটের (কোলেস্টেরল উৎপাদনের প্রধান উপাদান) মাত্রা কমিয়ে দেয়। গর্ভবতী, গর্ভধারনের চেষ্টা করছেন এমন অথবা যাদের গর্ভবতী হওয়ার সম্ভাবনা রয়েছে এরূপ মহিলাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন ব্যবহার করা যাবে না। গর্ভাবস্থায় বা যতদিন প্রমানিত না হয় যে রোগী গর্ভবর্তী ততদিন এ্যাটোরভাস্টাটিনের ব্যবহার বন্ধ রাখতে হবে।
+স্তন্যদান
+: এ্যাটোরভাস্টাটিন বা এর কোন মেটাবোলাইট মাতৃদুগ্ধ থেকে নিঃসৃত হয় নাকি সেটা এখন জানা যায়নি। ইঁদুরের ক্ষেত্রে, এ্যাটোরভাস্টাটিনের প্লাজমা ঘনত্ব দুগ্ধে নিঃসৃত এ্যাটোরভাস্টাটিনের সমতুল্য। তীব্র পার্শ্বপ্রতিক্রিয়া থাকার কারনে যে সকল মহিলারা তাদের বাচ্চাদের স্তন্যদান করেন তাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন না ব্যবহার করাই উচিত। এ্যাটোরভাস্টাটিন স্তন্যদানকালে সেবনযোগ্য নয়।
+
+### drug=atosiban-acetate | section=indications | lang=en
+Atosiban is indicated to delay imminent pre-term birth in pregnant adult women with:
+regular uterine contractions of at least 30 seconds duration at a rate of ≥4 per 30 minutes
+a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of ≥50%
+a gestational age from 24 until 33 completed weeks
+a normal fetal heart rate
+
+### drug=atosiban-acetate | section=contraindications | lang=en
+Atosiban must not be used in the following conditions:
+Gestational age below 24 or over 33 completed weeks
+Premature rupture of the membranes >30 weeks of gestation
+Abnormal foetal heart rate
+Antepartum uterine haemorrhage requiring immediate delivery
+Eclampsia and severe pre-eclampsia requiring delivery
+Intrauterine foetal death
+Suspected intrauterine infection
+Placenta praevia
+Abruptio placenta
+Any other conditions of the mother or foetus, in which continuation of pregnancy is hazardous
+
+### drug=atosiban-acetate | section=pregnancy_lactation | lang=en
+If you are pregnant and breast-feeding an earlier child, you should stop breast-feeding while you are given
+Atosiban.
+
+### drug=benzathine-benzylpenicillin | section=indications | lang=en
+Benzylpenicillin injection is indicated in adults, adolescents, children and neonates for the treatment and prophylaxis of the following infections:
+For the treatment of:
+erysipelas
+syphilis: early syphilis (primary and secondary)
+latent syphilis (except for neurosyphilis and presence of pathological CSF findings)
+yaws
+pinta
+For the prophylaxis of:
+rheumatic fever (chorea, rheumatic carditis)
+poststreptococcal glomerulonephritis
+erysipelas
+
+### drug=benzathine-benzylpenicillin | section=contraindications | lang=en
+It should not be given to patient hypersensitive to penicillin.
+
+### drug=benzathine-benzylpenicillin | section=pregnancy_lactation | lang=en
+Pregnancy category B. Benzathine Penicillin should not be administered during pregnancy unless in the judgment of the physician such administration is clinically justifiable. Special care should be taken in the first three months of pregnancy. As penicillin appears in breast milk, it is probably best for a mother to stop breast-feeding while being given penicillin to avoid exposing the infant to the drug unnecessarily.
+
+### drug=betamethasone | section=indications | lang=en
+Betamethasone is indicated for-
+Suppression of inflammatory and allergic disorders including rheumatoid arthritis, rheumatoid carditis, severe hypersensitivity reactions, bronchial asthma, inflammatory skin disorders;
+congenital adrenal hyperplasia;
+ear, eye, nose and oral ulceration.
+
+### drug=betamethasone | section=contraindications | lang=en
+Systemic infections, unless specific anti-infective therapy is employed. Hypersensitivity to any component of the tablets.
+
+### drug=betamethasone | section=pregnancy_lactation | lang=en
+Pregnancy category C. It should be given only if the potential benefit outweighs the potential risk to the fetus. No data is available for lactating mother.
+
+### drug=betamethasone | section=indications | lang=bn
+বিটামিথাসন নিম্নোক্ত উপসর্গে নির্দেশিত -
+রিউমাটয়েড আর্থ্রাইটিস, রিউমাটয়েড কার্ডাইটিস, গুরুতর অত্যধিক সংবেদনশীলতা প্রতিক্রিয়া, ব্রঙ্কিয়াল হাঁপানি, প্রদাহজনক ত্বকের ব্যাধি সহ প্রদাহজনক এবং অ্যালার্জিজনিত ব্যাধিগুলির দমন;
+জন্মগত অ্যাড্রিনাল হাইপারপ্লাসিয়া;
+কান, চোখ, নাক এবং মুখে ঘা।

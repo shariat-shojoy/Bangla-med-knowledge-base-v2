@@ -1,0 +1,13 @@
+### drug=carbetocin | section=indications | lang=en
+Carbetocin is indicated for the prevention of uterine atony and postpartum haemorrhage (excessive bleeding) following delivery of the infant by elective caesarean section under epidural or spinal anaesthesia.
+
+### drug=carbetocin | section=contraindications | lang=en
+Because of its long duration of action relative to oxytocin, uterine contractions produced by carbetocin cannot be stopped by simply discontinuing the medication. Therefore, carbetocin should not be administered prior to delivery of the infant for any reason, including elective or medical induction of labour. Inappropriate use of carbetocin during pregnancy could theoretically mimic the symptoms of oxytocin overdosage, including hyperstimulation of the uterus with strong (hypertonic) or prolonged (tetanic) contractions, tumultuous labour, uterine rupture, cervical and vaginal lacerations, postpartum haemorrhage, utero-placental hypoperfusion and variable deceleration of foetal heart, foetal hypoxia, hypercapnia, or death. Carbetocin should not be used in patients with a history of hypersensitivity to oxytocin or carbetocin. Carbetocin should not be used in patients with cardio vascular disease, especially coronary artery disease, valvular heart disease, cardiomyopathy and heart failure. Carbetocin is not intended for use in children.
+
+### drug=carbetocin | section=pregnancy_lactation | lang=en
+Use of carbetocin injection is contraindicated during pregnancy. Small amounts of carbetocin has been shown to cross over from plasma into the breast milk of nursing women. The small amount of carbetocin ingested by infant would not be expected to present a significant safety concern.
+
+### drug=carbetocin | section=indications | lang=bn
+কার্বেটোসিন নির্দেশিত-
+এপিডুরাল বা স্পাইনাল অ্যানেস্থেশিয়ার অধীনে ইলেকটিভ সিজারিয়ান সেকশনের মাধ্যমে শিশুর প্রসবের পর জরায়ুর অ্যাটনি এবং
+প্রসবোত্তর রক্তক্ষরণ (অতিরিক্ত রক্তপাত) প্রতিরোধের জন্য

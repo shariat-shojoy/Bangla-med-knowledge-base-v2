@@ -1,0 +1,286 @@
+### drug=cabergoline | section=indications | lang=en
+Cabergoline is used to stop breast milk production (lactation) soon after childbirth, stillbirth, abortion or miscarriage. It can also be used if do not want to continue to breastfeed. Cabergoline can also be used to treat other conditions caused by hormonal disturbance which can result in high levels of prolactin being produced.
+
+### drug=cabergoline | section=contraindications | lang=en
+History of serious mental disease, particularly psychotic disorders Liver or kidney disease High blood pressure in
+pregnancy associated with swelling and protein in the urine (toxaemia of pregnancy) Antipsychotic or have a history of mental illness associated with child-birth (puerperal psychosis).
+
+### drug=cabergoline | section=pregnancy_lactation | lang=en
+Pregnant or planning to get pregnant, discuss this with doctor before treatment though the pregnancy category B. Before start using Cabergoline check that patient not pregnant. Pregnant for at least one month once have
+stopped taking Cabergoline, As Ferticab will stop producing milk.If someone plan to breastfeed should not take Cabergoline.
+
+### drug=cabergoline | section=indications | lang=bn
+প্রসব, মৃতবাচ্চা, গর্ভপাতের সময় বুকের দুধ উৎপাদন বন্ধ করতে কেবারগোলিন ব্যবহার করা হয়। বুকের দুধ খাওয়ানো চালিয়ে যেতে না চাইলেও এটি ব্যবহার করা যেতে পারে। হরমোনজনিত কারণে উচ্চ মাত্রার প্রোল্যাকটিন তৈরিতে সৃষ্ট অন্যান্য সমস্যার চিকিৎসার জন্যও কেবারগোলিন ব্যবহার করা যেতে পারে।
+
+### drug=cabergoline | section=contraindications | lang=bn
+গুরুতর মানসিক রোগের ইতিহাস, বিশেষ করে মানসিক ব্যাধি
+লিভার বা কিডনি রোগ
+প্রস্রাবে ফোলা এবং প্রোটিনের সাথে যুক্ত গর্ভাবস্থায় উচ্চ রক্তচাপ (গর্ভাবস্থা টক্সেমিয়া)
+অ্যান্টিসাইকোলিকস বা সন্তান-জন্মের সাথে সম্পর্কিত মানসিক অসুস্থতার ইতিহাস রয়েছে (পিয়ারপেরাল সাইকোসিস)
+
+### drug=cabergoline | section=pregnancy_lactation | lang=bn
+গর্ভবতী বা গর্ভবতী হওয়ার পরিকল্পনা করছেন, চিকিৎসার আগে ডাক্তারের সাথে এই বিষয়ে আলোচনা করুন যদিও গর্ভাবস্থার বিভাগ বি। কেবারগোলিন ব্যবহার শুরু করার আগে পরীক্ষা করুন যে রোগী গর্ভবতী নয়। অন্তত এক মাসের জন্য গর্ভবতী একবার কেবারগোলিন গ্রহণ করা বন্ধ করে দেয়, কারণ কেবারগোলিন দুধ উৎপাদন বন্ধ করে দেয়। কেউ যদি বুকের দুধ খাওয়ানোর পরিকল্পনা করে তবে ফার্টিক্যাব গ্রহণ করা উচিত নয়।
+
+### drug=caffeine-citrate | section=indications | lang=en
+Caffeine Citrate is indicated for the treatment of apnea of prematurity.
+
+### drug=caffeine-citrate | section=pregnancy_lactation | lang=en
+Pregnancy Category C. Caffeine is excreted into breast milk. Breast-feeding mothers of newborn infants treated with Caffeine Citrate should not ingest caffeine-containing foods, beverages or medicinal products containing caffeine.
+
+### drug=caffeine-citrate | section=indications | lang=bn
+ক্যাফেইন সাইট্রেট প্রিম্যাচুরিটি অ্যাপনিয়ার চিকিত্সার জন্য নির্দেশিত।
+
+### drug=calcium-carbonate | section=indications | lang=en
+250 mg or 500 mg tablet
+: Elemental Calcium tablet is used for the treatment or prevention of calcium depletion in patients in whom dietary measures are inadequate. Conditions that may be associated with calcium deficiency include hypoparathyroidism, achlorhydria, chronic diarrhea, vitamin D deficiency, steatorrhea, sprue, pregnancy and lactation, menopause, pancreatitis, renal failure, alkalosis, and hyperphosphataemia. Calcium Carbonate is being used increasingly often to treat hyperphosphataemia in chronic renal failure as well as those on continuous ambulatory peritoneal dialysis (CAPD) and haemodialysis. Many patients are unable to tolerate sufficient doses for complete phosphate control and require additional measures such as stringent dietary phosphate restriction or relatively small doses of aluminium hydroxide. Calcium Carbonate containing preparations can provide short-term relief of dyspeptic systems but are no longer recommended for long-term treatment of peptic ulceration.
+1000 mg tablet
+: Elemental Calcium tablet is indicated for the management of conditions associated with hyperidity and for fast relief of acid indigestion, heartburn, sour stomach and upset stomach.
+
+### drug=calcium-carbonate | section=contraindications | lang=en
+Hypercalcaemia and hyperparathyroidism
+Hypercalciuria and nephrolithiasis
+Zollinger-Ellison syndrome
+Concomitant digoxin therapy (requires careful monitoring of serum calcium level)
+When hypercalcaemia occurs, discontinuation of the drug is usually sufficient to return serum calcium concentrations to normal. Calcium salts should be used cautiously in patients with sarcoidosis, renal or cardiac disease, and in patients receiving cardiac glycosides.
+
+### drug=calcium-carbonate | section=pregnancy_lactation | lang=en
+Calcium containing drugs have been widely used in pregnancy by way of oral calcium supplementation or antacid therapy. Calcium Carbonate can be used in lactating women too.
+
+### drug=calcium-gluconate | section=indications | lang=en
+Used in the treatment of Calcium Gluconate deficiency states & as a dietary supplement when intake may be inadequate In. Calcium Gluconate is used in-
+Severe hypoglycemic tetany
+Hypoparathyroidism
+Vitamin D-deficiency
+Osteoporosis and
+Extreme hypercalcemia
+
+### drug=calcium-gluconate | section=contraindications | lang=en
+In Patients receiving cardiac glycosides
+In patients with renal failure.
+In patients with severe hypercalciuria and
+In patients with hypercalcemia
+
+### drug=calcium-gluconate | section=pregnancy_lactation | lang=en
+Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.
+
+### drug=calcium-gluconate | section=indications | lang=bn
+ক্যালসিয়াম এর ঘাটতি পূরণে এবং খাদ্যতালিকায় পর্যাপ্ত পরিমাণে না থাকলে তার সম্পূরক হিসাবে ব্যবহৃত হয়। ক্যালসিয়াম গ্লুকোনেট ব্যবহৃত হয়-
+গুরুতর হাইপোগ্লাইসেমিক টিটানিতে
+হাইপোপ্যারা থাইরয়েডিজমে
+ভিটামিন ডি-এর অভাবে
+অস্টিওপোরোসিস এবং
+চরম হাইপারক্যালসেমিয়ায়
+
+### drug=captopril | section=indications | lang=en
+Mild-to-moderate hypertension
+: As an adjunct to thiazide therapy in patients who have not responded effectively to thiazide treatment alone.
+Severe hypertension
+: Where standard therapy has failed.
+Congestive heart failure
+: Captopril is indicated for the treatment of congestive heart failure. The drug should be used together with diuretics and where appropriate, digitalis.
+
+### drug=captopril | section=contraindications | lang=en
+A history of previous hypersensitivity to captopril. Captopril is contra-indicated in pregnancy and should not be used in women of child-bearing potential unless protected by effective contraception.
+
+### drug=captopril | section=pregnancy_lactation | lang=en
+There are no available data in pregnant women to inform the drug-associated risk. Because of the potential for serious adverse reactions a decision should be made whether to discontinue nursing or to discontinue the drug.
+
+### drug=captopril | section=indications | lang=bn
+হালকা থেকে মাঝারি উচ্চ রক্তচাপ
+: ক্যাপটোপ্রিল, শুধুমাত্র থায়াজাইড চিকিত্সায় অকার্যকর রোগীদের ক্ষেত্রে থায়াজাইড থেরাপির সংযোজন হিসাবে নির্দেশিত।
+গুরুতর উচ্চ রক্তচাপ
+: যেখানে স্ট্যান্ডার্ড থেরাপি ব্যর্থ হয়েছে।
+কনজেস্টিভ হার্ট ফেইলিউর
+: ক্যাপটোপ্রিল কনজেস্টিভ হার্ট ফেইলিউরের চিকিৎসার জন্য নির্দেশিত। ওষুধটি ডাইউরেটিকসের সাথে একসাথে ব্যবহার করা উচিত এবং যেখানে উপযুক্ত, ডিজিটালিস।
+
+### drug=carbamazepine | section=indications | lang=en
+Carbamazepine is indicated for-
+Partial and secondary generalized tonic-clonic seizures
+Primary generalized tonic-clonic seizures
+Trigeminal neuralgia
+Prophylaxis of bipolar disorder
+
+### drug=carbamazepine | section=contraindications | lang=en
+This medicine should not be used if anybody is allergic to one or any of its ingredients. It can not be used also in the following conditions:
+Problems with the electrical message pathways in the heart (atrioventricular block)
+History of decreased blood cell production by the bone marrow (bone marrow depression)
+Hereditary blood disorders called porphyrias
+Allergy to tricyclic antidepressants
+People who have taken a monoamine-oxidase inhibitor antidepressant (MAOI) in the last 14 days
+
+### drug=carbamazepine | section=pregnancy_lactation | lang=en
+Pregnancy category D. Carbamazepine and its epoxide metabolite are transferred to breast milk. Because of the potential serious side effects, decision should me made whether to discontinue nursing or discontinue the drug.
+
+### drug=carbamazepine | section=indications | lang=bn
+নিম্নলিখিত ক্ষেত্রে কার্বামাজেপিন নির্দেশিত-
+পার্শিয়াল এবং সেকেন্ডারী জেনারাইলজড টনিক ক্লনিক সিজার (মৃগীরোগ)
+প্রাইমারী জেনারাইলজড টনিক ক্লনিক সিজার
+ট্রাইজেমিনাল নিউরালজিয়া
+বাইপলার ডিজঅর্ডার প্রতিরোধ।
+
+### drug=carbamazepine | section=contraindications | lang=bn
+নিম্নলিখিত ক্ষেত্রে কার্বামাজেপিন ব্যবহার করা যাবে না কার্বামাজেপিন অথবা এর কোন উপাদানের প্রতি সংবেদনশীল রোগীদের ক্ষেত্রে এট্রিও ভেনট্রিকুলার ব্লক বোনমেরু ডিপ্রেশন পোরফাইরিয়াস ট্রাইসাইক্লিক এন্টিডিপ্রেসেন্ট। যারা বিগত ১৪ দিনের মধ্যে কোন মনোএমাইনো অক্সিডেজ এন্টিডিপ্রেসেন্ট গ্রহণ করেছে
+
+### drug=carbamazepine | section=pregnancy_lactation | lang=bn
+প্রেগনেন্সি ক্যাটাগরি-ডি। কার্বামাজেপিন এবং এর ইপোক্সাইড মেটাবোলাইট মাতৃদুগ্ধে নিঃসৃত হয়। সম্ভাব্য ক্ষতিকর প্রতিক্রিয়ারোধে মাতৃদুগ্ধ সেবন অথবা ওষুধ সেবন বন্ধ করতে হবে।
+
+### drug=carbimazole | section=indications | lang=en
+Carbimazole is indicated in the management of hyperthyroidism, thyrotoxicosis (including thyroid storm), and also for the preparation of patients for thyroidectomy. Carbimazole can also be used in combination with radio-active ablative therapy.
+
+### drug=carbimazole | section=contraindications | lang=en
+Hypersensitivity to carbimazole or other thiourea antithyroid agents.
+
+### drug=carbimazole | section=pregnancy_lactation | lang=en
+Carbimazole may be given during pregnancy to a thyrotoxic patient, but the smallest effective dose should be used an overdosage adversely affects the foetus. Carbimazole crosses the placenta and is excreted into breast milk. Carbimazole may, therefore, cause foetal or neonatal hypothyroidism and goitre.
+
+### drug=carbimazole | section=indications | lang=bn
+কার্বিমাজোল হাইপারথাইরয়েডিজম, থাইরোটক্সিকোসিস (থাইরয়েড স্টর্ম সহ), এবং থাইরয়েডেক্টমির জন্য রোগীদের প্রস্তুতির জন্য নির্দেশিত। কার্বিমাজোল রেডিও-একটিভ অ্যাবলেটিভ থেরাপির সাথেও ব্যবহার করা যেতে পারে।
+
+### drug=carboprost-tromethamine | section=indications | lang=en
+Terminating pregnancy between the 13th and 20th weeks of gestation. In the following conditions related to second trimester abortion:
+Failure of expulsion of the fetus during the course of treatment by another method;
+Premature rupture of membranes in intrauterine methods with loss of drug and insufficient or absent uterine activity;
+Requirement of a repeat intrauterine instillation of drug for expulsion of the fetus;
+Inadvertent or spontaneous rupture of membranes in the presence of a previable fetus and absence of adequate activity for expulsion.
+Treatment of postpartum hemorrhage due to the uterus failing to return to its normal size and who have not responded to conventional treatments.
+
+### drug=carboprost-tromethamine | section=contraindications | lang=en
+Hypersensitivity to Carboprost
+Acute pelvic inflammatory disease
+
+### drug=carboprost-tromethamine | section=pregnancy_lactation | lang=en
+Pregnancy category C. Animal studies do not indicate that Carboprost is teratogenic, however, it has been shown to be embryotoxic in rats and rabbits and any dose which produces increased uterine tone could put the embryo or fetus at risk.
+
+### drug=carboprost-tromethamine | section=indications | lang=bn
+গর্ভাবস্থার ১৩ তম এবং ২০ তম সপ্তাহের মধ্যে গর্ভাবস্থার সমাপ্তি। দ্বিতীয় ত্রৈমাসিকের গর্ভপাত সম্পর্কিত নিম্নলিখিত পরিস্থিতিতে নির্দেশিত:
+অন্য পদ্ধতি দ্বারা চিকিত্সার সময় ভ্রূণ এক্সপালসনে ব্যর্থতা
+ইন্ট্রাইউটেরাইন মেথডে ওষুধের হ্রাস বা অপর্যাপ্ত অথবা অনুপস্থিত ইউটেরাইন একটিভিটির দরুন মেমব্রেনের প্রিম্যচিউর রাপচার
+ভ্রুনের এক্সপালসনের জন্য প্রয়োজন অনুযায়ী ইন্ট্রাইউটেরাইন ওষুধ চালনার পুনরাবৃত্তি
+প্রিভায়াবল ভ্রূণের উপস্থিতিতে মেমব্রেনের অসাবধানতা বা স্বতঃস্ফূর্ত ফেটে যাওয়া এবং এক্সপালসনের জন্য পর্যাপ্ত একটিভিটির অনুপস্থিতি।
+প্রসবোত্তর রক্তক্ষরণের চিকিৎসায় যার কারণে জরায়ু তার স্বাভাবিক আকারে ফিরে আসতে ব্যর্থ হয় এবং যেসব রোগী প্রচলিত চিকিৎসায় উপকৃত হয়না।
+
+### drug=cefazolin-sodium | section=indications | lang=en
+Cefazolin is indicated in the treatment of the following serious infections due to susceptible organisms
+: Respiratory Tract Infections, Urinary Tract Infections, Skin and Skin Structure Infections, Biliary Tract Infections, Bone and Joint Infections, Genital Infections, Septicemia, Endocarditis and Perioperative Prophylaxis.
+
+### drug=cefazolin-sodium | section=contraindications | lang=en
+Cefazolin is contraindicated in patients with known allergy to the Cephalosporin group of Antibiotics.
+
+### drug=cefazolin-sodium | section=pregnancy_lactation | lang=en
+Pregnancy Category B. Cefazolin is present in very low concentrations in the milk of nursing mothers.Caution should be exercised when Cefazolin is administered to a nursing woman.
+
+### drug=cefazolin-sodium | section=indications | lang=bn
+সেফাজোলিন সংবেদনশীল জীবের কারণে নিম্নলিখিত গুরুতর সংক্রমণের চিকিত্সার জন্য নির্দেশিত
+: শ্বসনতন্ত্রের সংক্রমণ, মূত্রনালীর সংক্রমণ, ত্বক এবং ত্বকের কাঠামোর সংক্রমণ, বিলিয়ারি ট্র্যাক্ট সংক্রমণ, হাড় ও জয়েন্টের সংক্রমণ, যৌনাঙ্গের সংক্রমণ, সেপ্টিসেমিয়া, এন্ডোকার্ডাইটিস এবং পেরিওঅপারেটিভ প্রোফাইল্যাক্সিস।
+
+### drug=cefixime-trihydrate | section=indications | lang=en
+Cefixime Trihydrate is an orally active cephalosporin antibiotic which has marked in-vitro bactericidal activity against a wide variety of Gram-positive and Gram-negative organism. It is indicated for the treatment of the following acute infections when caused by susceptible microorganisms.
+Upper Respiratory Tract Infections (URTI)
+: e.g. otitis media; and other URTI where the causative organism is known or suspected to be resistant to other commonly used antibiotics, or where treatment failure may carry significant risk. Lower Respiratory Tract Infections-e.g. bronchitis.
+Urinary Tract Infections
+: e.g. cystitis, cystourethritis, pyelonephritis. Clinical efficacy has been demonstrated in infections caused by commonly occurring pathogens including Streptococcus pneumonia, Streptococcus pyogenes, Escherichia coli, Proteus mirabilis, Klebsiella species, Haemophilus influenzae (beta-lactamase positive and negative), Moraxella catarrhalis (beta-lactamase positive and negative) and Enterobacter species. Cefixime is highly stable in the presence of beta-lactamase enzymes.
+
+### drug=cefixime-trihydrate | section=contraindications | lang=en
+Patients with known hypersensitivity to cephalosporin antibiotics.
+
+### drug=cefixime-trihydrate | section=pregnancy_lactation | lang=en
+There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. It is not known that Cefixime is excreted in human milk. So, caution should be exercised when Cefixime is administered to a nursing woman.
+
+### drug=cefixime-trihydrate | section=indications | lang=bn
+সংবেদনশীল জীবাণুগুচ্ছের দ্বারা সৃষ্ট নিম্নলিখিত সংক্রমণসমূহে সেফিক্সিম ট্রাইহাড্রেট নির্দেশিতঃ
+অজটিল মুত্রনালীর সংক্রমণ যা ই. কলাই ও প্রোটিয়াস মিরাবিলিস দ্বারা হয়ে থাকে।
+ওটাইটিস মিডিয়া যা হিমোফিলাস ইনফ্লুয়েঞ্জি, মোরাক্সেলা ক্যাটারালিস ও স্ট্রেপ্টোকক্কাস পায়োজেনস দ্বারা হয়ে থাকে।
+ফ্যারিনজাইটিস এবং টনসিলাইটিস যা স্ট্রেপ্টোকক্কাস পায়োজেনস দ্বারা হয়ে থাকে।
+একিউট ব্রংকাইটিস এবং একিউট এক্সাসারবেশন অব ক্রনিক ব্রংকাইটিস যা স্ট্রেপ্টোকক্কাস নিউমোনি এবং হিমোফিলাস ইনফ্লুয়েঞ্জি দ্বারা হয়ে থাকে।
+অজটিল গনেরিয়া (সার্ভিক্যাল/ইউরেথ্রাল) যা নেইসিরিয়া গনেরি দ্বারা হয়ে থাকে।
+
+### drug=cefixime-trihydrate | section=contraindications | lang=bn
+সেফিক্সিম বা অন্য কোন সেফালোস্পোরিন এন্টিবায়োটিকের প্রতি অতিসংবেদনশীলতায় এটি প্রতিনির্দেশিত।
+
+### drug=cefixime-trihydrate | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ব্যবহারের সুনিয়ন্ত্রিত ও পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন গবেষণা সর্বদা মানবদেহে কার্যকারিতা সম্বন্ধে পূর্ব ধারণা দেয় না, সেহেতু এই ঔষধটি গর্ভাবস্থায় সুনির্দিষ্টভাবে প্রয়োজন হলেই ব্যবহার করা উচিত। সেফিক্সিম মাতৃদুগ্ধে নিঃসৃত হয় কিনা তা এখনও জানা যায় নাই। সুতরাং মাতৃদাত্রী মায়েদের ক্ষেত্রে সেফিক্সিম ব্যবহারে সতর্কতা অবলম্বন করা উচিত।
+
+### drug=ceftriaxone-sodium | section=indications | lang=en
+Ceftriaxone injection is indicated for the treatment of the following major infections:
+Lower respiratory tract infections
+Acute Bacterial Otitis Media
+Skin and skin structure infections
+Urinary tract infections
+Gonorrhea
+Bacterial Septicemia
+Bone and joint infections
+Meningitis
+Prevention of postoperative infections
+Perioperative prophylaxis of infections associated with surgery
+
+### drug=ceftriaxone-sodium | section=contraindications | lang=en
+Ceftriaxone should not be given to patients with a history of hypersensitivity to cephalosporin antibiotics.
+
+### drug=ceftriaxone-sodium | section=pregnancy_lactation | lang=en
+Its safety in human pregnancy has not been established. Therefore, it should not be used in pregnancy unless absolutely indicated. Low concentrations of Ceftriaxone are excreted in human milk. Caution should be exercised when Ceftriaxone is administered to a lactating mother.
+
+### drug=ceftriaxone-sodium | section=indications | lang=bn
+নীচের ইনফেকশনগুলোর জন্য সেফট্রায়াক্সন নির্দেশিত হয়ঃ
+নিম্ন শ্বসনতন্ত্রের সংক্রমন
+একিউট ব্যাকটেরিয়াল ওটাইটিস মিডিয়া
+চর্ম ও চর্ম সংক্রান্ত সংক্রমণ
+মূত্রতন্ত্রের সংক্রমন
+গনোরিয়া
+ব্যাকটেরিয়াল সেপটিসেমিয়া
+অস্থি ও অস্থিসন্ধির সংক্রমন
+মেনিনজাইটিস
+অপারেশন পরবর্তী সংক্রমন প্রতিরোধে
+অপারেশন পূর্ব ও পরবর্তী সংক্রমনে প্রতিরোধক হিসেবে
+
+### drug=ceftriaxone-sodium | section=contraindications | lang=bn
+সেফালোস্পোরিন এন্টিবায়োটিকের প্রতি সংবেদনশীল রোগীদের ক্ষেত্রে সেফট্রায়াক্সন প্রয়োগ করা উচিৎ নয়।
+
+### drug=ceftriaxone-sodium | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় মানবদেহে সেফট্রায়াক্সনের নিরাপত্তা এখনো প্রমাণিত হয়নি। সুতরাং সম্পূণরুপে নির্দেশিত না হলে গর্ভাবস্থায় এটি ব্যবহার করা যাবেনা। যেহেতু মাতৃদুগ্ধে সেফট্রায়াক্সন অল্পমাত্রায় নিঃসরিত হয় সুতরাং স্তন্যদানকারী মায়েদের ক্ষেত্রে ইহা সাবধানতা ও সতর্কতার সাথে ব্যবহার করা উচিৎ।
+
+### drug=cefuroxime-axetil | section=indications | lang=en
+It is indicated for the treatment of infections caused by sensitive bacteria.
+Pharyngitis/Tonsillitis caused by Streptococcus pyogenes.
+Acute Bacterial Otitis Media caused by Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis (beta-lactamase producing strains) or Streptococcus pyogenes.
+Acute bacterial maxillary sinusitis caused by Streptococcus pneumoniae or Haemophilus influenzae (non beta-lactamase producing strains)
+Lower respiratory tract infections including pneumoniae, caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta lactamase-producing strains), Klebsiella spp., Staphylococcus aureus (penicillinase- and non-penicillinase-producing strains), Streptococcus pyogenes, E. coli
+Acute bacterial exacerbation of chronic bronchitis and Secondary bacterial infections of Acute bronchitis caused by Streptococcus pneumoniae, Haemophilus influenzae (beta-lactamase negative strains) or Haemophilus parainfluenzae (beta-lactamase negative strains).
+Skin and skin-structure infections caused by Staphylococcus aureus (including beta-lactamase producing strains) or Streptococcus pyogenes.
+Urinary tract infections caused by E.coli or Klebsiella pneumoniae.
+Bone and Joint Infections caused by Staphylococcus aureus (penicillinase- and non-penicillinase-producing strains).
+Gonorrhoea caused by penicillinase-producing and non-penicillinase producing strains of Neisseria gonorrhoeae.
+Early Lyme Disease (erythema migrans) caused by Borrelia burgdorferi.
+
+### drug=cefuroxime-axetil | section=contraindications | lang=en
+Cefuroxime is contraindicated in patients with known allergy to Cephalosporins.
+
+### drug=cefuroxime-axetil | section=pregnancy_lactation | lang=en
+US FDA pregnancy category of Cefuroxime is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Cefuroxime have been shown to be excreted in human milk. So, caution should be exercised when Cefuroxime is administered to a nursing woman.
+
+### drug=cefuroxime-axetil | section=indications | lang=bn
+সংবেদনশীল ব্যাকটেরিয়া দ্বারা সৃষ্ট সংক্রমণের চিকিৎসায় এটি নির্দেশিত।
+স্ট্রেপটোকক্কাস পায়োজেনস-এর দ্বারা সৃষ্ট ফ্যারিংজাইটিস/টনসিলাইটিস।
+স্ট্রেপটোকক্কাস নিউমোনি, হিমোফিলাস ইনফ্লুয়েঞ্জি, মোরাক্সেলা ক্যাটারালিস (বিটা-ল্যাকটামেজ উৎপাদনকারী প্রজাতিসমূহ) অথবা স্ট্রেপটোকক্কাস পায়োজেনস দ্বারা সৃষ্ট একিউট ব্যাকটেরিয়াল ওটাইটিস মিডিয়া।
+স্ট্রেপটোকক্কাস নিউমোনি অথবা হিমোফিলাস ইনফ্লুয়েঞ্জি, (বিটা-ল্যাকটামেজ উৎপাদন করে না এমন প্রজাতিসমূহ) দ্বারা সৃষ্ট একিউট ব্যাকটেরিয়াল ম্যাক্সিলারী সাইনুসাইটিস।
+শ্বসনতন্ত্রের নিম্নাংশের সংক্রমণ নিউমোনিয়াসহঃ স্ট্রেপটোকক্কাস নিউমোনি, হিমোফাইলাস ইনফ্লুয়েঞ্জি (বিটা ল্যাকটামেজ উৎপন্নকারী প্রজাতিসমূহ), ক্লেবসিয়েলা প্রজাতি, স্টেফাইলোকক্কাস অরিয়াস (পেনিসিলিনেজ এবং নন-পেনিসিলিনেজ উৎপাদনকারী প্রজাতিসমূহ), স্ট্রেপটোকক্কাস পায়োজেনস, ই.কলাই দ্বারা সৃষ্ট সংক্রমণে।
+স্ট্রেপটোকক্কাস নিউমোনি, হিমোফিলাস ইনফ্লুয়েঞ্জি অথবা হিমোফিলাস প্যারাইনফ্লুয়েঞ্জি (বিটা-ল্যাকটামেজ নেগেটিভ স্ট্রেইনস) দ্বারা সৃষ্ট ক্রণিক ব্রংকাইটিস-এর একিউট ব্যাকটেরিয়াল এক্সাসারবেশন এবং মাধ্যমিক একিউট ব্রংকাইটিস-এর ব্যাকটেরিয়াল সংক্রমণ।
+স্টেফাইলোকক্কাস অরিয়াস (বিটা-ল্যাকটামেজ উৎপাদনকারী প্রজাতিসমূহ) অথবা স্ট্রেপটোকক্কাস পায়োজেনস দ্বারা সৃষ্ট ত্বকের এবং ত্বকীয় সংক্রমণ।
+ই.কলাই অথবা ক্লেবসিয়েলা নিউমোনি দ্বারা সৃষ্ট মূত্রনালীর সংক্রমণ।
+অস্থি এবং অস্থিসন্ধির সংক্রমনঃ স্টেফাইলোকক্কাস অরিয়াস (পেনিসিলিনেজ এবং নন-পেনিসিলিনেজ উৎপাদনকারী প্রজাতিসমূহ) দ্বারা সৃষ্ট সংক্রমণে
+পেনিসিলিনেজ এবং নন-পেনিসিলিনেজ উৎপাদনকারী নিসেরিয়া গনোরিয়া স্ট্রেইনস্-এর দ্বারা সৃষ্ট গনোরিয়া।
+বরেলিয়া বার্গডোরফেরি দ্বারা সৃষ্ট লাইম রোগের প্রারম্ভিক অবস্থা (ইরাইথেমা মাইগ্রেনস)।
+
+### drug=cefuroxime-axetil | section=contraindications | lang=bn
+সেফালোস্পোরিন Group এর এন্টিবায়োটিক-এর প্রতি জ্ঞাত সংবেদনশীল রোগীদের সেফিউরক্সিম দেয়া উচিত নয়।
+
+### drug=cefuroxime-axetil | section=pregnancy_lactation | lang=bn
+US FDA প্রেগন্যান্সি ক্যাটাগরী অনুযায়ী সেফিউরক্সিম 'B' জাতীয় ঔষধ। অর্থাৎ, গর্ভাবস্থায় ব্যবহারের সুনিয়ন্ত্রিত ও পর্যাপ্ত তথ্য নেই। যেহেতু প্রাণিজ প্রজনন গবেষণা সর্বদা মানবদেহের জন্য কার্যকর নয়, সেহেতু এই ঔষধটি গর্ভাবস্থায় সুনির্দিষ্টভাবে প্রয়োজন হলেই ব্যবহার করা উচিত। সেফিউরক্সিম স্তন্যদুগ্ধে নিঃসৃত হয়। সুতরাং, স্তন্যদাত্রী মায়েদের ক্ষেত্রে সেফিউরক্সিম ব্যবহারে সতর্কতা অবলম্বন করা উচিত।
+
+### drug=chlorhexidine-gluconate-71 | section=indications | lang=en
+Chlorhexidine Gluconate is indicated for prophylaxis of omphalitis (infection of the umbilical cord) in newborn.
+
+### drug=chlorhexidine-gluconate-71 | section=pregnancy_lactation | lang=en
+Not applicable for the intended patient population.
+
+### drug=chlorhexidine-gluconate-71 | section=indications | lang=bn
+ক্লোরহেক্সিডিন গ্লুকোনেট নবজাতকের ওমফালাইটিস (নাভির কর্ডের সংক্রমণ) প্রতিরোধের জন্য নির্দেশিত।

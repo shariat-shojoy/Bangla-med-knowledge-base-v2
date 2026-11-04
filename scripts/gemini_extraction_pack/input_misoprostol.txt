@@ -1,0 +1,37 @@
+### drug=misoprostol | section=indications | lang=en
+Misoprostol is indicated for-
+Prophylaxis of gastric and duodenal ulceration in NSAID users at high risk of complications from gastric ulcer e.g. the elderly, patients with concomitant debilitating disease and patients with a history of ulcer.
+Healing of established NSAID- induced gastric and duodenal damage.
+Healing of gastric and duodenal ulcers in the absence of NSAID therapy.
+Induction of labor.
+Prevention and treatment of postpartum hemorrhage.
+
+### drug=misoprostol | section=contraindications | lang=en
+Misoprostol is contraindicated to anyone with a history of allergy to prostaglandins and it is also contraindicated in pregnancy.
+
+### drug=misoprostol | section=pregnancy_lactation | lang=en
+Because of the abortifacient property of the Misoprostol component, it is contraindicated in women who are pregnant. It should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID. In such patients, it may be prescribed if the patient:
+has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
+is capable of complying with effective contraceptive measures.
+has received both oral and written warnings of the hazards of Misoprostol, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+will begin it only on the second or third day of the next normal menstrual period.
+Excretion of the active metabolite (Misoprostol acid) into milk is possible but has not been studied. Because of the potential for serious adverse reactions in nursing infants, it is not recommended for use by nursing mothers.
+
+### drug=misoprostol | section=indications | lang=bn
+মিসোপ্রোষ্টল নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+এনএসএআইডি সেবনকারী, যাদের গ্যাস্ট্রিক আলসার হওয়ার ঝুঁকি রয়েছে যেমন- বয়োবৃদ্ধ, শারীরিক ভাবে দূর্বল রোগী এবং যে সব রোগীর আলসার হওয়ার ইতিহাস রয়েছে, তাদের গ্যান্ত্রিক এবং ডিওডেনাল আলসার প্রতিরোধে।
+এনএসএআইডি জনিত পাকস্থলী ও ডিওডেনামের ক্ষয়ের নিরাময়ে
+এনএসএআইডি থেরাপির অনুপস্থিতিতে যে গ্যাট্রিক ও ডিওডেনাল আলসার হয়, তার নিরাময়ে
+প্রসবের সূচনাকল্পে
+পোস্টপার্টাম হেমোরেজ প্রতিরোধ ও চিকিৎসায়।
+
+### drug=misoprostol | section=contraindications | lang=bn
+প্রোস্টাগ্ল্যানডিনের প্রতি অ্যালার্জির ইতিহাস রয়েছে, এমন রোগীদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত এবং গর্ভাবস্থায়ও ইহা প্রতিনির্দেশিত।
+
+### drug=misoprostol | section=pregnancy_lactation | lang=bn
+গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত। গর্ভবতী হতে পারে এমন মহিলাদের ক্ষেত্রেও এটা ব্যবহার করা উচিত নয়, যদি না উক্ত রোগীর এন.এস.এ.আই.ডি থেরাপী প্রয়োজন হয় এবং অনুরূপ ওষুধজনিত গ্যাস্ট্রিক আলসারের উচ্চ ঝুঁকি থাকে। ঐরূপ রোগীর ক্ষেত্রে মিসোপ্রোষ্টল তখনই দেয়া যাবে যদি-
+থেরাপী শুরুর ২ সপ্তাহ আগে রোগীর সিরাম গর্ভাবস্থা পরীক্ষা ঋণাত্মক হয়ে থাকে।
+রোগী কার্যকর গর্ভনিরোধক পদ্ধতি গ্রহণ করতে পারে।
+মিসোপ্রোষ্টল ব্যবহারের সমস্যা, এর ব্যবহারে গর্ভনিরোধ পদ্ধতির সম্ভাব্য ব্যর্থতার ঝুঁকি- এসব বিষয়ে মৌখিক ও লিখিত উভয় প্রকার সতর্কতা বাণী জেনে থাকলে।
+রোগী পরবর্তী স্বাভাবিক রজাচক্রের ২য় বা ৩য় দিন মিসোপ্রোষ্টল থেরাপী শুরু করে।
+মিসোপ্রোষ্টলের কার্যকর মেটাবোলাইট (মিসোপ্রোষ্টল এসিড) বুকের দুধের মাধ্যমে নিঃসৃত হওয়া সম্ভব কিনা এখনও গবেষণা করা হয়নি। নবজাতকদের ক্ষেত্রে মারাত্মক প্রতিক্রিয়া ঘটাতে পারে বলে স্তন্যদায়ী মায়েদের ক্ষেত্রেপ্রযোজ্য নয়।

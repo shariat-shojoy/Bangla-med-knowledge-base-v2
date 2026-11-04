@@ -1,0 +1,17 @@
+### drug=magnesium-sulfate | section=indications | lang=en
+Magnesium Sulfate injection is indicated mainly for the treatment of hypomagnesaemia and magnesium deficiency states. Irregular heart beats, some time it may be used as a laxative. Magnesium Sulfate injection is used in the treatment of magnesium deficiency. Magnesium Sulfate has anticonvulsant properties when administered parentally, it may be used to prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia. It is also used in bronchial asthma & cardiovascular disorder.
+
+### drug=magnesium-sulfate | section=contraindications | lang=en
+Magnesium Sulfate contra-indicated in the case of a defect of the heart's electrical message pathways resulting in decreased function of the heart (heart block), severe damage to the muscular wall of the heart (myocardium) and significantly decreased kidney function.
+
+### drug=magnesium-sulfate | section=pregnancy_lactation | lang=en
+Magnesium Sulfate crosses the placenta. So, as with any other drugs, caution is required when the drug is administered to pregnant women. It is not known whether the drug is excreted in human milk. As it happens with many other drugs, cautions should be taken when it is administered to a nursing mother.
+
+### drug=magnesium-sulfate | section=indications | lang=bn
+ম্যাগনেসিয়াম সালফেট ইনজেকশন সাধারনত হাইপারম্যাগনেসেমিয়া চিকিৎসার জন্য এবং ম্যাগনেসিয়াম এর ঘাটতি পূরণে ব্যবহার করা হয়। মাঝে মাঝে এটি অনিয়মিত হৃদস্পন্দন এবং রোচক ঔষধ হিসেবেও ব্যবহার করা হয়। মাগনেসিয়াম সালফেটের খিচুনি বিরোধী বৈশিষ্ট্য আছে যদি মাংসপেশীতে প্রয়োগ করা হয়। এটি খিচুনি প্রতিরোধ, ও নিয়ন্ত্রনেও ব্যবহার করা হয়। এটি অ্যাজমা ও হার্টের ব্যাধিতেও ব্যবহার করা হয়।
+
+### drug=magnesium-sulfate | section=contraindications | lang=bn
+ম্যাগনেসিয়াম সালফেট হার্ট ব্লক, মায়োকার্ডিয়াম এবং কিডনীর স্বাভাবিক ক্রিয়াতে প্রতিনির্দেশিত।
+
+### drug=magnesium-sulfate | section=pregnancy_lactation | lang=bn
+মাগনেসিয়াম সালফেট প্লাসেন্টা অতিক্রম করে, তাই গর্ভাবতী মহিলাদের প্রয়োগ করার আগে অবশ্যই সতর্কতা অবলম্বন করতে হবে। ম্যাগনেসিয়াম সালফেট মায়ের দুধের সাথে বের হয় কিনা জানা যায়নি, তবে সেক্ষেত্রে ব্যবহারে সতর্কতা অবলম্বন করতে হবে।

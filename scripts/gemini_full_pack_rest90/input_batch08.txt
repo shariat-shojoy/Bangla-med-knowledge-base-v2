@@ -1,0 +1,311 @@
+### drug=nitrofurantoin | section=indications | lang=en
+Nitrofurantoin is specifically indicated for the treatment & prophylaxis of urinary tract infections caused by susceptible strains of Escherichia coli, Enterococci, Staphylococcus aureus, Staphylococcus saprophyticus and certain susceptible strains of Klebsiella and Enterobacter species.
+
+### drug=nitrofurantoin | section=contraindications | lang=en
+Anuria, oliguria or significant impairment of renal function are contraindications. This drug is contraindicated in pregnant patients at 38-42 weeks, during labor and delivery. Nitrofurantoin is also contraindicated in those patients with known hypersensitivity to Nitrofurantoin.
+
+### drug=nitrofurantoin | section=pregnancy_lactation | lang=en
+Pregnancy Category B. There are no adequate and well-controlled studies in pregnant women. This drug should be used during pregnancy only if clearly needed. Nitrofurantoin has been detected in human breast milk in trace amounts. Because of the potential for serious adverse reactions from Nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+### drug=nitrofurantoin | section=indications | lang=bn
+নাইট্রোফিউরানটোইন এসচেরিসিয়া কোলাই, এন্টারােক্কাই, স্ট্যাফাইলােকক্কাস অরিয়াস, স্ট্যাফাইলােকক্কাস স্যাপ্রােফাইটিকাস এবং কিছু ক্লেবসিয়েলা ও এন্টারােব্যাকটার এর সংবেদনশীল প্রজাতি দ্বারা সংক্রমিত শুধুমাত্র মূত্রনালীর সংক্রমণের চিকিৎসা ও প্রতিরােধে নির্দেশিত।
+
+### drug=nitrofurantoin | section=contraindications | lang=bn
+এ্যানুরিয়া, অলিগইউরিয়া অথবা বৃক্কের মারাত্মক অসমকার্যকারিতায় এটি প্রতিনির্দেশিত। এই ওষুধটি ৩৮-৪২ সপ্তাহের গর্ভবতী রােগীদের ক্ষেত্রে, প্রসবপূর্ব ও প্রসবকালীন সময়ে প্রতিনির্দেশিত। যেসব রােগী নাইট্রোফিউরানটোইন এর প্রতি অতি সংবেদনশীল তাদের ক্ষেত্রে এটি প্রতিনির্দেশিত।
+
+### drug=nitrofurantoin | section=pregnancy_lactation | lang=bn
+প্রেগন্যান্সি ক্যাটেগরি বি। গর্ভবতী মায়েদের উপর কোন পর্যাপ্ত এবং সুনিয়ন্ত্রিত পরীক্ষা হয়নি। এই ঔষধটি গর্ভাবন্থায় তখনই দেয়া যাবে যখন এটি সুস্পষ্টভাবে নির্দেশিত। নাইট্রোফিউরানটোইন অল্প পরিমাণে মাতৃদুগ্ধে নিঃসরিত হয়। যেহেতু ১ মাসের নিচে বাচ্চাদেয় ক্ষেত্রে মারাত্মক পার্শ্ব-প্রতিক্রিয়া দেখা যেতে পারে সেহেতু এই ওযুধ দেয়ার পূর্বে এর গুরুত্ব বিবেচনা করে হয় দুগ্ধদান থেকে বিরত থাকতে হবে অথবা ঔষধ খাওয়া থেকে বিরত থাকতে হবে।
+
+### drug=oral-rehydration-salt-glucose-based | section=indications | lang=en
+Oral Rehydration Salt helps in replacement of fluid and electrolyte loss due to-
+Acute diarrhea
+Vomiting
+Dehydration
+Other conditions of fluid loss or lack of intake in patients of all age groups.
+
+### drug=oxytocin | section=indications | lang=en
+Oxytocin is indicated in-
+Induction of labor, stimulation of uterine contractions.
+Post delivery period, for the prevention or treatment of secondary haemorrhage and adherent placenta.
+To stimulate lactation, only it advised by the registered Gynaecologist/Physician.
+Treatment of incomplete abortion to obtain more rapid expulsion in order to prevent secondary hemorrhage.
+
+### drug=oxytocin | section=contraindications | lang=en
+Cephalo-pelvic disproportion.
+Abnormal position of the child or abnormal position of the skull.
+Overdistention of the inferior segment of the uterus.
+Severe toxaemia.
+Hypertonic uterine dysfunction.
+Foetal distress, where delivery is not imminent (uterine contractions may increase hypoxia).
+Cord presentation and prolapse.
+Total placenta previa.
+Vasa praevia.
+
+### drug=oxytocin | section=pregnancy_lactation | lang=en
+Pregnancy category C. It is not known whether Oxytocin is excreted in human milk
+
+### drug=oxytocin | section=indications | lang=bn
+অক্সিটোসিন নিম্নোক্ত উপসর্গে নির্দেশিত-
+প্রসব বেদনা শুরু করা, ইউটেরাস এর সংকোচন
+পোস্ট ডেলিভারী পিরিয়ড, সেকেন্ডারী হেমোরেজ প্রতিরোধ ও এডহেরেন্ট প্লাসেন্টা
+স্টিমুলেশন অফ ল্যাকটেশন (শুধুমাত্র রেজিস্টার্ড চিকিৎসকের পরামর্শ অনুযায়ী)
+অসম্পূর্ণ এবরশনের সেকেন্ডারী রক্তপাত বন্ধে ক্ষেত্রে দ্রুত নিষ্কাশন এর জন্য।
+
+### drug=oxytocin | section=contraindications | lang=bn
+সেফালো পেলভিক ডিসপ্রোপোরশন
+বাচ্চা বা মাথার অস্বাভাবিক অবস্থান
+ইউটেরাসের ইনফেরিয়র সেগমেন্ট এর অভারডিসটেনশন
+তীব্র টক্সেমিয়া
+হাইপারটনিক ইউটেরাইন ডিসফাংশন
+ফিটাল ডিস্ট্রেস যেখানে ডেলিভারী আসন্ন নয়
+কর্ড প্রেসেন্টেশন বা প্রোল্যাপস
+সম্পূর্ণ প্লাসেন্টা প্রেভিয়া
+ভাষা প্রেভিয়া
+
+### drug=paracetamol | section=indications | lang=en
+Paracetamol is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.
+
+### drug=paracetamol | section=contraindications | lang=en
+It is contraindicated in known hypersensitivity to Paracetamol.
+
+### drug=paracetamol | section=pregnancy_lactation | lang=en
+Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.
+
+### drug=paracetamol | section=indications | lang=bn
+প্যারাসিটামল জ্বর, সর্দি জ্বর, ইনফ্লুয়েঞ্জা, মাথা ব্যথা, দাঁতে ব্যথা, কানে ব্যথা, শরীর ব্যথা, স্নায়ু প্রদাহজনিত ব্যথা, ঋতুস্রাবজনিত ব্যথা, মচ্কে যাওয়া ব্যথা, অন্ত্রে ব্যথা, পিঠে ব্যথা, অস্ত্রোপচার পরবর্তী ব্যথা, প্রসব পরবর্তী ব্যথা, প্রদাহজনিত ব্যথা এবং শিশুদের টিকা পরবর্তী ব্যথায় কার্যকরী। এটি বাতজনিত ও অস্টিওআর্থ্রাইটিসজনিত ব্যথা এবং অস্থিসংযোগ সমূহের অনমনীয়তায় কার্যকরী।
+
+### drug=paracetamol | section=contraindications | lang=bn
+প্যারাসিটামল বা এটির কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে ইহা প্রতিনির্দেশিত।
+
+### drug=paracetamol | section=pregnancy_lactation | lang=bn
+মানব গর্ভাবস্থায় এপিডেমিওলজিকাল গবেষণায় প্রস্তাবিত মাত্রায় প্যারাসিটামল ব্যবহার করার কারণে কোনো খারাপ প্রভাব দেখা যায়নি, তবে রোগীদের উচিত তাদের ডাক্তারের পরামর্শ মেনে চলা। প্যারাসিটামল বুকের দুধে নির্গত হয়, কিন্তু চিকিৎসাগতভাবে উল্লেখযোগ্য পরিমাণে নয়। উপলব্ধ প্রকাশিত ডেটা স্তন্যপান করানোর প্রতি বিরোধিতা করে না।
+
+### drug=phenobarbital | section=indications | lang=en
+Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).
+
+### drug=phenobarbital | section=contraindications | lang=en
+Phenobarbital is contraindicated in patients with known Phenobarbital sensitivity or a history of latent porphyria.
+
+### drug=phenobarbital | section=pregnancy_lactation | lang=en
+Pregnancy Category D. Phenobarbital can cause fetal damage when administered to a pregnant woman. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be in risk of the potential hazard to the fetus. Caution should be taken when Phenobarbital is administered to a nursing woman since small amounts of Phenobarbital are excreted in the milk.
+
+### drug=phenobarbital | section=indications | lang=bn
+ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়
+
+### drug=phenobarbital | section=contraindications | lang=bn
+যে সমস্ত রোগীর ফেনোবারবিটাল এর প্রতি সংবেদনশীলতার ইতিহাস আছে বা এলার্জির ইতিহাস রয়েছে তাদের প্রতি ইহা প্রতিনির্দেশিত।
+
+### drug=phenobarbital | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ক্যাটাগরি ডি। ফেনোবারবিটাল গর্ভস্থ ভ্রূণের ক্ষতি করতে পারে যদি গর্ভবর্তী মাকে দেওয়া হয়। যদি এ ঔষধটা গর্ভাবস্থায় ব্যবহার করা হয় অথবা রোগিনী ঔষধ ব্যবহার করা অবস্থায় গর্ভধারন করে তাহলে গর্ভস্থ ভ্রূণের বিপদের আশঙ্কা থেকেই যায়। দুগ্ধদানকারী মাকে সতর্কতা অবলম্বন করতে হবে কারণ ফেনোবারবিটাল অল্পমাত্রায় দুধের সাথে নিঃসৃত হয়।
+
+### drug=phytomenadione-injection | section=indications | lang=en
+Phytomenadione (Vitamin K-1) is indicated in following indications-
+Prophylaxis and treatment of haemorrhagic disease in the newborn.
+Haemorrhage or risk of haemorrhage as a result of severe hypoprothrombinemia (i.e. deficiency of clotting factors II, VII, IX and X) of various etiologies, including overdosage of courmarin-type anticoagulants, their combination with phenylbutazone, and other forms of hypovitaminosis K (e.g. in obstructive jaundice as well as liver and intestinal disorders, and after prolonged treatment with antibiotics, sulphonamides or salicylates).
+Prevention and treatment of bleeding due to vitamin K deficiency.
+
+### drug=phytomenadione-injection | section=contraindications | lang=en
+It is contraindicated in patients with known hypersensitivity to any of its constituents.
+
+### drug=phytomenadione-injection | section=indications | lang=bn
+ফাইটোমেনাডিওন (ভিটামিন কে-১) নিম্নোক্ত উপসর্গে নির্দেশিত-
+নবজাতকের ক্ষেত্রে প্রতিরোধক হিসাবে ও হেমোরেজিক অবস্থায় ব্যবহার্য।
+তীব্র হাইপোপ্রোথ্রম্বিনেমিয়ার (i.e. deficiency of clotting factors II, VII, IX and X) কারনে সৃষ্ট হেমোরেজ বা তার ঝুঁকি, কোউমারিন জাতীয় অ্যান্টি কোয়াগুলেন্টের অতিমাত্রায় ব্যবহার, ফিনাইল বিউটাজোন এবং হাইপোভিটামিনোসিস-কে (জন্ডিস, লিভার ও ইন্টেসটাইনের অকার্যকারিতা, দীর্ঘমেয়াদী অ্যান্টিবায়োটিক, সালফোনামাইড, সালফোনামাইড ও স্যালিসাইলেটের ব্যবহার)।
+ভিটামিন কে এর অভাবজনিত রক্তক্ষরণে ব্যবহার্য।
+
+### drug=phytomenadione-injection | section=contraindications | lang=bn
+এই প্রস্তুতির যে কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে ব্যবহার করা উচিৎ নয়।
+
+### drug=phytomenadione-oral | section=indications | lang=en
+Phytomenadione is indicated for the prevention of Vitamin K Deficiency, Bleeding (VKDB) in newborn babies.
+
+### drug=phytomenadione-oral | section=contraindications | lang=en
+Further doses of Vitamin K1 soft gelatin capsules should be avoided to any baby showing evidence of hypersensitivity to any of the constituents of the product.
+
+### drug=phytomenadione-oral | section=pregnancy_lactation | lang=en
+Not relevant.
+
+### drug=phytomenadione-oral | section=indications | lang=bn
+ফাইটোমিনাডিওন নবজাতকের ভিটামিন-কে এর অভাবজনিত রক্তক্ষরণ (ভিকেডিবি) প্রতিরোধে নির্দেশিত।
+
+### drug=phytomenadione-oral | section=contraindications | lang=bn
+যে সকল নবজাতকের ফাইটোমিনাডিওন এর যেকোন একটি উপাদানের প্রতি অতিসংবেনশীলতার প্রমাণ পাওয়া যাবে তাদের ক্ষেত্রে পুনরায় ব্যবহার প্রতিনির্দেশিত।
+
+### drug=phytomenadione-oral | section=pregnancy_lactation | lang=bn
+প্রাসঙ্গিক নয়।
+
+### drug=prochlorperazine-maleate | section=indications | lang=en
+Prochlorperazine Maleate is indicated-
+To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.
+
+### drug=prochlorperazine-maleate | section=contraindications | lang=en
+Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.
+
+### drug=prochlorperazine-maleate | section=pregnancy_lactation | lang=en
+No evidence of adverse effects of this drug has been reported during pregnancy & lactation.
+
+### drug=prochlorperazine-maleate | section=indications | lang=bn
+প্রােক্লোরপেরাজিন ম্যালিয়েট নিম্নোক্ত উপসর্গে নির্দেশিত-
+রেডিয়েশন থেরাপি, ক্যান্সার কেমােথেরাপি, শল্য চিকিৎসা এবং অন্যান্য
+অবস্থাজনিত তীব্র বমিবমিভাব এবং বমি নিয়ন্ত্রণের জন্য
+মাথাঘােরা, মেনিয়ার্স রােগ এবং অন্যান্য কানের সমস্যার জন্য
+মানসিক অসুস্থতা যেমন- সিজোফ্রেনিয়া
+তীব্র মানসিক বৈকল্য
+সাধারণ উদ্বেগ।
+
+### drug=prochlorperazine-maleate | section=contraindications | lang=bn
+প্রােক্লোরপেরাজিন অথবা এর সদৃশ কোন উপাদানের প্রতি অতিমাত্রায় প্রতিক্রিয়াশীল হলে, গুরুতর সিএনএস বিষণ্ণতা, কোমাতে নির্দেশিত নয়। ২ বছর অথবা ১০ কেজি ওজনের নিচে বাচ্চাদের জন্য নির্দেশিত নয়।
+
+### drug=prochlorperazine-maleate | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় ও স্তন্যদানকালে প্রােক্লোরপেরাজিন ব্যবহারে ক্ষতিকর কোন প্রতিক্রিয়া জানা যায়নি।
+
+### drug=progesterone-micronised-capsule | section=indications | lang=en
+Progesterone capsule is indicated in-
+Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.
+
+### drug=progesterone-micronised-capsule | section=contraindications | lang=en
+Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood clots. It should not be used in a case of miscarriage and tissue left in the uterus.
+
+### drug=progesterone-micronised-capsule | section=indications | lang=bn
+প্রোজেস্টেরন ক্যাপসুল নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+ঝুঁকিপূর্ণ অথবা বারবার গর্ভপাতের ক্ষেত্রে গর্ভাবস্থা রক্ষায়।
+আইইউআই (IUI) এবং এআরটি (ART) পদ্ধতি আইভিএফ-ইটি (IVF-ET)-এর সময় লুটিয়াল সাপোর্টে।
+প্রমাণিত লুটিয়াল ফেজ অপর্যাপ্ততার ক্ষেত্রে লুটিয়াল সাপোর্টে।
+মেনোপজ বা মাসিক বন্ধের পরবর্তী হরমোন রিপ্লেসমেন্ট থেরাপিতে (HRT) ইস্ট্রোজেনের সাথে সিকুয়েন্সিয়াল (পর্যায়ক্রমিক) বা একটানা নিয়মে।
+এন্ডোজেনাস ইস্ট্রোজেন উপস্থিত থাকলে এন্ডোমেট্রিয়াল হাইপারপ্লাসিয়া (জরায়ুর ভেতরের স্তরের অস্বাভাবিক বৃদ্ধি) প্রতিরোধ করতে।
+সেকেন্ডারি অ্যামেনোরিয়াতে (ঋতুস্রাব বন্ধ হয়ে যাওয়া) প্রজেস্টেরন চ্যালেঞ্জ টেস্ট হিসেবে।
+ইস্ট্রোজেন থেরাপির পাশাপাশি মাসিক চক্র নিয়ন্ত্রণে।
+ডিসফাংশনাল ইউটেরাইন ব্লিডিং বা ডিইউবি (জরায়ু থেকে অস্বাভাবিক রক্তক্ষরণ)।
+প্রিমেনস্ট্রুয়াল টেনশন (মাসিক পূর্ববর্তী মানসিক চাপ ও অস্বস্তি)।
+এন্ডোমেট্রিওসিস।
+ওসাইট (ডিম্বাণু) দান কর্মসূচিতে।
+বিনাইন মাস্টোপ্যাথি (স্তনের ক্ষতিকর নয় এমন টিউমার বা সিস্ট)।
+
+### drug=progesterone-micronised-capsule | section=contraindications | lang=bn
+অতি সংবেদনশীলতা (অ্যালার্জি), যকৃতের কর্মহীনতা, কারণ নির্ণয়হীন যোনিপথে রক্তপাত, পোরফাইরিয়া, জরায়ু ও যৌনাঙ্গের ক্যান্সার, স্তন ক্যান্সার, স্ট্রোক বা রক্ত জমাট বাঁধার পূর্ব ইতিহাস থাকলে এটি ব্যবহার করা যাবে না। অসম্পূর্ণ গর্ভপাতের ক্ষেত্রে (জরায়ুতে টিস্যু অবশিষ্ট থাকলে) এটি ব্যবহার করা উচিত নয়।
+
+### drug=progesterone-micronised-vaginal-gel | section=indications | lang=en
+Progesterone vaginal gel is indicated in-
+Maintenance of pregnancy in case of Threatened/Recurrent abortion.
+Luteal support during IVF and ART.
+Luteal support in case of proven luteal phase insufficiency.
+Secondary Amenorrhea.
+Dysfunctional Uterine Bleeding (DUB).
+
+### drug=progesterone-micronised-vaginal-gel | section=contraindications | lang=en
+Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.
+
+### drug=progesterone-micronised-vaginal-gel | section=pregnancy_lactation | lang=en
+Pregnancy category A. It has been used to successfully support embryo implantation and maintain pregnancies. Do not use during lactation. Detectable amounts of progestogens have been identified in the milk of mothers receiving them. The effect of this on the nursing infant has not been determined.
+
+### drug=progesterone-micronised-vaginal-gel | section=indications | lang=bn
+প্রোজেস্টেরন ভ্যাজাইনাল জেল নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+ঝুঁকিপূর্ণ অথবা বারবার গর্ভপাতের ক্ষেত্রে গর্ভাবস্থা রক্ষায়।
+আইভিএফ (IVF) এবং এআরটি (ART) পদ্ধতির সময় লুটিয়াল সাপোর্টে।
+প্রমাণিত লুটিয়াল ফেজ অপর্যাপ্ততার (Luteal phase insufficiency) ক্ষেত্রে লুটিয়াল সাপোর্টে।
+সেকেন্ডারি অ্যামেনোরিয়াতে (ঋতুস্রাব বন্ধ হয়ে যাওয়া)।
+ডিসফাংশনাল ইউটেরাইন ব্লিডিং বা ডিইউবি (জরায়ু থেকে অস্বাভাবিক রক্তক্ষরণ)।
+
+### drug=progesterone-micronised-vaginal-gel | section=contraindications | lang=bn
+স্তন বা যৌনাঙ্গের কোনো জানা বা সন্দেহভাজন ক্যান্সার, মিসড অ্যাবোর্শন (গর্ভেই ভ্রূণের মৃত্যু হওয়া), কারণ নির্ণয়হীন জরায়ু থেকে রক্তপাত, যকৃতের (লিভার) অকার্যকারিতা বা রোগ, ওষুধের যেকোনো উপাদানের প্রতি অতিসংবেদনশীলতা, জানা বা সন্দেহভাজন প্রোজেস্টেরন-নির্ভর টিউমার, সক্রিয় থ্রম্বোফ্লেবাইটিস বা থ্রম্বোএমবোলিক ব্যাধি (রক্তনালীতে রক্ত জমাট বাঁধা), সেরিব্রাল অ্যাপোপ্লেক্সি (স্ট্রোক) বা হরমোনজনিত রক্ত জমাট বাঁধার পূর্ব ইতিহাস এবং তীব্র পোরফাইরিয়া থাকলে এটি ব্যবহার করা যাবে না।
+
+### drug=progesterone-micronised-vaginal-gel | section=pregnancy_lactation | lang=bn
+প্রেগন্যান্সি ক্যাটাগরি 'A'। ভ্রূণ প্রতিস্থাপন সফল করতে এবং গর্ভাবস্থা টিকিয়ে রাখতে এটি সফলভাবে ব্যবহৃত হয়ে আসছে। স্তন্যদানকালে এটি ব্যবহার করবেন না। প্রোজেস্টেরন গ্রহণকারী মায়েদের বুকের দুধে এর উপস্থিতি শনাক্ত করা গেছে, যা শিশুর ওপর কী প্রভাব ফেলে তা এখনও নিশ্চিত নয়।
+
+### drug=progesterone-micronised-vaginal-pessary | section=indications | lang=en
+Progesterone vaginal pessary is indicated in-
+Luteal phase support as part of an Assisted Reproductive Technology (ART) treatment for women.
+Treatment of premenstrual syndrome, including premenstrual tension and depression.
+Treatment of puerperal depression.
+
+### drug=progesterone-micronised-vaginal-pessary | section=contraindications | lang=en
+Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events
+
+### drug=progesterone-micronised-vaginal-pessary | section=indications | lang=bn
+প্রোজেস্টেরন নিচের ক্ষেত্রগুলোতে নির্দেশিত:
+নারীদের অ্যাসিস্টেড রিপ্রোডাক্টিভ টেকনোলজি (ART) বা কৃত্রিম প্রজনন চিকিৎসার অংশ হিসেবে লুটেল ফেজ সাপোর্ট প্রদানে।
+প্রাক-ঋতুস্রাব সিন্ড্রোম, যার মধ্যে মাসিকের আগের মানসিক চাপ ও বিষণ্ণতা অন্তর্ভুক্ত, তার চিকিৎসায়।
+প্রসবোত্তর বিষণ্ণতা এর চিকিৎসায়।
+
+### drug=progesterone-micronised-vaginal-pessary | section=contraindications | lang=bn
+এই ওষুধের কোনো উপাদানের প্রতি অতিসংবেদনশীলতা থাকলে।
+কোনো কারণ জানা যায়নি এমন যোনিপথের রক্তপাত হলে।
+প্রোজেস্টেরন-সংবেদনশীল ম্যালিগন্যান্ট টিউমার (ক্যান্সার) থাকলে বা হওয়ার সন্দেহ থাকলে।
+পরফাইরিয়া রোগ থাকলে।
+লিভারের মারাত্মক রোগ বা লিভারের কার্যক্ষমতাহীনতা থাকলে।
+মিসড অ্যাবোরশন (গর্ভেই ভ্রূণ মারা যাওয়া কিন্তু রক্তপাত না হওয়া) বা একটোপিক প্রেগন্যান্সি (জরায়ুর বাইরে গর্ভধারণ) নিশ্চিত হলে।
+সক্রিয় ধমনী বা শিরার থ্রম্বোঅ্যাম্বলিজম (রক্তনালীতে রক্ত জমাট বাঁধা), তীব্র থ্রম্বোফ্লেবাইটিস অথবা পূর্বে এই ধরনের রোগ থাকার ইতিহাস থাকলে।
+
+### drug=propylthiouracil | section=indications | lang=en
+Propylthiouracil tablet is indicated:
+in patients with Graves' disease with hyperthyroidism or toxic multinodular goiter who are intolerant of methimazole and for whom surgery or radioactive iodine therapy is not an appropriate treatment option.
+to ameliorate symptoms of hyperthyroidism in preparation for thyroidectomy or radioactive iodine therapy in patients who are intolerant of methimazole.
+
+### drug=propylthiouracil | section=contraindications | lang=en
+Propylthiouracil is contraindicated in the presence of hypersensitivity to the drug or any of the other product components.
+
+### drug=propylthiouracil | section=pregnancy_lactation | lang=en
+Propylthiouracil crosses the placenta and can induce fetal goiter and hypothyroidism. The lowest dose possible should be used after carefully weighing the mother’s needs against the risk to the fetus. Propylthiouracil is present in breast milk in small amounts and neonatal development should be closely monitored in any nursing mother treated with this drug.
+
+### drug=propylthiouracil | section=indications | lang=bn
+প্রোপাইলথায়োইউরাসিল নিম্নোক্তো উপসর্গে নির্দেশিতঃ
+যেসব রোগীদের গ্রেভস' ডিজিস এর সাথে হাইপারথাইরয়েডিজম অথবা বিষাক্ত মাল্টিনডুলার গলগণ্ড রয়েছে, যারা মেথিমাজল এর প্রতি অসহিষ্ণু এবং যাদের জন্য শল্যচিকিৎসা অথবা তেজস্ক্রিয় আয়োডিন চিকিৎসা উপযুক্ত নয়।
+যারা মেথিমাজল এর প্রতি অসহিষ্ণু এবং হাইপারথাইরয়েডিজম এর উপসর্গ সমূহ উপশমের জন্য যারা থাইরয়েড গ্রন্থির অপসারণ বা তেজস্ক্রিয় আয়োডিন চিকিৎসা নিতে যাচ্ছেন।
+
+### drug=propylthiouracil | section=contraindications | lang=bn
+প্রোপাইলথায়োইউরাসিল বা এর যে কোন উপাদানের প্রতি অতিসংবেদনশীলতার ক্ষেত্রে এটি প্রতিনির্দেশিত।
+
+### drug=propylthiouracil | section=pregnancy_lactation | lang=bn
+প্রোপাইলথায়োইউরাসিল প্লাসেন্টা অতিক্রম করতে পারে এবং ভ্রূণের গলগণ্ড ও হাইপারথাইরয়েডিজম ঘটাতে পারে। মায়ের প্রয়োজনীয়তা ও ভ্রূণের ঝুঁকির কথা বিবেচনা করে সম্ভাব্য সর্বনিম্ন মাত্রা প্রয়োগ করতে হবে। প্রোপাইলথাইয়োইউরাসিল মাতৃদুগ্ধে অল্প পরিমাণে তাই মাতৃদুগ্ধ দানকালে এই ওষুধ সেবন করা হলে নবজাতক শিশুর অগ্রগতি নিবিড়ভাবে পর্যবেক্ষণ করতে হবে।
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate | section=indications | lang=en
+This combination is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate | section=contraindications | lang=en
+Doxylamine Succinate & Pyridoxine Hydrochloride is contraindicated in women with any of the following conditions:
+Known hypersensitivity to Doxylamine Succinate, other ethanolamine derivative antihistamines, Pyridoxine Hydrochloride or any inactive ingredient in the formulation
+Monoamine oxidase (MAO) inhibitors intensify and prolong the adverse central nervous system effects of Doxylamine Succinate & Pyridoxine Hydrochloride
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate | section=pregnancy_lactation | lang=en
+Pregnancy category A. This is intended for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management. Both Doxylamine Succinate & Pyridoxine Hydrochloride are excreted into breast milk. Therefore, caution should be exercised while breastfeeding.
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate | section=indications | lang=bn
+ইহা গর্ভকালীন অবস্থায় মাথা ঘোরানো এবং বমি বমি ভাব চিকিৎসায় নির্দেশিত।
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate | section=contraindications | lang=bn
+নিম্নলিখিত শর্তগুলির সাথে মহিলাদের মধ্যে ডক্সিলামিন সাক্সিনেট এবং পাইরিডক্সিন হাইড্রোক্লোরাইড
+প্রতিনির্দেশিত হয়:
+ডক্সিলামিন সাক্সিনেট, অন্যান্য ইথানোলামাইন ডেরাইভেটিভ অ্যান্টিহিস্টামিনস, পাইরিডক্সিন হাইড্রোক্লোরাইড বা গঠনের কোনও নিষ্ক্রিয় উপাদানগুলির জন্য জ্ঞাত সংবেদনশীলতা।
+মনোএমিন অক্সিডেস (এমএও) ইনহিবিটারগুলি ডক্সিলামিন সাক্সিনেট এবং পাইরিডক্সিন হাইড্রোক্লোরাইডের বিরূপ কেন্দ্রীয় স্নায়ুতন্ত্রের প্রভাবকে তীব্র ও দীর্ঘায়িত করে।
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate | section=pregnancy_lactation | lang=bn
+গর্ভাবস্থায় বিভাগ এ। গর্ভাবস্থায় মহিলাদের মাথা ঘোরানো এবং বমি বমি ভাবের চিকিৎসার ক্ষেত্রে ইহা ব্যবহার করা হয়। ডক্সিলামিন সাক্সিনেট এবং পাইরিডক্সিন হাইড্রোক্লোরাইড উভয়ই মাতৃ দুগ্ধে নির্গত হয়। তাই স্তন্যদান কালে সাবধানতা অবলম্বন করা উচিত।

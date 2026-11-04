@@ -1,0 +1,14 @@
+### drug=gentamicin-sulfate-injection | section=indications | lang=en
+Gentamicin Injection is indicated in the treatment of serious infections caused by susceptible strains of the microorganisms including
+: Pseudomonas aeruginosa, Proteus sp, Escherichia coli, Klebsiella, Enterobacter, Serratia and Staphylococcus spp.
+Gentamicin Injection is used for the treatment of the following conditions when caused by susceptible organisms
+: Septicemia, Meningitis, Respiratory tract infections, Infected wounds, Skin and skin structure infection, bone and soft tissue infections including peritonitis, septic abortion and burns complicated by sepsis, urinary tract infections.
+
+### drug=gentamicin-sulfate-injection | section=pregnancy_lactation | lang=en
+Safety for use in pregnancy and lactation has not been established. Gentamicin crosses the placenta and there is a risk of ototoxicity in the fetus. Gentamicin should only be used where the seriousness of the mother's condition justifies the risk. Small amounts of gentamicin have been detected in breast milk. Therefore it is recommended that breastfeeding be discontinued during therapy unless the expected benefits outweigh any potential risk.
+
+### drug=gentamicin-sulfate-injection | section=indications | lang=bn
+জেন্টামাইসিন সালফেট ইনজেকশন নিম্নোলিখিত অণুজীবের সংবেদনশীল স্ট্রেনের কারণে সৃষ্ট গুরুতর সংক্রমণের চিকিৎসায় নির্দেশিত
+: সিউডোমোনাস অ্যারোজিনোসা, প্রোটিয়াস এসপি, ইসচেরিসিয়া কোলাই, ক্লেবসিয়েলা, এন্টারোব্যাক্টার, সেরাটিয়া এবং স্ট্যাফাইলোকক্কাস এসপিপি।
+জেন্টামাইসিন সালফেট ইনজেকশন সংবেদনশীল জীব দ্বারা সৃষ্ট নিম্নলিখিত রোগের চিকিৎসার জন্য নির্দেশিত
+: সেপটিসেমিয়া, মেনিনজাইটিস, শ্বাস নালীর সংক্রমণ, সংক্রামিত ক্ষত, ত্বক এবং ত্বকের গঠন সংক্রমণ, পেরিটোনাইটিস সহ হাড় এবং নরম টিস্যু সংক্রমণ, সেপটিক গর্ভপাত এবং সেপসিস দ্বারা জটিল পোড়া, মূত্রনালীর সংক্রমণ।

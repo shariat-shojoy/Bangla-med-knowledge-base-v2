@@ -1,0 +1,336 @@
+### drug=lamotrigine | section=interaction | lang=bn
+ভ্যালপ্রোয়েট ল্যামোট্রিজিনের মাত্রা দুই গুণের বেশি বাড়িয়ে দেয়। কার্বামাজেপাইন, ফেনিটোইন, ফেনোবারবিটাল, প্রিমিডোন এবং রিফামপিন, ল্যামোট্রিজিনের মাত্রা প্রায় ৪০% কমিয়ে দেয়। ইস্ট্রোজেন সম্বলিত মৌখিক গর্ভনিরোধক ল্যামোট্রিজিনের মাত্রা প্রায় ৫০% কমিয়ে দেয়। প্রোটিয়েজ বাধাদানকারী লোপিনাভির/রিটোনাভির এবং এটাজানাভির/রিটোনাভির ল্যামট্রিজিনের মাত্রা প্রায় ৫০% এবং ৩২% কমিয়ে দেয়।
+
+### drug=lamotrigine | section=precautions | lang=bn
+ফুসকুড়ি দেখা যাওয়ার সাথে সাথে ওষুধ বন্ধ করে দিতে হবে। রক্তের ভারসাম্যের ব্যাঘাত (যেমন- নিউট্রোপেনিয়া, প্রমবোসাইটোপেনিয়া, প্যানসাইটোপেনিয়া): হতে পারে। রক্তস্বল্পতা, অপ্রত্যাশিত সংক্রমণ অথবা রক্তপাত এর লক্ষণ নিয়মিত পর্যবেক্ষণ করতে হবে। আত্মহত্যার প্রবণতা এবং কল্পনা: রোগীর আত্মহত্যার প্রবণতা এবং কল্পনার দিকে নজর রাখতে হবে। এসেপটিক মেনিনজাইটিস: মেনিনজাইটিস এর লক্ষণ পর্যবেক্ষণ করতে হবে।
+
+### drug=lamotrigine | section=interaction | lang=en
+Valproate increases lamotrigine concentrations more than 2-fold. Carbamazepine, phenytoin, phenobarbital, primidone, and rifampin decrease lamotrigine concentrations by approximately 40%. Estrogen-containing oral contraceptives decrease lamotrigine concentrations by approximately 50%. Protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir decrease lamotrigine exposure by approximately 50% and 32% respectively.
+
+### drug=lamotrigine | section=precautions | lang=en
+Discontinue at the first sign of rash. Blood dyscrasias (e.g., neutropenia, thrombocytopenia, pancytopenia): may occur. Monitor for signs of anemia, unexpected infection, or bleeding. Suicidal behavior and ideation: Monitor for suicidal thoughts or behaviors. Aseptic meningitis: Monitor for signs of meningitis.
+
+### drug=lamotrigine | section=special_populations | lang=en
+Pediatric Use:
+Epilepsy
+: Safety and effectiveness of Lamotrigine used as adjunctive treatment for partial onset seizures were not demonstrated in very young pediatric patient's aged 1 to 24 months.
+Bipolar Disorder
+: Safety and effectiveness of Lamotrigine for the maintenance treatment of bipolar disorder were not established in pediatric patient's aged 10 to 17 years.
+
+### drug=levetiracetam | section=interaction | lang=bn
+এ্যান্টি-এপিলেপ্টিক ওষুধ সমূহ
+: প্রাপ্ত বয়স্কদের উপর করা বাজারজাত পূর্ববর্তী ক্লিনিক্যাল স্টাডি নির্দেশ করে যে লেভেটিরাসেটাম রক্তের সিরামে বিদ্যমান এ্যান্টি-এপিলেপ্টিক ওষুধ সমূহের (ফিনাইটোইন, কার্বামাজিপাইন, ভ্যালপ্রোয়িক এসিড, ফেনোবারবিটাল, লেমোট্রাইজিন, গাবাপেনটিন এবং প্রিমিডোন) ঘনত্বের উপর কোন প্রভাব ফেলে না এবং এসব এ্যান্টি-এপিলেপ্টিক ওষুধও লেভেটিরাসেটামের ফার্মাকোকাইনেটিকস এর উপর কোন প্রভাব ফেলে না।
+প্রোবেনেসিড
+: রেনাল টিবিউলার নিঃসরণ বাধাদানকারী উপাদান প্রোবেনেসিড (দিনে চার বার ৫০০ মিগ্রা হারে প্রয়োগের ক্ষেত্রে) ওষুধটির প্রাথমিক মেটাবোলাইটকে কিডনীর মাধ্যমে নিঃসরণে বাধাদান করলেও লেভেটিরাসেটাম এর মেটাবোলাইটকে বাধাদান করে না। রক্তে এই মেটাবোলাইটের ঘনত্ব খুব কম পরিমাণে থাকে।
+মেথোট্রেক্সেট
+: লেভেটিরাসেটাম এবং মেথোট্রেক্সেট একত্রে প্রয়োগে মেথোট্রেক্সেটের নিঃসরণ হ্রাসের তথ্য পাওয়া গেছে যাতে রক্তে মেথোট্রেক্সেটের এর ঘনত্ব বৃদ্ধি/দীর্ঘায়িত করে বিষক্রিয়া ঘটার সম্ভাবনা থাকে। তাই এই দুটি ওষুধ একত্রে গ্রহণকারী রোগীর চিকিৎসাকালে রক্তে লেভেটিরাসেটাম এবং মেথোট্রেক্সেটের এর মাত্রা সর্তকতার সাথে পর্যবেক্ষণ করা উচিৎ।
+ল্যাক্সেটিভ
+: বিভিন্ন তথ্যে পাওয়া গেছে, মুখে সেব্য লেভেটিরাসেটাম এর সাথে অসমোটিক ল্যাক্সেটিভ ম্যাক্রোগল একত্রে প্রয়োগ করলে লেভেটিরাসেটাম এর কার্যকারীতা হ্রাস পায়। এ কারণে লেভেটিরাসেটাম প্রয়োগের এক ঘন্টা পূর্বে এবং এক ঘন্টা পর পর্যন্ত ম্যাক্রোগল মুখে গ্রহণ করা উচিৎ নয়।
+খাবার এবং অ্যালকোহল
+: খাবার দ্বারা লেভেটিরাসেটাম এর মোট শোষণের পরিবর্তন না হলেও লেভেটিরাসেটাম শোষণের হার সামান্য হ্রাস পায়। লেভেটিরাসেটাম এর সাথে অ্যালকোহলের প্রতিক্রিয়ার কোন তথ্য পাওয়া যায়নি।
+
+### drug=levetiracetam | section=precautions | lang=bn
+কিডনীর অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে
+: কিডনীর অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে লেভেটিরাসেটাম প্রয়োগে মাত্রা সমন্বয় এর প্রয়োজন হতে পারে। মারাত্মকভাবে যকৃতের অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে মাত্রা নির্ধারণের পূর্বে রোগীর কিডনীর কার্যকারীতা পর্যবেক্ষণ করা প্রয়োজন।
+তীব্রভাবে কিডনীর অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে
+: লেভেটিরাসেটাম দিয়ে কয়েক দিন থেকে কয়েক মাস পর্যন্ত চিকিৎসার ক্ষেত্রে কিডনীর তীব্র ক্ষতিগ্রস্ততার সাথে এর সম্পৃক্ততা তেমন নেই বা থাকলেও সেটি খুবই বিরল।
+রক্ত কণিকার সংখ্যা সংক্রান্ত সমস্যা
+: সাধারণত চিকিৎসা শুরুর সময়, লেভেটিরাসেটাম প্রয়োগে রক্ত কণিকা হ্রাসের ঘটনা বিরল কিছু ক্ষেত্রে (নিউট্রোপেনিয়া, এ্যাগ্র্যানোলোসাইটোসিস, রক্তে লিউকোসাইটের পরিমাণ হ্রাস, রক্তে থ্রম্বোসাইটের পরিমাণ হ্রাস এবং রক্তে সকল প্রকার রক্ত কণিকার পরিমাণের অস্বাভাবিক হ্রাস) পরিলক্ষিত হয়েছে। শারীরিক দুর্বলতা, জ্বর জ্বর ভাব, সংক্রমণের পুনরাবৃত্তি অথবা রক্ত জমাটবাঁধা সংক্রান্ত সমস্যা রয়েছে এমন রোগীর ক্ষেত্রে রক্ত কনিকার সংখ্যা গুরুত্বের সাথে পুনরায় পরীক্ষা করতে হবে।
+আত্মহত্যা
+: এ্যান্টি-এপিলেপ্টিক উপাদানসমূহ (লেভেটিরাসেটামসহ) প্রয়োগে রোগীদের আত্মহত্যা, আত্মহত্যার প্রচেষ্টা, আত্মঘাতী পরিকল্পনা এবং আচরনের তথ্য পাওয়া গেছে। এ্যান্টি-এপিলেপ্টিক উপাদানসমূহ দিয়ে করা একটি প্লাসেবো নিয়ন্ত্রিত মেটা এ্যানালাইসিস ট্রায়ালে রোগীদের আত্মহত্যার পরিকল্পনা এবং আচরন গত ঝুঁকি বৃদ্ধির তথ্য পাওয়া গেছে যদিও এই ঝুঁকি বৃদ্ধির প্রকৃত কারণ জানা যায়নি। একারণে রোগীর মানসিক বিষাদগ্রস্ততা ও/অথবা আত্মঘাতী পরিকল্পনা এবং আচরনগত উপসর্গ সমূহের পর্যবেক্ষণ এবং উপযুক্ত চিকিৎসা করা উচিৎ। মানসিক বিষাদগ্রস্ততা ও/অথবা আত্মঘাতী পরিকল্পনা অথবা এর আচরনগত উপসর্গসমূহ পরিলক্ষিত হলে রোগীদের (এবং রোগীর পরিচর্যাকারীদের) চিকিৎসকের পরামর্শ গ্রহণ করা উচিৎ।
+শিশুদের ক্ষেত্রে
+: ৬ বছরের কম বয়সী শিশু এবং নবজাতকের ক্ষেত্রে ট্যাবলেট ফর্মুলেশন এর ব্যবহার উপযুক্ত নয়। প্রাপ্ত তথ্য শিশুদের ক্ষেত্রে বৃদ্ধি এবং বয়ঃসন্ধির উপর এই ওষুধটির প্রভাব সমর্থন করে না। তাই শিশুদের শিক্ষা গ্রহণ, বুদ্ধিমত্তা, বৃদ্ধি, এন্ডোক্রাইন সিস্টেমের কার্যকারীতা, বয়ঃসন্ধি এবং সম্ভাব্য গর্ভধারনের এর এর উপর দীর্ঘ-মেয়াদী প্রভাব এখনো অজানা।
+
+### drug=levetiracetam | section=special_populations | lang=bn
+বয়স্ক (৬৫ বছর এবং অধিক বয়স্ক)
+: কিডনীর কার্যকারীতার সাথে সমন্বয় করে বয়স্ক রোগীদের মাত্রা সমন্বয় নির্দেশিত।
+কিডনীর কার্যকারীতার সমস্যায়
+: অবশ্যই কিডনীর কার্যকারীতার উপর ভিত্তি করে দৈনিক মাত্রা নির্ধারণ করতে হবে।
+যকৃতের কার্যকারীতার সমস্যায়
+: মৃদু থেকে মাঝারি মাত্রার যকৃতের সমস্যার রোগীর ক্ষেত্রে মাত্রা সমন্বয়ের প্রয়োজন নেই। মারাত্মক যকৃতের সমস্যার রোগীর ক্ষেত্রে, ক্রিয়েটিনিন ক্লিলিয়ারেন্স দ্বারা কিডনীর কার্যকারীতার সমস্যা সঠিকভাবে মূল্যায়ন করা যায় না। এক্ষেত্রে ক্রিয়েটিনিন ক্লিয়ারেন্স <৬০ মিলি/মিনিট হলে ওষুধটির নির্দেশিত দৈনিক সমন্বিত মাত্রা ৫০% হ্রাস করা উচিত।
+
+### drug=levetiracetam | section=interaction | lang=en
+Antiepileptic medicinal products
+: Pre-marketing data from clinical studies conducted in adults indicate that levetiracetam did not influence the serum concentrations of existing antiepileptic medicinal products (phenytoin, carbamazepine, valproic acid, phenobarbital, lamotrigine, gabapentin and primidone) and that these antiepileptic medicinal products did not influence the pharmacokinetics of levetiracetam.
+Probenecid
+: Probenecid (500 mg four times daily), a renal tubular secretion blocking agent, has been shown to inhibit the renal clearance of the primary metabolite but not of levetiracetam. Nevertheless, the concentration of this metabolite remains low.
+Methotrexate
+: Concomitant administration of levetiracetam and methotrexate has been reported to decrease methotrexate clearance, resulting in increased/prolonged blood methotrexate concentration to potentially toxic levels. Blood methotrexate and levetiracetam levels should be carefully monitored in patients treated concomitantly with the two drugs.
+Laxatives
+: There have been isolated reports of decreased levetiracetam efficacy when the osmotic laxative macrogol has been concomitantly administered with oral levetiracetam. Therefore, macrogol should not be taken orally for one hour before and for one hour after taking levetiracetam.
+Food and alcohol
+: The extent of absorption of levetiracetam was not altered by food, but the rate of absorption was slightly reduced. No data on the interaction of levetiracetam with alcohol are available.
+
+### drug=levetiracetam | section=precautions | lang=en
+Renal impairment
+: The administration of levetiracetam to patients with renal impairment may require dose adjustment. In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection.
+Acute kidney injury
+: The use of levetiracetam has been very rarely associated with acute kidney injury with a time to onset ranging from a few days to several months.
+Blood cell counts
+: Rare cases of decreased blood cell counts (neutropenia, agranulocytosis, leucopenia, thrombocytopenia and pancytopenia) have been described in association with levetiracetam administration, generally at the beginning of the treatment. Complete blood cell counts are advised in patients experiencing important weakness, pyrexia, recurrent infections or coagulation disorders.
+Suicide
+: Suicide, suicide attempt, suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents (including levetiracetam). A meta-analysis of randomized placebo-controlled trials of anti-epileptic medicinal products has shown a small increased risk of suicidal thoughts and behaviour. The mechanism of this risk is not known. Therefore patients should be monitored for signs of depression and/or suicidal ideation and behaviours and appropriate treatment should be considered. Patients (and caregivers of patients) should be advised to seek medical advice should signs of depression and/or suicidal ideation or behaviour emerge.
+Paediatric population
+: The tablet formulation is not adapted for use in infants and children under the age of 6 years. Available data in children did not suggest an impact on growth and puberty. However, long term effects on learning, intelligence, growth, endocrine function, puberty and childbearing potential in children remain unknown.
+
+### drug=levetiracetam | section=special_populations | lang=en
+Elderly (65 years and older)
+: Adjustment of the dose is recommended in elderly patients with compromised renal function.
+Renal impairment
+: The daily dose must be individualized according to renal function.
+Hepatic impairment
+: No dose adjustment is needed in patients with mild to moderate hepatic impairment. In patients with severe hepatic impairment, the creatinine clearance may underestimate renal insufficiency. Therefore a 50 % reduction of the daily maintenance dose is recommended when the creatinine clearance is < 60 ml/min.
+
+### drug=levonorgestrel-for-emergency-contraception | section=interaction | lang=bn
+অন্যান্য ঔষধের সাথে প্রতিক্রিয়া এবং আনুষাঙ্গিক প্রতিক্রিয়া সমূহঃ একই সংগে খিচুনী রােধক ঔষধ যেমন (ফেনোবারবিটন ফেনিইটইন, প্রিমিডন, কারবামাজিপিন) এবং কিছু সংখ্যক ঔষধ যেমন- রিফামপিসিন, এবং গ্রিসােফুলভিন, ইমার্জেন্সি জন্মনিরােধকের কার্যকারিতা কমাতে বা বন্ধ করতে পারে।
+
+### drug=levonorgestrel-for-emergency-contraception | section=precautions | lang=bn
+ইমার্জেন্সি জন্মনিরােধক বিশেষ অবস্থায় ব্যবহার করা উচিৎ, কারণ-
+লিভাে্রনো জেস্ট্রেল ব্যবহারের প্রতিবারেই জন্মনিরােধ নাও হতে পারে।
+নিয়মিত ব্যবহারে সহযােগী হরমােনের মাত্রাবৃদ্ধি পরামর্শযােগ্য নয়।
+লিভােনরজেস্ট্রেল নিয়মিত জন্মনিরােধক নয়।
+লিভােনোরজেস্ট্রেল ব্যবহারে মাসিক স্রাব স্বাভাবিক এবং কাঙ্খিত সময়ে হয়; তথাপি মাসিক স্রাব নির্ধারিত সময়ের আগে ও পরেও হতে পারে। এই ঔষধ খাওয়ার পর যদি নির্ধারিত সময়ে অস্বাভাবিক রক্তক্ষরণ হয় অথবা ঋতুস্রাব যদি ৫ দিন পিছিয়ে যায় তবে প্রেগনেন্সি টেষ্ট করে নিতে হবে।
+ইমারজেন্সি জন্মনিরােধক যৌনবাহিত রােগ প্রতিরােধ করে না এবং যে ক্ষেত্রে যৌনবাহিত রােগ সংক্রমনের সম্ভাবনা বেশী সে ক্ষেত্রে সাবধানতা অবলম্বন করতে হবে।
+আপনার যদি কখনও একটোপিক প্রেগনেন্সি বা ডিম্বনালীর প্রদাহ হয়ে থাকে অথবা পরিপাকতন্ত্রের তীব্র অসুখ যা ঔষধ শােষনে বাধার সৃষ্টি করে তবে লিভােনরজেস্ট্রেল সেবন অনুমােদিত নয়।
+ঔষধ সেবনের ৩ ঘন্টার মধ্যে বমি হলে সঙ্গে সঙ্গে আরও একটি লিভােনােরজেসট্রেল ১.৫ মিগ্রা বড়ি সেবন করতে হবে।
+
+### drug=levonorgestrel-for-emergency-contraception | section=interaction | lang=en
+Interactions with other medicines and other forms of interaction: Simultaneous administration of certain anticonvulsant agents (phenobarbitone, phenytoin, primidone, carbamazepine), also other medications such as rifampicin, and griseofulvin can reduce or suppress the effectiveness of this emergency contraception.
+
+### drug=levonorgestrel-for-emergency-contraception | section=precautions | lang=en
+Emergency contraception must be used exceptionally, since:
+It does not allow to prevent a pregnancy in every instance:
+The associated hormonal overdosing is not advisable in the case of regular intake.
+It cannot replace regular contraception.
+After taking Levonorgestrel, the menstrual period usually occurs at the expected date nevertheless, it can occur earlier or later by a few days. After taking this medicine, it is therefore mandatory to check the absence of pregnancy by performing a pregnancy test in case of abnormal bleeding at the date of excepted menses or in case of menstrual delay of more than 5 days.
+The use of emergency contraception does not replace the necessary precautions against sexually transmitted diseases and the measures to be taken in case of risk of transmission.
+Taking this medicine is not recommended if you have had an ectopic pregnancy or if you have had salpingitis or if you have a severe digestive disease that impairs the absorption of medications.
+If vomiting would occur within three hours after taking this medicine, it is recommended to take immediately another Levonorgestrel tablet.
+
+### drug=lithium-carbonate | section=interaction | lang=bn
+ডাইইউরেটিক্স
+(প্রস্রাবের ঔষধ): লিথিয়াম এবং ডাইইউরেটিক্স একসাথে ব্যবহারের ক্ষেত্রে বিশেষ সতর্কতা অবলম্বন করতে হবে। কারণ ডাইইউরেটিক্সজনিত সোডিয়ামের ঘাটতি শরীর থেকে লিথিয়াম নিষ্কাশনের ক্ষমতা কমিয়ে দিতে পারে এবং রক্তে লিথিয়ামের মাত্রা বাড়িয়ে লিথিয়াম বিষাক্ততার (Lithium toxicity) ঝুঁকি তৈরি করতে পারে।
+এনএসএআইডি
+: রোগীরা যখন এনএসএআইডি ব্যবহার শুরু বা বন্ধ করবেন, তখন রক্তে লিথিয়ামের মাত্রা নিবিড়ভাবে পর্যবেক্ষণ করা উচিত। ইনডোমিথাসিন এবং পিরোক্সিকাম রক্তে প্লাজমা লিথিয়ামের ঘনত্ব উল্লেখযোগ্যভাবে বাড়িয়ে দেয় বলে জানা গেছে।
+মেট্রোনিডাজল
+: লিথিয়ামের সাথে মেট্রোনিডাজল একসাথে ব্যবহার করলে কিডনি দিয়ে লিথিয়াম বের হওয়ার হার কমে যায়, যা লিথিয়াম বিষাক্ততা উস্কে দিতে পারে।
+এসিই ইনহিবিটর
+: এনালাপ্রিল এবং ক্যাপটোপ্রিলের মতো উচ্চ রক্তচাপের ঔষধগুলো রক্তে লিথিয়ামের মাত্রা বহুলাংশে বাড়িয়ে দিতে পারে, যার ফলে লিথিয়াম বিষাক্ততা দেখা দিতে পারে।
+ক্যালসিয়াম চ্যানেল ব্লকার
+: লিথিয়ামের সাথে ক্যালসিয়াম চ্যানেল ব্লকার জাতীয় ঔষধ একসাথে ব্যবহার করলে নিউরোটক্সিসিটি বা স্নায়বিক বিষাক্ততার ঝুঁকি বাড়ে; যার ফলে অ্যাটাক্সিয়া (শারীরিক ভারসাম্যের অভাব), কাঁপুনি, বমি বমি ভাব, বমি, ডায়রিয়া এবং/অথবা কানে ভোঁ ভোঁ শব্দ (Tinnitus) হতে পারে।
+এসএসআরআই
+: সিলেক্টিভ সেরোটোনিন রিউপটেক ইনহিবিটর (বিষণ্ণতার ঔষধ) এর সাথে লিথিয়াম ব্যবহারের সময় সতর্কতা প্রয়োজন, কারণ এই কম্বিনেশনের ফলে ডায়রিয়া, মানসিক বিভ্রান্তি, কাঁপুনি, মাথা ঘোরানো এবং অতিরিক্ত উত্তেজনার মতো লক্ষণ দেখা দিতে পারে।
+লিথিয়ামের মাত্রা কমিয়ে দেয় এমন ঔষধ
+: অ্যাসিটাজোলামাইড, ইউরিয়া, জ্যান্থিন প্রিপারেশন এবং সোডিয়াম বাইকার্বনেটের মতো অ্যালকালাইজিং এজেন্টগুলো প্রস্রাবের মাধ্যমে লিথিয়াম বের করে দেওয়ার হার বাড়িয়ে রক্তে এর মাত্রা কমিয়ে দিতে পারে।
+এছাড়া মিথাইলডোপা, ফিনাইটয়েন এবং কার্বামাজেপিনও লিথিয়ামের সাথে মিথস্ক্রিয়া করে থাকে।
+
+### drug=lithium-carbonate | section=precautions | lang=bn
+দীর্ঘস্থায়ী বা অতিরিক্ত ঘাম অথবা ডায়রিয়ার কারণে শরীরে লিথিয়ামের সহনশীলতা কমে যাওয়ার খবর পাওয়া গেছে। এমনটি ঘটলে অত্যন্ত সতর্কতার সাথে চিকিৎসকের তত্ত্বাবধানে অতিরিক্ত তরল ও লবণ (যেমন- খাবার স্যালাইন) গ্রহণ করতে হবে এবং সমস্যা পুরোপুরি সমাধান না হওয়া পর্যন্ত লিথিয়ামের মাত্রা কমিয়ে দিতে হবে বা ঔষধ সাময়িকভাবে বন্ধ রাখতে হবে।
+
+### drug=lithium-carbonate | section=interaction | lang=en
+Caution should be used when lithium and diuretics are used concomitantly because diuretic-induced sodium loss may reduce the renal clearance of lithium and increase serum lithium levels with risk of lithium toxicity. Lithium levels should be closely monitored when patients initiate or discontinue NSAID use. Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations. Concurrent use of metronidazole with lithium may provoke lithium toxicity due to reduced renal clearance. There is evidence that ACE inhibitors, such as enalapril and captopril, may substantially increase steady-state plasma lithium levels, sometimes resulting in lithium toxicity. Concurrent use of calcium channel blocking agents with lithium may increase the risk of neurotoxicity in the form of ataxia, tremors, nausea, vomiting, diarrhoea and/or tinnitus. The concomitant administration of lithium with selective serotonin reuptake inhibitors should be undertaken with caution as this combination has been reported to result in symptoms such as diarrhea, confusion, tremor, dizziness and agitation. The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations and alkalinizing agents such as sodium bicarbonate. The following have also been shown to interact with lithium: methyldopa, phenytoin and carbamazepine.
+
+### drug=lithium-carbonate | section=precautions | lang=en
+Decreased tolerance to lithium has been reported to ensue from protracted sweating or diarrhoea and, if such occur, supplemental fluid and salt should be administered under careful medical supervision and lithium intake reduced or suspended until the condition is resolved.
+
+### drug=losartan-potassium | section=interaction | lang=bn
+রিফামপিসিন ও ফ্লুকোনাজল লোসারটান পটাশিয়ামের সক্রিয় মেটাবোলাইট কমিয়ে দেয়। একই সাথে লোসারটান পটাশিয়াম ও হাইড্রোক্লোরোথায়াজাইড ব্যবহার করলে রক্তচাপ কমানোর ক্ষমতা বেড়ে যায়। একই সাথে পটাশিয়াম স্পারিং ডাইইউরেটিক (যেমনঃ স্পাইরোনোল্যাকটন, ট্রাইএ্যামটেরিন, এমিলোরাইড), পটাশিয়াম সাপ্লিমেন্ট বা যে সমস্ত যৌগের মধ্যে পটাশিয়াম আছে সে গুলো সিরাম পটাশিয়ামকে বাড়িয়ে দেয়। লোসারটানের সাথে ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ড্রাগ ইনডোমিথাসিন ব্যবহার করলে উচ্চরক্তচাপ কমানোর ক্ষমতা কমে যায়। একই সাথে ACE ইনহিবিটর, এনজিওটেনসিন রিসিপ্টর এন্টাগোনিষ্ট, ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ড্রাগ এবং থায়াজাইড ডাইইউরেটিক ব্যবহার করলে বৃক্কের অকার্যকারিতা হওয়ার ঝুঁকি বেড়ে যায়।
+
+### drug=losartan-potassium | section=precautions | lang=bn
+গর্ভাবস্থায় দ্বিতীয় ও তৃতীয় ট্রাইমেস্টারে লোসারটান পটাশিয়াম ব্যবহার করলে নবজাতকের বৃক্কীয় কার্যকারিতা মারাত্বকভাবে কমে যায় এবং নবজাতক ও Fetus নষ্ট বা মৃত্যু হার বেড়ে যায়। যে সকল রোগীর ইন্ট্রাভাস্কুলার ভলিউম কম (যেমনঃ উচ্চ মাত্রায় ডাইইউরেটিক ব্যবহার করেছে এমন) তাদের লক্ষণ জনিত নিম্নরক্তচাপ হতে পারে। সিরোটিক রোগীর ক্ষেত্রে লোসারটান পটাশিয়ামের রক্ত রস ঘনত্ব উলে­খযোগ্য হারে বৃদ্ধি পায়। বৃক্কীয় অকার্যকরী রোগীর ক্ষেত্রে অকার্যকারিতা বেড়ে যেতে পারে বা বৃক্ক বিকল হতে পারে।
+
+### drug=losartan-potassium | section=interaction | lang=en
+Rifampicin and fluconazole reduce levels of active metabolite of Losartan Potassium. Concomitant use of Losartan Potassium and hydrochlorothiazide may lead to potentiation of the antihypertensive effects. Concomitant use of potassium-sparing diuretics (eg, spironolactone, triamterene, amiloride), potassium supplements or salt substitutes containing potassium may lead to increases in serum potassium. The antihypertensive effect of losartan may be attenuated by the non-steroidal anti-inflammatory drug indomethacin. The use of ACE-inhibitor, angiotensin receptor antagonist, an anti-inflammatory drug and a thiazide diuretic at the same time increases the risk of renal impairment.
+
+### drug=losartan-potassium | section=precautions | lang=en
+Use of Losartan Potassium during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. In patients who are intravascularly volume-depleted (e.g., those treated with high-dose diuretics), symptomatic hypotension may occur. Plasma concentration of Losartan Potassium is significantly increased in cirrhotic patients. Changes in renal function including renal failure have been reported in renal impaired patient.
+
+### drug=losartan-potassium | section=special_populations | lang=en
+Use in renal impairment
+: No initial dosage adjustment is necessary in patients with mild renal impairment (i.e. creatinine clearance 20-50 ml/min). For patients with moderate to severe renal impairment (i.e. creatinine clearance <20 ml/min) or patients on dialysis, a lower starting dose of 25 mg (one Araten-50 tablet) once daily is recommended. Use in patients with intravascular volume depletion: For the very small proportion of patients who have intravascular volume depletion (e.g. those treated with high-dose diuretics), a starting dose of 25 mg (one Araten-50 tablet) once daily is recommended.
+Use in hepatic impairment
+: A lower dose should be considered for patients with a history of hepatic impairment. Araten may be administered with other antihypertensive agents. Araten may be administered with or without food.Contra-indications, warnings, etc. Contra-indications: Losartan is contra-indicated in pregnancy and in patients who are hypersensitive to losartan. Warnings: Based on pharmacokinetic data which demonstrate significantly increased plasma concentrations of losartan in cirrhotic patients, a lower dose should be considered for patients with a history of hepatic impairment. Other drugs that affect the renin-angiotensin-aldosterone system may increase blood urea and serum creatinine in patients with bilateral renal artery stenosis of the artery to a solitary kidney. Similar effects have been reported with losartan; these changes in renal function may be reversible upon discontinuation of therapy. Losartan should not be used with potassium-sparing diuretics.
+
+### drug=amoxicillin-trihydrate | section=interaction | lang=bn
+এমোক্সিসিলিন ও প্রোবেনেসিডের সাথে যুগপৎ ব্যবহারে এমোক্সিসিলিনের প্লাজমা ঘনত্ব বৃদ্ধি ও দীর্ঘস্থায়ী হতে পারে। এমোক্সিসিলিন, আন্ত্রিক ফ্লোরা নষ্ট করতে পারে যা ইস্ট্রোজেনের পূণঃশোষণ কমিয়ে ফেলে এবং মুখে সেবনযোগ্য ইস্ট্রোজেন-প্রোজেস্টেরন সংবলিত জন্মপ্রতিরোধক জাতীয় ঔষধের কার্যকারিতা হ্রাস করতে পারে।
+
+### drug=amoxicillin-trihydrate | section=precautions | lang=bn
+চিকিৎসা চলাকালে ব্যাকটেরিয়া বা ছত্রাকজনিত সুপারইনফেকশন হওয়ার সম্ভাবনার বিষয়টি বিবেচনায় রাখতে হবে। সুপারইনফেকশন হলে এমোক্সিসিলিন গ্রহণ বন্ধ করতে হবে এবং যথোপযুক্ত চিকিৎসা নিতে হবে।
+
+### drug=amoxicillin-trihydrate | section=interaction | lang=en
+Concurrent use of Amoxicillin and Probenecid may result in increased and prolonged blood levels of Amoxicillin. Amoxicillin may affect the gut flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.
+
+### drug=amoxicillin-trihydrate | section=precautions | lang=en
+The possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy. If superinfections occur, Amoxicillin should be discontinued and appropriate therapy should be instituted.
+
+### drug=amoxicillin-clavulanic-acid | section=precautions | lang=bn
+যকৃতের তীব্র কার্যক্ষমতা হ্রাস বা রক্ত জমাট বিরোধী চিকিৎসা গ্রহণকারী রোগীদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত। ইহা উচ্চ মাত্রায় সেবনকালে প্রচুর পানি পান করা উচিত যাতে প্রচুর মূত্রত্যাগের মাধ্যমে ক্রিস্টালইউরিয়ার সম্ভাব্যতা হ্রাস পায়।
+
+### drug=amoxicillin-clavulanic-acid | section=special_populations | lang=bn
+বৃক্কের কার্যক্ষমতা হ্রাসের ক্ষেত্রে: বৃক্কের কার্যক্ষমতা হ্রাস পেলে মাত্রা সমন্বয় করতে হবে।
+
+### drug=amoxicillin-clavulanic-acid | section=interaction | lang=en
+Prolongation of bleeding time and prothrombin time have been reported in some patients receiving Co-amoxiclav. In common with other broad-spectrum antibiotics, Co-amoxiclav may reduce the efficacy of oral contraceptives and patients should be warned accordingly. Concomitant use of allopurinol during treatment with amoxicillin can increase the likelihood of allergic skin reactions. There are no data on the concomitant use of Co-amoxiclav and allopurinol.
+
+### drug=amoxicillin-clavulanic-acid | section=precautions | lang=en
+Co-amoxiclav should be used with care in patients on anticoagulation therapy or with severe hepatic dysfunction. In patients with moderate or severe renal impairment, dosage should be adjusted. During the administration of a high dose of Co-amoxiclav adequate fluid intake and urinary output should be maintained to minimize the possibility of crystalluria.
+
+### drug=amoxicillin-clavulanic-acid | section=special_populations | lang=en
+The dose should be adjusted in case of patients with renal impairment
+Adult
+:
+Mild impairment (Creatinine clearance> 30ml/minute): No changein dosage.
+Moderate impairment (Creatinine clearance 10-30 ml/minute): One 375 Tablet or one 625 Tablet 12 hourly or 1.2 gm IV followed by 0.6 gm IV 12 hourly.
+Severe impairment (Creatinine clearance <10 ml/minute): Not more than one 375 mg tablet 12 hourly or 1.2 gm IV followed by 0.6 gm IV 24 hourly. Dialysis decreases serum concentrations of this preparation and an additional 0.6 gm IV dose may need to be given during dialysis and at the end of dialysis.
+Children
+:
+A similar reduction in dosage should be made for children.
+Administration hepatic impairment: Dose with caution; monitor hepatic function at regular intervals.
+
+### drug=mebendazole | section=interaction | lang=bn
+প্রাথমিক প্রমাণ থেকে জানা যায় যে, সিমেটিডিন মেবেনডাজলের বিপাকে বাধা দেয় এবং এর ফলে প্লাজমা ঘনত্ব বাড়ে যেতে পারে।
+
+### drug=mebendazole | section=precautions | lang=bn
+সাধারণ
+: দীর্ঘায়িত থেরাপির সময় হেমাটোপয়েটিক এবং হেপাটিক সহ অর্গান সিস্টেমের ক্রিয়াকলাপগুলির পর্যায়ক্রমিক মূল্যায়নের পরামর্শ দেওয়া হয়।
+রোগীদের জন্য তথ্য
+: গর্ভাবস্থায় মেবেনডাজল গ্রহণকারী মহিলাদের মধ্যে ভ্রূণের সম্ভাব্য ঝুঁকি সম্পর্কে রোগীদের অবহিত করা উচিত, বিশেষত প্রথম ত্রৈমাসিকের সময়। রোগীদের আরও অবহিত করা উচিত যে পুনরায় সংক্রমণ ও ছড়ানো রোধে পরিষ্কার পরিচ্ছন্নতা গুরুত্বপূর্ণ।
+
+### drug=mebendazole | section=special_populations | lang=bn
+দুই বছরের কম বয়সী শিশুদের ক্ষেত্রে এই ঔষধটির ব্যাবহার বিস্তারিত ভাবে অধ্যয়ন করা হয়নি; সুতরাং, দুই বছরের কম বয়সী শিশুদের চিকিৎসার ক্ষেত্রে আপেক্ষিক সুবিধা/ঝুঁকি বিবেচনা করা উচিৎ।
+
+### drug=mebendazole | section=interaction | lang=en
+Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentration.
+
+### drug=mebendazole | section=precautions | lang=en
+General
+: Periodic assessment of organ system functions, including haematopoietic and hepatic, is advisable during prolonged therapy.
+Information for Patients
+: Patients should be informed of the potential risk to the foetus in women taking mebendazole during pregnancy, especially during the first trimester. Patients should also be informed that cleanliness is important to prevent reinfection & transmission of the infection.
+
+### drug=mebendazole | section=special_populations | lang=en
+Paediatric use: The drug has not been extensively studied in children under two years; therefore, in the treatment of children under two years the relative benefit/risk should be considered.
+
+### drug=ampicillin-sodium | section=interaction | lang=bn
+May reduce the efficacy of oral contraceptives. May alter INR while on warfarin and phenindione. May reduce the efficacy of oral typhoid vaccines. May reduce the excretion of methotrexate. Reduced excretion with probenecid and sulfinpyrazone, resulting to increased risk of toxicity. Allopurinol increases ampicillin-induced skin reactions. Reduced absorption with chloroquine. Bacteriostatic antibacterials (e.g. erythromycin, chloramphenicol, tetracycline) may interfere with the bactericidal action of ampicillin.
+
+### drug=ampicillin-sodium | section=precautions | lang=bn
+Patient with history of β-lactam allergy. During renal impairment, Pregnancy and lactation.
+
+### drug=ampicillin-sodium | section=special_populations | lang=bn
+Renal Impairment
+: CrCl<10: Dose reduction or increase in dose interval.
+
+### drug=ampicillin-sodium | section=interaction | lang=en
+May reduce the efficacy of oral contraceptives. May alter INR while on warfarin and phenindione. May reduce the efficacy of oral typhoid vaccines. May reduce the excretion of methotrexate. Reduced excretion with probenecid and sulfinpyrazone, resulting to increased risk of toxicity. Allopurinol increases ampicillin-induced skin reactions. Reduced absorption with chloroquine. Bacteriostatic antibacterials (e.g. erythromycin, chloramphenicol, tetracycline) may interfere with the bactericidal action of ampicillin.
+
+### drug=ampicillin-sodium | section=precautions | lang=en
+Patient with history of β-lactam allergy. During renal impairment, Pregnancy and lactation.
+
+### drug=ampicillin-sodium | section=special_populations | lang=en
+Renal Impairment
+: CrCl<10: Dose reduction or increase in dose interval.
+
+### drug=medroxyprogesterone-acetate-injection | section=interaction | lang=bn
+অ্যামাইনোগুটিথিমাইড এর সাথে উচ্চমাত্রার মেড্রোক্সিপ্রোজেস্টেরন এসিটেট ব্যবহার সেরাম ঘনত্ব কমিয়ে দিতে পারে। মেড্রোক্সিপ্রোজেস্টেরন এসিটেট এর সম্ভাব্য কার্যক্ষমতা অ্যামাইনোগুটিথিমাইড এর সাথে ব্যবহারের ফলে কমে যাবার ব্যাপারে রোগীর সাবধান হওয়া উচিত।
+
+### drug=medroxyprogesterone-acetate-injection | section=precautions | lang=bn
+ইহা নিম্নবর্ণিত এন্ডোক্রাইন বায়োমার্কারের পরিমান কমাতে পারে, যেমনঃ প্লাজমা (রক্তরস)/মুত্রনালী হরমোন (কর্টিসোল, এস্ট্রোজেন, প্রিগনানেডিওল, প্রোজেস্টেরন, টেস্টোসটেরন), প্লাজমা (রক্তরস)/ মুত্রনালীর গোনাট্রপিন (যেমনঃ এল.এইচ এবং এফ.এস.এইচ) এবং যৌন-হরমোন বন্ধক গ্লোবিউলিন।
+
+### drug=medroxyprogesterone-acetate-injection | section=interaction | lang=en
+Aminoglutethimide administered concomitantly with high doses of medroxyprogestrone acetate may significant depress the serum concentration of medroxyprogestrone acetate. User should be warned of the possibility of decreases efficacy with the use of amoniglutethimide.
+
+### drug=medroxyprogesterone-acetate-injection | section=precautions | lang=en
+Unexpected vaginal bleeding during therapy, patient with a pre-existing medical condition that might be adversely affected by fluid retention, patients with a history of treatment for clinical depression diabetic patient. It may decrease the level of the following endocrine biomarkers: Plasma /urinary steroid (eg: cortisol, oestrogen, pregnanediol , progesterone & testosterone ) Plasma /urinary gonadotrophin (eg: LH & FSH) & sex hormonebinding- globulin (SHBG)
+
+### drug=metformin-hydrochloride | section=interaction | lang=bn
+মেটফরমিন ও ফিউরোসেমাইড একত্রে সেবনে দীর্ঘমেয়াদী কোন প্রতিক্রিয়ার তথ্য পাওয়া যায়নি। নিফিডিপিন মেটফরমিনের শোষণ বাড়ালেও নিফিডিপিনের উপর মেটফরমিনের সামান্য প্রভাব পরিলক্ষিত হয়। ক্যাটায়নিক ড্রাগ (যেমন: অ্যামিলোরাইড, ডিগোক্সিন, মরফিন, প্রোকেইনামাইড, কুইনিডিন, কুইনিন, ট্রায়ামটিরিন, ট্রাইমিথোপ্রিম অথবা ভেনকোমাইসিন) যারা কিডনির মাধ্যমে নিষ্কাশিত হয়, সেসব ক্ষেত্রে নিষ্কাশিত হবার সময় মেটফরমিনের সাথে প্রতিযোগিতার সম্মুখীন হতে পারে। সিমেটিডিনের ফার্মাকোকাইনেটিক বৈশিষ্ট্যের উপর মেটফরমিনের কোন প্রভাব নেই। কিছু কিছু ঔষধ যেমন থায়াজাইড এবং অন্যান্য মূত্রবর্ধক, কর্টিকোস্টেরয়েড, ফেনোথায়াজিন, থাইরয়েড প্রডাক্ট, ইস্ট্রোজেন, মুখে খাবার জন্মনিরোধক, ফিনাইটোয়েন, নিকোটিনিক এসিড, সিমপ্যাথোমিমেটিক ক্যালসিয়াম চ্যানেল ব্লকার এবং আইসোসরবাইড হাইপোগ্লাইসেমিয়া তৈরি করতে পারে এবং এসব ঔষধ গ্রহণের ক্ষেত্রে সাবধানতা অবলম্বন করতে হবে।
+
+### drug=metformin-hydrochloride | section=precautions | lang=bn
+মেটফরমিন হাইড্রোক্লোরাইড কিডনির মাধ্যমে দেহ থেকে ধীরে ধীরে বের হয়। তাই শরীরে মেটফরমিন জমা হওয়া ও ল্যাকটিক এসিডোসিস হওয়ার সম্ভাবনা কিডনির অক্ষমতার মাত্রার উপর নির্ভর করে। মেটফরমিন শরীরে ভিটামিন বি১২ এর পরিমাণ কমায় এবং ইনসুলিন বা ইনসুলিন সিক্রেটোগগ এর সাথে একত্রে ব্যবহারে হাইপোগ্লাইসেমিয়া হওয়ার ঝুঁকি বাড়ায়।
+
+### drug=metformin-hydrochloride | section=special_populations | lang=bn
+বয়স্কদের ক্ষেত্রে
+: বয়স্কদের ক্ষেত্রে কিডনীর কার্যকারিতা হ্রাসের সম্ভাবনা থাকায় কিডনীর কার্যকারিতার উপর ভিত্তি করে মেটফরমিনের মাত্রা সমন্বয় করা উচিত। সেক্ষেত্রে নিয়মিত কিডনীর কার্যকারিতা পর্যবেক্ষণ করা প্রয়োজন।
+শিশুদের ক্ষেত্রে
+: শিশুদের ক্ষেত্রে মেটফরমিন দিয়ে চিকিৎসা শুরুর পূর্বে রোগ নির্নয় করে নিশ্চিত হতে হবে যে, রোগীর টাইপ-২ ডায়াবেটিস মেলাইটাস রয়েছে।
+এক বছর ধরে করা নিয়ন্ত্রিত ক্লিনিক্যাল পরীক্ষায় শিশুর স্বাভাবিক বৃদ্ধি এবং বয়:সন্ধি কালীন বৃদ্ধির উপর মেটফরমিনের কোন প্রভাব পাওয়া যায়নি এবং এই সুনির্দিষ্ট বিষয়ের উপর দীর্ঘমেয়াদী কোন তথ্য নেই। তাই এসব বিষয়ের উপর মেটফরমিন দ্বারা চিকিৎসাধীন শিশুদের বিশেষভাবে বয়:সন্ধি পূর্ববর্তী শিশুদের উপর মেটফরমিনের প্রভাবের একটি নিবিড় পর্যবেক্ষণ নির্দেশিত।
+১০ থেকে ১২ বছর বয়সী শিশুদের ক্ষেত্রে
+: ১০ থেকে ১২ বছর বয়সী শিশুদের ক্ষেত্রে ওষুধটির ব্যবস্থাপত্র দেওয়ার সময় বিশেষ সতর্কতা অবলম্বন নির্দেশিত।
+কিডনীর কার্যকারিতার উপর প্রভাব
+: যেহেতু মেটফরমিন কিডনী দ্বারা নিঃসৃত হয় তাই চিকিৎসা শুরুর পূর্বেই ক্রিয়েটিনিন ক্লিয়ারেন্স (ককক্রফট-গল্ট সূত্র ব্যবহার করে রক্তে ক্রিয়েটিনিনের পরিমান থেকে এটি নির্ধারণ করা যাবে) নির্ধারণ করতে হবে এবং তারপর-
+যেসব রোগীর কিডনীর কার্যকারিতা স্বাভাবিক রয়েছে তাদের ক্ষেত্রে বছরে কমপক্ষে একবার ক্রিয়েটিনিন ক্লিয়ারেন্স পর্যবেক্ষণ করতে হবে।
+বয়স্ক রোগী এবং যেসব রোগীর ক্রিয়েটিনিন ক্লিয়ারেন্স মান স্বাভাবিকের নিম্নতম মাত্রায় রয়েছে তাদের বছরে কমপক্ষে দুই থেকে চার বার ক্লিয়ারেন্স পর্যবেক্ষণ করতে হবে।
+বয়স্ক রোগীর ক্ষেত্রে
+: কিডনীর কার্যকারিতা হ্রাসের ঘটনা প্রায়শই ঘটে এবং তা উপসর্গবিহীন হয়। কিডনীর কার্যকারিতা ক্ষতিগ্রস্ত করতে পারে এমন বিষয় যেমন প্রারম্ভিক ভাবে রক্তচাপ নিয়ন্ত্রণকারী ওষুধ অথবা মুত্রবর্ধক ওষুধ দিয়ে চিকিৎসা করার সময় এবং ব্যথানাশক ওষুধ দিয়ে চিকিৎসা শুরুর সময় বিশেষ সতর্কতা অবলম্বন করা উচিত।
+চিকিৎসা শুরুর পূর্বে এবং পরবর্তীর্তে নিয়মিতভাবে জিএফআর পরিমাপ করা উচিৎ। জিএফআর <৩০ মিলি/মিনিট রয়েছে এমন রোগীদের ক্ষেত্রে মেটফরমিন নিষিদ্ধ এবং কিডনীর কার্যকারিতা পরিবর্তন হয় এমন অবস্থার উপস্থিতিতে মেটফরমিন সাময়িকভাবে প্রত্যাহার করা উচিৎ।
+
+### drug=metformin-hydrochloride | section=interaction | lang=en
+No information is available about the interaction of Metformin and Furosemide when co-administered chronically. Nifedipine appears to enhance the absorption of Metformin. Metformin had minimal effects on Nifedipine. Cationic drugs (e.g., Amiloride, Digoxin, Morphine, Procainamide, Quinidine, Quinine, Triamterene, Trimethoprim, or Vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with Metformin by competing for common renal tubular transport systems. Metformin had no effect on Cimetidine pharmacokinetics. Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, Estrogens, Oral contraceptives, Phenytoin, Nicotinic Acid, sympathomimetics, calcium channel blocking drugs, and Isoniazid.
+
+### drug=metformin-hydrochloride | section=precautions | lang=en
+Metformin Hydrochloride is known to be substantially excreted by the kidney and the risk of Metformin accumulation and lactic acidosis increases with the degree of impairment of renal function. Metformin may lower vitamin B12 level. It also increases risk of hypoglycemia when use in combination with insulin or insulin secretagogue.
+Metformin Hydrochloride is excreted by the kidney and regular monitoring of renal function is advised in all diabetics. Metformin Hydrochloride therapy should be stopped 2-3 days before surgery and clinical investigations such as intravenous urography and intravenous angiography, and reinstated only after control or renal function has been regained. The use of Metformin is not advised in conditions which may cause dehydration or in patients suffering from serious infections or trauma. Patients receiving continuous Metformin therapy should have an annual estimation of Vitamin B-12 levels because of reports of decreased Vitamin B-12 absorption. During concomitant therapy with a sulphonylurea, blood glucose should be monitored because combined therapy may cause hypoglycaemia. Stabilization of diabetic patients with Metformin and insulin should be carried out in hospital because of the possibility of hypoglycaemia until the correct ratio of the two drugs has been obtained. Reduced renal clearance of Metformin Hydrochloride has been reported during cimetidine therapy, so a dose reduction should be considered. As with a number of drugs, an interaction between Metformin Hydrochloride and anticoagulants is a possibility and dosage of the latter may need adjustment.
+
+### drug=metformin-hydrochloride | section=special_populations | lang=en
+Elderly
+: Due to the potential for decreased renal function in elderly subjects, the metformin dosage should be adjusted based on renal function. Regular assessment of renal function is necessary.
+Pediatric population
+: The diagnosis of type 2 diabetes mellitus should be confirmed before treatment with metformin is initiated. No effect of metformin on growth and puberty has been detected during controlled clinical studies of one-year duration but no long-term data on these specific points are available. Therefore, a careful follow-up of the effect of metformin on these parameters in metformin-treated children, especially prepubescent children, is recommended.
+Children aged between 10 and 12 years
+: Particular caution is recommended when prescribing to children aged between 10 and 12 years.
+Renal function
+: As metformin is excreted by the kidney, creatinine clearance (this can be estimated from serum creatinine levels by using the Cockcroft-Gault formula) should be determined before initiating treatment and regularly thereafter:
+At least annually in patients with normal renal function,
+At least two to four times a year in patients with creatinine clearance at the lower limit of normal and in elderly subjects.
+Decreased renal function in elderly subjects is frequent and asymptomatic. Special caution should be exercised in situations where renal function may become impaired, for example when initiating antihypertensive therapy or diuretic therapy and when starting therapy with a non-steroidal anti-inflammatory drug (NSAID). GFR should be assessed before treatment initiation and regularly thereafter. Metformin is contraindicate in patients with GFR<30 ml/min and should be temporarily discontinued in the presence of conditions that alter renal function.
+
+### drug=methotrexate | section=interaction | lang=bn
+এনএসএআইডি: হাই-ডোজ মেথোট্রেক্সেট ব্যবহারের আগে বা একই সাথে দেওয়া উচিত নয়, যেমন অস্টিওসারকোমার চিকিৎসার ক্ষেত্রে
+স্যালিসায়লেটস, ফিনাইলবুটাজোন, ফেনিটোইন এবং সালফোনামাইডস: বিষাক্ততা বৃদ্ধি পেতে পারে
+পেনিসিলিন, থিওফায়লিন, প্রোবিনিসিড, এজাথিয়োপ্রিন, রেটিনয়েড, সালফাসেলাজিন: লিভারের বিষাক্ততার ঝুঁকি বৃদ্ধির জন্য রোগীকে পর্যবেক্ষন
+করা উচিত
+সিসপ্ল্যাটিন: হাই-ডোজ মেথোট্রেক্সেট একই সাথে দেওয়া হলে সাবধানতা অবলম্বন করা আবশ্যক
+মারকেপ্টোপিউরিন: মেথোট্রেক্সেট প্লাজমাতে মারকেপ্টোপিউরিনের মাত্রা বাড়িয়ে দেয়
+টেট্রাসাইক্লিন, ক্লোরামফেনিকল এবং ব্রড স্পেকট্রাম অ্যান্টিবায়োটিক: অন্ত্রে মেথোট্রেক্সেটের শোষণ হ্রাস করতে পারে
+ফলিক অ্যাসিড বা এর ডেরিভেটিভযুক্ত ভিটামিনের প্রস্তুতি: মেথোট্রেক্সেট এই ড্রাগগুলির রেস্পন্স কমিয়ে দেয়
+ট্রাইমেথোপ্রিম/ সালফামেথক্সাজল: খুব কম ক্ষেত্রে অস্থি মজ্জার দমন বৃদ্ধি করে
+
+### drug=methotrexate | section=precautions | lang=bn
+প্রিজারভেটিভ যুক্ত মেথোট্রেক্সেটের ফর্মুলেশনগুলি ইন্ট্রাথ্যাকাল বা হাই-ডোজ মেথোট্রেক্সেট থেরাপির জন্য ব্যবহার করা যাবেনা
+মেথোট্রেক্সেট সেবন করা রোগীদেরকে বিষাক্ত প্রভাবের পর্যবেক্ষণ করা প্রয়োজন
+পার্শ্ব প্রতিক্রিয়া দেখা দিলে ঔষধের পরিমাণ কমাতে বা বন্ধ করতে হবে এবং যথাযথ ব্যবস্থা নিতে হবে, যেমন লিউকোভরিন ক্যালসিয়াম ব্যবহার করা যেতে পারে
+যদি মেথোট্রেক্সেট থেরাপি রিকনস্টিটিউট করা হয়, তবে সতর্কতার সাথে ঔষধের পরবর্তী ব্যবহার এবং সম্ভাব্য বিষাক্ত প্রভাবের পুনরাবৃত্তির জন্য বিবেচনা করতে হবে
+ক্রমাগত লিভার পরীক্ষার অস্বাভাবিকতা এবং সিরাম অ্যালবুমিনের পরিমান কমে যাওয়া লিভারের গুরুতর বিষাক্ততার নির্দেশনা এবং সেটির পর্যবেক্ষন দরকার
+ফোলেটের ঘাটতি: মেথোট্রেক্সেটের বিষাক্ততা বাড়িয়ে তুলতে পারে
+
+### drug=methotrexate | section=special_populations | lang=bn
+শিশুদের ক্ষেত্রে
+: বিশেষত পেডিয়াট্রিক রোগী বা অল্প বয়স্কদের ক্ষেত্রে মেথোট্রেক্সেট আলাদা বা অন্যান্য ঔষুধের সাথে ব্যবহার করার আগে সম্ভাব্য ঝুঁকির বিরুদ্ধে সুবিধার বিবেচনা করা উচিত
+বয়স্ক রোগীদের ক্ষেত্রে
+: হেপাটিক, অস্থি মজ্জা এবং রেনাল বিষাক্ততার প্রাথমিক লক্ষণগুলির জন্য পর্যবেক্ষণ করা উচিত
+
+### drug=methotrexate | section=interaction | lang=en
+NSAIDs: Should not be administered prior to or concomitantly with high doses of methotrexate, such as used in the treatment of osteosarcoma
+Salicylates, Phenylbutazone, Phenytoin and Sulfonamides: Toxicity may be increased Penicillin, Theophylline, Probenecid, Azathioprine, Retinoids,
+Sulfasalazine: Should be closely monitored for possible increased risk of hepatotoxicity
+Cisplatin: Caution must be exercised if high-dose methotrexate is administered in combination
+Mercaptopurine: Methotrexate increases the plasma levels of mercaptopurine
+Tetracycline, Chloramphenicol and Nonabsorbable Broad Spectrum Antibiotics: May decrease intestinal absorption of methotrexate
+Vitamin preparations containing folic acid or its derivatives: Decreases responses to systemically administered methotrexate
+Trimethoprim/Sulfamethoxazole: Rarely increases bone marrow suppression
+
+### drug=methotrexate | section=precautions | lang=en
+Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy
+It is necessary to follow patients on methotrexate closely for toxic effects
+If adverse reactions occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken. If necessary, this could include the use of leucovorin calcium
+If methotrexate therapy is reinstituted, it should be carried out with caution, with adequate consideration of further need for the drug and increased alertness as to possible recurrence of toxicity
+Persistent liver function test abnormalities, &/or depression of serum albumin may be indicators of serious liver toxicity & require evaluation
+Folate deficiency: May increase methotrexate toxicity
+
+### drug=methotrexate | section=special_populations | lang=en
+Pediatric patients
+: Benefits should be weighed against the potential risk before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
+Geriatric patients
+: Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
+

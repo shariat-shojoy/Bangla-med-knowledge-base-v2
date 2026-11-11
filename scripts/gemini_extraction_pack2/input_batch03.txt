@@ -1,0 +1,358 @@
+### drug=propylthiouracil | section=interaction | lang=bn
+ওষুধের সাথে
+: এন্টিকোয়াগুলেন্ট (মুখে সেব্য)- যেহেতু প্রোপাইলথায়োইউরাসিল ভিটামিন এর কার্যকারিতায় বাঁধা দেয়, তাই মুখে সেব্য এন্টিকোয়াগুলেন্ট (যেমনঃ ওয়ারফারিন) কার্যকারিতা বৃদ্ধি পেতে পারে; PT/INR এর অতিরিক্ত পর্যবেক্ষণ করতে হবে, বিশেষ করে শল্যচিকিৎসার পূর্বে।
+বিটা-অ্যাড্রেনারজিক ব্লকিং উপাদান- হাইপারথাইরয়েডিজমের ফলে বিটা ব্লকার গুলোর নিষ্কাশন আনুপাতিকভাবে বেড়ে যেতে পারে। হাইপারথাইরয়েড রোগী যখন ইউথাইরয়েড হয়ে যাবে তখন বিটা ব্লকার এর মাত্রা কমাতে হবে।
+ডিজিটালিস গ্লাইকোসাইডস- হাইপারথাইরয়েড রোগী যখন একটি স্থির ডিজিটালিস গ্লাইকোসাইডস সেবনরত অবস্থায় ইউথাইরয়েড হয়ে যাবে তখন রক্তে ডিজিটালিস এর মাত্রা বেড়ে যেতে পারে, তাই ডিজিটালিস গ্লাইকোসাইডস এর মাত্রা কমাতে হতে পারে।
+থিওফাইলিন- হাইপারথাইরয়েড রোগী যখন একটি স্থির থিওফাইলিন সেবনরত অবস্থায় ইউথাইরয়েড হয়ে যাবে তখন থিওফাইলিন এর নিষ্কাশন কমে যেতে পারে, তাই থিওফাইলিন এর মাত্রা কমাতে হতে পারে।
+খাবারের সাথে
+: প্রোপাইলথায়োইউরাসিল এর ক্ষেত্রে এমন কোনও নির্দিষ্ট খাদ্য নেই যা এই ওষুধ সেবন কালে রোগীকে খাবার তালিকা থেকে বর্জন করতে হবে।
+
+### drug=propylthiouracil | section=precautions | lang=bn
+অ্যাগ্রেনুলোসাইটোসিস এর ঝুঁকির কারণে রোগীদের সতর্ক করতে হবে যদি গলা ব্যথা, জ্বর, মুখে ঘা, অসুস্থতা, অনির্দিষ্ট অসুস্থতা বা অন্য কোনও সংক্রমণ এর উপসর্গ দেখা দিলে তারা যেন দ্রুত চিকিৎসকের শরণাপন্ন হন। যদি নিউট্রোপেনিয়া এর ক্লিনিক্যাল বা পরীক্ষাগারে প্রমান পাওয়া যায় তবে সম্পূর্ণ রক্তের গণনা করতে হবে এবং চিকিৎসা অবিলম্বে বন্ধ করতে হবে। প্রোপাইলথাইয়োইউরাসিল হাইপোপ্রোথ্রোম্বিনেমিয়া এবং রক্তক্ষরণ ঘটাতে পারে তাই চিকিৎসার সময় প্রোথ্রোম্বিন টাইম পর্যবেক্ষণ করতে হবে, বিশেষকরে শল্যচিকিৎসার পূর্বে। প্রোপাইলথাইয়োউরাসিল ব্যবহারের ফলে বয়স্ক ও শিশু উভয়ের ক্ষেত্রেই যকৃতে তীব্র প্রতিক্রিয়ার কিছু ঘটনা দেখা গিয়েছে, যা ছিল প্রাণনাশক এবং যেখানে যকৃত প্রতিস্থাপনের প্রয়োজন পড়েছিল। বেশিরভাগ ক্ষেত্রেই যকৃতে প্রতিক্রিয়া ৬ মাসের মধ্যে দেখা দেয়। যদি প্রোপাইলথায়োইউরাসিল ব্যবহারের ফলে যকৃতের এনজাইমের উল্লেখযোগ্য অস্বাভাবিকতা দেখা দেয় তবে অবিলম্বে ওষুধ সেবন বন্ধ করতে হবে। যেসকল রোগীর বৃক্কে অকার্যকারিতা বা যকৃতে ব্যাধি রয়েছে তাদের প্রোপাইলথাইয়োইউরাসিল সতর্কতার সাথে ব্যবহার করতে হবে।
+
+### drug=propylthiouracil | section=special_populations | lang=bn
+শিশু ও কিশোর রোগীদের ক্ষেত্রে ব্যবহার
+: যারা মেথিমাজল এর প্রতি অসহিষ্ণু এবং যাদের জন্য শল্যচিকিৎসা অথবা তেজস্ক্রিয় আয়োডিন চিকিৎসা উপযুক্ত নয়, এরূপ বিরল অবস্থা ছাড়া প্রোপাইলথায়োইউরাসিল শিশুদের ক্ষেত্রে ব্যবহারের জন্য নির্দেশিত নয়। শিশুদের ক্ষেত্রে ব্যবহার করা হলে পিতামাতা ও রোগীকে যকৃতের অকৃতকার্যতা সম্পর্কে অবগত করতে হবে।
+
+### drug=propylthiouracil | section=interaction | lang=en
+With medicine
+: Anticoagulants (oral)- Due to the potential inhibition of vitamin K activity by Propylthiouracil, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, and especially before surgical procedures.
+p-adrenergic blocking agents- Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid.
+Digitalis glycosides- Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed.
+Theophylline- Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed.
+With food
+: In case of Propylthiouracil, there are no specific foods that patients must exclude from diet when receiving this medication.
+
+### drug=propylthiouracil | section=precautions | lang=en
+Because of the risk of agranulocytosis patients should be warned to report to their doctor in the event of a sore throat, fever, mouth ulcers, malaise, non-specific illness or other symptoms of infection immediately. A full blood count should be performed and treatment should be discontinued immediately if there is clinical or laboratory evidence of neutropenia.
+Propylthiouracil may cause hypothrombinaemia and bleeding so prothrombin time should be monitored during therapy, especially prior to surgery.
+Some cases of severe hepatic reactions, both in adults and children, including fatal cases and cases requiring a liver transplant have been reported with propylthiouracil. In a majority of cases, the liver reaction occurred within 6 months. If significant hepatic enzyme abnormalities develop during treatment with propylthiouracil the drug should be discontinued immediately. Propylthiouracil should be used with caution in patients with renal impairment or hepatic disease.
+
+### drug=propylthiouracil | section=special_populations | lang=en
+Use in Children & Adolescents: Propylthiouracil is not recommended for use in the pediatric population except in rare instances in which methimazole is not well-tolerated and surgery or radioactive iodine therapy is not appropriate. When used in children, parents and patients should be informed of the risk of liver failure.
+
+### drug=calcium-gluconate | section=interaction | lang=en
+Co-administration of high calcium doses with thiazide diuretics may result in milk-alkali syndrome and hypercalcaemia. May potentiate digoxin toxicity. Decreases effects of calcium-channel blockers. Enhanced absorption with calcitriol (a vitamin D metabolite).
+
+### drug=calcium-gluconate | section=precautions | lang=en
+Impaired renal function; cardiac disease; hypercalcaemia-associated diseases, e.g. sarcoidosis; other malignancies. Pregnancy.
+
+### drug=captopril | section=interaction | lang=en
+Do not coadminister aliskiren with Captopril in patients with diabetes. Monitor renal function periodically.
+
+### drug=captopril | section=precautions | lang=en
+Evaluation of the patient should include assessment of renal function before Captopril therapy and at appropriate intervals thereafter. Patients with renal impairment should not normally be treated with Captopril. Captopril should not be used in patients with aortic stenosis or outflow tract obstruction.
+
+### drug=carbamazepine | section=interaction | lang=bn
+কার্বামাজেপিন সেবনের প্রথম ২ মাসের মধ্যে জন্মবিরতিকরণ ওষুধ নিচ্ছেন এমন মহিলাদের ক্ষেত্রে গ্যালাকটোরিয়া দেখা দিতে পারে। ফিনাইটয়েন কার্বামাজেপিন এর মেটাবলিজম বৃদ্ধি করে। তাই সেবন মাত্রা বৃদ্ধি করতে হবে।
+
+### drug=carbamazepine | section=precautions | lang=bn
+কার্বামাজেপিন ঝিঁমুনি এবং ঘুম ঘুম ভাব তৈরী করতে পারে। তাই গাড়ী অথবা মেশিন চালানোর ক্ষেত্রে বিশেষ সতর্কতা নেয়া উচিত। এলার্জি দেখা দিতে পারে। যদি কোন চুলাকানি অথবা অন্য কোন অনাকাঙ্খিত প্রতিক্রিয়া দেখা যায় তখন সাথে সাথে চিকিৎসকের পরামর্শ গ্রহণ করতে হবে। কদাচিৎ ক্ষেত্রে যকৃতে অসুবিধা দেখা দিতে পারে। যদি চুলকানি, চামড়ায় হলদেটে ভাব অথবা ভিন্ন রকম গাঢ় মূত্র, বমি, পেটে ব্যথা,ক্ষুধামন্দা অথবা ফ্লু এর লক্ষণ দেখা যায় তবে চিকিৎসকের পরামর্শ নেয়া উচিত। কার্বামাজেপিন ইস্ট্রোজেন, প্রজেস্ট্রেরন ইত্যাদি হরমোনাল কন্ট্রাসেপটিভ এর রক্তের মাত্রা হ্রাস করে। ফলে জন্ম বিরতি করণ ওষুধের কার্যকারিতা হ্রাস পেতে পারে। যেসব মহিলারা জন্ম বিরতিকরণ ওষুধ সেবন করছেন তাদের ক্ষেত্রে কমপক্ষে ৫০ মি.গ্রা. ইস্ট্রোজেন মাত্রার জন্ম বিরতি করণ ট্যাবলেট অথবা কনডম ব্যবহার করা উচিত। কার্বামাজেপিন এর সেবন হঠাৎ বন্ধ করা উচিত নয়। যদি সেবন হ্রাস প্রয়োজন হয় তবে ধীরে ধীরে একজন বিশেষজ্ঞের তত্ত্বাবধানে সেবন হ্রাস করা উচিত।
+মিশ্র সিজার এবং এবসেন্স সিজার, বয়স্ক লোক, হার্ট, লিভার, কিডনী এবং মানসিক অসুস্থতা, গ্লুকোমা, অন্য ওষুধের দ্বারা সৃষ্ট রক্তের সমস্যা, পূর্বে কার্বামাজেপিন এর চিকিৎসা বন্ধ করা হয়েছে পার্শ্ব প্রতিক্রিয়া এবং এলার্জির কারণে, এ সকল ক্ষেত্রে বিশেষ সতর্কতা নিতে হবে।
+
+### drug=carbamazepine | section=interaction | lang=en
+Galactorrhoea has been reported in few women on oral contraceptives within the first two months of Carbamazepine treatment Hepatic enzyme inducers such as Carbamazepine and Phenytoin may interact with Carbamazepine by increasing its metabolism. So an increase in dosage of Carbamazepine may be required.
+
+### drug=carbamazepine | section=precautions | lang=en
+This medicine may cause dizziness and drowsiness.Special care should be taken while performing potentially hazardous activities, such as driving or operating machinery.
+This medicine may cause skin reactions. If any rash,skin peeling, itching, or other unexplained skin reaction is seen while taking this medicine the concerned doctor should be informed immediately.
+This medicine may rarely cause liver problems.For this reason, consultation with doctor is needed if unexplained itching, yellowing of the skin or eyes, unusually dark urine, nausea and vomiting, abdominal pains, and loss of appetite or flu-like symptoms.
+Carbamazepine decreases the blood levels of hormonal contraceptives containing estrogen and/or progesterone, which may make the contraceptive ineffective or result in breakthrough bleeding.
+Women taking this medicine who require contraception should be prescribed a contraceptive containing at least 50 micrograms of oestrogen,or use non-hormonal methods of contraception, such as condoms.
+Taking this medicine should not be stopped suddenly unless the doctor tells. Otherwise, as suddenly stopping treatment is likely to make the symptoms return.If this medicine is stopped, it should normally be done gradually, under the supervision of a specialist.
+Caution should be taken in-
+Mixed seizures including absence seizures
+Elderly people
+History of heart disease
+History of kidney disease
+History of liver disease
+History of psychotic illness
+Raised pressure in the eye (intraocular pressure), eg.glaucoma
+History of blood disorders that were caused by any other medication
+History of previous Carbamazepine therapy that was interrupted due to side effects or allergy
+
+### drug=carbetocin | section=interaction | lang=en
+No specific drug interactions have been reported with carbetocin.
+
+### drug=carbetocin | section=precautions | lang=en
+In patients who may not have an adequate uterine contraction after a single injection of carbetocin, more aggressive treatment with additional doses of oxytocin or ergometrine is warranted.
+As carbetocin is closely related in structure to oxytocin, hyponatraemia may occur.
+Carbetocin should be used cautiously in the presence of epilepsy, migraine, asthma or any state in which a rapid addition to extracellular water may produce hazard for an already overburdened system.
+Patients with eclampsia and pre-eclampsia should be monitored for changes in blood pressure.
+Carbetocin is not recommended for use in elderly patients.
+
+### drug=carbimazole | section=interaction | lang=en
+Carbimazole may interact adversely with other medicines. Iodine or iodine excess may decrease the response to Carbimazole, requiring an increase in dosage or longer duration of therapy with antithyroid agents. As thyroid and metabolic status of patient decreases toward normal, response to oral anticoagulants may decrease, however, if thioamide-induced hypoprothrombinemia occurs, anticoagulant effects may be enhanced. Adjustment of oral anticoagulant dosage on the basis of prothrombin time is recommended. Serum concentrations of digoxin and digitoxin have been reported to increase as the thyroid and metabolic status of patients taking antithyroid agents decreased, reduction in dosage of any digitalis glycoside may be necessary as patients become euthyroid.
+
+### drug=carbimazole | section=precautions | lang=en
+Carbimazole should be given with the utmost caution, or not at all, if there is any degree of tracheal obstruction, as high dosages may produce thyroid enlargement and obstructive symptoms may become marked.
+
+### drug=caffeine-citrate | section=interaction | lang=en
+Few data exist on drug interactions with caffeine in preterm neonates. Based on adult data, lower doses of caffeine may be needed following co-administration of drugs which are reported to decrease caffeine elimination (e.g., cimetidine and ketoconazole) and higher caffeine doses may be needed following co-administration of drugs that increase caffeine elimination (e.g., phenobarbital and phenytoin). Inter-conversion between caffeine and theophylline has been reported in preterm neonates. The concurrent use of these drugs is not recommended.
+
+### drug=caffeine-citrate | section=precautions | lang=en
+Caffeine Citrate should be used with caution in infants with seizure disorders, cardiovascular disease and impaired renal or hepatic function. Serum concentrations of caffeine should be monitored and dose administration of Caffeine Citrate should be adjusted to avoid toxicity in this population.
+
+### drug=cefixime-trihydrate | section=interaction | lang=bn
+কার্বামাজেপিন: যুগপৎ ব্যবহার কার্বামাজেপিন-এর প্লাজমা ঘনত্ব বৃদ্ধি করে। ওয়ারফেরিন এবং অন্যান্য এণ্টিকোয়াগোলেণ্ট: যুগপৎ ব্যবহার প্রোথ্রোম্বিন সময় বৃদ্ধি করে।
+
+### drug=cefixime-trihydrate | section=precautions | lang=bn
+যাদের অন্ত্রনালীর রোগ, বিশেষ করে বৃহদন্ত্রে প্রদাহ রয়েছে তাদের ক্ষেত্রে বিশেষ সতর্কতা অবলম্বন করতে হবে। ঝুঁকিপূর্ণ বৃক্কীয় অকার্যকারিতায় এবং যাদের অবিরাম এম্বুলেটরী পেরিটোনিয়াল ডায়ালাইসিস এবং হিমোডায়ালাইসিস করতে হয় তাদের ক্ষেত্রে ঔষধটি সতর্কতার সাথে ব্যবহার করতে হয়। শুধুমাত্র গুরুতর বৃক্কীয় অকার্যকারিতায় (ক্রিয়েটিনিন ক্লিয়ারেন্স <২০ মিঃলিঃ/মিঃ) মাত্রা পরিবর্তন করতে হয়, এ ক্ষেত্রে দৈনিক একক মাত্রা ২০০ মিঃগ্রাঃ এর অধিক অতিক্রম করা উচিৎ নয়।
+
+### drug=cefixime-trihydrate | section=interaction | lang=en
+In common with other cephalosporins, increases in prothrombin times have been noted in a few patients. Care should therefore be taken in patients receiving anticoagulant therapy.
+
+### drug=cefixime-trihydrate | section=precautions | lang=en
+Cefixime should be given with caution to patients who have shown hypersensitivity to other drugs. Cephalosporin should be given with caution to penicillin-sensitive patients, as there is some evidence of partial cross-allergenicity between the penicillins and the cephalosporins. Patients have had severe reactions (including anaphylaxis) to both classes of drugs. If an allergic effect occurs with Cefixime, the drug should be discontinued and the patient treated with appropriate agents if necessary. Cefixime should be administered with caution in patients with markedly impaired renal function. Treatment with broad spectrum antibiotics alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile is a primary cause of antibiotic-associated diarrhoea. Use in pregnancy and lactation: There are no adequate and well-controlled studies in pregnant women. Cefixime should therefore not be used in pregnancy or in nursing mothers unless considered essential by the physician.
+
+### drug=ceftriaxone-sodium | section=interaction | lang=bn
+ড্রাগ ইন্টার‌্যাকশনের কোন তথ্য পাওয়া যায়নি।
+
+### drug=ceftriaxone-sodium | section=precautions | lang=bn
+অন্যান্য সেফালোস্পরিন এন্টিবায়োটিকের ন্যায় সেফট্রায়াক্সন ব্যবহারের ফলে এনাফাইলেটিক শক হতে পারে। এনাফাইলেটিক শকের ক্ষেত্রে শিরাপথে এপিনেফ্রিন ও Glucocorticoid ক্রমান্বয়ে প্রয়োগ করতে হবে। কিছু কিছু বিরল ক্ষেত্রে সেফট্রায়াক্সন ব্যবহারকারীদের পিত্তথলি সনোগ্রাম করে "Shadows Suggesting Sludge" এর উপস্থিতি পাওয়া গেছে। কিন্তু উক্ত অবস্থায় সেফট্রায়াক্সন দ্বারা চিকিৎসা বন্ধ করে দেয়ার পর বা সেফট্রায়াক্সন দ্বারা চিকিৎসা শেষ হওয়ার পর স্বাভাবিক হয়ে যায়। উক্ত অবস্থার সাথে যদি ব্যথা হয় তবে কনজারভেটিভ ননসার্জিক্যাল ম্যানেজমেন্ট প্রয়োজন হবে। দীর্ঘদিন ধরে সেফট্রায়াক্সন দ্বারা চিকিৎসার সময় নিয়মিত ভাবে রক্তরসে সেফট্রায়াক্সনের ঘনত্ব পর্যবেক্ষেন করতে হবে ।
+
+### drug=ceftriaxone-sodium | section=special_populations | lang=bn
+অপূর্ণকালিক শিশু এবং নবজাতক (২৮ দিন বয়স পর্যন্ত) এর ক্ষেত্রে সেফট্রায়াক্সন প্রয়োগ করা উচিৎ নয়।
+
+### drug=ceftriaxone-sodium | section=interaction | lang=en
+No drug interactions have been reported.
+
+### drug=ceftriaxone-sodium | section=precautions | lang=en
+As with other cephalosporins, anaphylactic shock cannot be ruled out even if a thorough patient history is taken. Anaphylactic shock requires immediate countermeasures such as intravenous epinephrine followed by a glucocorticoid. In rare cases, shadows suggesting sludge have been detected by sonograms of the gallbladder. This condition was reversible on discontinuation or completion of Ceftriaxone therapy. Even if such findings are associated with pain, conservative, nonsurgical management is recommended. During prolonged treatment the blood picture should be checked at regular intervals.
+
+### drug=ceftriaxone-sodium | section=special_populations | lang=en
+Ceftriaxone must not be given to neonates if the neonates is premature and newborn (up to 28 days of age).
+
+### drug=cefuroxime-axetil | section=interaction | lang=bn
+শক্তিশালী ক্ষতিকারক কোন মিথষ্ক্রিয়া দেখা যায় নাই।
+
+### drug=cefuroxime-axetil | section=precautions | lang=bn
+যে সমস্থ রোগীর শক্তিশালী ডাইউরেটিক সেবন করছে অথবা যাদের কোলাইটিসের ইতিহাস আছে তাদের ক্ষেত্রে সেফিউরক্সিম সতর্কতার সাথে ব্যবহার করতে হবে। যদিও যে সব রোগী পেনিসিলিনের প্রতি অতি সংবেদনশীল তাদের ক্ষেত্রে সাধারণত সেফালোস্পোরিন ব্যবহার নিরাপদ যদিও ক্রস রিঅ্যাকশনের সম্ভাবনা থাকে। সাধারণত নির্ধারিত মাত্রায় সেফিউরক্সিম ব্যবহারে এই সমস্যা দেখা যায় না।
+
+### drug=cefuroxime-axetil | section=interaction | lang=en
+No potentially hazardous interactions have been reported.
+
+### drug=cefuroxime-axetil | section=precautions | lang=en
+Cefuroxime should be given with care to patients receiving concurrent treatment with potent diuretics & who has history of colitis. Cephalosporin antibiotics may in general be given safely to patients who are hypersensitive to penicillin although cross reactions have reported. Cefuroxime has shown, that is not likely to be a problem at the recommended to dose levels.
+
+### drug=dinoprostone | section=interaction | lang=bn
+ওষুধের সাথে
+: অক্সিটোসিক ওষুধের সাথে একযোগে ডাইনোপ্রোস্টোন ব্যবহার করার পরামর্শ দেওয়া হয় না, কারণ এটি তাদের কার্যকারিতা বাড়াতে পারে। অক্সিটোসিনের সফল ব্যবহারের জন্য ডিনোপ্রোস্টোন যোনি থেকে অপসারণের পর, কমপক্ষে ৩০ মিনিটের ডোজ ব্যবধানের পরামর্শ দেওয়া হয়। অন্যান্য ওষুধের সাথে কোন জানা মিথস্ক্রিয়া নেই।
+খাদ্য এবং অন্যদের সাথে
+: ডাইনোপ্রোস্টোন অ্যালকোহলের সাথে মিথস্ক্রিয়া ঘটায়। সুতরাং, ডাইনোপ্রোস্টোন ব্যবহার করার সময় অ্যালকোহল গ্রহণ করবেন না।
+
+### drug=dinoprostone | section=precautions | lang=bn
+ডায়নোপ্রোস্টোন জেল ব্যবহার করার সময় সতর্কতা অবলম্বন করা উচিত সেসব রোগীদের ক্ষেত্রে যাদের: হাইপারটোনাস, টেকসই জরায়ু সংকোচন বা ভ্রূণের যন্ত্রণা, হাইপারটোনিক জরায়ু সংকোচন বা টেটানিক জরায়ু সংকোচন, হাঁপানি, গ্লুকোমা, হৃদরোগ, বিষণ্নতা বিদ্যমান।
+
+### drug=dinoprostone | section=interaction | lang=en
+With Medicine
+: It is not advised to use Dinoprostone concurrently with oxytocic medications, since it may increase their action. For the successive use of oxytocin after removing the Dinoprostone vaginal insert, a dosage interval of at least 30 minutes is advised. There are no known interactions between other drugs.
+With Food and Others
+: Dinoprostone is known to interact with alcohol. So, do not consume alcohol while using Dinoprostone.
+
+### drug=dinoprostone | section=precautions | lang=en
+Caution should be exercised in administration of Dinoprostone Gel in patients with: Hypertonus, Sustained Uterine Contractility or Fetal Distress, Hypertonic Uterine Contractility or Tetanic Uterine Contractions, Asthma, Glaucoma, Heart Diseases, Depression.
+
+### drug=cholecalciferol-vitamin-d3 | section=interaction | lang=bn
+যেসব ওষুধ দ্বারা ভিটামিন ডি৩ এর শোষণ ও বিপাকে বাধা প্রদানের মাধ্যমে দেহে ভিটামিন ডি৩ এর ঘাটতি হয় সেসব ওষুধ হলো- ম্যাগনেসিয়াম সম্বলিত এন্টাসিড, ডিজোক্সিন, থায়াজাইড ডাইইউরেটিকস, কোলেস্টাইরামিন, কোলেষ্টিপল, ফিনাইটোয়িন, ফেনোবারবিটল, অরলিস্ট্যাট এবং মিনারেল অয়েল। এছাড়াও কর্টিকোস্টেরয়েড যেমন- প্রেডনিসোলোন দেহে ভিটামিন ডি৩ এর প্রয়োজনীয়তা বাড়ায়।
+
+### drug=cholecalciferol-vitamin-d3 | section=precautions | lang=bn
+অতিরিক্ত মাত্রার ভিটামিন ডি৩ সেবনকারী, কিডনীর জটিলতা সম্পন্ন, গর্ভাবস্থা এবং স্তন্যদানকারী মহিলাদের ক্ষেত্রে নির্দিষ্ট সময় অন্তর অন্তর সিরামে ক্যালসিয়াম এর মাত্রা পর্যবেক্ষণ করতে হবে। যেসব রোগী ডিজোক্সিন ও থায়াজাইড ডাইইউরেটিকস সেবন করে থাকেন তাদের ডাক্তারের পরামর্শ মতে ভিটামিন ডি৩ সেবন করা উচিত। যকৃৎ ও কিডনীর জটিলতা, প্রাইমারি হাইপারথাইরোয়েডিজম, লিমফোমা, টিউবারকিউলোসিস ও গ্র্যানুলোমেটাস এর মত রোগে আক্রান্ত রোগীদের ডাক্তারের পরামর্শ মতে ভিটামিন ডি৩ সেবন করা উচিত।
+
+### drug=cholecalciferol-vitamin-d3 | section=special_populations | lang=bn
+শিশুদের ক্ষেত্রে ব্যবহারঃ ১২ বছরের কম বয়সী শিশুদের ক্ষেত্রে ভিটামিন ডি৩ এর নিরাপত্তা ও কার্যকারিতা প্রতিষ্ঠিত হয়নি।
+
+### drug=cholecalciferol-vitamin-d3 | section=interaction | lang=en
+Drug interaction with medication
+: Concomitant treatment with phenytoin or barbiturates can decrease the effect of vitamin D because of metabolic activation. Concomitant use of glucocorticoids can decrease the effect of vitamin D. The effectsof digitalis and other cardiac glycosides may be accentuated with the oral administration of calcium combined with vitamin D. Strict medical supervision is needed and, if necessary monitoring of ECG and calcium. Simultaneous treatment with ion exchange resins such as cholestyramine or laxatives such as paraffin oil may reduce the gastrointestinal absorption of vitamin D. The cytotoxic agent actinomycin and imidazole antifungal agents interfere with vitamin D activity by inhibiting the conversion of 25-hydroxyvitamin D to 1, 25-dihydroxyvitamin D by the kidney enzyme, 25-hydroxyvitamin D-1-hydroxylase.
+
+### drug=cholecalciferol-vitamin-d3 | section=precautions | lang=en
+Plasma-calcium concentration should be monitored at intervals in patients receiving high doses of Vitamin D3, in renal impairment, and during pregnancy & lactation. People using Digoxin and Thiazide Diuretics should consult a health care practitioner before supplementing with Vitamin D3. People with liver or kidney disease, primary hyperthyroidism, lymphoma, tuberculosis and granulomatous disease should consult a health care practitioner before supplementing with Vitamin D3.
+
+### drug=ciprofloxacin | section=interaction | lang=bn
+ম্যাগনেসিয়াম/এ্যালুমিনিয়াম জাতীয় এন্টাসিড, সুক্রালফেট অথবা ক্যালসিয়াম, আয়রন এবং জিংক এর উপস্থিতি আছে এমন কোন ঔষধ সিপ্রোফ্লক্সাসিনের সাথে সেবনযোগ্য নয়। এগুলো সেবনের ছয় ঘন্টা পূর্বে অথবা দুই ঘন্টা পর সিপ্রোফ্লক্সাসিন সেবনযোগ্য। দুধ অথবা দুগ্ধজাত খাবারের সাথে সিপ্রোফ্লক্সাসিন সেবনযোগ্য নয়। কারণ এতে করে সিপ্রোফ্লক্সাসিন এর পরিশোষণ দারুণভাবে কমে যায়। খাদ্যের ক্যালসিয়াম সিপ্রোফ্লক্সাসিনের পরিশোষণকে প্রভাবিত করে না।
+
+### drug=ciprofloxacin | section=precautions | lang=bn
+যে সমস্ত রোগীর স্নায়ুতন্ত্রীয় অসুস্থতা যেমন: আর্টারিওসক্লেরোসিস অথবা এপিলেপসি অথবা সেইজর এবং খিঁচুনী হওয়ার সম্ভাবনা আছে এমন রোগীদের ক্ষেত্রে সিপ্রোফ্লক্সাসিন সাবধানতার সাথে দিতে হবে।
+সিপ্রোফ্লক্সাসিন আহারের পূর্বে অথবা পরে খাওয়া যায়, সাথে প্রচুর পানীয় নেয়া প্রয়োজন।
+ম্যাগনেসিয়াম / এলুমিনিয়াম এন্টাসিড, সুক্রালফেট অথবা ক্যালসিয়াম, আয়রণ এবং জিংক এর উপস্থিতি আছে এমন কোন ওষুধ সিপ্রোফ্লক্সাসিনের সাথে সেবনযোগ্য নয়। এগুলো সেবনের ছয় ঘন্টা পূর্বে অথবা দুই ঘন্টা পর সেবনযোগ্য।
+দুধ এবং দুগ্ধজাত পণ্য এর সাথে সিপ্রোফ্লক্সাসিন সেবনযোগ্য নয়। কারণ এতে করে সিপ্রোফ্লক্সাসিন এর শোষণ দারুণভাবে কমে যায়। খাদ্যের ক্যালসিয়াম সিপ্রোফ্লক্সাসিন এর শোষণকে প্রভাবিত করে না।
+
+### drug=ciprofloxacin | section=special_populations | lang=bn
+ক্লিনিক্যাল ট্রায়ালগুলিতে কার্যকর হলেও সিপ্রোফ্লক্সাসিন পেডিয়াট্রিক পপুলেশনে প্রথম পছন্দনীয় ঔষধ হিসেবে বিবেচিত নয়।
+
+### drug=ciprofloxacin | section=interaction | lang=en
+Concurrent administration of Ciprofloxacin should be avoided with Magnesium or Aluminum containing antacids or sucralfate or with other products containing Calcium, Iron or Zinc. These products may be taken two hours after or six hours before Ciprofloxacin. Ciprofloxacin should not be taken concurrently with milk or other dairy products, since absorption of Ciprofloxacin may be significantly reduced. Dietary calcium is a part of a meal, however, does not significantly affect the absorption of Ciprofloxacin.
+
+### drug=ciprofloxacin | section=precautions | lang=en
+It should be used with caution in patients with suspected or known CNS disorders such as arteriosclerosis or epilepsy or other factors which predispose to seizures and convulsion.
+Ciprofloxacin may be taken with or without meals and to drink fluids liberally.
+Concurrent administration of Ciprofloxacin should be avoided with magnesium / aluminium antacids, or sucralfate or with other products containing calcium, iron and zinc. These products may be taken two hours after or six hours before Ciprofloxacin.
+Ciprofloxacin should not be taken concurrently with milk or yogurt alone, since absorption of Ciprofloxacin may be significantly reduced. Dietary calcium is a part of a meal, however, does not significantly affect the Ciprofloxacin absorption.
+
+### drug=ciprofloxacin | section=special_populations | lang=en
+Although effective in clinical trials, Ciprofloxacin is not a drug of first choice in pediatric population.
+
+### drug=clindamycin | section=interaction | lang=bn
+ক্লিন্ডামাইসিন নিউরোমাসকুলার ব্লকিং ওষুধের কার্যকারিতা বৃদ্ধি করে। সেজন্য এ ধরণের ওষুধের সাথে ব্যবহারে সতর্কতা অবলম্বন করতে হবে। ল্যাবরেটরী পরীক্ষায় দেখা গিয়াছে যে, ক্লিন্ডামাইসিন ও ইরাইথ্রোমাইসিন পরষ্পরের কার্যকারিতা প্রতিহত করে। ক্লিনিক্যাল গুরুত্বের কথা বিবেচনা করে, এ দু'টি ওষুধ একসাথে ব্যবহার করা উচিত নয়।
+
+### drug=clindamycin | section=precautions | lang=bn
+যে রোগীদের পরিপাকতন্ত্রের রোগ বিশেষতঃ কোলাইটিস এর ইতিহাস রয়েছে তাদের ক্ষেত্রে ক্লিন্ডামাইসিন ব্যবহারে সতর্কতা অবলম্বন করতে হবে।
+
+### drug=clindamycin | section=special_populations | lang=bn
+নবজাতকের ও শিশুদের ক্ষেত্রে ব্যবহার
+: নবজাতক ও শিশুদের ক্ষেত্রে ক্লিন্ডামাইসিন এর ব্যবহারকালে বিভিন্ন অংগ ও তন্ত্রের স্বাভাবিক কার্যকারিতা যাচাই করা উচিত।
+বয়োঃবৃদ্ধদের ক্ষেত্রে ব্যবহার
+: বয়োঃবৃদ্ধদের ক্ষেত্রে ক্লিন্ডামাইসিন মাত্রা সমন্বয়ের প্রয়োজন নেই।
+
+### drug=clindamycin | section=interaction | lang=en
+Clindamycin enhances the action of other neuromuscular blocking agents. Therefore, it should be used with caution in patients receiving such agents. Antagonism has been demonstrated between clindamycin and erythromycin in vitro. Because of possible clinical significance, these two drugs should not be administered concurrently.
+
+### drug=clindamycin | section=precautions | lang=en
+Clindamycin should be prescribed with caution in individuals with a history of gastrointestinal disease, particularly colitis.
+
+### drug=clindamycin | section=special_populations | lang=en
+Use in newborns and infants
+: When Clindamycin is administered to newborns and infants (birth to 16 years), appropriate monitoring of organ system functions is desirable.
+Geriatric use
+: Dose adjustment of Clindamycin is not necessary.
+
+### drug=clotrimazole-vaginal-tablet | section=interaction | lang=bn
+কোন তথ্য পাওয়া যায়নি।
+
+### drug=clotrimazole-vaginal-tablet | section=interaction | lang=en
+No information is available.
+
+### drug=cyanocobalamin | section=interaction | lang=bn
+Absorption reduced by antibiotics, aminosalicylic acid, anticonvulsants, biguanides, cholestyramine, cimetidine, colchicine, K salts, methyldopa.
+
+### drug=cyanocobalamin | section=precautions | lang=bn
+Intensive treatment of B12-deficient megaloblastic anemia may cause hypokalemia and sudden death. Use with caution in patients with Leber optic nerve atrophy. Thrombocytosis may occur with treatment of severe vitamin B12 megaloblastic anemia
+
+### drug=cyanocobalamin | section=interaction | lang=en
+Absorption reduced by antibiotics, aminosalicylic acid, anticonvulsants, biguanides, cholestyramine, cimetidine, colchicine, K salts, methyldopa.
+
+### drug=cyanocobalamin | section=precautions | lang=en
+Intensive treatment of B12-deficient megaloblastic anemia may cause hypokalemia and sudden death. Use with caution in patients with Leber optic nerve atrophy. Thrombocytosis may occur with treatment of severe vitamin B12 megaloblastic anemia
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=precautions | lang=bn
+আপনি এই ট্যাবলেট শুরু করার আগে
+: কম্বাইন্ড পিল খাওয়া শুরু করার সময় যদি নিম্নে বর্ণিত যে কোন একটি অবস্থায় থাকেন তবে আপনার প্রতি বিশেষ নজর দেয়া উচিত। আপনার ডাক্তার বিষয়টির ভাল ব্যাখ্যা দিতে পারবেন। এই সব অবস্থায় আপনি থাকলে এই ট্যাবলেট শুরু করার পূর্বে ডাক্তারকে বিষয়টি খুলে বলুন।
+আপনি ধুমপান করেন;
+আপনার ডায়াবেটিস আছে;
+আপনার ওজন বেশী;
+আপনার উচ্চ রক্তচাপ আছে;
+আপনার হৃদপিন্ডের ভালভে জটিলতা আছে কিংবা হৃদস্পন্দনের সমস্যা আছে;
+আপনার শিরায় কোন প্রদাহ (সুপারফিসিয়াল ফ্লেবাইটিস) আছে;
+আপনার ভেরিকোজ ভেইন আছে;
+আপনার নিকট আত্মীয়ের কারো থ্রম্বসিস বা হার্ট এটাক আছে বা স্ট্রোক হয়েছিল;
+আপনার মাইগ্রেনের ব্যাথা আছে;
+আপনার মৃগি রোগ আছে;
+আপনি বা আপনার নিকট আত্মীয়ের কারো রক্তের কোলেষ্টেরল বা ট্রাইগ্লিসারাইড এর মাত্রা যথেষ্ট বেশী (চর্বিজাতীয় পদার্থ) আছে বা ছিল;
+আপনার নিকট আত্মীয়ের কারো স্তন ক্যান্সার ছিল;
+আপনার যকৃত (লিভার) বা পিত্ত থলির (গলব্লাডার) রোগ আছে;
+আপনার ক্রন্স ডিজিজ বা আলসারেটিভ কোলাইটিস (ক্রনিক ইনফ্লামেটরী বাওয়েল ডিজিজ) আছে;
+আপনার সিসটেমিক লুপাস এরিদম্যাটোসাস (এসএলই; সারা দেহের ত্বকের জটিলতা) আছে;
+আপনার হিমোলাইটিক ইউরেমিক সিন্ড্রোম (একটি রক্ত জমাট বাধাজনিত কিডনি ফেইলিওর রোগ) আছে;
+আপনার সিকল সেল ডিজিজ আছে;
+আপনার ক্লোসমা (ত্বকে, বিশেষ করে মুখে খয়েরী-হলুদাভ ছোপ) পূর্বে ছিল বা বর্তমানে আছে, যদি থাকে তবে উন্মুক্ত সূর্যালোকে যাবেন না বা অতিবেগুনী রেডিয়েশনের সম্মুখীন হবেন না।
+পিল খাবার সময় প্রথমবার উপরের যে কোন অবস্থায় আক্রান্ত হলে, আবার দেখা দিলে বা বেড়ে গেলে ডাক্তারের পরামর্শ নিন।
+পিল ও থ্রম্বসিস
+: থ্রম্বসিস হল রক্ত জমাট বেধে রক্তনালি বন্ধ হয়ে যাওয়া। পায়ের গভীর শিরায় কখনও থ্রম্বসিস দেখা যেতে পারে (ডিপ ভিনাস থ্রম্বসিস)। এই জমাট রক্তের টুকরো জমাট বাঁধার স্থান থেকে ভেঙে ফুসফুসে পৌঁছে ধমনীর গতিপথ বন্ধ করে দিতে পারে, এর ফলে তথাকথিত "পালমোনারী এম্বলিজম" এর সৃষ্টি হয়। ডিপ ভিনাস থ্রম্বসিস সচরাচর হয় না। এ অবস্থা আপনি পিল খান বা নাই খান হতে পারে। আপনি গর্ভবতী হলেও এ অবস্থা দেখা দিতে পারে। যারা পিল খান না তাদের চেয়ে যারা পিল খান তাদের এতে আক্রান্ত হওয়ার আশঙ্কা বেশি, কিন্তু গর্ভকালীন অবস্থার ঝুঁকির চেয়ে বেশি নয়।
+খুব অল্প ক্ষেত্রে রক্তের দানা বাঁধতে পারে হৃদপিন্ডের রক্তনালিতে (হৃদরোগ দেখা দেয়) বা মস্তিস্কে (এতে ষ্ট্রোক হয়)। যকৃতে, খাদ্যনালীতে, কিডনীতে ও চোখে রক্ত দানা বাঁধে না বললেই চলে।
+কদাচিৎ, থ্রম্বসিস ভয়াবহ দৈহিক অক্ষমতার সৃষ্টি করতে পারে, অনেক সময় তা মারাত্মকও হতে পারে।
+হার্ট এটাক বা স্ট্রোকের ঝুঁকি আরও বেড়ে যায় যখন আপনার বয়স বাড়তে থাকবে। এই ঝুঁকি আরও বাড়বে যদি আপনি ধূমপান করেন। আপনি পিল খেতে আরম্ভ করলে ধূমপান বন্ধ করুন, বিশেষ করে আপনার বয়স ৩৫ বৎসরের বেশি হয়ে গেলে।
+পিল খাওয়াকালীন আপনার উচ্চ রক্তচাপ দেখা দিলে আপনাকে পিল খাওয়া বন্ধ করতে বলা হতে পারে।
+আপনার অস্ত্রোপচার হলে বা আপনার পায়ে প্লাষ্টার বা স্প্লিন্ট বাঁধার কারণে চলাচলের অক্ষমতা হলে অস্থায়ীভাবে ডিপ ভিনাস থ্রম্বসিস হবার ঝুঁকি বাড়তে পারে। যে সকল মহিলা পিল খান, এসব জটিলতার ঝুঁকি আরও বেড়ে যেতে পারে। হাসপাতালে ভর্তি বা অস্ত্রোপচারের প্রয়োজন হলে পূর্বেই আপনার ডাক্তারকে জানান যে আপনি পিল খাচ্ছেন। আপনার ডাক্তার অস্ত্রোপচারের কয়েক সপ্তাহ আগে বা যখন আপনার চলাফেরা বন্ধ হবে তখন পিল খাওয়া বন্ধ করেও দিতে পারে।
+হাঁটাচলা আরম্ভ করার পর কখন আপনি আবার পিল খাওয়া আরম্ভ করবেন তা আপনার ডাক্তার আপনাকে বলে দেবেন।
+থ্রম্বসিস হওয়ার সম্ভাব্য সংকেতগুলি আপনার নজরে এলে পিল খাওয়া বন্ধ করুন ও সাথে সাথে ডাক্তারকে জানান।
+পিল ও ক্যান্সার
+: যে সকল মহিলা পিল খান তাদের স্তন ক্যান্সার হওয়ার সম্ভাবনা একই বয়সের যে সকল মহিলা পিল খান না তাদের চেয়ে কিছুটা বেশি। স্তন ক্যান্সার হওয়ার সম্ভাবনার হারের এই স্বল্প বৃদ্ধি পিল খাওয়া বন্ধ করার পর থেকে দশ বৎসরের মধ্যে চলে যায়। এই পার্থক্য পিল খাওয়ার কারণে কি না তা সঠিকভাবে জানা যায় নাই। এমনও হতে পারে যে মহিলাদের ঘন ঘন স্বাস্থ্য পরীক্ষা করা হয়, আর এই কারণে স্তন ক্যান্সার আগেই ধরা পড়ে।
+পিল ব্যবহারকারীদের মধ্যে অল্প কিছু অবস্থায় যকৃতের বিনাইন টিউমার এবং আরও বিরলভাবে ম্যালিগ্ল্যান্ট লিভার টিউমার দেখা দেয়। এই সকল টিউমারের কারণে আভ্যন্তরীণ রক্ত ক্ষরণ হতে পারে। আপনার পাকস্থলিতে তীব্র ব্যাথা হলে তৎক্ষণাৎ আপনার ডাক্তারের সাথে যোগাযোগ করুন।
+যে সব মহিলা দীর্ঘকাল পিল সেবন করেন তাদের সার্ভাইকাল ক্যান্সার হওয়ার সম্ভাবনা থাকতে পারে। তবে এই সকল ক্যান্সার পিল সেবনের কারণে না হয়ে যৌন আচরণ বা অন্য কোন কারণের জন্যও হতে পারে।
+পিল ও অন্যান্য ওষুধ
+: কোন কোন ওষুধ খেলে পিলের কার্যকারিতা নষ্ট হতে পারে। এ সকল ওষুধের মধ্যে মৃগী রোগে ব্যবহৃত ওষুধ, (যেমন- প্রিমিডোন, ফিনাইটইন, বার্বিচুরেট), যক্ষা (যেমন-রিফামপিসিন) এবং অন্য কিছু ছোঁয়াচে রোগের জন্য ব্যবহৃত এন্টিবায়োটিক (যেমন- এম্পিসিলিন, টেট্রাসাইক্লিন, গ্রিসিওফুলভিন)। যে ডাক্তার আপনাকে পিল খেতে বলেছেন তাকে বলুন আপনি সম্প্রতি কি ওষুধ খাচ্ছেন। অন্য কোন ডাক্তার বা ডেন্টিস্ট (বা ফার্মাসিস্ট) আপনাকে কোন ওষুধ দিলেও তাকে বলুন যে আপনি এই ট্যাবলেট খাচ্ছেন। আপনার অন্য কোন জন্মনিয়ন্ত্রণ ব্যবস্থা নেয়ার প্রয়োজন হবে কি না, হলে কতদিন, তা তারা আপনাকে জানাবেন।
+পিল ও গাড়ি চালনা
+: পিল খাওয়ার সাথে গাড়ি চালনায় কোন বিরূপ প্রভাব নেই।
+
+### drug=ethinyl-estradiol-desogestrel-003-mg | section=precautions | lang=en
+Before you start to use this tablet: If the combined Pill is used in the presence of any of the conditions listed below you may need to be kept under close observation. Your doctor can explain this to you. Therefore, if any of these apply to you, tell your doctor before starting to use this tablet
+you smoke;
+you have diabetes;
+you are overweight;
+you have high blood pressure;
+you have a heart valve disorder or a certain heart rhythm disorder;
+you have an inflammation of your veins (superficial phlebitis);
+you have varicose veins;
+anyone in your immediate family has had a thrombosis, a heart attack or a stroke;
+you suffer from migraine;
+you suffer from epilepsy;
+you or someone in your immediate family have or had high blood levels of cholesterol or triglycerides (fatty substances);
+anyone in your immediate family has had breast cancer;
+you have liver or gallbladder disease;
+you have Crohn's disease or ulcerative colitis (chronic inflammatory bowel disease);
+you have systemic lupus eryhematosus (SLE; a disease affecting the skin all over the body);
+you have haemolytic uraemic syndrome (HUS; a disorder of blood coagulation causing failure of the kidneys);
+you have sickle cell disease;
+you have or have had chloasma (yellowish-brown pigmentation patches on the skin, particularly of the face): if so, avoid too much exposure to the sun or ultraviolet radiation.
+If any of the above conditions appear for the first time, recur or worsen while using the Pill, you should contact your doctor.
+The Pill and Thrombosis
+: A thrombosis is the formation of a blood clot, which may block a blood vessel. A thrombosis sometimes occurs in the deep veins of the legs (deep venous thrombosis). If this blood clot breaks away from the veins where it is formed, it may reach and block the arteries of the lungs, causing a so-called "Pulmonary embolism." Deep venous thrombosis is a rare occurrence. It can develop whether or not you are taking the Pill. It can also happen if you become pregnant. The risk is higher in Pill-users than in non-users, but it is not as high as the risk during pregnancy.
+Blood clots can also occur very rarely in the blood vessels of the heart (causing a heart attack) or the brain (causing a stroke). Extremely rarely blood clots can occur in the liver, gut, kidney or eye.
+Very occasionally a thrombosis may cause serious permanent disabilities or may even be fatal.
+The risk of having a heart attack or stroke increases, as you get older. It also increases the more you smoke. When using the Pill you should stop smoking, especially if you are older than about 35 years of age.
+If you develop high blood pressure while using the Pill, you may be told to stop using it.
+The risk of having a deep venous thrombosis is temporarily increased as a result of an operation or immobilisation (for example, when you have your leg or legs in plaster or splints). In women who use the Pill, the risk may be yet higher. Tell your doctor you are using the Pill well in advance of any expected hospitalisation or surgery. Your doctor may tell you to stop taking the Pill several weeks before surgery or at the time of immobilisation. Your doctor will also tell you when you can start taking the Pill again after you are back on your feet. If you notice possible signs of a thrombosis, stop taking the Pill and consult your doctor immediately.
+The Pill and cancer
+: Breast cancer has been diagnosed, slightly more often in women who use the Pill than in women of the same age who do not use the Pill. This slight increase in the numbers of breast cancer diagnoses gradually disappears during the course of the 10 years after stopping use of the Pill. It is not known whether the difference is caused by the Pill. It may be that the women were examined more often, so that the breast cancer was noticed earlier. In rare cases benign liver tumours and even more rarely, malignant liver tumours have been reported in users of the Pill. These tumours may lead to internal bleeding. Contact your doctor immediately if you have severe pain in your stomach.
+Cervical cancer has been reported to occur more often in women using the Pill for a long time. This finding may not be caused by the Pill but may be related to sexual behaviour and other factors.
+The Pill and other Medicines
+: Some medicines may stop the Pill from working properly. These include medicines used for the treatment of epilepsy (eg. primidone, phenytoin, barbiturates) and tuberculosis (eg. rifampicin); and antibiotics (eg. ampcillin, tetracyclines, griseofulvin) for some other infectious diseases. Always tell the doctor, who prescribes the Pill, which medicines you are already using. Also tell any other doctor or dentist who prescribes another medicine (or the dispensing pharmacist) that you use this tablet. They can tell you if you need to take additional contraceptive precautions and if so, for how long.
+The Pill and Ability to Drive
+: There are no observed effects.
+
+### drug=dexamethasone | section=interaction | lang=bn
+ডাই-ইউরেটিকস বা কার্ডিয়াক গ্লুকোসাইডস এর সাথে একত্রে ব্যবহারে হাইপোক্যালেমিয়া হবার ঝুঁকি থাকে। অ্যান্টি-ডায়াবেটিক ওষুধের সাথে একত্রে ব্যবহারের ক্ষেত্রে এটি অ্যান্টি-ডায়াবেটিক ওষুধের চহিদা বাড়িয়ে দেয়। নন-স্টেরয়েডাল অ্যান্টি ইনফ্লামেটরী ওষুধের সাথে একত্রে ব্যবহারে পরিপাকতন্ত্রের আলসার হবার ঝুঁকি বাড়তে পারে। গ্লুকোকর্টিয়েড ওরাল এ্যান্টিকোয়াগুলেন্ট জাতীয় ওষুধের প্রয়োজনীয়তার পরিবর্তন করতে পারে। লিভার এনজাইম জনিত ওষুধ যেমন- রিফামপিসিন, এফেড্রিন, বারবিচুরেটস, ফিনাইটোইন এবং প্রিমিডোন প্রভৃতি ওষুধের সাথে একত্রে ব্যবহারকালে এর কার্যকারিতা কমে যেতে পারে। স্যালিসাইলেটের সাথে দীর্ঘমেয়াদী সেবনের ক্ষেত্রে সাবধানতার সাথে গ্লুকোকর্টিয়েডের মাত্রা কমাতে হবে। কারণ এ সকল ক্ষেত্রে স্যালিসাইলেট বিষক্রিয়ার তথ্য পাওয়া গেছে। ম্যাগনেশিয়াম ট্রাইসিলিকেট জাতীয় এন্টাসিড পরিপাকতন্ত্রে গ্লুকোকর্টিয়েডের শোষণকে ব্যহত করে। তাই একত্রে ব্যবহারের ক্ষেত্রে দুটি ওষুধের মাত্রার মধ্যে যথেষ্ট ব্যবধান রাখতে হবে।
+
+### drug=dexamethasone | section=special_populations | lang=bn
+শিশুদের ক্ষেত্রে ব্যবহার
+: ন্যূনতম কার্যকরী মাত্রায় ব্যবহার্য।
+
+### drug=dexamethasone | section=interaction | lang=en
+Diuretics and/or cardiac glycosides, since potassium loss may be enhanced.This is a particular risk in patients using cardiac glycosides; since hypokalaemia increases the toxicity of these drugs.
+Antidiabetics, since glucocorticoids may impair glucose tolerance, thereby increasing the need for antidiabetic drugs.
+Non-steroidal anti-inflammatory drugs, since the incidence and/or severity of gastro-intestinal ulceration may increase.
+Oral anti-coagulants since glucocorticoids may alter the need for these drugs.
+Glucocorticoids may be less effective when used concomitantly with liver enzyme inducing drugs,such as rifampicin, ephedrine, barbiturates, phenytoin and primidone.
+If patients undergoing long-term therapy with glucocorticoids are concomitantly given salicylates, any reduction in glucocorticoid dosage should be made with caution, since salicylate intoxication has been reported in such cases.
+Antacids;especially those containing magnesium trisilicate,have been reported to impair the gastro-intestinal absorption of glucocorticoids. Therefore, doses of one agent should be spaced as far as possible from the other.
+
+### drug=dexamethasone | section=precautions | lang=en
+General
+: The lowest possible dose of corticosteroids should be used to control the condition under treatment.The reduction should be gradual.
+Cardio-renal
+: These agents should be used with caution in patients with congestive heart failure,hypertension, or renal insufficiency.
+Endocrine
+: Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
+Gastrointestinal
+: Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
+Musculoskeletal
+: Special consideration should be given to patients at increased risk of osteoporosis (e.g.,postmenopausal women) before initiating corticosteroid therapy.
+Neuro-psychiatric
+: An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with myasthenia gravis or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium). Psychic derangements may appear ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations.
+
+### drug=dexamethasone | section=special_populations | lang=en
+In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
+
+### drug=diazepam | section=interaction | lang=bn
+এলকোহলের সাথে ডায়াজিপাম এর ব্যবহার নির্দেশিত নয়। স্নায়ুতন্ত্রীয় ওষুধ, হিপনােটিক, নিদ্রা উদ্রেককারী এন্টিহিস্টামিন এবং কেন্দ্রীয় স্নায়ুতন্ত্র অবসাদকারী ওষুধের সাথে ডায়াজিপাম এর ব্যবহারে নিদ্রালুতা বৃদ্ধি পেতে পারে। ফেনােবারবিটোন ডায়াজিপাম এর নিঃসরণ বৃদ্ধি করে এবং সিমেটিডিন হ্রাস করে। ওমিপ্রাজল এবং আইসােনিয়াজাইড ডায়াজিপাম এর বিপাক ক্রিয়ায় বাঁধা প্রদান করে।
+
+### drug=diazepam | section=precautions | lang=bn
+দীর্ঘদিন ব্যবহার এবং হঠাৎ ওষুধ বন্ধ করে দেয়া থেকে বিরত থাকতে হবে। যেসব রােগীর যকৃতের সমস্যা আছে বা কিডনির সমস্যা আছে, মাংশপেশীর দুর্বলতা, এলকোহলের অপব্যবহার কিংবা শ্বাসযন্ত্রের রােগ আছে সে সকল ক্ষেত্রে ডায়াজিপাম ব্যবহার করা যাবে না।
+
+### drug=diazepam | section=interaction | lang=en
+Concomitant intake with alcohol is not recommended. Sedation may be increased due to concomitant use of neuroleptics (antipsychotics), hypnotics, sedative antihistamines and CNS depressants e.g., general anesthetics, narcotic analgesics or antidepressants. Diazepam clearance is increased by concomitant administration of phonobarbitone and is decreased by administration of cimetidine. Omeprazole and isoniazide inhibit diazepam metabolism.
+
+### drug=diazepam | section=precautions | lang=en
+Prolonged use and abrupt withdrawal should be avoided. Diazepam should be used with caution in respiratory disease, muscle weakness, history of drug or alcohol abuse, in hepatic or renal impairment.
+

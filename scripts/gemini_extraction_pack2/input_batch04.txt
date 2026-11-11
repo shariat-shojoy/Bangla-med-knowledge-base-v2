@@ -1,0 +1,310 @@
+### drug=diclofenac-sodium | section=precautions | lang=bn
+পেপটিক আলসার অথবা পরিপাকতন্ত্রের রক্তক্ষরণ হচ্ছে এমন রোগীদের ক্ষেত্রে সতর্কতার সাথে ব্যবহার করা উচিত। বেশি বয়স্ক রোগীদের ক্ষেত্রেও সতর্কতার সাথে ব্যবহার করা উচিত। চোখ অথবা মিউকাস মেমব্রেনকে আরডন জেল এর সংস্পর্শে আনা যাবে না। প্রয়োগের পর হাত ভাল করে ধুয়ে নিতে হবে। মুখে সেবন করা অনুচিত।
+
+### drug=diclofenac-sodium | section=interaction | lang=en
+Diclofenac Sodium may have the following drug interactions:
+Lithium and digoxin
+: Diclofenac may increase plasma concentrations of lithium and digoxin.
+Anticoagulants
+: There are isolated reports of an increased risk of haemorrhage with the combined use of diclofenac and anticoagulant therapy, although clinical investigations do not appear to indicate any influence on anticoagulant effect.
+Antidiabetic agents
+: Clinical studies have shown that diclofenac can be given together with oral antidiabetic agents without influencing their clinical effect.
+Cyclosporin
+: Cases of nephrotoxicity have been reported in patients receiving cyclosporin and diclofenac concomitantly.
+Methotrexate
+: Cases of serious toxicity have been reported when methotrexate and NSAIDs are given within 24 hours of each other.
+Quinolone antimicrobials
+: Convulsions may occur due to an interaction between quinolones and NSAIDs.
+Therefore, caution should be exercised when considering concomitant therapy of NSAID and quinolones.
+Other NSAIDs and steroids
+: Co-administration of diclofenac with other systemic NSAIDs and steroids may increase the frequency of unwanted effects. With aspirin, the plasma levels of each is lowered, although no clinical significance is known.
+
+### drug=diclofenac-sodium | section=precautions | lang=en
+In rare instances where peptic ulceration or gastrointestinal bleeding occurs in patients under treatment with Diclofenac. In patients with advanced age should be kept under close observation. Diclofenac Sodium Gel should not be allowed to come in contact with the eyes or mucus membranes, after application the hands should be washed properly and not to be taken by mouth.
+
+### drug=doxycycline-hydrochloride | section=interaction | lang=bn
+এলুমিনিয়াম, ক্যালসিয়াম, ম্যাগনেসিয়াম সমৃদ্ধ এন্টাসিড কিংবা আয়রণ সমৃদ্ধ প্রিপারেশন এর কারণে টেট্রাসাইক্লিনের শােষণ ব্যহত হতে পারে। এছাড়াও বিসমাথ স্যালিসাইলেট এর কারণেও এর শােষণ ব্যহত হতে পারে। বারবিচুরেটস, কার্বামাজেপাইন এবং ফেনাইটয়েন; ডক্সিসাইক্লিনের হাফ-লাইফ কমিয়ে দেয়। টেট্রাসাইক্লিনের উপুর্যপুরি ব্যবহার ওরাল কন্ট্রাসেপটিভের কার্যকারিতা কমিয়ে দেয়। এন্টিকোয়াগুলেন্ট থেরাপীর অন্তর্গত রােগীদের ক্ষেত্রে নিম্নমুখী ডােজ সমন্বয়ের প্রয়ােজন হতে পারে। পেনিসিলিন এর সাথে টেট্রাসাইক্লিন না দেয়াই উত্তম।
+
+### drug=doxycycline-hydrochloride | section=precautions | lang=bn
+শিশুদের (গর্ভাবস্থার শেষার্ধ, শৈশবকাল এবং ৮ বছরের কম বয়স্ক শিশু) দাঁতের গঠনের সময় টেট্রাসাইক্লিন এর ব্যবহারে স্থায়ীভাবে দাঁতের রং পরিবর্তন হতে পারে। তাই এই সময় টেট্রাসাইক্লিন ব্যবহার করা উচিত নয়।
+
+### drug=doxycycline-hydrochloride | section=interaction | lang=en
+Absorption of tetracyclines is impaired by antacid containing aluminium, calcium or magnesium, and iron containing preparation. Absorption of tetracyclines is also impaired by bismuth salicylate. Barbiturates, carbamazepine and phenytoin decrease half-life of doxycycline. Concurrent use of tetracyclines may render oral contraceptive less effective. Patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosages. It is advisable to avoid giving tetracyclines in conjunction with penicillin.
+
+### drug=doxycycline-hydrochloride | section=precautions | lang=en
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of teeth. Tetracyclines drugs, therefore should not be used in this age group.
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=interaction | lang=bn
+ইথিনাইলইস্ট্রাডিওল এর সাথে অন্যান্য ড্রাগ এর ইন্টারঅ্যাকশান সেরাম এ ইথিনাইলইস্টাডিওল এর পরিমাণ কমিয়ে অথবা বাড়িয়ে দিতে পারে। সেরাম এ ইথিনাইলইন্ট্রাডিওল এর পরিমাণ কমে গেলে মাসিকের সমস্যা হবার প্রবণতা অনেক বেড়ে যাবে এবং এতে করে জন্মনিয়ন্ত্রণ পিলের কার্যকারিতা কমে যেতে পারে। যেসব ড্রাগ সেরাম এ ইথিনাইলইস্ট্রাডিওল এর পরিমাণ কমিয়ে দিতে পারে তাদের মধ্যে আছে- রিফাম্পিসিন, ফিনাইটয়েন, প্রিমিডন, রিফাবিউটিন, ডেক্সামিথাসন, গ্রাইসিওফালভিন, টপিরামেট, কিছু প্রটিয়েস ইনহিবিটর, মোডাফিনিল, রিটনাভির এবং বারবিচুরেটস। কিছু অ্যান্টিবায়োটিক যেমন অ্যাম্পিসিলিন, অন্যান্য পেনিসিলিন এবং টেট্রাসাইক্লিন জন্মনিয়ন্ত্রণ ট্যাবলেট এর কার্যকারিতা কমিয়ে দিতে পারে। এই ট্যাবলেট এবং অন্যান্য ড্রাগ এর (যা সেরাম এ ইথিনাইলইস্ট্রাডিওল এর পরিমাণ কমিয়ে দিতে পারে) একসাথে ব্যাবহার এর ক্ষেত্রে এই ট্যাবলেট এর নিয়মিত গ্রহণের সাথে সাথে ব্যাক-আপ হিসেবে নন-হরমোনাল জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করতে নির্দেশ দেয়া হয়।
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=precautions | lang=bn
+যদি কোন মহিলার সারকুলেটরী ডিজঅর্ডার (যেমন- মায়োকার্ডিয়াল ইনফ্রাকশন, ডীপ ভেনাস থ্রম্বোসিস, পালমোনারী ইম্বোলিজম এবং সেরেব্রোভাস্কুলার অ্যাকসিডেন্ট) বা অন্যান্য রিস্ক ফ্যাক্টর উপস্থিত থাকে তাহলে তার ক্ষেত্রে কম্বাইন্ড পিল এর উপকারিতা ও ক্ষতির সম্ভাবনা বিবেচনা করে পিল শুরুর পূর্বেই তাকে জানানো উচিৎ। পিল গ্রহণের পর যদি সারকুলেটরী ডিজঅর্ডার বা অন্যান্য রিস্ক ফ্যাক্টর এর অবস্থা আরও খারাপ হয় তাহলে তাৎক্ষণিকভাবে ডাক্তার এর সাথে যোগাযোগ করতে হবে। এরপর পিল গ্রহণ বন্ধ হবে কিনা তা ডাক্তার সিদ্ধান্ত নিবে।
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=special_populations | lang=bn
+বাচ্চাদের ক্ষেত্রে ব্যবহার
+: এই ট্যাবলেট শুধুমাত্র মাসিকের পর নির্দেশিত। মাত্রা সমন্বয়ের জন্য কোন ডাটা প্রস্তাবিত হয়নি।
+বরস্কাদের ক্ষেত্রে ব্যবহার
+: এই ট্যাবলেট ম্যানোপজের পর নির্দেশিত নয়।
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=interaction | lang=en
+Interactions between ethinylestradiol and other drugs may lead to decreased or increased ethinylestradiol concentrations, respectively. Decreased ethinylestradiol serum concentrations may cause an increased incidence of breakthrough bleeding and menstrual irregularities and may possibly reduce efficacy of the oral contraceptive. Example of substances that may decrease serum ethinylestradiol concentrations include rifampicin, phenytoin, primidone, rifabutin, dexamethasone, griseofulvin, topiramate, some protease inhibitors, modafinil, ritonavir and barbiturates. Certain antibiotics including ampicillin, other penicillins and tetracyclines may reduce the efficacy of oral contraceptives. During concomitant use of this tablet & other drugs that may lead to decreased ethinylestradiol serum concentrations, it is recommended that a non hormonal back-up method of contraception to be used in addition to the regular intake of this tablet.
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=precautions | lang=en
+If any circulatory disorder (like- myocardial infarction, deep venous thrombosis, pulmonary embolism, cerebrovascular injury etc) or other risk factors(like smoking, obesity, hypertension, dyslipidemia, migraine, atrial fibrillation etc) are present, the benefits of COC use should be weighed against the possible risks for each individual woman and discussed with the woman before she decides to start using it. In the event of aggravation, exacerbation or first appearance of any of these conditions or risk factors after taking pill, the woman should contact with her physician. The physician should then decide on whether its use should be discontinued.
+
+### drug=drospirenone-ethinyl-estradiol-002-mg | section=special_populations | lang=en
+Pediatric Use: This is only indicated after menarche. There is no data suggesting the need for a dosage adjustment.
+Use in the Elderly: This is not indicated after menopause.
+
+### drug=dydrogesterone | section=interaction | lang=bn
+কোন ওষুধের সাথে প্রতিক্রিয়া সংক্রান্ত গবেষণা পরিচালিত হয় নি।
+
+### drug=dydrogesterone | section=precautions | lang=bn
+অস্বাভাবিক রক্তপাতের জন্য ডাইড্রোজেস্টেরন দিয়ে চিকিৎসা শুরু করার আগে রক্তপাতের কারণ চিহ্নিত করা উচিত। যদি থেরাপির কিছু সময় পরে ব্রেকথ্রু রক্তপাত অথবা ছোপ ছোপ দেখা দেয়, বা চিকিৎসা বন্ধ হওয়ার পরেও চলতে থাকে, তাহলে কারণটি খুঁজে বের করা উচিত, যার মধ্যে এন্ডোমেট্রিয়াল ম্যালিগন্যান্সি বাদ দিতে এন্ডোমেট্রিয়াল বায়োপসি করা যেতে পারে।
+যদি নিম্নলিখিত সমস্যাগুলির মধ্যে যে কোন একটি প্রথমবার ব্যবহার করার সময় ঘটে বা অবস্থা খারাপ হয়ে যায়, তাহলে চিকিৎসা নেওয়া বিরত রাখতে হবে।
+রক্তচাপ বৃদ্ধি চিহ্নিত
+গুরুতর মাথাব্যথা, মাইগ্রেন বা লক্ষণ যা সেরিব্রাল ইস্কেমিয়া নির্দেশ করতে পারে।
+শিরাস্থ থ্রম্বো এম্বোলিজমের ঘটনা (ভিটিই)
+হ্যাবিচুয়াল বা থ্রেটেড গর্ভপাতের ক্ষেত্রে, ভ্রূণের জীবনীশক্তি নিশ্চিত করা উচিত। গর্ভাবস্থা বজায় রয়েছে কিনা এবং ভ্রূণ বেঁচে আছে কিনা তা চিকিৎসার সময় পর্যবেক্ষণ করাও প্রয়োজন। ডাইড্রোজেস্টেরন দ্বারা চিকিৎসা মাঝে মাঝে লিভারের কার্যকারিতা পরিবর্তন করতে পারে, কখনও কখনও যা ক্লিনিক্যাল লক্ষণ প্রদর্শন করে। তাই লিভারের অসুখ রয়েছে বা লিভারের অসুখ ছিল এমন রোগীদের লিভার ফাংশন পরীক্ষাগুলি স্বাভাবিক অবস্থায় ফিরে না আসা পর্যন্ত ডাইড্রোজেস্টেরন সতর্কতার সঙ্গে ব্যবহার করা উচিত। গুরুতর হেপাটিক বৈকল্যের রোগীদের ক্ষেত্রে চিকিৎসা বন্ধ করা উচিত।
+বিষন্নতায় আক্রান্ত রোগীদের অবশ্যই সাবধানে পর্যবেক্ষণ করা উচিত: যদি গুরুতর বিষন্নতার পুনরাবৃত্তি হয়, তবে ডাইড্রোজেস্টেরন দিয়ে চিকিৎসা বন্ধ করতে হবে।
+
+### drug=dydrogesterone | section=interaction | lang=en
+No interaction studies have been performed.
+
+### drug=dydrogesterone | section=precautions | lang=en
+Before initiating dydrogesterone treatment for abnormal bleeding the etiology for the bleeding should be clarified. Breakthrough bleeding and spotting may occur during the first months of treatment. If breakthrough bleeding or spotting appears after some time on therapy, or continues after treatment has been discontinued, the reason should be investigated, which may include endometrial biopsy to exclude endometrial malignancy.
+If one of the following disorders occurs during use for the first time or gets worse, stopping the treatment should be considered.
+Severe headache, migraine or symptoms that may indicate cerebral ischemia.
+Marked increase in blood pressure.
+Occurrence of venous thromboembolism (VTE)
+In cases of habitual or threatened abortion, the viability of the fetus should be ascertained. It is also necessary to monitor during treatment whether the pregnancy is still progressing and whether the embryo is still alive. Treatment with dydrogesterone has infrequently been associated with alterations in liver function, sometimes accompanied by clinical symptoms. Thus, dydrogesterone should be used with caution in patients with acute liver disease or a history of liver disease as long as liver function tests have failed to return to normal. In cases of severe hepatic impairment treatment should be discontinued.
+Patients with a history of depression must be carefully monitored; if severe depression recurs, treatment with dydrogesterone must be stopped.
+
+### drug=iron-sucrose | section=interaction | lang=bn
+আয়রণ সুক্রোজের সাথে অন্য ওষুধের কোন প্রতিক্রিয়া রয়েছে কিনা তা এখনো পর্যবেক্ষণ করা হয়নি। তবে আয়রণ সুক্রোজ কোন সেব্য আয়রণ ওষুধের সাথে ব্যবহার করা উচিত নয়। আয়রণ ইঞ্জেক্‌শন দেয়ার পরবর্তীতে ৫ দিনের মধ্যে সেব্য আয়রণ ব্যবহার করা উচিত নয়।
+
+### drug=iron-sucrose | section=precautions | lang=bn
+সাধারণ
+: যেহেতু শরীর থেকে আয়রণ নিঃসরণ সীমিতভাবে হয় এবং অতিরিক্ত আয়রণ শরীরের জন্য ঝঁকিপূর্ণ, তাই আয়রণের প্রয়োগের থেকে সতর্কতা অবলম্বন করা উচিত। যে সকল রোগী আয়রণ চিকিৎসা গ্রহণ করছে তাদের হিমাটোলাজিক ও হেমাটিনিক পরিমাপক (হিমোগোবিন, হিমাটোক্রিট, ওসরাম ফেরিটিন এবং ট্রান্সফেরিন সম্পৃক্তি) মাত্রা নির্ণয় করে নেয়া উচিত। রোগীর শরীরে আয়রণ অতিরিক্ত মাত্রায় থাকলে আয়রণের চিকিৎসা স্থগিত করতে হবে। শিরাপথে আয়রণের ব্যবহারের ফলে শরীরে ট্রান্সফেরিন সম্পৃক্তি এর মান দ্রুতই বেড়ে যায়। এজন্য রক্তরসে আয়রণের মান শিরাপথে প্রয়োগের ৪৮ ঘন্টার মধ্যে পাওয়া যায়।
+অতি সংবেদনশীল প্রতিক্রিয়া
+: আয়রণ সুক্রোজের ফলে অতি সংবেদনশীল প্রতিক্রিয়া দুর্লভ। তবে কিছু ক্ষেত্রে পরিমিত মাত্রার অতিসংবেদনশীল প্রতিক্রিয়া দেখা গেছে।
+নিম্ন রক্তচাপ
+: শিরাপথে আয়রণ গ্রহন করছে এমন হিমোডায়ালাইসিস রোগীদের ক্ষেত্রে নিম্ন রক্তচাপ প্রায়ই লক্ষ্য করা গেছে। নিম্ন রক্তচাপ সম্ভবত আয়রণ সুক্রোজ প্রয়োগ ও তার মাত্রার উপর নির্ভরশীল। নির্দেশিকা অনুযায়ী সাবধানতা অবলম্বন করা উচতি।
+
+### drug=iron-sucrose | section=special_populations | lang=bn
+শিশুদের ক্ষেত্রে
+: শিশুদের ক্ষেত্রে আয়রণ সুক্রোজ ব্যবহারে নিরাপত্তা ও কার্যকারিতা এখনো প্রতিষ্ঠিত নয়।
+বয়স্কদের ক্ষেত্রে
+: তরুণ এবং বয়ঃবৃদ্ধদের মাঝে নিরাপত্তাজনিত কোন পার্থক্য লক্ষ্য করা যায়নি এবং প্রকাশিত ক্লিনিক্যাল অভিজ্ঞতাগুলোতেও তরুণ ও বৃদ্ধদের মাঝে এর প্রভাবের কোন পার্থক্য চিহ্নিত হয়নি। কিন্তু কিছু বৃদ্ধরোগীদের ক্ষেত্রে এর অধিক সংবেদনশীলতা ব্যখ্যা করা যায়নি।
+ডায়ালাইজারের ক্ষেত্রে ইঞ্জেক্‌শন
+: আয়রণ সুক্রোজ ইঞ্জেক্‌শন ডায়ালাইজারের ভেনাস শিরাপথে ইঞ্জেকশনের মত একই শর্তে সরাসরি প্রয়োগ করা যায়।
+হিমোডায়ালাইসিস নির্ভর দীর্ঘস্থায়ী বৃক্কের রোগে আক্রান্ত রোগী
+: আয়রণ সুক্রোজ ইঞ্জেক্‌শন দ্রবীভূত না করে ১০০ মি.গ্রা. ধীর গতিতে শিরাপথে সরাসরি ইঞ্জেক্‌শন হিসেবে ২ থেকে ৫ মিনিট অথবা ইনফিউশন আকারে ১০০ মি.গ্রা., সর্বোচ্চ ১০০ মি.লি. ০.৯% ডবিউ/ ভি সোডিয়াম ক্লোরাইড এর মধ্যে মিশ্রিত করে কমপক্ষে ১৫ মিনিট সময় ধরে প্রতি ডায়ালাইসিস-এর সময় সর্বমোট ১০০০ মি.গ্রা. মাত্রায় প্রয়োগ করা যায়।
+ডায়ালাইসিস অনির্ভর দীর্ঘস্থায়ী বৃক্কের রোগে আক্রান্ত রোগী
+: আয়রণ সুক্রোজ ইঞ্জেক্‌শন ২০০ মি.গ্রা. শিরাপথে ধীরগতিতে ইঞ্জেক্‌শন হিসেবে ২ থেকে ৫ মিনিট সময় নিয়ে ৫ বারে সর্বমোট ১০০০ মি.গ্রা. ১৪ দিনের মধ্যে প্রয়োগ করতে হবে।
+পেরিটোনিয়াল ডায়ালাইসিস নির্ভর দীর্ঘস্থায়ী বৃক্কের রোগে আক্রান্ত রোগী
+: আয়রণ সুক্রোজ ইঞ্জেক্‌শন সর্বমোট ১০০০ মি.গ্রা. ৩টি বিভক্ত মাত্রায় ইনফিউশন হিসেবে ২৮ দিনের মধ্যে প্রয়োগ করতে হবে: ৩০০ মি.গ্রা. এর ২টি ইনফিউশন (১.৫ ঘন্টার মধ্যে) ১৪ দিনের মধ্যে এবং ৪০০ মি.গ্রা. এর ইনফিউশন ২.৫ ঘন্টাব্যাপী ১৪ দিন পরে দিতে হবে। আয়রণ সুক্রোজ ইঞ্জেক্‌শন-এর মাত্রা সর্বোচ্চ ২৫০ মি.লি. ০.৯% সোডিয়াম ক্লোরাইড এর মধ্যে দ্রবিভূত করা উচতি।
+বি:দ্র: আয়রণ সুক্রোজ অন্যান্য ওষুধ অথবা শিরাপথে ব্যবহারের জন্য পুষ্টি জাতীয় ইনফিউশনের সাথে মিশ্রণীয় নয়। শিরাপথে ব্যবহারের জন্য ওষুধ প্রয়োগের পূর্বে এর রং পরিবর্তন ও ভিতরে কোন ক্ষুদ্র কণিকা আছে কিনা তা ভালভাবে দেখে নেয়া উচিত।
+
+### drug=iron-sucrose | section=interaction | lang=en
+Drug-drug interactions involving Iron Sucrose have not been studied. Iron Sucrose Injection should not be administered concomitantly with oral iron preparations since the absorption of oral Iron is reduced. Even oral Iron therapy should not be given until 5 days after last injection.
+
+### drug=iron-sucrose | section=precautions | lang=en
+General
+: Because body Iron excretion is limited and excess tissue Iron can be hazardous, caution should be exercised to withhold Iron administration in the presence of evidence of tissue Iron overload. Patients receiving Iron Sucrose require periodic monitoring of hematologic and haematinic parameters (hemoglobin, hematocrit, serum ferritin and transferrin saturation). Iron therapy should be withheld in patients with evidence of Iron overload. Transferrin saturation values increase rapidly after IV administration of Iron Sucrose; thus, serum Iron values may be reliably obtained 48 hours after IV dosing.
+Hypersensitivity Reactions
+: Serious hypersensitivity reactions have been rarely reported in patients receiving Iron Sucrose. Several cases of mild or moderate hypersensitivity reactions were observed in these studies.
+Hypotension
+: Hypotension has been reported frequently in hemodialysis patients receiving intravenous Iron. Hypotension following administration of Iron Sucrose may be related to rate of administration and total dose administered. Caution should be taken to administer Iron Sucrose according to recommended guidelines.
+
+### drug=iron-sucrose | section=special_populations | lang=en
+Pediatric Use
+: Safety and effectiveness of Iron Sucrose in pediatric patients have not been established.
+Geriatric Use
+: No overall differences in safety were observed between the elder subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Injection into dialyser
+: Iron Sucrose Injection may be administered directly into the venous limb of the dialyser under the same conditions as for intravenous injection.
+Hemodialysis Dependent-Chronic Kidney Disease Patients (HDD-CKD)
+: Iron Sucrose Injection may be administered undiluted as a 100 mg slow intravenous injection over 2 to 5 minutes or as an infusion of 100 mg, diluted in a maximum of 100 ml of 0.9% NaCI over a period of at least 15 minutes per consecutive hemodialysis session for a total cumulative dose of 1,000 mg.
+Non-Dialysis Dependent-Chronic Kidney Disease Patient (NDD-CKD)
+: Iron Sucrose Injection is administered as a total cumulative dose 1000 mg over a 14 day period as a 200 mg slow IV injection undiluted over 2 to 5 minutes on 5 different occasions within the 14 day period.
+
+### drug=enalapril-maleate | section=interaction | lang=bn
+Combination with other antihypertensive agents such as beta-blockers, methyldopa, calcium antagonists, and diuretics may increase the antihypertensive efficacy. Adrenergic - blocking drugs should only be combined with Enalapril under careful supervision, Concomitant propranolol may reduce the bioavailability of Enalapril, but this does not appear to be of any clinical significance. Plasma potassium usually remains within normal limits, although cases of hyperkalaemia have been reported. If Enalapril is given with potassium losing diuretic, the likelihood of diuretic-induced hypokalaemia may be lessened. Enalapril may elevate plasma potassium levels in patients with renal failure. Potassium supplements, potassium-containing saft substitutes are not recommended, particularly in patients with impaired renal function, since they may lead to significant increases in plasma potassium.
+
+### drug=enalapril-maleate | section=precautions | lang=bn
+Pretreatment assessment of renal function: Assessment of renal function prior to initiation of therapy, and during treatment where appropriate. Symptomatic hypotension was seen rarely in uncomplicated hypertensive patients. It has been reported mainly in patients with severe heart failure and who have been volume-depleted by diuretic therapy. By initiating therapy with a small dose (2.5 mg Enalapril) the duration of any hypotensive effect may be lessened.
+Similar considerations in terms of initiating therapy with a small dose may apply also to patients with ischaemic heart or cerebrovascular disease in whom severe hypotension could result in a myocardial infarct or cerebrovascular accident. Severe hypotension has been reported, mainly in patients with severe heart failure with or without associated renal insufficiency. This is most likely in those patients on high doses of loop diuretics, or with hyponatraemia or functional renal impairment. The appearance of hypotension after the initial dose of Enalapril does not preclude subsequent careful dose titration with the drug after effective management of the hypotention.
+Impaired renal function
+: Enalapril should be used with caution in patients with renal insufficiency as they may require reduced or less frequent doses. As with all antihypertensive agents, renal function should be assessed in patients with hypertension or congestive heart failure before initiating therapy. Angioneurotic oedema has been reported with angiotensin-converting enzyme inhibitors, including Enalapril. In such cases, Enalapril should be discontinued immediately and appropriate monitoring should be instituted to ensure complete resolution of symptoms prior to dismissing the patient.
+Haemodialysis patients
+: A high incidence of anaphylactoid reactions have been reported in patients dialyzed with high flux membranes (e.g., AN 69) and treated concomitantly with an ACE inhibitor. This combination should therefore be avoided.
+Cough
+: Cough has been reported with the use of ACE inhibitors. Characteristically, the cough is non-productive, persistent and resolves after discontinuation of therapy.
+Surgery/Anaesthesia
+: In patients undergoing major surgery or during anaesthesia with agents that produce hypotension. Enalapril blocks angiotensin II formation secondary to compensatory renin release. This may lead to hypotension which can be corrected by volume expansion. Enalapril should not be used in patients with aortic stenosis or outflow obstruction.
+
+### drug=enalapril-maleate | section=interaction | lang=en
+Combination with other antihypertensive agents such as beta-blockers, methyldopa, calcium antagonists, and diuretics may increase the antihypertensive efficacy. Adrenergic - blocking drugs should only be combined with Enalapril under careful supervision, Concomitant propranolol may reduce the bioavailability of Enalapril, but this does not appear to be of any clinical significance. Plasma potassium usually remains within normal limits, although cases of hyperkalaemia have been reported. If Enalapril is given with potassium losing diuretic, the likelihood of diuretic-induced hypokalaemia may be lessened. Enalapril may elevate plasma potassium levels in patients with renal failure. Potassium supplements, potassium-containing saft substitutes are not recommended, particularly in patients with impaired renal function, since they may lead to significant increases in plasma potassium.
+
+### drug=enalapril-maleate | section=precautions | lang=en
+Pretreatment assessment of renal function: Assessment of renal function prior to initiation of therapy, and during treatment where appropriate. Symptomatic hypotension was seen rarely in uncomplicated hypertensive patients. It has been reported mainly in patients with severe heart failure and who have been volume-depleted by diuretic therapy. By initiating therapy with a small dose (2.5 mg Enalapril) the duration of any hypotensive effect may be lessened.
+Similar considerations in terms of initiating therapy with a small dose may apply also to patients with ischaemic heart or cerebrovascular disease in whom severe hypotension could result in a myocardial infarct or cerebrovascular accident. Severe hypotension has been reported, mainly in patients with severe heart failure with or without associated renal insufficiency. This is most likely in those patients on high doses of loop diuretics, or with hyponatraemia or functional renal impairment. The appearance of hypotension after the initial dose of Enalapril does not preclude subsequent careful dose titration with the drug after effective management of the hypotention.
+Impaired renal function
+: Enalapril should be used with caution in patients with renal insufficiency as they may require reduced or less frequent doses. As with all antihypertensive agents, renal function should be assessed in patients with hypertension or congestive heart failure before initiating therapy. Angioneurotic oedema has been reported with angiotensin-converting enzyme inhibitors, including Enalapril. In such cases, Enalapril should be discontinued immediately and appropriate monitoring should be instituted to ensure complete resolution of symptoms prior to dismissing the patient.
+Haemodialysis patients
+: A high incidence of anaphylactoid reactions have been reported in patients dialyzed with high flux membranes (e.g., AN 69) and treated concomitantly with an ACE inhibitor. This combination should therefore be avoided.
+Cough
+: Cough has been reported with the use of ACE inhibitors. Characteristically, the cough is non-productive, persistent and resolves after discontinuation of therapy.
+Surgery/Anaesthesia
+: In patients undergoing major surgery or during anaesthesia with agents that produce hypotension. Enalapril blocks angiotensin II formation secondary to compensatory renin release. This may lead to hypotension which can be corrected by volume expansion. Enalapril should not be used in patients with aortic stenosis or outflow obstruction.
+
+### drug=enoxaparin-sodium | section=interaction | lang=bn
+যে সমস্ত উপাদান রক্তরণের ঝুঁকি বৃদ্ধি করে ইনোক্সাপারিন সোডিয়াম ইঞ্জেকশন ব্যবহারের পূর্বে সেগুলো বন্ধ করা উচিত, যদি না সেগুলো অপরিহার্য হয়। এ সমস্ত ওষুধগুলো হচ্ছে, এন্টিকোয়াগুলেন্ট, পাটিলেট ইনহিবিটর যেমন- এসিটাইল সেলিসাইলিক এসিড, সেলিসাইলেটস, এনএসআইডি সমূহ (কিটোরোলাক ট্রোমিথামিনসহ), ডাইপাইরিডামল অথবা সালফিনপাইরাজোন। যদি একত্রে ব্যবহার আবশ্যিক হয় তবে রোগীদের ক্লিনিক্যাল এবং ল্যাবরেটরী অনুসন্ধানের মাঝে রাখতে হবে।
+
+### drug=enoxaparin-sodium | section=special_populations | lang=bn
+বয়ষ্কদের ক্ষেত্রে
+: মাত্রা সংশোধনের প্রয়োজন নেই, যদি না বৃক্কের অসমকার্যকারিতা বিদ্যমান থাকে। শিশুদের ক্ষেত্রে: শিশুদের ক্ষেত্রে এনোক্সাপ্যারিনের সহনীয়তা এবং কার্যকারিতা সুপ্রতিষ্ঠিত নয়।
+বৃক্কের অসমকার্যকারিতা ক্ষেত্রে
+: মাঝারী (ক্রিয়েটিনিন ক্লিয়ারেন্স ৩০-৫০ মি.লি./ মি.) এবং মৃদু (ক্রিয়াটিনিন ক্লিয়ারেন্স ৫০-৮০ মি.লি./মি.) বৃক্কের অসমকার্যকারিতায় কোন প্রকার মাত্রা সংশোধনের প্রয়োজন নাই। কিন্তু এ ধরনের রোগীদের রক্তপাতের লক্ষণ ও উপসর্গ চিহ্নিত করার জন্য সাবধানতার সাথে পর্যবেক্ষণ করতে হবে। মারাত্মক (ক্রিয়েটিনিন ক্লিয়ারেন্স ৩০ মি.লি./মি.) বৃক্কের অসমকার্যকারিতায় সংশোধিত প্রতিষেধক মাত্রা ২০০ আই ইউ দিনে এক বার এবং থেরাপিউটিক মাত্রা ১০০ আই ইউ / কে. জি. দিনে এক বার।
+যকৃতের অসমকার্যকারিতা ক্ষেত্রে
+: যকৃতের অসমকার্যকারিতা রগীদের ক্ষেত্রে সাবধানতা অবলম্বন করা উচিত।
+
+### drug=enoxaparin-sodium | section=interaction | lang=en
+It is recommended that agents which affect hemostasis should be discontinued prior to Enoxaparin Sodium therapy unless strictly indicated. These agents include medications such as: acetylsalicylic acid (and derivatives), NSAIDs (including ketorolac), ticlopidine,clopidogrel,dextran 40,glucocorticoids, thrombolytics and anticoagulants, other antiplatelet aggregation agents including glycoprotein llb/llla antagonists. If the combination is indicated, should be used with careful clinical and laboratory monitoring.
+
+### drug=enoxaparin-sodium | section=precautions | lang=en
+Enoxaparin Sodium should be injected by deep subcutaneous route in prophylactic and curative treatment and by intravascular route during hemodialysis. Do not administer by the intramuscular route. Enoxaparin Sodium should be used with caution in conditions with increased potential for bleeding, such as impaired hemostasis, history of peptic ulcer, recent ischemic stroke, uncontrolled severe arterial hypertension, diabetic retinopathy and recent neuro- or ophthalmologic surgery, concomitant use of medications affecting hemostasis. It is recommended that the platelet counts be measured before the initiation of the treatment and regularly thereafter during treatment.
+
+### drug=enoxaparin-sodium | section=special_populations | lang=en
+Dose in Elderly Patients
+: No dosage adjustment is necessary, unless kidney function is impaired.
+Dose in Renal Impairment
+: Although no dosage adjustment is recommended in patients with moderate (creatinine clearance: 30-50 ml/min) and mild (creatinine clearance: 50 80 ml/min) renal impairment, all such patients should be observed carefully for signs and symptoms of bleeding. For patients with severe (creatinine clearance <30 ml/min) renal impairment, following dosage adjustments are recommended: Prophylactic dose ranges: 2000 antiXa IU once daily; Therapeutic dose ranges: 100 anti-Xa lU/kg once daily.
+Dose in Hepatic Impairment
+: Caution should be used in hepatically impaired patients.
+
+### drug=ergometrine-maleate | section=interaction | lang=bn
+Halothane causes relaxation of uterine muscle and may interfere with ergometrine action. Enhanced uterotonic effect with prostaglandins and oxytocin. Concurrent admin with CYP3A4 inhibitors may lead to vasospasm, cerebral ischaemia and/or ischaemia of extremities.
+
+### drug=ergometrine-maleate | section=precautions | lang=bn
+Breech and abnormal foetal presentation; hypertension; chronic anaemia; hepatic, renal, respiratory or cardiac impairment; toxemia; lactation; hypocalcaemia. Monitor BP, pulse and uterine response.
+
+### drug=ergometrine-maleate | section=interaction | lang=en
+Halothane causes relaxation of uterine muscle and may interfere with ergometrine action. Enhanced uterotonic effect with prostaglandins and oxytocin. Concurrent admin with CYP3A4 inhibitors may lead to vasospasm, cerebral ischaemia and/or ischaemia of extremities.
+
+### drug=ergometrine-maleate | section=precautions | lang=en
+Breech and abnormal foetal presentation; hypertension; chronic anaemia; hepatic, renal, respiratory or cardiac impairment; toxemia; lactation; hypocalcaemia. Monitor BP, pulse and uterine response.
+
+### drug=erythromycin-oral | section=interaction | lang=bn
+থিওফাইলিন, কার্বামাজেপিন, ডিগক্সিন, ওয়ারফেরিন এবং আরগোটামিন।
+
+### drug=erythromycin-oral | section=precautions | lang=bn
+ইরাইথ্রোমাইসিন যেহেতু যকৃতের মাধ্যমে নিঃসারিত হয়, সেহেতু যকৃতের অকার্যকারিতায় ইহা সতর্কতায় সহিত প্রয়োগ করা উচিত।
+
+### drug=erythromycin-oral | section=interaction | lang=en
+Recent data from studies of erythromycin reveals that its use in patients who are receiving high dosage of theophylline may be associated with an increase of serum theophylline levels and potential theophylline toxicity. In such cases this dose of theophylline should be reduced.
+
+### drug=erythromycin-oral | section=precautions | lang=en
+Erythromycin should be given with care in patients with impaired hepatic function, as erythromycin is excreted principally in the bile.
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=interaction | lang=bn
+With medicine
+: Drugs or herbal products that induce certain enzymes, including CYP3A4 may decrease the effectiveness of COCs or increase breakthrough bleeding. Counsel patients to use a back-up method or alternative method of contraception when enzyme inducers are used with COCs.
+With food and other
+: It is recommended to avoid caffeine, dairy foods, phytic acid containing food while taking the drug.
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=precautions | lang=bn
+Thrombotic disorder and other vascular problems: Stops this pill if a thrombotic disorder occurs. Stop at least 4 weeks before through 2 weeks after major surgery. Start no earlier than 4 weeks after delivery in women who are not breastfeeding
+Liver disease: Discontinue this pill if jaundice occurs
+High blood pressure: If used in women with well-controlled hypertension, monitor blood pressure and stop this pill if blood pressure rises significantly
+Carbohydrate and lipid metabolic effects: Monitor prediabetic and diabetic women taking this pill. Consider an alternative contraceptive method for women with uncontrolled dyslipidemia
+Headache: Evaluate significant change in headaches and discontinue this pill if indicated
+Bleeding irregularities and amenorrhea: Evaluate irregular bleeding or amenorrhea
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=special_populations | lang=bn
+Safety and efficacy of this pill have been established in women of reproductive age. Efficacy is expected to be the same in post-pubertal adolescents under the age of 18 years as for users 18 years and older. Use of this product before menarche is not indicated.
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=interaction | lang=en
+With medicine
+: Drugs or herbal products that induce certain enzymes, including CYP3A4 may decrease the effectiveness of COCs or increase breakthrough bleeding. Counsel patients to use a back-up method or alternative method of contraception when enzyme inducers are used with COCs.
+With food and other
+: It is recommended to avoid caffeine, dairy foods, phytic acid containing food while taking the drug.
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=precautions | lang=en
+Thrombotic disorder and other vascular problems: Stops this pill if a thrombotic disorder occurs. Stop at least 4 weeks before through 2 weeks after major surgery. Start no earlier than 4 weeks after delivery in women who are not breastfeeding
+Liver disease: Discontinue this pill if jaundice occurs
+High blood pressure: If used in women with well-controlled hypertension, monitor blood pressure and stop this pill if blood pressure rises significantly
+Carbohydrate and lipid metabolic effects: Monitor prediabetic and diabetic women taking this pill. Consider an alternative contraceptive method for women with uncontrolled dyslipidemia
+Headache: Evaluate significant change in headaches and discontinue this pill if indicated
+Bleeding irregularities and amenorrhea: Evaluate irregular bleeding or amenorrhea
+
+### drug=ethinyl-estradiol-levonorgestrel-ferrous-fumarate | section=special_populations | lang=en
+Safety and efficacy of this pill have been established in women of reproductive age. Efficacy is expected to be the same in post-pubertal adolescents under the age of 18 years as for users 18 years and older. Use of this product before menarche is not indicated.
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=interaction | lang=bn
+টেট্রাসাইক্লাইন এবং আয়রন একত্রে চিলেট ফর্ম করে। যেহেতু মুখে সেবনযোগ্য আয়রন ওরাল টেট্রাসাইক্লিন অ্যান্টিবায়োটিক এর শোষণে বাঁধা সৃস্টি করে, তাই এই দুটি ঔষধ একত্রে দুই ঘন্টার মধ্যে নেওয়া উচিৎ নয়। মাঝে মাঝে খাবার গ্রহণের মাধ্যমে গ্যাস্ট্রোইনটেস্টাইনাল অস্বস্তি হ্রাস করা যেতে পারে। পেনিসিলামাইন এবং অ্যান্টাসিড একযোগে গ্রহণের ফলে আয়রনের শোষণ ক্ষতিগ্রস্থ হতে পারে। বৃক্কীয় অকার্যকর রোগীদের মধ্যে শরীরে জিংক জমে যাওয়ার ঝুঁকি থাকতে পারে।
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=precautions | lang=bn
+যে সকল রোগীদের আয়রন ওভারলোড হতে পারে, যেমন হেমোক্রোম্যাটোসিস, হেমোলাইটিক অ্যানিমিয়া বা রেড সেল এপ্ল্যাসিয়া রয়েছে তাদের ব্যাপারে সতর্ক থাকা উচিৎ। চিকিৎসায় কার্যকারিতার অভাব রক্তস্বল্পতার অন্যান্য কারণগুলি নির্দেশ করতে পারে এবং এ বিষয়ে আরও পর্যবেক্ষণ করার প্রয়োজন হতে পারে।
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=interaction | lang=en
+Iron chelates with tetracycline. Since oral iron products interfere with absorption of oral tetracycline antibiotics, this product should not be taken within two hours of each other. Occasional gastrointestinal discomfort may be minimized by taking with meals. Absorption of iron may be impaired by concurrent administrations of penicillamine and antacid. In patients with renal failure, a risk of zinc accumulation may exist.
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate | section=precautions | lang=en
+Care should be taken in patients who may develop iron overload, such as those with haemochromatosis, haemolytic anemia or red cell aplasia. Failure to respond to treatment may indicate other causes of anemia and should be further investigated.
+
+### drug=ferrous-fumarate-folic-acid | section=interaction | lang=en
+The absorption of iron salts and tetracycline is diminished when they are taken concomitantly by mouth. If treatment with both drug is required, the iron salt should be administered 3 hours before or 2 hours after the tetracycline. The absorption of iron salts is also decreased in the presence of antacids or when taken with tea. Iron salts appear to reduce the effects of penicillamine. Co-trimoxazole may inhibit megaloblastic haemopoiesis. Serum anticonvulsant levels may be reduced by administration of folate.
+
+### drug=ferrous-fumarate-folic-acid | section=precautions | lang=en
+Administration of Irolic during the first trimester of pregnancy may be undesirable. Very few pregnant women are not protected by physiological doses of folic acid. If anaemia is developed despite prophylaxis with Irolic, patient should be investigated further. Some post-gastrectomy patient show poor absorption of Fe. Care is needed when treating patients with peptic ulcer.
+
+### drug=ferrous-sulfate | section=interaction | lang=en
+Absorption of iron salt and Tetracycline is diminished when taken concomitantly by mouth. If treatment with both drugs is required iron salt should be given 3 hours before or 2 hours after Tetracycline. Absorption of iron is also decreased in the presence of antacids or when taken with tea.
+
+### drug=ferrous-sulfate | section=precautions | lang=en
+Should be administered with caution when given to patients with iron storage or iron absorption disease, haemoglobinopathies or existing gastrointestinal disease.
+
+### drug=ferrous-sulfate-folic-acid | section=precautions | lang=bn
+লৌহ এন্টাসিড ও টেট্রাসাইক্লিনের সাথে চিলেট গঠন করে, ফলে একই সময় সেবনে সবগুলোর শোষণ ব্যাহত হয়। অবশ্য গর্ভকালীন সময়ে টেট্রাসাইক্লিনের ব্যবহার প্রতি নির্দেশিত হয়ে থাকে।
+
+### drug=ferrous-sulfate-folic-acid | section=interaction | lang=en
+The absorption of both iron salts and tetracyclines is diminished when they are taken concomitantly by mouth. The absorption of iron salts may also be decreased by magnesium trisilicate-containing antacid.
+
+### drug=ferrous-sulfate-folic-acid | section=precautions | lang=en
+Iron chelates with antacid and tetracycline and absorption of all these may be impaired if taken concurrently. However, the administration of tetracycline during pregnancy is contraindicated.
+
+### drug=fluconazole | section=interaction | lang=bn
+সাইক্লোস্পোরিন বা ফিনায়টোয়েন-এর সাথে ফ্লুকোনাজলের যুগপৎ ব্যবহারে সাইক্লোস্পোরিন বা ফিনায়টোয়েনের প্লাজমা ঘনত্ব বৃদ্ধি পায়। ওয়ারফেরিনের সাথে যুগপৎ ব্যবহারে প্রোথ্রম্বিন সময় বৃদ্ধি পায়। রিফামপিসিনের সাথে যুগপৎ ব্যবহারে রিফামপিসিনের প্লাজমা ঘনত্ব হ্রাস পায়।
+
+### drug=fluconazole | section=precautions | lang=bn
+প্রো-এরিদমিক রোগীদের ক্ষেত্রে ফ্লুকোনাজল ব্যবহারে সতর্কতা অবলম্বন করতে হবে।
+
+### drug=fluconazole | section=interaction | lang=en
+In an interaction study, fuconazole increased the prothombin time after warfarin administration in healthy males. Though the magnitude of change was small (12%) careful monitoring of prothombin time in patients receiving coumarin type anticoagulants is recommended.
+Fluconazole has been shown to prolong the serum half-life of concomitantly administed oral sulphonyl ureas (chlorpropamide, gilbenclamide, glipizide and tolbutamide) in healthy volunteers. Fluconazole and oral sulphonylureas may be co-administered to diabetic patients, but the possibility of a hypoglycemic episode should be borne in mind.
+In a kinetic interaction study, co-administration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fuconazole increased plasma concentrations of fuconazole by 40%. An efect of this magnitude should not necessitate a change in the fuconazole dose regimen in subjects recieving concomitant diureties, although the prescribers should bear it in mind.
+Concomitant administration of fuconazole and phenytoin may increase the level of phenytoin to a clinically signifcant degree. Administration of fuconazole and rifampicin has resulted in a 25% decrease in the AUC and 20% shorter half-life of fuconazole. Patients recieving concomitant rifampicin, an increase in the fuconazole dose should be considered.
+Two kinetic studies with combined oral contraceptive have been performed using muitiple dose of fuconazole. There were no relevant efects on either hormone level in the 50 mg fuconazole study, while at 200 mg daily the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 4% respectively. Thus multipule dose use of fuconazole at these dose is unlikely to have an efect on the efcacy of the combined oral contraceptives. Fluconazole 50 mg daily does not afect endogenous steroid levels in females. 200-400 mg daily has no clinically singnifcant efect on endogenous steroid levels or on ACTH stimulated response in healthy male volunteers.
+A kinetic study in renal transplant patients found fuconazole 200 mg daily to slowly increase cyclosporin concentrations. However, in another multiple dose study with 100 mg daily, fuconazole did not afect cyclosporin levels in patients with bone marrow transplants. Cyclosporin plasma concentration monitoring in patients receiving fuconazole is recommended.
+Interaction studies have shown that when oral fuconazole is co-administered with food. cemetidine, antacids or following total body irradiation for bone marrow transplantation, no clinically signifcant impairment of fuconazole absorption occurs.
+In placebo-controlled interaction study, the administration of fuconazole 200mg for 14 days resulted in an 18% decrease, in the mean plasma clearance of theophyline, Patients who are receiving dose of theophyline or who are otherwise at increased risk for theophyline toxicity should be observed for sign of toxicity while receiving fuconazole, and the therapy modifed appropriately if sign of toxicity while receiving fuconazole, and the therapy modifed appropriately if sign of toxicity develop.
+Physicians should be aware that drug-drug interaction studies with other medications have not been conducted, but that such interactions may occur.
+
+### drug=fluconazole | section=precautions | lang=en
+in some patients, particularly those with serious underlying diseases such as AIDS and cancer, abnormalities of hepatic, renal, haematological and other biochemical function tests have been observed during treatment with fuconazole, but the clinical signifcance and relationship to treatment is uncertain.
+Very rarely. patients who died with severe underlying disease and who had received multiple dose fuconazole, had post-mortem fndings which included hapatic necrosis. These patients were receiving multiple concomitant medications, some known to be potentially hepatotoxic, and/or had underlying diseases, which could have caused the hepatic necrosis. Consequently, because a causal relationship with fuconazole cannot be excluded, the risk-beneft ratio of continued fuconazole treatment should be assessed in those patients in whom a signifcant rise of liver enzymes occurs.
+Patients have rarely developed exfoliative cutaneous reactions, such pa Stevens Johnson Syndrome and toxic epidermal necrolysis, during treatment with fuconazole. AIDS patients are more prone to the development of severe cutaneous reactions to many drugs.
+If a rash develops in a patients treated for a superfaclal fungal infection which is considered attributable to fuconazole further therapy with this agent should be discontinued. In patients with invasive/ systemic fungal infections who develop rashes, they should be monitored closely and fuconazole should be discontinued if bolbous lesions or erythema multiform develop.
+Use during lactation: Fluconazole is found in human breast milk at concentrations similar to plasma. hence its use in nursing mothers is not recommended.
+Driving/Use of machinery: Experience with fuconazole indicates that therapy a unlikely to impair a patient's ability to drive or use machinery.
+
+### drug=fluconazole | section=special_populations | lang=en
+Use in the elderly: The normal dose should be used if there is no evidence of renal impairment. In patients with renal impairment, (creatinine clearance less than 40 ml/min) the dosage intervales or orally dosage should be adjusted as described below.
+Use in renal impairment: Fluconazole is excreted predominantly in the urine as unchanged drug. No adjustments in single dose therapy are required. In multiple dose therapy of patients with renal impairment, normal dose should be given on days 1 and 2 of treatment and thereafter the dosage intervals or daily dosage should be modifed in accordance with creatinine clearance as follows.
+CrCl >40: Dosage interval 24 hours (normal dosage regimen)
+CrCl 21-40: Dosage interval 48 hours or half normal daily dose
+CrCl 10-20: Dosage interval 72 hours or one-third normal daily dose
+Patients receiving regular haemodialysis: One dose after every dialysis session
+

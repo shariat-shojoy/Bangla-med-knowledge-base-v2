@@ -1,0 +1,111 @@
+drug,lang,section,relation,object,strength,status,context_or_condition,evidence_span
+misoprostol,en,indications,INDICATED_FOR,Prophylaxis of gastric and duodenal ulceration,,stated,,Prophylaxis of gastric and duodenal ulceration in NSAID users
+misoprostol,en,indications,INDICATED_FOR,Healing of established NSAID- induced gastric and duodenal damage,,stated,,Healing of established NSAID- induced gastric and duodenal damage.
+misoprostol,en,indications,INDICATED_FOR,Healing of gastric and duodenal ulcers,,stated,,Healing of gastric and duodenal ulcers in the absence of NSAID therapy.
+misoprostol,en,indications,INDICATED_FOR,Induction of labor,,stated,,Induction of labor.
+misoprostol,en,indications,INDICATED_FOR,Prevention and treatment of postpartum hemorrhage,,stated,,Prevention and treatment of postpartum hemorrhage.
+misoprostol,en,indications,,,,,,
+misoprostol,en,contraindications,USE_IN,anyone with a history of allergy to prostaglandins,contraindicated,negated,,Misoprostol is contraindicated to anyone with a history of allergy to prostaglandins
+misoprostol,en,contraindications,USE_IN,pregnancy,contraindicated,negated,,it is also contraindicated in pregnancy.
+misoprostol,en,contraindications,,,,,,
+misoprostol,en,contraindications,,,,,,
+misoprostol,en,contraindications,,,,,,
+misoprostol,en,contraindications,,,,,,
+misoprostol,en,pregnancy_lactation,USE_IN,women who are pregnant,contraindicated,negated,,"Because of the abortifacient property of the Misoprostol component, it is contraindicated in women who are pregnant."
+misoprostol,en,pregnancy_lactation,USE_IN,women of childbearing potential,should not be used,negated,,It should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-inflammatory drug (NSAID) therapy
+misoprostol,en,pregnancy_lactation,TRANSFERS_TO,milk,,stated,,Excretion of the active metabolite (Misoprostol acid) into milk is possible
+misoprostol,en,pregnancy_lactation,CAUSES,serious adverse reactions in nursing infants,,stated,,potential for serious adverse reactions in nursing infants
+misoprostol,en,pregnancy_lactation,USE_IN,nursing mothers,not recommended,negated,,it is not recommended for use by nursing mothers.
+misoprostol,en,pregnancy_lactation,,,,,,
+misoprostol,en,precautions,USE_IN,women who are pregnant,contraindicated,negated,,Misoprostol is contraindicated in women who are pregnant
+misoprostol,en,precautions,USE_IN,women of child bearing potential,should not be used,negated,,should not be used in women of child bearing potential unless the patient requires NSAID therapy.
+misoprostol,en,precautions,USE_IN,acute fetal distress,contraindicated,negated,,Induction of labor is contraindicated in acute fetal distress
+misoprostol,en,precautions,USE_IN,abruptio placenta,contraindicated,negated,,abruptio placenta
+misoprostol,en,precautions,USE_IN,placenta previa,contraindicated,negated,,placenta previa
+misoprostol,en,precautions,USE_IN,unexplained vaginal bleeding,contraindicated,negated,,unexplained vaginal bleeding.
+misoprostol,en,special_populations,USE_IN,children below the age of 18 years,not established,negated,,Safety and effectiveness of Misoprostol in children below the age of 18 years have not been established.
+misoprostol,en,special_populations,,,,,,
+misoprostol,en,special_populations,,,,,,
+misoprostol,en,special_populations,,,,,,
+misoprostol,en,special_populations,,,,,,
+misoprostol,en,special_populations,,,,,,
+misoprostol,bn,indications,INDICATED_FOR,গ্যান্ত্রিক এবং ডিওডেনাল আলসার প্রতিরোধে,,stated,,গ্যান্ত্রিক এবং ডিওডেনাল আলসার প্রতিরোধে।
+misoprostol,bn,indications,INDICATED_FOR,পাকস্থলী ও ডিওডেনামের ক্ষয়ের নিরাময়ে,,stated,,এনএসএআইডি জনিত পাকস্থলী ও ডিওডেনামের ক্ষয়ের নিরাময়ে
+misoprostol,bn,indications,INDICATED_FOR,গ্যাট্রিক ও ডিওডেনাল আলসার এর নিরাময়ে,,stated,,"এনএসএআইডি থেরাপির অনুপস্থিতিতে যে গ্যাট্রিক ও ডিওডেনাল আলসার হয়, তার নিরাময়ে"
+misoprostol,bn,indications,INDICATED_FOR,প্রসবের সূচনাকল্পে,,stated,,প্রসবের সূচনাকল্পে
+misoprostol,bn,indications,INDICATED_FOR,পোস্টপার্টাম হেমোরেজ প্রতিরোধ ও চিকিৎসায়,,stated,,পোস্টপার্টাম হেমোরেজ প্রতিরোধ ও চিকিৎসায়।
+misoprostol,bn,indications,,,,,,
+misoprostol,bn,contraindications,USE_IN,"প্রোস্টাগ্ল্যানডিনের প্রতি অ্যালার্জির ইতিহাস রয়েছে, এমন রোগীদের",প্রতিনির্দেশিত,negated,,"প্রোস্টাগ্ল্যানডিনের প্রতি অ্যালার্জির ইতিহাস রয়েছে, এমন রোগীদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত"
+misoprostol,bn,contraindications,USE_IN,গর্ভাবস্থায়,প্রতিনির্দেশিত,negated,,গর্ভাবস্থায়ও ইহা প্রতিনির্দেশিত।
+misoprostol,bn,contraindications,,,,,,
+misoprostol,bn,contraindications,,,,,,
+misoprostol,bn,contraindications,,,,,,
+misoprostol,bn,contraindications,,,,,,
+misoprostol,bn,pregnancy_lactation,USE_IN,গর্ভবতী মহিলাদের,প্রতিনির্দেশিত,negated,,গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত।
+misoprostol,bn,pregnancy_lactation,USE_IN,গর্ভবতী হতে পারে এমন মহিলাদের,ব্যবহার করা উচিত নয়,negated,,গর্ভবতী হতে পারে এমন মহিলাদের ক্ষেত্রেও এটা ব্যবহার করা উচিত নয়
+misoprostol,bn,pregnancy_lactation,TRANSFERS_TO,বুকের দুধের,,negated,,বুকের দুধের মাধ্যমে নিঃসৃত হওয়া সম্ভব কিনা এখনও গবেষণা করা হয়নি।
+misoprostol,bn,pregnancy_lactation,CAUSES,মারাত্মক প্রতিক্রিয়া,,stated,,নবজাতকদের ক্ষেত্রে মারাত্মক প্রতিক্রিয়া ঘটাতে পারে
+misoprostol,bn,pregnancy_lactation,USE_IN,স্তন্যদায়ী মায়েদের,প্রযোজ্য নয়,negated,,স্তন্যদায়ী মায়েদের ক্ষেত্রেপ্রযোজ্য নয়।
+misoprostol,bn,pregnancy_lactation,,,,,,
+misoprostol,bn,precautions,USE_IN,গর্ভবতী মহিলাদের,প্রতিনির্দেশিত,negated,,গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত
+misoprostol,bn,precautions,USE_IN,শিশু জন্মদানে সক্ষম মহিলাদের,ব্যবহার করা উচিত নয়,negated,,শিশু জন্মদানে সক্ষম মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল ব্যবহার করা উচিত নয়
+misoprostol,bn,precautions,USE_IN,একিউট ফিটাল ডিসট্রেস,প্রতিনির্দেশিত,negated,,"একিউট ফিটাল ডিসট্রেস, ... প্রসবের সূচনাকরণ প্রতিনির্দেশিত।"
+misoprostol,bn,precautions,USE_IN,এ্যাবরাপশিও প্লাসেন্টা,প্রতিনির্দেশিত,negated,,"এ্যাবরাপশিও প্লাসেন্টা, ... প্রসবের সূচনাকরণ প্রতিনির্দেশিত।"
+misoprostol,bn,precautions,USE_IN,প্লাসেন্টা প্রেভিয়া,প্রতিনির্দেশিত,negated,,প্লাসেন্টা প্রেভিয়া ... প্রসবের সূচনাকরণ প্রতিনির্দেশিত।
+misoprostol,bn,precautions,USE_IN,ব্যাখ্যাতীত ভ্যাজাইনাল রক্তস্রাব,প্রতিনির্দেশিত,negated,,ব্যাখ্যাতীত ভ্যাজাইনাল রক্তস্রাব হলে প্রসবের সূচনাকরণ প্রতিনির্দেশিত।
+misoprostol,bn,special_populations,USE_IN,১৮ বছরের কম বয়সী শিশুদের,প্রতিষ্ঠিত হয়নি,negated,,১৮ বছরের কম বয়সী শিশুদের ক্ষেত্রে মিসোপ্রোষ্টলের কার্যকারীতা ও নিরাপত্তা প্রতিষ্ঠিত হয়নি।
+misoprostol,bn,special_populations,,,,,,
+misoprostol,bn,special_populations,,,,,,
+misoprostol,bn,special_populations,,,,,,
+misoprostol,bn,special_populations,,,,,,
+misoprostol,bn,special_populations,,,,,,
+magnesium-sulfate,en,indications,INDICATED_FOR,hypomagnesaemia,,stated,,treatment of hypomagnesaemia
+magnesium-sulfate,en,indications,INDICATED_FOR,magnesium deficiency states,,stated,,magnesium deficiency states.
+magnesium-sulfate,en,indications,INDICATED_FOR,Irregular heart beats,,stated,,"Irregular heart beats,"
+magnesium-sulfate,en,indications,INDICATED_FOR,laxative,,stated,,some time it may be used as a laxative.
+magnesium-sulfate,en,indications,INDICATED_FOR,"Seizures associated with acute uremia, hypothyroidism and eclampsia",,stated,,"prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia."
+magnesium-sulfate,en,indications,INDICATED_FOR,bronchial asthma,,stated,,bronchial asthma &
+magnesium-sulfate,en,indications,INDICATED_FOR,cardiovascular disorder,,stated,,cardiovascular disorder.
+magnesium-sulfate,en,contraindications,USE_IN,defect of the heart's electrical message pathways,contra-indicated,negated,,contra-indicated in the case of a defect of the heart's electrical message pathways
+magnesium-sulfate,en,contraindications,USE_IN,decreased function of the heart (heart block),contra-indicated,negated,,decreased function of the heart (heart block)
+magnesium-sulfate,en,contraindications,USE_IN,severe damage to the muscular wall of the heart (myocardium),contra-indicated,negated,,severe damage to the muscular wall of the heart (myocardium)
+magnesium-sulfate,en,contraindications,USE_IN,significantly decreased kidney function,contra-indicated,negated,,significantly decreased kidney function.
+magnesium-sulfate,en,contraindications,,,,,,
+magnesium-sulfate,en,contraindications,,,,,,
+magnesium-sulfate,en,pregnancy_lactation,USE_IN,pregnant women,caution,stated,,caution is required when the drug is administered to pregnant women.
+magnesium-sulfate,en,pregnancy_lactation,TRANSFERS_TO,human milk,,negated,,It is not known whether the drug is excreted in human milk.
+magnesium-sulfate,en,pregnancy_lactation,USE_IN,nursing mother,cautions,stated,,cautions should be taken when it is administered to a nursing mother.
+magnesium-sulfate,en,pregnancy_lactation,,,,,,
+magnesium-sulfate,en,pregnancy_lactation,,,,,,
+magnesium-sulfate,en,pregnancy_lactation,,,,,,
+magnesium-sulfate,en,precautions,USE_IN,patients with impaired renal function,caution,stated,,Magnesium salts should be administered with caution to patients with impaired renal function
+magnesium-sulfate,en,precautions,USE_IN,those receiving digitalis glycosides,caution,stated,,or those receiving digitalis glycosides.
+magnesium-sulfate,en,precautions,INTERACTS_WITH,neuromuscular blocking agents,,stated,,enhance the effect of neuromuscular blocking agents
+magnesium-sulfate,en,precautions,INTERACTS_WITH,central nervous system depressants,,stated,,or of central nervous system depressants.
+magnesium-sulfate,en,precautions,,,,,,
+magnesium-sulfate,en,precautions,,,,,,
+magnesium-sulfate,bn,indications,INDICATED_FOR,হাইপারম্যাগনেসেমিয়া,,stated,,হাইপারম্যাগনেসেমিয়া চিকিৎসার জন্য
+magnesium-sulfate,bn,indications,INDICATED_FOR,ম্যাগনেসিয়াম এর ঘাটতি,,stated,,ম্যাগনেসিয়াম এর ঘাটতি পূরণে
+magnesium-sulfate,bn,indications,INDICATED_FOR,অনিয়মিত হৃদস্পন্দন,,stated,,অনিয়মিত হৃদস্পন্দন
+magnesium-sulfate,bn,indications,INDICATED_FOR,রোচক ঔষধ,,stated,,রোচক ঔষধ হিসেবেও ব্যবহার করা হয়
+magnesium-sulfate,bn,indications,INDICATED_FOR,খিচুনি,,stated,,"খিচুনি প্রতিরোধ, ও নিয়ন্ত্রনেও ব্যবহার করা হয়"
+magnesium-sulfate,bn,indications,INDICATED_FOR,অ্যাজমা,,stated,,অ্যাজমা
+magnesium-sulfate,bn,indications,INDICATED_FOR,হার্টের ব্যাধিতে,,stated,,হার্টের ব্যাধিতেও ব্যবহার করা হয়
+magnesium-sulfate,bn,contraindications,USE_IN,হার্ট ব্লক,প্রতিনির্দেশিত,negated,,"হার্ট ব্লক, ... প্রতিনির্দেশিত।"
+magnesium-sulfate,bn,contraindications,USE_IN,মায়োকার্ডিয়াম,প্রতিনির্দেশিত,negated,,মায়োকার্ডিয়াম এবং ... প্রতিনির্দেশিত।
+magnesium-sulfate,bn,contraindications,USE_IN,কিডনীর স্বাভাবিক ক্রিয়াতে,প্রতিনির্দেশিত,negated,,কিডনীর স্বাভাবিক ক্রিয়াতে প্রতিনির্দেশিত।
+magnesium-sulfate,bn,contraindications,,,,,,
+magnesium-sulfate,bn,contraindications,,,,,,
+magnesium-sulfate,bn,contraindications,,,,,,
+magnesium-sulfate,bn,pregnancy_lactation,USE_IN,গর্ভাবতী মহিলাদের,সতর্কতা,stated,,গর্ভাবতী মহিলাদের প্রয়োগ করার আগে অবশ্যই সতর্কতা অবলম্বন করতে হবে।
+magnesium-sulfate,bn,pregnancy_lactation,TRANSFERS_TO,মায়ের দুধের,,negated,,মায়ের দুধের সাথে বের হয় কিনা জানা যায়নি
+magnesium-sulfate,bn,pregnancy_lactation,USE_IN,সেক্ষেত্রে (স্তন্যদানকালে),সতর্কতা,stated,,সেক্ষেত্রে ব্যবহারে সতর্কতা অবলম্বন করতে হবে।
+magnesium-sulfate,bn,pregnancy_lactation,,,,,,
+magnesium-sulfate,bn,pregnancy_lactation,,,,,,
+magnesium-sulfate,bn,pregnancy_lactation,,,,,,
+magnesium-sulfate,bn,precautions,USE_IN,রেচনতন্ত্রের জটিলতা,পর্যবেক্ষন,stated,,"রেচনতন্ত্রের জটিলতা, ... পর্যবেক্ষন করতে হবে।"
+magnesium-sulfate,bn,precautions,USE_IN,পেশীদৌবর্ল্য,পর্যবেক্ষন,stated,,"পেশীদৌবর্ল্য, ... পর্যবেক্ষন করতে হবে।"
+magnesium-sulfate,bn,precautions,USE_IN,গর্ভাবস্থায়,পর্যবেক্ষন,stated,,"গর্ভাবস্থায়, ... পর্যবেক্ষন করতে হবে।"
+magnesium-sulfate,bn,precautions,,,,,,
+magnesium-sulfate,bn,precautions,,,,,,
+magnesium-sulfate,bn,precautions,,,,,,

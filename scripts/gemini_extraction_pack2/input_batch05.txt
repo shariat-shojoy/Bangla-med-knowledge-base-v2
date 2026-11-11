@@ -1,0 +1,206 @@
+### drug=folic-acid | section=interaction | lang=bn
+কোন তথ্য পাওয়া যায়নি।
+
+### drug=folic-acid | section=precautions | lang=bn
+ফলেট নির্ভর টিউমার থাকতে পারে এমন রোগীদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত। এটিকে কখনই একা দেওয়া উচিত নয় বা নির্ণয় করা হয়নি এমন মেগালব্লাস্টিক অ্যানিমিয়ার চিকিৎসার জন্য পর্যাপ্ত পরিমাণে ভিটামিন বি ১২ এর সাথে একত্রে দেওয়া উচিত নয়। যদিও ফলিক এসিড ভিটামিন বি ১২ এর অভাবজনিত কারণে একটি মেগালব্লাস্টিক রক্তাল্পতায় আক্রান্ত রোগীদের মধ্যে হেমাটোপয়টিক প্রতিক্রিয়া ঘটাতে পারে, তবে এটি ভিটামিন বি ১২ এর অভাবজনিত অবস্থায় একা দেওয়া উচিত নয়, কারণ এটি কর্ডের মাঝারি তীব্র সম্মিলিত অবক্ষয়ের সূত্রপাত ঘটাতে পারে। বয়স্ক ব্যক্তিদের মধ্যে দীর্ঘমেয়াদী ফলেট প্রয়োগের পূর্বে একটি কোবালামিনের শোষণ পরীক্ষা করা উচিত। ফলেটের স্বল্প ব্যাবহারে কোন ক্ষতিকর ফলাফল পাওয়া যায়নি।
+
+### drug=folic-acid | section=interaction | lang=en
+None has been reported.
+
+### drug=folic-acid | section=precautions | lang=en
+It should be used with caution in patients who may have folate dependent tumours. It should never be given alone or in conjunction with inadequate amounts of vitamin B12 for the treatment of undiagnosed megaloblastic anaemia. Although folic acid may produce a haematopoietic response in patients with a megaloblastic anaemia due to vitamin B12 deficiency it should not be given alone in vitamin B12 deficiency states as it may precipitate the onset of subacute combined degeneration of the cord. In elderly people a cobalamin absorption test should be done before long term folate. No harmful results found from short courses of folate.
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=interaction | lang=bn
+অত্যাধিক মাত্রার ক্যালসিয়াম জিংক এর শােষণ কমিয়ে দিতে পারে। ফলিক এসিডের ক্ষেত্রে অন্য ওষুধের সাথে ক্রিয়া তেমন ভাবে পরিলক্ষিত হয়নি।
+
+### drug=folic-acid-zinc-sulfate-monohydrate | section=interaction | lang=en
+A large amount of Calcium decreases the absorption of Zinc. In case of Folic Acid, no drug interactions have been reported.
+
+### drug=human-anti-d-immunoglobulins | section=interaction | lang=bn
+Live vaccines should only be admin at least 3 mth after the last dose of immunoglobulin admin.
+
+### drug=human-anti-d-immunoglobulins | section=precautions | lang=bn
+For postpartum usage, it is to be used only for maternal admin. Not for rhesus-positive individuals. Patients should be observed for 20 minutes after admin.
+
+### drug=human-anti-d-immunoglobulins | section=interaction | lang=en
+Live vaccines should only be admin at least 3 mth after the last dose of immunoglobulin admin.
+
+### drug=human-anti-d-immunoglobulins | section=precautions | lang=en
+For postpartum usage, it is to be used only for maternal admin. Not for rhesus-positive individuals. Patients should be observed for 20 minutes after admin.
+
+### drug=heparin-sodium | section=interaction | lang=bn
+Oral anticoagulants: Heparin sodium may prolong the one-stage prothrombin time. Therefore, when HEPARIN SODIUM is given with dicumarol or warfarin sodium, a period of at least 5 hours after the last intravenous dose, or 24 hours after the last subcutaneous dose should elapse before blood is drawn if a valid prothrombin time is to be obtained.
+Platelet Inhibitors: Drugs such as acetylsalicylic acid, dextran, phenylbutazone, ibuprofen, indomethacin, dipyridamole, hydroxychloroquine and others that interfere with platelet aggregation reactions (the main hemostatic defence of heparinised patients) may induce bleeding and should be used with caution in patients receiving heparin sodium.
+Other Interactions: Digitalis, tetracyclines, nicotine, or antihistamines may partially counteract the anticoagulant action of heparin sodium.
+Drug/Laboratory Tests Interactions: Hyperaminotransferaemia: Significant elevations of aminotransferase (SGOT [S-AST] and SGPT [S-ALT]) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin. Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease, and pulmonary emboli, rises that might be caused by drugs (like heparin) should be interpreted with caution.
+
+### drug=heparin-sodium | section=precautions | lang=bn
+General
+White Clot Syndrome: It has been reported that patients on heparin may develop new thrombus formation in association with thrombocytopenia resulting from irreversible aggregation of platelets induced by heparin, the so-called "white clot syndrome". The process may lead to severe thromboembolic complications like skin necrosis, gangrene of the extremities that may lead to amputation, myocardial infarction, pulmonary embolism, stroke and possible death. Therefore, heparin administration should be promptly discontinued if a patient develops new thrombosis in association with thrombocytopenia.
+Spinal/ Epidural Haematomas: When neuraxial anaesthesia (epidural/spinal anaesthesia) or spinal puncture is employed, patients anticoagulated or scheduled to be anticoagulated with unfractionated heparin or low molecular weight heparins/heparinoids for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis. The risk of these events is increased by the use of indwelling epidural catheters for administration of analgesia or by the concomitant use of drugs affecting haemostasis such as non-steroidal anti-inflammatory drugs (NSAIDS), platelet inhibitors or other anticoagulants. The risk also appears to be increased by traumatic or repeated epidural or spinal puncture. Patients should be frequently monitored for signs and symptoms of neurological impairment. If neurological compromise is noted, urgent treatment is necessary. The physician should consider the potential benefit versus risk before neuraxial intervention in patient's anticoagulated or to be anticoagulated for thromboprophylaxis.
+Heparin Resistance
+Haemorrhage: Hemorrhage can occur at virtually any site in patients receiving heparin. An unexplained fall in hematocrit, fall in blood pressure, or any other unexplained symptom should lead to serious consideration of hemorrhagic event.
+Heparin sodium should be used with extreme caution in disease states in which there is increased danger of haemorrhage. Some of the conditions in which increased danger of haemorrhage exists are:
+Cardiovascular: Subacute bacterial endocarditis. Severe hypertension.
+Surgical: During and immediately following (a) spinal tap or spinal anaesthesia or (b) major surgery, especially involving the brain, spinal cord or eye.
+Haemotologic: Conditions associated with increased bleeding tendencies, such as haemophilia, thrombocytopenia, and some vascular purpuras.
+Gastrointestinal: Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
+Other: Menstruation, liver disease with impaired hemostasis.
+Coagulation Testing
+: When heparin sodium is administered in therapeutic amounts, its dosage should be regulated by frequent blood coagulation tests. If the coagulation test is unduly prolonged or if haemorrhage occurs, heparin sodium should be discontinued promptly.
+Thrombocytopenia
+: Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%. Mild thrombocytopenia (count greater than 100.000/mm3) may remain stable or reverse even if heparin is continued. However, thrombocytopenia of any degree should be monitored closely. If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be discontinued. If continued heparin therapy is essential, administration of heparin from a different organ source can be reinstituted with caution.
+Solutions containing sodium ions should be used with great care in patients with congestive heart failure, severe renal insufficiency, and in clinical states in which there exists oedema with sodium retention.
+The intravenous administration of solutions can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, over hydration, congested states or pulmonary oedema. The risk of dilutional states is inversely proportional to the electrolyte concentrations and volume of the infusion. The risk of solute overload causing congested states with peripheral and pulmonary oedema is directly proportional to the electrolyte concentrations and volume of the infusion.
+Excessive administration of potassium free solutions may result in significant hypokalaemia.
+In patients with diminished renal function, administration may result in sodium retention.
+Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thromocytopenia and Thrombosis (HITT).
+Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets. HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT). Thrombotic events may also be the initial presentation of HITT. These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+Thrombocytopenia of any degree should be monitored closely. If the platelet counts fall below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulant considered if patients require continued anticoagulation.
+Delayed Onset of HIT and HITT: Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy. Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+Laboratory Tests: Periodic platelet counts; hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see Dosage and Administration).
+Carcinogenesis, Mutagenesis, Impairment of Fertility: No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin. Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility
+
+### drug=heparin-sodium | section=special_populations | lang=bn
+Paediatric Use: Safety and effectiveness in paediatric patients has not been established.
+
+### drug=heparin-sodium | section=interaction | lang=en
+Oral anticoagulants: Heparin sodium may prolong the one-stage prothrombin time. Therefore, when HEPARIN SODIUM is given with dicumarol or warfarin sodium, a period of at least 5 hours after the last intravenous dose, or 24 hours after the last subcutaneous dose should elapse before blood is drawn if a valid prothrombin time is to be obtained.
+Platelet Inhibitors: Drugs such as acetylsalicylic acid, dextran, phenylbutazone, ibuprofen, indomethacin, dipyridamole, hydroxychloroquine and others that interfere with platelet aggregation reactions (the main hemostatic defence of heparinised patients) may induce bleeding and should be used with caution in patients receiving heparin sodium.
+Other Interactions: Digitalis, tetracyclines, nicotine, or antihistamines may partially counteract the anticoagulant action of heparin sodium.
+Drug/Laboratory Tests Interactions: Hyperaminotransferaemia: Significant elevations of aminotransferase (SGOT [S-AST] and SGPT [S-ALT]) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin. Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease, and pulmonary emboli, rises that might be caused by drugs (like heparin) should be interpreted with caution.
+
+### drug=heparin-sodium | section=precautions | lang=en
+General
+White Clot Syndrome: It has been reported that patients on heparin may develop new thrombus formation in association with thrombocytopenia resulting from irreversible aggregation of platelets induced by heparin, the so-called "white clot syndrome". The process may lead to severe thromboembolic complications like skin necrosis, gangrene of the extremities that may lead to amputation, myocardial infarction, pulmonary embolism, stroke and possible death. Therefore, heparin administration should be promptly discontinued if a patient develops new thrombosis in association with thrombocytopenia.
+Spinal/ Epidural Haematomas: When neuraxial anaesthesia (epidural/spinal anaesthesia) or spinal puncture is employed, patients anticoagulated or scheduled to be anticoagulated with unfractionated heparin or low molecular weight heparins/heparinoids for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis. The risk of these events is increased by the use of indwelling epidural catheters for administration of analgesia or by the concomitant use of drugs affecting haemostasis such as non-steroidal anti-inflammatory drugs (NSAIDS), platelet inhibitors or other anticoagulants. The risk also appears to be increased by traumatic or repeated epidural or spinal puncture. Patients should be frequently monitored for signs and symptoms of neurological impairment. If neurological compromise is noted, urgent treatment is necessary. The physician should consider the potential benefit versus risk before neuraxial intervention in patient's anticoagulated or to be anticoagulated for thromboprophylaxis.
+Heparin Resistance
+Haemorrhage: Hemorrhage can occur at virtually any site in patients receiving heparin. An unexplained fall in hematocrit, fall in blood pressure, or any other unexplained symptom should lead to serious consideration of hemorrhagic event.
+Heparin sodium should be used with extreme caution in disease states in which there is increased danger of haemorrhage. Some of the conditions in which increased danger of haemorrhage exists are:
+Cardiovascular: Subacute bacterial endocarditis. Severe hypertension.
+Surgical: During and immediately following (a) spinal tap or spinal anaesthesia or (b) major surgery, especially involving the brain, spinal cord or eye.
+Haemotologic: Conditions associated with increased bleeding tendencies, such as haemophilia, thrombocytopenia, and some vascular purpuras.
+Gastrointestinal: Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
+Other: Menstruation, liver disease with impaired hemostasis.
+Coagulation Testing
+: When heparin sodium is administered in therapeutic amounts, its dosage should be regulated by frequent blood coagulation tests. If the coagulation test is unduly prolonged or if haemorrhage occurs, heparin sodium should be discontinued promptly.
+Thrombocytopenia
+: Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%. Mild thrombocytopenia (count greater than 100.000/mm3) may remain stable or reverse even if heparin is continued. However, thrombocytopenia of any degree should be monitored closely. If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be discontinued. If continued heparin therapy is essential, administration of heparin from a different organ source can be reinstituted with caution.
+Solutions containing sodium ions should be used with great care in patients with congestive heart failure, severe renal insufficiency, and in clinical states in which there exists oedema with sodium retention.
+The intravenous administration of solutions can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, over hydration, congested states or pulmonary oedema. The risk of dilutional states is inversely proportional to the electrolyte concentrations and volume of the infusion. The risk of solute overload causing congested states with peripheral and pulmonary oedema is directly proportional to the electrolyte concentrations and volume of the infusion.
+Excessive administration of potassium free solutions may result in significant hypokalaemia.
+In patients with diminished renal function, administration may result in sodium retention.
+Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thromocytopenia and Thrombosis (HITT).
+Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets. HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT). Thrombotic events may also be the initial presentation of HITT. These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+Thrombocytopenia of any degree should be monitored closely. If the platelet counts fall below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulant considered if patients require continued anticoagulation.
+Delayed Onset of HIT and HITT: Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy. Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+Laboratory Tests: Periodic platelet counts; hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see Dosage and Administration).
+Carcinogenesis, Mutagenesis, Impairment of Fertility: No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin. Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility
+
+### drug=heparin-sodium | section=special_populations | lang=en
+Paediatric Use: Safety and effectiveness in paediatric patients has not been established.
+
+### drug=ibuprofen-oral | section=precautions | lang=bn
+আইবুপ্রোফেন পরিপাকান্ত্রের রক্তক্ষরণ অথবা আলসার এর পূর্ব-ইতিহাস আছে এমন রােগীদের ক্ষেত্রে সর্বোচ্চ সতর্কতার সাথে এবং কার্যকর সর্বনিম্ন মাত্রায় প্রয়োগ করতে হবে। আইবুপ্রােফেন দ্বারা দীর্ঘকালীন চিকিৎসার সময় চোখের অবস্থা পর্যবেক্ষণ করতে হবে, কারণ এক্ষেত্রে চোখের কার্যাবলীতে পরিবর্তন দেখা যায়। সিস্টেমিক লুপাস ইরাইথেমাটোসাস রোগীদের আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীলতা তৈরীর সম্ভাবনা বেশী। এ্যাজমা ও অন্যান্য ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ঔষধের প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে ইহা সতর্কতার সাথে প্রয়ােগ করতে হবে।
+
+### drug=ibuprofen-oral | section=interaction | lang=en
+Caution should be taken in concomitant use with the medications which could increase the risk of ulceration or bleeding. Concomitant use with acetylsalicylic acid is not recommended. Co-administration with other NSAIDs and high doses of methotrexate should be avoided. Caution should be taken in concomitant use with ACE inhibitors, diuretics, lithium, anti-platelet agents, warfarin, aminoglycosides, corticosteroids, cyclosporin, tacrolimus, mifepristone, quinolone, zidovudine, voriconazole and fluconazole.
+
+### drug=ibuprofen-oral | section=precautions | lang=en
+Patients on long term therapy with ibuprofen require ocular monitoring at regular intervals, as changes in ocular function have been reported. Patients with SLE are more likely than others to develop hypersensitivity to ibuprofen. Ibuprofen should be prescribed with caution in patients with asthma.
+
+### drug=indomethacin-oral | section=interaction | lang=bn
+ইহা এন্টিকোয়াগুল্যান্ট, লিথিয়াম, ডাই-ইউরেটিকস, এন্টিহাইপারটেনসিভ ওষুধ, ডাইফ্লুনিসল এবং সালফোনাইল ইউরিয়ার সাথে বিক্রিয়া করতে পারে।
+
+### drug=indomethacin-oral | section=precautions | lang=bn
+যেহেতু ইনডোমেথাসিন মৃগীরোগ অথবা পারকিনসনিজম বৃদ্ধিতে সহায়তা করে এজন্য এসব রোগীর ক্ষেত্রে সতর্কতা অবলম্বন করা উচিত। গর্ভবর্তী মহিলার ক্ষেত্রে ইহা নির্দেশিত নয় কারণ এখন পর্যন্ত পর্যাপ্ত পরিমাণে ক্লিনিক্যাল সমীক্ষা করা হয়নি। পেটেন্ট ডাক্টাস আর্টেরিওসাস চিকিৎসা ছাড়া সদ্যজাত শিশুদের ক্ষেত্রে ইনডোমেথাসিন ব্যবহার করা উচিত নয়।
+
+### drug=indomethacin-oral | section=interaction | lang=en
+It may interact with anticoagulants, Lithium, diuretics, antihypertensive drugs, diflunisal and sulfonylureas.
+
+### drug=indomethacin-oral | section=precautions | lang=en
+Indomethacin capsule should be used with caution with psychiatric problems, epilepsy or parkinsonism since the drug may aggravate these conditions. It is not recommended for pregnant women, because at the present time clinical studies are insufficient. Indomethacin is not given nomally in neonates except when used to assist closure of a patent ductus arteriosus.
+
+### drug=isotretinoin-oral | section=interaction | lang=bn
+ভিটামিন A বা এর ডেরিভেটিভের (উপজাত) সাথে ব্যবহারে পার্শ্বপ্রতিক্রিয়া বৃদ্ধি পেতে পারে। মাইক্রোডোজড প্রোজেস্টেরনের কার্যকারিতা কমিয়ে দেয় (তাই একই সাথে ২টি জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করুন)। ত্বকে ব্যবহারের কেরাটোলাইটিক বা এক্সফোলিয়েটিভ ব্রণরোধী ওষুধের সাথে ব্যবহারে স্থানীয়ভাবে ত্বকে জ্বালাপোড়া বা ইরিটেশন বাড়ার ঝুঁকি থাকে। অক্সিডাইজিং এজেন্ট (যেমন: বেনজাইল পারক্সাইড) ত্বকে ব্যবহারের আইসোট্রেটিনয়েনের কার্যকারিতা কমিয়ে দিতে পারে।
+
+### drug=isotretinoin-oral | section=precautions | lang=bn
+জন্মনিয়ন্ত্রণ
+: নারী রোগীদের গর্ভাবস্থা প্রতিরোধের বিষয়ে বিস্তারিত তথ্য সরবরাহ করতে হবে এবং যদি তারা কার্যকর জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার না করেন তবে তাদের জন্মনিয়ন্ত্রণ পরামর্শের জন্য পাঠাতে হবে। নূন্যতম শর্ত হিসেবে, গর্ভধারণের ঝুঁকিতে থাকা নারী রোগীদের অবশ্যই অন্তত একটি কার্যকর জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করতে হবে। পছন্দসইভাবে রোগীকে দুটি পরিপূরক জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করা উচিত যার একটি ব্যারিয়ার মেথড (যেমন: কনডম) হতে হবে। আইসোট্রেটিনয়েন চিকিৎসা বন্ধ করার পর অন্তত ১ মাস পর্যন্ত জন্মনিয়ন্ত্রণ পদ্ধতি চালু রাখতে হবে, এমনকি রোগীর ঋতুস্রাব বন্ধ থাকলেও।
+গর্ভধারণ পরীক্ষা
+: স্থানীয় নিয়ম অনুযায়ী, মাসিক চক্রের প্রথম ৩ দিনের মধ্যে ন্যূনতম 25 mIU/mL সংবেদনশীলতাসম্পন্ন চিকিৎসকের তত্ত্বাবধানে গর্ভধারণ পরীক্ষা করার পরামর্শ দেওয়া হয়।
+চিকিৎসা শুরু করার আগে
+: জন্মনিয়ন্ত্রণ শুরু করার আগে গর্ভাবস্থার সম্ভাবনা নাকচ করার জন্য চিকিৎসকের তত্ত্বাবধানে একটি প্রাথমিক গর্ভধারণ পরীক্ষা করা এবং এর তারিখ ও ফলাফল রেকর্ড করে রাখা উচিত। যেসব রোগীর মাসিক নিয়মিত নয়, তাদের ক্ষেত্রে এই পরীক্ষার সময়টি রোগীর যৌন সক্রিয়তার ওপর নির্ভর করবে এবং সর্বশেষ অসুরক্ষিত যৌন মিলনের প্রায় ৩ সপ্তাহ পর পরীক্ষাটি করা উচিত। চিকিৎসক রোগীকে জন্মনিয়ন্ত্রণ সম্পর্কে শিক্ষা দেবেন। আইসোট্রেটিনয়েন প্রেসক্রিপশন করার সময় বা চিকিৎসকের কাছে যাওয়ার ৩ দিন আগে চিকিৎসকের তত্ত্বাবধানে একটি গর্ভধারণ পরীক্ষা করা উচিত, এবং এই পরীক্ষাটি রোগী অন্তত ১ মাস ধরে কার্যকর জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করার পর করা উচিত। এই পরীক্ষাটি নিশ্চিত করবে যে রোগী যখন আইসোট্রেটিনয়েন শুরু করছেন তখন তিনি গর্ভবতী নন।
+ফলো-আপ ভিজিট
+: প্রতি ২৮ দিন পর পর ফলো-আপ ভিজিটের ব্যবস্থা করতে হবে। প্রতি মাসে চিকিৎসকের তত্ত্বাবধানে পুনরায় গর্ভধারণ পরীক্ষা করার প্রয়োজনীয়তা স্থানীয় নিয়ম এবং রোগীর যৌন সক্রিয়তা ও সাম্প্রতিক মাসিকের ইতিহাসের ওপর ভিত্তি করে নির্ধারণ করা হবে। নির্দেশিত ক্ষেত্রে, চিকিৎসকের ভিজিটের দিন বা ভিজিটের ৩ দিন আগে ফলো-আপ গর্ভধারণ পরীক্ষা করা উচিত।
+চিকিৎসা সমাপ্তি
+: চিকিৎসা বন্ধ করার ৫ সপ্তাহ পর, নারীদের গর্ভাবস্থা সম্পূর্ণ নিশ্চিতভাবে নাকচ করার জন্য একটি চূড়ান্ত গর্ভধারণ পরীক্ষা করা উচিত।
+প্রেসক্রিপশন এবং ওষুধ বিতরণের সীমাবদ্ধতা: গর্ভধারণের ক্ষমতাসম্পন্ন নারীদের জন্য আইসোট্রেটিনয়েনের প্রেসক্রিপশন ৩০ দিনের চিকিৎসার মধ্যে সীমাবদ্ধ রাখা উচিত এবং চিকিৎসা চালিয়ে যাওয়ার জন্য নতুন প্রেসক্রিপশনের প্রয়োজন হবে। আদর্শগতভাবে, গর্ভধারণ পরীক্ষা, প্রেসক্রিপশন তৈরি এবং ওষুধ বিতরণ একই দিনে হওয়া উচিত। প্রেসক্রিপশন করার সর্বোচ্চ ৭ দিনের মধ্যে আইসোট্রেটিনয়েন ফার্মেসি থেকে সংগ্রহ করতে হবে।
+পুরুষ রোগী
+: প্রাপ্ত তথ্য অনুযায়ী, আইসোট্রেটিনয়েন গ্রহণকারী পুরুষ রোগীদের বীর্যের মাধ্যমে নারী সঙ্গীর শরীরে এই ওষুধের প্রবেশের মাত্রা এতই নগণ্য যে তা গর্ভস্থ শিশুর বিকলাঙ্গতার ঝুঁকির কারণ হয় না। তবে পুরুষ রোগীদের মনে করিয়ে দিতে হবে যে তারা যেন তাদের ওষুধ অন্য কারো সাথে, বিশেষ করে কোনো নারীর সাথে শেয়ার না করেন।
+অতিরিক্ত সতর্কতা
+: রোগীদের নির্দেশ দিতে হবে যেন তারা এই ওষুধটি কখনো অন্য কোনো ব্যক্তিকে না দেন এবং চিকিৎসা শেষে অব্যবহৃত ক্যাপসুলগুলো ফার্মাসিস্টের কাছে ফেরত দেন। আইসোট্রেটিনয়েন থেরাপি চলাকালীন এবং চিকিৎসা বন্ধের ১ মাস পর পর্যন্ত রোগীরা রক্তদান করতে পারবেন না, কারণ এই রক্ত যদি কোনো গর্ভবতী নারী গ্রহণ করেন তবে তার গর্ভস্থ শিশুর ক্ষতির ঝুঁকি থাকে।
+মানসিক ব্যাধি
+: আইসোট্রেটিনয়েন ব্যবহারকারী রোগীদের ক্ষেত্রে বিষণ্নতা, তীব্র বিষণ্নতা, উদ্বেগ, আক্রমণাত্মক মনোভাব, মেজাজের পরিবর্তন, সাইকোটিক লক্ষণ এবং খুব বিরল ক্ষেত্রে আত্মহত্যার চিন্তা, আত্মহত্যার চেষ্টা ও আত্মহত্যার ঘটনা রিপোর্ট করা হয়েছে। যাদের আগে থেকেই বিষণ্নতার ইতিহাস রয়েছে তাদের ক্ষেত্রে বিশেষ যত্ন নেওয়া প্রয়োজন এবং সমস্ত রোগীদের বিষণ্নতার লক্ষণের জন্য পর্যবেক্ষণ করা উচিত এবং প্রয়োজনে উপযুক্ত চিকিৎসার জন্য পাঠানো উচিত। তবে আইসোট্রেটিনয়েন বন্ধ করাই লক্ষণগুলো দূর করার জন্য যথেষ্ট নাও হতে পারে, তাই পরবর্তী মানসিক বা মনস্তাত্ত্বিক মূল্যায়নের প্রয়োজন হতে পারে।
+ত্বক ও সাবকিউটেনিয়াস টিস্যুর সমস্যা
+: চিকিৎসার প্রাথমিক সময়ে সাময়িকভাবে ব্রণ কিছুটা বেড়ে যেতে পারে, তবে চিকিৎসা চালিয়ে গেলে সাধারণত ৭-১০ দিনের মধ্যে তা কমে যায় এবং এর জন্য ডোজ পরিবর্তনের প্রয়োজন হয় না। তীব্র সূর্যালোক বা অতিবেগুনী রশ্মির (UV rays) সংস্পর্শ এড়িয়ে চলতে হবে। প্রয়োজনে অন্তত SPF 15 যুক্ত একটি ভালো সানস্ক্রিন ব্যবহার করতে হবে। আইসোট্রেটিনয়েন চিকিৎসা চলাকালীন এবং চিকিৎসা শেষ হওয়ার পর ৫-৬ মাস পর্যন্ত ত্বকের অ্যাগ্রেসিভ কেমিক্যাল ডার্মাব্রেশন এবং লেজার ট্রিটমেন্ট এড়িয়ে চলতে হবে, কারণ এতে ত্বকে অস্বাভাবিক দাগ (hypertrophic scarring) বা ত্বকের রঙের পরিবর্তন হতে পারে। চিকিৎসা চলাকালীন এবং চিকিৎসা শেষে অন্তত ৬ মাস পর্যন্ত ওয়াক্সিং (Wax depilation) এড়িয়ে চলতে হবে, কারণ এতে ত্বকের চামড়া উঠে যাওয়ার ঝুঁকি থাকে। ত্বকে ব্যবহারের কেরাটোলাইটিক বা এক্সফোলিয়েটিভ ব্রণরোধী ওষুধের সাথে একই সময়ে আইসোট্রেটিনয়েন ব্যবহার এড়ানো উচিত, কারণ এতে ত্বকের স্থানীয় জ্বালাপোড়া বাড়তে পারে। আইসোট্রেটিনয়েন ব্যবহারের কারণে ত্বক ও ঠোঁট শুষ্ক হয়ে যাওয়ার সম্ভাবনা থাকায় রোগীদের চিকিৎসা শুরুর প্রথম থেকেই স্কিন ময়েশ্চারাইজার ক্রিম বা অয়েন্টমেন্ট এবং লিপবাম ব্যবহারের পরামর্শ দিতে হবে। বাজারজাতকরণের পর আইসোট্রেটিনয়েন ব্যবহারের ফলে কিছু মারাত্মক ত্বকের প্রতিক্রিয়া (যেমন: এরিথেমা মাল্টিফর্ম (EM), স্টিভেন্স-জনসন সিন্ড্রোম (SJS) এবং টক্সিক এপিডার্মাল নেক্রোলাইসিস (TEN)) দেখা দেওয়ার রিপোর্ট পাওয়া গেছে। যেহেতু এই প্রতিক্রিয়াগুলো অন্যান্য সাধারণ ত্বকের সমস্যা থেকে আলাদা করা কঠিন হতে পারে, তাই রোগীদের এই লক্ষণগুলো সম্পর্কে জানাতে হবে এবং নিবিড় পর্যবেক্ষণে রাখতে হবে। মারাত্মক ত্বকের প্রতিক্রিয়া সন্দেহ হলে আইসোট্রেটিনয়েন বন্ধ করতে হবে।
+অ্যালার্জিক প্রতিক্রিয়া
+: খুব বিরল ক্ষেত্রে অ্যানাফিল্যাকটিক প্রতিক্রিয়া রিপোর্ট করা হয়েছে, কিছু ক্ষেত্রে পূর্বে ত্বকে রেটিনয়েড ব্যবহারের কারণেও এটি হতে পারে। গুরুতর অ্যালার্জিক ভাসকুলাইটিসের ক্ষেত্রে হাত-পায়ে লালচে দাগ বা কালশিটে (purpura) পড়তে পারে। তীব্র অ্যালার্জিক প্রতিক্রিয়া দেখা দিলে চিকিৎসা বন্ধ করা এবং নিবিড় পর্যবেক্ষণ করা জরুরি।
+চোখের সমস্যা
+: চোখ শুষ্ক হওয়া, কর্নিয়ার অস্বচ্ছতা, রাতে দেখার ক্ষমতা কমে যাওয়া এবং কেরাটাইটিস সাধারণত চিকিৎসা বন্ধের পর ঠিক হয়ে যায়। চোখ শুষ্ক হওয়ার সমস্যায় লুব্রিকেটিং আই অয়েন্টমেন্ট বা কৃত্রিম চোখের জল (tear replacement therapy) ব্যবহার করা যেতে পারে। কন্টাক্ট লেন্স ব্যবহারে অসুবিধা হতে পারে, যার ফলে চিকিৎসা চলাকালীন রোগীকে চশমা পরার প্রয়োজন হতে পারে। রাতে দেখার ক্ষমতা হঠাৎ কমে যাওয়ার রিপোর্টও রয়েছে, এমন ক্ষেত্রে আইসোট্রেটিনয়েন ব্যবহার বন্ধ করার প্রয়োজন হতে পারে।
+পেশী ও কঙ্কালতন্ত্রের সমস্যা
+: আইসোট্রেটিনয়েন গ্রহণকারী রোগীদের ক্ষেত্রে, বিশেষ করে যারা কঠোর শারীরিক পরিশ্রম বা ব্যায়াম করেন, তাদের পেশী ব্যথা (myalgia), জয়েন্ট বা গাঁটে ব্যথা (arthralgia) এবং রক্তে ক্রিয়েটিন ফসফোকাইনেজ (CPK)-এর মাত্রা বৃদ্ধি পেতে পারে। কেরাটিনাইজেশনের চিকিৎসার জন্য বহু বছর ধরে অত্যন্ত উচ্চ মাত্রায় আইসোট্রেটিনয়েন ব্যবহারের ফলে হাড়ের পরিবর্তন (যেমন: এপিফাইসিয়াল প্রিম্যাচিউর ক্লোজার, হাইপারওস্টোসিস এবং লিগামেন্ট ও টেন্ডনে ক্যালসিয়াম জমা হওয়া) দেখা গেছে। এই রোগীদের ক্ষেত্রে ডোজের মাত্রা এবং চিকিৎসার সময়কাল ব্রণের জন্য নির্দেশিত ডোজের চেয়ে অনেক বেশি ছিল।
+বেনাইন ইন্ট্রাক্রেনিয়াল হাইপারটেনশন
+: মস্তিষ্কে চাপ বৃদ্ধির কিছু ঘটনা রিপোর্ট করা হয়েছে, যার মধ্যে কয়েকটিতে একই সাথে টেট্রাসাইক্লিন জাতীয় ওষুধের ব্যবহার ছিল। এর লক্ষণগুলোর মধ্যে রয়েছে মাথাব্যথা, বমি বমি ভাব ও বমি, দৃষ্টিশক্তির সমস্যা এবং প্যাপিলইডিমা। যেসব রোগীর এই সমস্যা দেখা দেবে, তাদের অবিলম্বে আইসোট্রেটিনয়েন ব্যবহার বন্ধ করতে হবে।
+লিভারের সমস্যা
+: চিকিৎসা শুরু করার আগে, চিকিৎসা শুরুর ১ মাস পরে এবং পরবর্তীতে প্রতি ৩ মাস পর পর লিভারের এনজাইম পরীক্ষা করা উচিত, যদি না চিকিৎসাগতভাবে আরও ঘন ঘন পরীক্ষার প্রয়োজন হয়। লিভারের ট্রান্সঅ্যামাইনেজ এনজাইম সাময়িকভাবে এবং রিভার্সিবলভাবে বৃদ্ধি পেতে পারে। অনেক ক্ষেত্রে এই পরিবর্তনগুলো স্বাভাবিক সীমার মধ্যেই থাকে এবং চিকিৎসা চলাকালীন সময়েই আবার স্বাভাবিক অবস্থায় ফিরে আসে। তবে লিভারের এনজাইমের মাত্রা যদি ক্রমাগতভাবে এবং উল্লেখযোগ্যভাবে বেশি থাকে, তবে ডোজ কমানো বা চিকিৎসা বন্ধ করার বিষয়টি বিবেচনা করতে হবে।
+কিডনি বিকলতা
+: কিডনির কার্যকারিতা হ্রাস বা কিডনি বিকলতা আইসোট্রেটিনয়েনের ফার্মাকোকিনেটিক্সকে প্রভাবিত করে না। তাই কিডনি বিকলতার রোগীদের আইসোট্রেটিনয়েন দেওয়া যেতে পারে। তবে এক্ষেত্রে রোগীকে কম ডোজ দিয়ে শুরু করা এবং ধীরে ধীরে সহ্যক্ষমতার সর্বোচ্চ ডোজ পর্যন্ত বাড়ানোর পরামর্শ দেওয়া হয়।
+লিপিড মেটাবলিজম বা চর্বির বিপাক
+: চিকিৎসা শুরু করার আগে, চিকিৎসা শুরুর ১ মাস পরে এবং পরবর্তীতে প্রতি ৩ মাস পর পর খালি পেটে রক্তে লিপিড বা চর্বির মাত্রা (Serum lipids) পরীক্ষা করা উচিত। রক্তে লিপিডের মাত্রা বৃদ্ধি পেলে সাধারণত ডোজ কমালে বা চিকিৎসা বন্ধ করলে এবং খাদ্যাভ্যাস পরিবর্তন করলে তা আবার স্বাভাবিক অবস্থায় ফিরে আসে। আইসোট্রেটিনয়েন ব্যবহারের ফলে প্লাজমা ট্রাইগ্লিসারাইডের মাত্রা বৃদ্ধি পাওয়ার সম্ভাবনা থাকে। যদি ট্রাইগ্লিসারাইডের মাত্রা গ্রহণযোগ্য পর্যায়ে নিয়ন্ত্রণে রাখা না যায় বা প্যানক্রিয়াটাইটিসের লক্ষণ দেখা দেয়, তবে আইসোট্রেটিনয়েন বন্ধ করতে হবে। রক্তে ট্রাইগ্লিসারাইডের মাত্রা 800 mg/dL বা 9 mmol/L-এর বেশি হলে তীব্র প্যানক্রিয়াটাইটিস হতে পারে, যা মারাত্মক বা প্রাণঘাতী হতে পারে।
+পরিপাকতন্ত্রের সমস্যা
+: পূর্বে পরিপাকতন্ত্রের কোনো সমস্যা ছিল না এমন রোগীদের ক্ষেত্রেও আইসোট্রেটিনয়েন ব্যবহারের ফলে ইনফ্ল্যামেটরি বাওয়েল ডিজিজ (যেমন: রিজিওনাল আইলিটিস) হওয়ার সম্পর্ক পাওয়া গেছে। যেসব রোগী তীব্র (রক্তযুক্ত) ডায়রিয়ায় আক্রান্ত হবেন, তাদের অবিলম্বে আইসোট্রেটিনয়েন বন্ধ করতে হবে।
+উচ্চ ঝুঁকিপূর্ণ রোগী
+: ডায়াবেটিস, স্থূলতা (obesity), অ্যালকোহল আসক্তি বা লিপিড মেটাবলিজম ডিসঅর্ডারে আক্রান্ত রোগীদের আইসোট্রেটিনয়েন চিকিৎসা চলাকালীন রক্তে লিপিড এবং/অথবা গ্লুকোজের মাত্রা আরও ঘন ঘন পরীক্ষা করার প্রয়োজন হতে পারে। চিকিৎসা চলাকালীন খালি পেটে রক্তের শর্করা (fasting blood sugar) বৃদ্ধি পাওয়ার এবং নতুন করে ডায়াবেটিস সনাক্ত হওয়ার রিপোর্ট রয়েছে।
+
+### drug=isotretinoin-oral | section=interaction | lang=en
+Additive adverse effects with vit A or its derivatives. Decreased efficacy of microdosed progesterone (use 2 forms of contraception).Increased risk of local irritation with topical keratolytic or exfoliative anti-acne agents. Oxidising agents (e.g. benzoyl peroxide) may reduce the efficacy of topical isotretinoin.
+
+### drug=isotretinoin-oral | section=precautions | lang=en
+Contraception
+: Female patients must be provided with comprehensive information on pregnancy prevention and should be referred for contraceptive advice if they are not using effective contraception. As a minimum requirement, female patients at potential risk of pregnancy must use at least one effective method of contraception. Preferably the patient should use two complementary forms of contraception including a barrier method. Contraception should be continued for at least 1 month after stopping treatment with Isotretinoin, even in patients with amenorrhea.
+Pregnancy testing
+: According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25mIU/mL are recommended to be performed in the first 3 days of the menstrual cycle, as follows.
+Prior to starting therapy
+: In order to exclude the possibility of pregnancy prior to starting contraception, it is recommended that an initial medically supervised pregnancy test should be performed and its date and result recorded. In patients without regular menses, the timing of this pregnancy test should reflect the sexual activity of the patient and should be undertaken approximately 3 weeks after the patient last had unprotected sexual intercourse. The prescriber should educate the patient about contraception. A medically supervised pregnancy test should also be performed during the consultation when Isotretinoin is prescribed or in the 3 days prior to the visit to the prescriber, and should have been delayed until the patient had been using effective contraception for at least 1 month. This test should ensure the patient is not pregnant when she starts treatment with Isotretinoin.
+Follow-up visits
+: Follow-up visits should be arranged at 28 day intervals. The need for repeated medically supervised pregnancy tests every month should be determined according to local practice including consideration of the patient’s sexual activity and recent menstrual history (abnormal menses, missed periods or amenorrhea). Where indicated, follow-up pregnancy tests should be performed on the day of the prescribing visit or in the 3 days prior to the visit to the prescriber.
+End of treatment
+: Five weeks after stopping treatment, women should undergo a final pregnancy test to exclude pregnancy.
+Prescribing and dispensing restrictions
+: Prescriptions of Isotretinoin for women of childbearing potential should be limited to 30 days of treatment and continuation of treatment requires a new prescription. Ideally, pregnancy testing, issuing a prescription and dispensing of Isotretinoin should occur on the same day. Dispensing of Isotretinoin should occur within a maximum of 7 days of the prescription.
+Male patients
+: The available data suggest that the level of maternal exposure from the semen of the patients receiving Isotretinoin, is not of a sufficient magnitude to be associated with the teratogenic effects of Isotretinoin. Male patients should be reminded that they must not share their medication with anyone, particularly not females.
+Additional precautions
+: Patients should be instructed never to give this medicinal product to another person, and to return any unused capsules to their pharmacist at the end of treatment. Patients should not donate blood during therapy and for 1 month following discontinuation of Isotretinoin because of the potential risk to the foetus of a pregnant transfusion recipient.
+Psychiatric disorders
+: Depression, depression aggravated, anxiety, aggressive tendencies, mood alterations, psychotic symptoms, and very rarely, suicidal ideation, suicide attempts and suicide have been reported in patients treated with Isotretinoin. Particular care needs to be taken in patients with a history of depression and all patients should be monitored for signs of depression and referred for appropriate treatment if necessary. However, discontinuation of Isotretinoin may be insufficient to alleviate symptoms and therefore further psychiatric or psychological evaluation may be necessary.
+Skin and subcutaneous tissues disorders
+: Acute exacerbation of acne is occasionally seen during the initial period but this subsides with continued treatment, usually within 7-10 days, and usually does not require dose adjustment. Exposure to intense sunlight or to UV rays should be avoided. Where necessary a sun-protection product with a high protection factor of at least SPF 15 should be used. Aggressive chemical dermabrasion and cutaneous laser treatment should be avoided in patients on Isotretinoin for a period of 5-6 months after the end of the treatment because of the risk of hypertrophic scarring in atypical areas and more rarely post inflammatory hyper or hypopigmentation in treated areas. Wax depilation should be avoided in patients on Isotretinoin for at least a period of 6 months after treatment because of the risk of epidermal stripping. Concurrent administration of Isotretinoin with topical keratolytic or exfoliative anti-acne agents should be avoided as local irritation may increase. Patients should be advised to use a skin moisturising ointment or cream and a lip balm from the start of treatment as Isotretinoin is likely to cause dryness of the skin and lips. There have been post-marketing reports of severe skin reactions (e.g. erythema multiforme (EM), Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) associated with Isotretinoin use. As these events may be difficult to distinguish from other skin reactions that may occur, patients should be advised of the signs and symptoms and monitored closely for severe skin reactions. If a severe skin reaction is suspected, Isotretinoin treatment should be discontinued. Allergic reactions: Anaphylactic reactions have been rarely reported, in some cases after previous topical exposure to retinoids. Allergic cutaneous reactions are reported infrequently. Serious cases of allergic vasculitis, often with purpura (bruises and red patches) of the extremities and extracutaneous involvement have been reported. Severe allergic reactions necessitate interruption of therapy and careful monitoring.
+Eye disorders
+: Dry eyes, corneal opacities, decreased night vision and keratitis usually resolve after discontinuation of therapy. Dry eyes can be helped by the application of a lubricating eye ointment or by the application of tear replacement therapy. Intolerance to contact lenses may occur which may necessitate the patient to wear glasses during treatment. Decreased night vision has also been reported and the onset in some patients was sudden. Withdrawal of Isotretinoin may be necessary.
+Musculo-skeletal and connective tissue disorders
+: Myalgia, arthralgia and increased serum creatine phosphokinase values have been reported in patients receiving Isotretinoin, particularly in those undertaking vigorous physical activity. Bone changes including premature epiphyseal closure, hyperostosis, and calcification of tendons and ligaments have occurred after several years of administration at very high doses for treating disorders of keratinisation. The dose levels, duration of treatment and total cumulative dose in these patients generally far exceeded those recommended for the treatment of acne.
+Benign intracranial hypertension
+: Cases of benign intracranial hypertension have been reported, some of which involved concomitant use of tetracyclines. Signs and symptoms of benign intracranial hypertension include headache, nausea and vomiting, visual disturbances and papilloedema. Patients who develop benign intracranial hypertension should discontinue Isotretinoin immediately.
+Hepatobiliary disorders
+: Liver enzymes should be checked before treatment, 1 month after the start of treatment, and subsequently at 3 monthly intervals unless more frequent monitoring is clinically indicated. Transient and reversible increases in liver transaminases have been reported. In many cases these changes have been within the normal range and values have returned to baseline levels during treatment. However, in the event of persistent clinically relevant elevation of transaminase levels, reduction of the dose or discontinuation of treatment should be considered.
+Renal insufficiency
+: Renal insufficiency and renal failure do not affect the pharmacokinetics of Isotretinoin. Therefore, Isotretinoin can be given to patients with renal insufficiency. However, it is recommended that patients are started on a low dose and titrated up to the maximum tolerated dose.
+Lipid Metabolism
+: Serum lipids (fasting values) should be checked before treatment, 1 month after the start of treatment, and subsequently at 3 monthly intervals unless more frequent monitoring is clinically indicated. Elevated serum lipid values usually return to normal on reduction of the dose or discontinuation of treatment and may also respond to dietary measures. Isotretinoin has been associated with an increase in plasma triglyceride levels. Isotretinoin should be discontinued if hypertriglyceridaemia cannot be controlled at an acceptable level or if symptoms of pancreatitis occur. Levels in excess of 800mg/dL or 9mmol/L are sometimes associated with acute pancreatitis, which may be fatal.
+Gastrointestinal disorders
+: Isotretinoin has been associated with inflammatory bowel disease (including regional ileitis) in patients without a prior history of intestinal disorders. Patients experiencing severe (hemorrhagic) diarrhoea should discontinue Isotretinoin immediately.
+High Risk Patients
+: In patients with diabetes, obesity, alcoholism or a lipid metabolism disorder undergoing treatment with Isotretinoin, more frequent checks of serum values for lipids and/or blood glucose may be necessary. Elevated fasting blood sugars have been reported, and new cases of diabetes have been diagnosed during Isotretinoin therapy.
+

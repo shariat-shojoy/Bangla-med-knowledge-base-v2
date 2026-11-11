@@ -1,0 +1,372 @@
+﻿"claim_id","lang","drug","section","relation","object","strength","status","context_or_condition","population","evidence_span","note","review_flags","check_supported","check_strength_ok","check_context_ok","check_comment"
+"G01-006","en","10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula","pregnancy_lactation","INDICATED_FOR","use in pregnancy and lactation","","stated","","pregnancy","It is recommended to use in pregnancy and lactation.","Wording 'recommended to use' does not map to standard negative strengths.","reclassified_recommended_use; wording_uncertain","y","na","na",""
+"G01-007","en","10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula","pregnancy_lactation","INDICATED_FOR","use in pregnancy and lactation","","stated","","lactation","It is recommended to use in pregnancy and lactation.","Wording 'recommended to use' does not map to standard negative strengths.","reclassified_recommended_use; wording_uncertain","","","",""
+"G01-088","bn","amoxicillin-trihydrate","indications","INDICATED_FOR","infections caused by susceptible ß-lactamase negative strains of bacteria","","stated","","","এমোক্সিসিলিন, ß-ল্যাকটামেজ তৈরী করে না এমন সব সংবেদনশীল বিভিন্ন প্রজাতির ব্যাকটেরিয়া দ্বারা সৃষ্ট সংক্রমণের চিকিৎসায় ব্যবহৃত হয়।","","span_altered_by_extractor: re-check claim content","","","",""
+"G01-124","en","aspirin","pregnancy_lactation","USE_IN","pregnancy","avoid","stated","last 3 months of pregnancy unless specifically directed to do so by a doctor","pregnancy","It is especially important not to use aspirin during the last 3 months of pregnancy unless specifically directed to do so by a doctor","","strength_rule_disagree","","","",""
+"G01-158","bn","atenolol","indications","INDICATED_FOR","angina pectoris","","stated","দীর্ঘমেয়াদী ব্যবস্থাপনায়","","এ্যানজিনা পেক্‌টোরিস (হৃদপিণ্ডে অপর্যাপ্ত রক্ত সঞ্চালন জনিত বুকে তীব্র ব্যথা) রােগীর দীর্ঘমেয়াদী ব্যবস্থাপনায়।","","span_altered_by_extractor: re-check claim content","","","",""
+"G01-168","bn","atenolol","pregnancy_lactation","USE_IN","Premature infants or infants with impaired kidney function","","stated","বিরূপ প্রতিক্রিয়ার সম্ভাবনা আরও বেশি হতে পারে","neonate","অপরিনত ভাবে জন্ম নেওয়া শিশু অথবা কিডনীর কার্যকারিতার সমস্যা আছে এমন শিশুর ক্ষেত্রে বিরূপ প্রতিক্রিয়ার সম্ভাবনা আরও বেশি হতে পারে।","","needs_strength_decision","","","",""
+"G01-156","en","atenolol","pregnancy_lactation","USE_IN","Premature infants, or infants with impaired renal function","","stated","more likely to develop adverse effects","neonate","Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.","","needs_strength_decision","","","",""
+"G01-204","bn","atorvastatin-calcium","pregnancy_lactation","USE_IN","women who are pregnant, trying to become pregnant or suspect they are pregnant","contraindicated","stated","","pregnancy","গর্ভবতী, গর্ভধারনের চেষ্টা করছেন এমন অথবা যাদের গর্ভবতী হওয়ার সম্ভাবনা রয়েছে এরূপ মহিলাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন ব্যবহার করা যাবে না।","Typo in source text 'অ্যাকাউন্টে না', extracted verbatim","span_altered_by_extractor: re-check claim content","","","",""
+"G01-237","en","betamethasone","contraindications","USE_IN","Systemic infections","contraindicated","stated","unless specific anti-infective therapy is employed","","Systemic infections, unless specific anti-infective therapy is employed.","","strength_rule_disagree","","","",""
+"G01-244","bn","betamethasone","indications","INDICATED_FOR","ear, eye, nose and oral ulceration","","stated","","","কান, চোখ, নাক এবং মুখে ঘা।","","span_altered_by_extractor: re-check claim content","","","",""
+"G03-131","bn","ciprofloxacin","contraindications","USE_IN","hypersensitivity to Ciprofloxacin and other quinolones","contraindicated","stated","","","সিপ্রোফ্লক্সাসিন এবং অন্যান্য কুইনোলোন গ্রুপের ওষুধের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এই ওষুধ দেয়া যাবে না।","Typo in source text 'যাবেবিধা', extracted verbatim","span_altered_by_extractor: re-check claim content","","","",""
+"G03-183","bn","clotrimazole-vaginal-tablet","pregnancy_lactation","CAUSES","bad effects","","negated","গর্ভাবস্থার দ্বিতীয় এবং তৃতীয় ট্রাইমিস্টারে","pregnancy","ক্লোট্রিমাজোল ত্বকে ও যােনীপথে ব্যবহারের পর রক্তে খুবই কম পরিমানে শােষিত হয়, গর্ভাবস্থার দ্বিতীয় এবং তৃতীয় ট্রাইমিস্টারে ক্লোট্রিমাজোল কোন খারাপ প্রভাব প্রদর্শন করে না।","Typo in source 'অ্যাকরে না' extracted verbatim","span_altered_by_extractor: re-check claim content","","","",""
+"G05-041","bn","ethinyl-estradiol-desogestrel-003-mg","pregnancy_lactation","USE_IN","breast feeding","","stated","","lactation","স্তন্যদানের সময় আপনি পিল খেতে চাইলে আপনার ডাক্তারের পরামর্শ নিন।","Wording cannot be mapped to a strength category.","consult_doctor (strength decision: caution?)","","","",""
+"G05-020","en","ethinyl-estradiol-desogestrel-003-mg","pregnancy_lactation","USE_IN","breast feeding","","stated","","lactation","If you wish to take the Pill while breastfeeding, please seek the advice of your doctor.","Wording cannot be mapped to a strength category.","consult_doctor (strength decision: caution?)","","","",""
+"G05-080","en","ferrous-sulfate-folic-acid","contraindications","USE_IN","anaemias not produced by iron deficiency","contraindicated","stated","unless iron deficiency is also present","","or in patients with anaemias not produced by iron deficiency unless iron deficiency is also present.","","strength_rule_disagree","","","",""
+"G05-108","en","fluconazole","pregnancy_lactation","USE_IN","women of child bearing potential","avoid","stated","unless adequate contraception is employed","childbearing potential","or in women of child bearing potential unless adequate contraception is employed.","","strength_rule_disagree","","","",""
+"G05-149","en","folic-acid-zinc-sulfate-monohydrate","pregnancy_lactation","USE_IN","lactation","","stated","","lactation","& lactation.","Wording 'Recommended' cannot be mapped to a strength category.","needs_strength_decision","","","",""
+"G06-010","en","insulin-human-rdna","pregnancy_lactation","USE_IN","pregnancy","","stated","","pregnancy","There are no restrictions on the treatment of diabetes with insulin during pregnancy","Wording 'no restrictions' does not map to a standard strength.","permissive_statement (schema gap: explicit ""can be used""); wording_uncertain","","","",""
+"G06-051","bn","iron-sucrose","pregnancy_lactation","USE_IN","pregnancy","caution","stated","only if clearly needed","pregnancy","পরিষ্কারভাবে প্রয়োজন হলে গর্ভবতীদের ক্ষেত্রে ব্যবহার করা উচিত।","mapped to caution","category_not_in_text (removed B)","","","",""
+"G06-093","bn","labetalol-hydrochloride","pregnancy_lactation","USE_IN","pregnant women with hypertension","","stated","","pregnancy","উচ্চ রক্তচাপের গর্ভবতী নারীদের ল্যাবেটালোল হাইড্রোক্লোরাইড দেওয়ার পর তা প্রসবের স্বাভাবিক প্রক্রিয়ায় কোনো প্রভাব ফেলেছে বলে মনে হয়নি।","","needs_strength_decision","","","",""
+"G06-129","bn","levetiracetam","pregnancy_lactation","USE_IN","women of childbearing potential taking contraceptives","avoid","stated","unless absolutely necessary","childbearing potential","গর্ভধারনে সক্ষম জন্মনিরোধক গ্রহণকারী নারীদের ক্ষেত্রে চিকিৎসার প্রয়োজনে নিতান্ত জরুরী না হলে ওষুধটি প্রয়োগ করা যাবে না।","Contradicts English text which says NOT using contraception","strength_rule_disagree","","","",""
+"G06-119","en","levetiracetam","pregnancy_lactation","USE_IN","women of childbearing potential not using contraception","not recommended","stated","unless clinically necessary","childbearing potential","and in women of childbearing potential not using contraception unless clinically necessary.","","strength_rule_disagree","","","",""
+"G07-044","en","metformin-hydrochloride","pregnancy_lactation","USE_IN","breastfeeding","caution","stated","","lactation","A decision on whether to discontinue breastfeeding should be made, taking into account the benefit of breastfeeding and the potential risk to adverse effects on the child.","","strength_rule_disagree","","","",""
+"G07-250","en","multivitamins-multiminerals-a-z-prenatal-preparation","indications","INDICATED_FOR","improving the nutritional status of women in the postnatal period for lactating mothers","","stated","","lactation","This is indicated for use in improving the nutritional status of women throughout the pregnancy and in the postnatal period for both lactating and non-lactating mothers.","","span_altered_by_extractor: re-check claim content","","","",""
+"G08-012","en","nitrofurantoin","pregnancy_lactation","USE_IN","nursing infants under one month of age","caution","stated","","lactation","Because of the potential for serious adverse reactions from Nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug","Modal wording indicates caution/avoid","strength_rule_disagree","","","",""
+"G08-125","bn","phenobarbital","indications","INDICATED_FOR","sedative","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-126","bn","phenobarbital","indications","INDICATED_FOR","insomnia","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-127","bn","phenobarbital","indications","INDICATED_FOR","pre-anesthesia","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-128","bn","phenobarbital","indications","INDICATED_FOR","tonic-clonic seizures","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-129","bn","phenobarbital","indications","INDICATED_FOR","cortical seizures","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-130","bn","phenobarbital","indications","INDICATED_FOR","status epilepticus","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-131","bn","phenobarbital","indications","INDICATED_FOR","meningitis","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-132","bn","phenobarbital","indications","INDICATED_FOR","tetanus","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-133","bn","phenobarbital","indications","INDICATED_FOR","toxic reactions","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-134","bn","phenobarbital","indications","INDICATED_FOR","local anesthesia","","stated","","","ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়","","broad_span","","","",""
+"G08-108","en","phenobarbital","indications","INDICATED_FOR","Sedatives","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-109","en","phenobarbital","indications","INDICATED_FOR","insomnia","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-110","en","phenobarbital","indications","INDICATED_FOR","Pre-anesthetics","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-111","en","phenobarbital","indications","INDICATED_FOR","generalized tonic-clonic seizures","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-112","en","phenobarbital","indications","INDICATED_FOR","cortical local seizures","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-113","en","phenobarbital","indications","INDICATED_FOR","acute convulsive episodes","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-114","en","phenobarbital","indications","INDICATED_FOR","status epilepticus","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-115","en","phenobarbital","indications","INDICATED_FOR","eclampsia meningitis","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-116","en","phenobarbital","indications","INDICATED_FOR","tetanus","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-117","en","phenobarbital","indications","INDICATED_FOR","toxic reactions to Strychnine","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-118","en","phenobarbital","indications","INDICATED_FOR","toxic reactions to local anesthetics","","stated","","","Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).","","broad_span","","","",""
+"G08-161","en","prochlorperazine-maleate","contraindications","USE_IN","Hypersensitivity","contraindicated","stated","","","Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.","","strength_rule_disagree","","","",""
+"G08-162","en","prochlorperazine-maleate","contraindications","USE_IN","severe CNS depression","contraindicated","stated","","","Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.","","strength_rule_disagree","","","",""
+"G08-163","en","prochlorperazine-maleate","contraindications","USE_IN","coma","contraindicated","stated","","","Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.","","strength_rule_disagree","","","",""
+"G08-164","en","prochlorperazine-maleate","contraindications","USE_IN","children <2 years of age","contraindicated","stated","","","Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.","","strength_rule_disagree","","","",""
+"G08-165","en","prochlorperazine-maleate","contraindications","USE_IN","children <10 kg","contraindicated","stated","","","Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.","","strength_rule_disagree","","","",""
+"G08-155","en","prochlorperazine-maleate","indications","INDICATED_FOR","severe nausea and vomiting","","stated","","","To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.","","broad_span","","","",""
+"G08-156","en","prochlorperazine-maleate","indications","INDICATED_FOR","Meniere's disease","","stated","","","To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.","","broad_span","","","",""
+"G08-157","en","prochlorperazine-maleate","indications","INDICATED_FOR","psychotic illness","","stated","","","To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.","","broad_span","","","",""
+"G08-158","en","prochlorperazine-maleate","indications","INDICATED_FOR","schizophrenia","","stated","","","To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.","","broad_span","","","",""
+"G08-159","en","prochlorperazine-maleate","indications","INDICATED_FOR","Acute mania","","stated","","","To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.","","broad_span","","","",""
+"G08-160","en","prochlorperazine-maleate","indications","INDICATED_FOR","generalized non-psychotic anxiety","","stated","","","To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.","","broad_span","","","",""
+"G08-178","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Maintenance of Pregnancy","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-179","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Luteal support","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-180","en","progesterone-micronised-capsule","indications","INDICATED_FOR","post-menopausal hormone replacement therapy","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-181","en","progesterone-micronised-capsule","indications","INDICATED_FOR","endometrial hyperplasia","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-182","en","progesterone-micronised-capsule","indications","INDICATED_FOR","secondary amenorrhoea","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-183","en","progesterone-micronised-capsule","indications","INDICATED_FOR","cycle control","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-184","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Dysfunctional uterine bleeding","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-185","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Premenstrual tension","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-186","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Endometriosis","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-187","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Oocyte donation programme","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-188","en","progesterone-micronised-capsule","indications","INDICATED_FOR","Benign mastopathy","","stated","","","Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.","","broad_span","","","",""
+"G08-221","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","malignancy of the breast or genital organs","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-222","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","Missed abortion","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-223","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","Undiagnosed uterine bleeding","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-224","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","Liver dysfunction","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-225","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","Liver disease","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-226","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","hypersensitivity","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-227","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","progesterone-dependent neoplasia","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-228","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","Active thrombophlebitis","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-229","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","thromboembolic disorders","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-230","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","cerebral apoplexy","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-231","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","history of hormone associated thrombophlebitis","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-232","en","progesterone-micronised-vaginal-gel","contraindications","USE_IN","Acute porphyria","contraindicated","stated","","","Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.","","broad_span","","","",""
+"G08-233","en","progesterone-micronised-vaginal-gel","pregnancy_lactation","USE_IN","embryo implantation","","stated","","","It has been used to successfully support embryo implantation and maintain pregnancies.","","invalid_strength_value:stated; needs_strength_decision","","","",""
+"G08-254","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","Hypersensitivity","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-255","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","Undiagnosed vaginal bleeding","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-256","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","progesterone sensitive malignant tumors","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-257","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","Porphyria","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-258","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","Severe hepatic dysfunction","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-259","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","Known missed abortion","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-260","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","ectopic pregnancy","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-261","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","Active arterial or venous thromboembolism","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G08-262","en","progesterone-micronised-vaginal-pessary","contraindications","USE_IN","severe thrombophlebitis","contraindicated","stated","","","Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events","","broad_span","","","",""
+"G09-251","bn","warfarin-sodium","indications","INDICATED_FOR","thromboembolic complications due to atrial fibrillation","","stated","রোধ অথবা চিকিৎসায়","","এট্রিয়াল ফিব্রিলেশন এবং/অথবা হৃৎপিন্ডের ভালভ প্রতিস্থাপনের ফলে উদ্ভূত থ্রম্বোএম্বলিক কমপ্লিকেশন রোধ অথবা চিকিৎসায়","","span_altered_by_extractor: re-check claim content","","","",""
+"G09-271","bn","zinc-sulfate-monohydrate","contraindications","USE_IN","hypersensitivity to zinc or any of its components","not recommended","stated","","","জিংক বা এটির কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এটি ব্যবহার করা যাবে না।","","strength_rule_disagree","","","",""

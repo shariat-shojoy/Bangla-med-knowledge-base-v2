@@ -1,0 +1,365 @@
+### drug=methyldopa | section=interaction | lang=bn
+মিথাইলডোপা উচ্চ রক্তচাপ নিরোধক ওষুধের সাথে ব্যবহার করলে উচ্চ রক্তচাপ সুনিয়ন্ত্রিত হয়। মিথাইলডোপা ব্যবহারকালে এনেসথেশিয়ার ওষুধের মাত্রা রোগীদের ক্ষেত্রে কম প্রয়োজন হতে পারে। মিথাইলডোপা ও লিথিয়াম একত্রে ব্যবহার করলে রোগীদের লিথিয়াম বিষক্রিয়ার উপসর্গ সতর্কতার সাথে লক্ষ্য করা উচিত। মিথাইলডোপার সাথে ফেরাস সালফেট বা ফেরাস গ্লুকোনেট নির্দেশিত নয়।
+
+### drug=methyldopa | section=precautions | lang=bn
+যাদের লিভারের রোগ অথবা অক্ষমতার ইতিহাস আছে। মিথাইলডোপা গ্রহণকালীন যাদের ইডিমা অথবা ওজন বৃদ্ধির ইতিহাস আছে যা ডাইইউরেটিকস দ্বারা নিয়ন্ত্রিত হয়েছে। যাদের ক্ষেত্রে ইডিমা বর্ধনশীল অথবা হার্ট ফেইলিওরের উপসর্গ দেখা দেয় তাদের ক্ষেত্রে মিথাইলডোপা ব্যবহার করা ঠিক নয়। ডায়ালাইসিস করার পর রোগীদের কখনও কখনও উচ্চ রক্তচাপ হতে পারে কেননা মিথাইলডোপা প্রধানত এই প্রক্রিয়াতেই নিঃসৃত হয়। তীব্র বাইলেটারাল সেরিব্রোভাস্কুলার রোগের ক্ষেত্রে কখনও কখনও অনিয়ন্ত্রিত কোরিওএ্যাথেটোটিক মুভমেন্ট লক্ষ্য করা যায়। এসব ক্ষেত্রে মিথাইলডোপা বন্ধ করে দেয়া উচিত।
+
+### drug=methyldopa | section=special_populations | lang=bn
+শিশুদের ক্ষেত্রে
+: শিশুদের জন্য সেধরনের কোন সুনিয়ন্ত্রিত ক্লিনিক্যাল পরীক্ষা নেই। শিশুদের জন্য মাত্রা, উচ্চ রক্তচাপ নিয়ন্ত্রণের জন্য প্রকাশিত তথ্যের ভিত্তিতে নির্দেশিত।
+
+### drug=methyldopa | section=interaction | lang=en
+When Methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may occur. Patients may require reduced doses of anesthetics when on Methyldopa. When Methyldopa and lithium are given concomitantly the patient should be carefully monitored for symptoms of lithium toxicity. Coadministration of Methyldopa with ferrous sulfate or ferrous gluconate is not recommended.
+
+### drug=methyldopa | section=precautions | lang=en
+Methyldopa should be used with caution in patients with a history of previous liver disease or dysfunction. Some patients taking Methyldopa experience clinical edema or weight gain, which may be controlled by use of a diuretic. Methyldopa should not be continued if edema progresses or signs of heart failure appear. Hypertension has recurred occasionally after dialysis in patients given Methyldopa because the drug is removed by this procedure. Rarely involuntary choreoathetotic movements have been observed during therapy with Methyldopa in patients with severe bilateral cerebrovascular disease. If these movements occur, stop therapy
+
+### drug=methyldopa | section=special_populations | lang=en
+Pediatric Use
+: There are no well-controlled clinical trials in pediatric patients. Information on dosing in pediatric patients is supported by evidence from published literature regarding the treatment of hypertension in pediatric patients.
+
+### drug=metoclopramide-hydrochloride | section=precautions | lang=bn
+Tardive Dyskinesia (TD), Other Extrapyramidal Symptoms (EPS), and Neuroleptic Malignant Syndrome (NMS): Avoid concomitant use of other drugs known to cause TD/EPS/NMS and avoid use in patients with Parkinson’s Disease. If symptoms occur, discontinue Reglan and seek immediate medical attention.
+Depression and suicidal ideation/suicide: Avoid use.
+
+### drug=metoclopramide-hydrochloride | section=precautions | lang=en
+Tardive Dyskinesia (TD), Other Extrapyramidal Symptoms (EPS), and Neuroleptic Malignant Syndrome (NMS): Avoid concomitant use of other drugs known to cause TD/EPS/NMS and avoid use in patients with Parkinson’s Disease. If symptoms occur, discontinue Reglan and seek immediate medical attention.
+Depression and suicidal ideation/suicide: Avoid use.
+
+### drug=metronidazole | section=interaction | lang=bn
+ডাইসালফাইরাম
+: মেট্রোনিডাজল এবং ডাইসালফাইরাম এক সাথে ব্যবহার করলে মানসিক প্রতিক্রিয়ার উদ্ভব হতে পারে বলে রিপোর্ট পাওয়া গেছে।
+অ্যালকোহল
+: মেট্রোনিডাজল দ্বারা চিকিৎসা চলাকালীন সময় এবং শেষ হবার অন্তত ১ দিন পর পর্যন্ত রোগীদের অ্যালকোহল জাতীয় পানীয় সেবন করা থেকে বিরত থাকার পরামর্শ দিতে হবে কারন সেটা ডাইসালফাইরাম প্রতিক্রিয়ার (অ্যানটাবউস ইফেক্ট- ত্বকে অত্যধিক রক্ত সরবরাহ, বমি, দ্রুত হৃদস্পন্দন) কারন হতে পারে।
+এন্টিকোয়াগুলেন্ট চিকিৎসা (ওয়ারফেরিন জাতীয়)
+: হেপাটিক ক্যাটাবলিসম কমে যাওয়ার কারনে এন্টিকোয়াগুলেন্ট এর প্রভাব বৃদ্ধি পায় এবং রক্তক্ষরন এর সম্ভবনা বেড়ে যায়। মেট্রোনিডাজল এর সাথে দেওয়া হলে নিয়মিত প্রোথ্রম্বিন টাইম পর্যবেক্ষণ করতে হবে এবং এন্টিকোয়াগুলেন্ট-এর মাত্রা সমন্বয় করতে হবে।
+লিথিয়াম
+: মেট্রোনিডাজল দ্বারা রক্তের প্লাজমা তে লিথিয়াম এর মাত্রা বৃদ্ধি পেতে পারে।
+সাইক্লোস্পরিন
+: সেরাম এ সাইক্লোস্পরিন এবং ক্রিয়েটিনিন এর মাত্রা নিবির ভাবে পর্যবেক্ষণ করতে হবে যদি মেট্রোনিডাজল এর সাথে দেওয়া হয়।
+ফেনাইটয়েন অথবা ফেনোবারবিটাল
+: মেট্রোনিডাজল নিঃসরণ এর মাত্রা বেড়ে যাওয়ায় প্লাজমাতে পরিমান কমে যায়।
+৫-ফ্লুরোইউরাসিল
+: শরীর থেকে নিঃসরণ এর মাত্রা কমে যাওয়ায় ৫-ফ্লুরোইউরাসিল দ্বারা বিষক্রিয়ার সম্ভবনা বৃদ্ধি পায়।
+বিউসালফান
+: মেট্রোনিডাজল প্লাজমাতে বিউসালফান এর পরিমান বাড়িয়ে দেয় যা বিউসালফান জনিত বিষক্রিয়া সৃষ্টি করতে পারে।
+
+### drug=metronidazole | section=precautions | lang=bn
+যদি কোন কারনবশত নির্ধারিত সময়কালের অধিক সময় ধরে মেট্রোনিডাজল দ্বারা চিকিৎসা করতে হয় সেক্ষেত্রে সেবনকারীর রক্ত পরীক্ষা, বিশেষ করে শ্বেত রক্তকনিকার সংখ্যা, নিয়মিত পরীক্ষা করা এবং রোগীর বিরূপ প্রতিক্রিয়া, যেমন- প্রান্তিক ও কেন্দ্রীয় স্নায়ুরোগ (পারেসথেশিয়া অ্যাটাকশিয়া, ঝিম ঝিম লাগা, খিঁচুনি), পর্যবেক্ষণ এর জন্য নজরদারিতে রাখতে হবে।
+মেট্রোনিডাজল হেপাটিক এনসেফেলোপ্যাথি রোগীদের সতর্কতার সাথে প্রয়োগ করা উচিত।
+রোগীদের সতর্ক করা উচিত যে মেট্রোনিডাজল মূত্রকে ডার্ক করতে পারে।
+
+### drug=metronidazole | section=special_populations | lang=bn
+যকৃতের সমস্যা
+: মেট্রোনিডাজলের বিপাক প্রধানত যকৃতে জারন দ্বারা হয়ে থাকে। যকৃতের গুরুত্বর সমস্যার ক্ষেত্রে মেট্রোনিডাজলের অপসারণে বড় ধরণের অবণতি ঘটতে পারে। যেসকল রোগীদের হেপাটিক এন্সেফেলোপ্যাথি আছে তাদের ক্ষেত্রে মেট্রোনিডাজল পুঁজিভুত হয় যার ফলাফলস্বরূপ রক্তে এর মাত্রা বেড়ে যাওয়ার কারণে এন্সেফেলোপ্যাথির লক্ষণসমূহ দেখা দিতে পারে। এই কারনে হেপাটিক এন্সেফেলোপ্যাথির রোগীদেও ক্ষেত্রে মেট্রোনিডাজল সতর্কতার সাথে প্রয়োগ করতে হবে। দৈনিক মাত্রা এক তৃতীয়াংশে কমিয়ে নিয়ে এসে দিনে একবার প্রয়োগ করতে হবে। মেট্রোনিডাজলের কারণে প্রস্রাব গাঢ় বর্ণের হতে পারে এই ব্যপারে রোগীকে সতর্ক করতে হবে।
+কিডনির সমস্যা
+: কিডনি ফেইলিওর এর ক্ষেত্রে মেট্রোনিডাজলের এলিমিনেশন হাফ-লাইফ অপরিবর্তিত থাকে। তাই এর মাত্রা পরিবর্তনের কোন প্রয়োজন হয় না। এই রোগীদের যদিও মেট্রোনিডাজলের মেটাবোলাইট সমুহ শরীরে জমা থাকে। তবে এখনও এর কোন ক্লিনিক্যাল তাৎপর্য নেই। হেমোডায়ালাইসিস এর রোগীদের ক্ষেত্রে মেট্রোনিডাজল এবং এর মেটাবোলাইট সমূহ ডায়ালাইসিসের ৮ ঘণ্টার মধ্যে শরীর থেকে বের হয়ে যায়। এই কারণে হেমোডায়ালাইসিস করার সাথে সাথেই পুনরায় মেট্রোনিডাজল দিতে হবে। Intermittent Peritoneal Dialysis (IDP) অথবা Continuous Ambulatory Peritoneal Dialysis (CAPD) এর রোগীদের ক্ষেত্রে মেট্রোনিডাজলের মাত্রার কোনরূপ সমন্বয় সাধন করতে হবে না।
+
+### drug=metronidazole | section=interaction | lang=en
+Disulfiram
+: Psychotic reactions have been reported in patients who were using metronidazole and disulfiram concurrently.
+Alcohol
+: Alcoholic beverages and drugs containing alcohol should not be consumed during therapy and for at least one day afterwards because of the possibility of a disulfiram-like (antabuse effect) reaction (flushing, vomiting, tachycardia). Oral anticoagulant therapy (warfarin type): Potentiation of the anticoagulant effect and increased hemorrhagic risk caused by decreased hepatic catabolism. In case of co-administration, prothrombin time should be more frequently monitored and anticoagulant therapy adjusted during treatment with metronidazole.
+Lithium
+: Plasma levels of lithium may be increased by metronidazole.
+Cyclosporin
+: Serum cyclosporin and serum creatinine should be closely monitored when co-administration is necessary.
+Phenytoin or phenobarbital
+: increased elimination of metronidazole resulting in reduced plasma levels.
+5-Fluorouracil
+: Reduced clearance of 5-fluorouracil resulting in increased toxicity of 5-fluorouracil.
+Busulfan
+: Plasma levels of busulfan may be increased by metronidazole, which may lead to severe busulfan toxicity.
+
+### drug=metronidazole | section=precautions | lang=en
+If for compelling reasons, metronidazole must be administered longer than the usually recommended duration, it is recommended that hematological tests, especially leucocyte count should be carried out regularly and that patients should be monitored for adverse reactions such as peripheral or central neuropathy (such as paresthesia, ataxia, dizziness, convulsive seizures).
+Metronidazole should be administered with caution to patients with hepatic encephalopathy.
+Patients should be warned that metronidazole may darken urine.
+
+### drug=metronidazole | section=special_populations | lang=en
+Hepatic impairment
+: Metronidazole is mainly metabolised by hepatic oxidation. Substantial impairment of metronidazole clearance may occur in the presence of advanced hepatic insufficiency. Significant cumulation may occur in patients with hepatic encephalopathy and the resulting high plasma concentrations of metronidazole may contribute to the symptoms of the encephalopathy. Metronidazole should therefore, be administered with caution to patients with hepatic encephalopathy. The daily dosage should be reduced to one third and may be administered once daily. Patients should be warned that metronidazole may darken urine.
+Renal impairment
+: The elimination half-life of metronidazole remains unchanged in the presence of renal failure. The dosage of metronidazole therefore needs no reduction. Such patients however retain the metabolites of metronidazole. The clinical significance of this is not known at present. In patients undergoing haemodialysis metronidazole and metabolites are efficiently removed during an eight hour period of dialysis. Metronidazole should therefore be re-administered immediately after haemodialysis. No routine adjustment in the dosage of Metronidazole need be made in patients with renal failure undergoing intermittent peritoneal dialysis (IDP) or continuous ambulatory peritoneal dialysis (CAPD).
+
+### drug=mifepristone | section=interaction | lang=bn
+কিটোকোনাজল, ইট্রাকোনাজল, ইরাইথ্রোমাইসিন এবং আঙুরের রস (Grapefruit juice) মিফেপ্রিস্টোনের মেটাবলিজম বা বিপাক প্রক্রিয়াকে বাধাগ্রস্ত করতে পারে, যার ফলে রক্তে মিফেপ্রিস্টোনের মাত্রা বৃদ্ধি পেতে পারে।
+অন্যদিকে রিফাম্পিসিন, ডেক্সামিথাসন, সেন্ট জনস ওর্ট এবং কিছু খিঁচুনির ঔষধ (ফেনিটোইন, ফেনোবারবিটাল, কার্বামাজেপিন) মিফেপ্রিস্টোনের মেটাবলিজম বাড়িয়ে দিতে পারে, যার ফলে রক্তে এর কার্যকারিতা বা মাত্রা কমে যেতে পারে।
+ল্যাবরেটরি তথ্যের ওপর ভিত্তি করে ধারণা করা হয় যে, মিফেপ্রিস্টোন একসঙ্গে ব্যবহার করলে CYP3A4 সাবস্ট্রেট যুক্ত অন্যান্য ঔষধের রক্তে ঘনত্ব বেড়ে যেতে পারে।
+সীমিত প্রমাণ থেকে জানা যায় যে, প্রোস্টাগ্ল্যান্ডিন প্রয়োগের দিন এনএসআইডি (NSAIDs- ব্যথানাশক ঔষধ) ব্যবহার করলে তা জরায়ুর মুখ নরম হওয়া বা জরায়ুর সংকোচনের ওপর মিফেপ্রিস্টোন বা প্রোস্টাগ্ল্যান্ডিনের কার্যকারিতায় কোনো নেতিবাচক প্রভাব ফেলে না এবং চিকিৎসাগত গর্ভপাতের সফলতার হারও কমায় না।
+
+### drug=mifepristone | section=precautions | lang=bn
+মিফেপ্রিস্টোন শুধুমাত্র একক ডোজের প্যাকেজিংয়ে পাওয়া যায়। এর প্রয়োগ অবশ্যই একজন যোগ্য ও অভিজ্ঞ চিকিৎসকের সরাসরি তত্ত্বাবধানে হতে হবে।
+দীর্ঘস্থায়ী অন্যান্য শারীরিক সমস্যা যেমন- হৃদরোগ, উচ্চ রক্তচাপ, যকৃতের রোগ, শ্বসনতন্ত্র বা কিডনির রোগ, ইনসুলিন-নির্ভর ডায়াবেটিস মেলিটাস, তীব্র রক্তস্বল্পতা অথবা অতিরিক্ত ধূমপানের অভ্যাস থাকা নারীদের ক্ষেত্রে মিফেপ্রিস্টোনের নিরাপত্তা ও কার্যকারিতার কোনো পর্যাপ্ত তথ্য নেই।
+যেসব নারীর বয়স ৩৫ বছরের বেশি এবং যারা প্রতিদিন ১০টি বা তার বেশি সিগারেট ধূমপান করেন, তাদের ক্ষেত্রে এই চিকিৎসা সতর্কতার সাথে করতে হবে; কারণ সাধারণত ক্লিনিক্যাল ট্রায়ালগুলোতে এই ধরনের নারীদের অন্তর্ভুক্ত করা হয়নি।
+যদিও এর কোনো সুনির্দিষ্ট ক্লিনিক্যাল প্রমাণ নেই, তবে মিফেপ্রিস্টোন সেবনের দুই দিনেরও বেশি সময় পর মিসোপ্রোস্টল প্রয়োগ করা হলে মিফেপ্রিস্টোনের কার্যকারিতা হ্রাস পেতে পারে।
+
+### drug=mifepristone | section=interaction | lang=en
+ketoconazole, itraconazole, erythromycin and grapefruit juice may inhibit its metabolism (increasing serum levels of mifepristone). Furthermore, rifampicin, dexamethasone, St John's Wort and certain anticonvulsants (phenytoin, phenobarbital, carbamazepine) may induce mifepristone metabolism (lowering serum levels of Mifepristone). Based on invitro inhibition information, co-administration of mifepristone may lead to an increase in serum levels of drugs that are CYP3A4 substrates.
+Limited evidence suggests that co-administration of NSAIDs on the day of prostaglandin administration does not adversely influence the effects of Mifepristone or the prostaglandin on cervical ripening or uterine contractility and does not reduce the clinical efficacy of medical termination of pregnancy.
+
+### drug=mifepristone | section=precautions | lang=en
+Mifepristone is available only in single dose packaging. Administration must be under the supervision of a qualified physician. There are no data on the safety and efficacy of Mifepristone in women with chronic medical conditions such as cardiovascular, hypertensive, hepatic, respiratory or renal disease; insulin-dependent diabetes mellitus; severe anemia or heavy smoking. Women who are more than 35 years of age and who also smoke 10 or more cigarettes per day should be treated with caution because such patients were generally excluded from clinical trials of Mifepristone. Although there is no clinical evidence, the effectiveness of Mifepristone may be lower if Misoprostol is administered more than two days after Mifepristone administration.
+
+### drug=misoprostol | section=interaction | lang=bn
+মিসোপ্রোষ্টলের সাথে কার্ডিয়াক, পালমোনারী, সিএনএস-এর ওষুধ ও এনএসএআইডি-এর ক্লিনিক্যালি তাৎপর্যপূর্ণ ইন্টার‍্যাকশনের প্রমান পাওয়া যায়নি। উচ্চমাত্রার এন্টাসিডের সাথে সেবন করলে মিসোপ্রোষ্টলের বায়োএ্যভেইল্যাবিলিটি কমে যায়।
+
+### drug=misoprostol | section=precautions | lang=bn
+এনএসএআইডি জনিত গ্যাষ্ট্রিক ও ডিওডেনাল আলসারের প্রতিরোধে এবং চিকিৎসায়
+: গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত এবং শিশু জন্মদানে সক্ষম মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল ব্যবহার করা উচিত নয় যদি না রোগীর এনএসএআইডি থেরাপির প্রয়োজন পড়ে। শিশু জন্মদানে সক্ষম মহিলাদের বলতে হবে যে মিসোপ্রোটল সেবন কালে তারা যেন অবশ্যই গর্ভধারণ না করেন এবং অবশ্যই একটি কার্যকরী জন্মনিয়ন্ত্রণ পদ্ধতি গ্রহণ করতে হবে।
+প্রসবের সূচনাকল্পে
+: সঠিক তারিখ নির্ধারণের মাধ্যমে গর্ভাবস্থার ৩৮ সপ্তাহ পূর্ণকরণ অথবা এল/এস >২.০ বা ধনাত্বক ফসফোটিডিল গ্লিসারণ পরীক্ষা দ্বারা ফুসফুসের পরিপূর্ণতা প্রাপ্তি অথবা ৩৬ সপ্তাহ পূর্ণ হওয়ার পর মাতৃত্ব বা ভ্রূণজনিত কারণে প্রসবের সূচনাকল্পের নির্দেশনা থাকতে হবে। একিউট ফিটাল ডিসট্রেস, এ্যাবরাপশিও প্লাসেন্টা, প্লাসেন্টা প্রেভিয়া অথবা ব্যাখ্যাতীত ভ্যাজাইনাল রক্তস্রাব হলে প্রসবের সূচনাকরণ প্রতিনির্দেশিত। ভ্রূণ ভারটেক্স প্রেজেন্টেশন-এ থাকতে হবে।
+
+### drug=misoprostol | section=special_populations | lang=bn
+শিশুদের ক্ষেত্রে
+: ১৮ বছরের কম বয়সী শিশুদের ক্ষেত্রে মিসোপ্রোষ্টলের কার্যকারীতা ও নিরাপত্তা প্রতিষ্ঠিত হয়নি।
+
+### drug=misoprostol | section=interaction | lang=en
+There is no evidence of clinically significant interaction between Misoprostol and cardiac, pulmonary, CNS drugs and NSAID's. The bioavailability of Misoprostol is decreased with high doses of antacid.
+
+### drug=misoprostol | section=precautions | lang=en
+In case of prevention and treatment of NSAID induced gastric and duodenal ulcer
+: Misoprostol is contraindicated in women who are pregnant, and should not be used in women of child bearing potential unless the patient requires NSAID therapy. Women of child bearing potential should be told that they must not be pregnant when Misoprostol therapy is initiated and they must use an effective contraception method while taking misoprostol.
+In case of induction of labor
+: The pregnancy should have completed 38 weeks gestation by reliable dating, or lung maturity as evidenced by a L/S >2.0 or a positive phosphotidyl glycerol test, or completed 36 weeks gestation with a maternal or fetal medical indication for induction of labor. Induction of labor is contraindicated in acute fetal distress, abruptio placenta, placenta previa or unexplained vaginal bleeding. The fetus should be in vertex presentation.
+
+### drug=misoprostol | section=special_populations | lang=en
+Use in children: Safety and effectiveness of Misoprostol in children below the age of 18 years have not been established.
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=precautions | lang=bn
+ফলিক এসিড এর উল্লিখিত মাত্রা অতিক্রম করবেন না। আপনার যদি নিউরাল টিউব ডিফেক্ট যুক্ত সন্তান হয়ে থাকে তবে চিকিৎসকের পরামর্শ গ্রহণ করুন।
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula | section=precautions | lang=en
+To be dispensed only on the prescription of a registered physician. Store below 30°C and dry place, protect from light. Keep out of reach of children.
+
+### drug=oral-rehydration-salt-glucose-based | section=interaction | lang=bn
+There are no known drug interactions and none well documented.
+
+### drug=oral-rehydration-salt-glucose-based | section=precautions | lang=bn
+Depressed renal function, severe continuing diarrhea or other critical fluid losses may need supplementation with parenteral fluids along with oral saline.
+
+### drug=oral-rehydration-salt-glucose-based | section=interaction | lang=en
+There are no known drug interactions and none well documented.
+
+### drug=oral-rehydration-salt-glucose-based | section=precautions | lang=en
+Depressed renal function, severe continuing diarrhea or other critical fluid losses may need supplementation with parenteral fluids along with oral saline.
+
+### drug=nifedipine | section=interaction | lang=bn
+অন্যান্য কিছু ঔষধের সাথে এটি সেবন করলে বিক্রিয়া হতে পারে:
+ACE ইনহিবিটরস: রক্তচাপ অতিরিক্ত কমিয়ে দিতে পারে।
+অ্যান্টি-অ্যারিথমিকস: কুইনিডিন-এর কার্যকারিতা কমিয়ে দিতে পারে।
+অ্যান্টি-ব্যাকটেরিয়াল: রিফাম্পিসিন সম্ভবত নিফেডিপিনের বিপাক বাড়িয়ে দেয়।
+অ্যান্টি-এপিলিপটিক্স (মৃগীরোগের ঔষধ): ফেনাইটোইন-এর মাত্রা বাড়িয়ে দিতে পারে।
+অ্যান্টিসাইকোটিকস: রক্তচাপ অতিরিক্ত কমিয়ে দিতে পারে।
+বিটা-ব্লকার্স (β-blockers): মাঝেমধ্যে মারাত্মক নিম্ন রক্তচাপ এবং হার্ট ফেইলিউর হতে পারে।
+সাইক্লোস্পোরিন: নিফেডিপিনের কার্যকারিতা বাড়িয়ে দিতে পারে।
+পেশী শিথিলকারী ঔষধ: যেমন টিউবোকুরারিন এর কার্যকারিতা বৃদ্ধি পায়।
+অ্যান্টিআলসারেন্টস (আলসারের ঔষধ): নিফেডিপিনের বিপাক বৃদ্ধি পেতে পারে।
+
+### drug=nifedipine | section=precautions | lang=bn
+ট্যাবলেটগুলো আস্ত গিলে খেতে হবে; এগুলো কামড়ানো, চিবানো বা ভেঙে ফেলা যাবে না।
+যাদের হার্টের পাম্প করার ক্ষমতা দুর্বল, তাদের ক্ষেত্রে এটি সতর্কতার সাথে ব্যবহার করা উচিত।
+চিকিৎসা শুরুর পরপরই যদি বুকে ব্যথা শুরু হয় বা বিদ্যমান ব্যথা আরও বেড়ে যায়, তবে ঔষধ সেবন বন্ধ করতে হবে।
+ডায়াবেটিস রোগীদের ক্ষেত্রে তাদের রোগ নিয়ন্ত্রণের মাত্রা (ইনসুলিন বা অন্যান্য ঔষধ) সমন্বয় করার প্রয়োজন হতে পারে।
+যেহেতু কিডনির রোগের কারণে এই ঔষধের শোষণ প্রক্রিয়া পরিবর্তিত হতে পারে, তাই কিডনি রোগীদের ক্ষেত্রে এটি ব্যবহারে সতর্কতা অবলম্বন করা উচিত।
+
+### drug=nifedipine | section=interaction | lang=en
+ACE inhibitors: Enhanced hypotensive effect.
+Anti-arrythmics: Plasma concentration of quinidine is reduced.
+Anti-bacterials: Rifampicin possibly increases metabolism of Nifedipine.
+Anti-epileptics: Plasma concentration of phenytoin increases.
+Antipsychotics: Enhanced hypotensive effect.
+β-blockers: Occasionally severe hypotension and heart failure may occur.
+Cyclosporin: Plasma concentration of Nifedipine possibly increases.
+Muscle relaxants: Effect of muscle relaxants e.g. tubocurarine increases.
+Antiulcerants: Metabolism of Nifedipine increased.
+
+### drug=nifedipine | section=precautions | lang=en
+Tablets should be swallowed whole and should not be bitten, chewed or broken up. It should be used with caution in patient whose cardiac reserve is poor. Should be withdrawn if ischaemic pain occurs or existing pain worsens shortly after initiating treatment. Use in diabetic patients requires adjustment of their control. Since the absorption of the drug could be modified by renal disease, caution should be exercised in treating such patients.
+
+### drug=nitrofurantoin | section=interaction | lang=bn
+নাইট্রোফিউরানটোইন এর সাথে ম্যাগনেসিয়াম ট্রাইসিলিকেট এর কোন এন্টাসিড একসাথে খেলে এটা নাইট্রফিউরানটোইনের পরিশােষনের মাত্রা ও পরিমাণ কমিয়ে দেয়। ইউরিকোসুরিক ঔষধ, যেমন- প্রবিনিসিড, সালফিলপাইরাজোন বৃক্কের নালিকায় নাইট্রোফিউরানটোইন এর নিঃসরন বন্ধ করে দেয়।
+
+### drug=nitrofurantoin | section=precautions | lang=bn
+যদি তীব্র, অল্প তীব্র অথবা দীর্ঘমেয়াদী পালমােনারী রিয়্যাকশন দেখা দেয় তবে নাইট্রোফিউর়ানটোইন দেয়া বন্ধ করতে হবে। নাইট্রোফিউর়ানটোইন এর সাথে ম্যাগনেসিয়াম ট্রাইসিলিকেট এর কোন এন্টাসিড খাওয়া হবে না।
+
+### drug=nitrofurantoin | section=interaction | lang=en
+Antacids containing Magnesium Trisilicate, when administered concomitantly with Nitrofurantoin, reduce both the rate and extent of absorption of Uricosuric drugs, such as Probenecid and Sulfinpyrazone, can inhibit renal tubular secretion of Nitrofurantoin.
+
+### drug=nitrofurantoin | section=precautions | lang=en
+If acute, sub-acute or chronic pulmonary reactions occur, Nitrofurantoin should be discontinued. Antacid preparations containing magnesium trisilicate should not be taken while taking Nitrofurantoin.
+
+### drug=ondansetron | section=interaction | lang=en
+Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver. Because Ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes, inducers or inhibitors of these enzymes may change the clearance and hence, the half-life of Ondansetron. On the basis of available data, no dosage adjustment of Ondasetron is recommended for patients on these drugs.
+
+### drug=ondansetron | section=precautions | lang=en
+Hypersensitivity reactions have been reported in patients who have exhibited hypersensitivity to other selective 5-HT3 receptor antagonists. Ondansetron is not a drug that stimulates gastric or intestinal peristalsis. It should not be used instead of nasogastric suction. The use of Ondansetron in patients following abdominal surgery or in patients with chemotherapy-induced nausea and vomiting may mask a progressive ileus and/or gastric distension.
+
+### drug=ondansetron | section=special_populations | lang=en
+Dosage Adjustment for Patients With Impaired Renal Function
+: The dosage recommendation is the same as for the general population.
+Dosage Adjustment for Patients With Impaired Hepatic Function
+: In patients with severe hepatic impairment, a single maximal daily dose of 8 mg to be infused over 15 minutes beginning 30 minutes before the start of the emetogenic chemotherapy is recommended.
+4 years of age or younger
+: Little information is available about dosage in pediatric patients 4 years of age or younger.
+Over the age of 65
+: Dosage adjustment is not needed in patients over the age of 65.
+
+### drug=oxytocin | section=precautions | lang=bn
+যেহেতু অক্সিটোসিনের ইউটেরাইন সংবেদনশীলতায় তারতম্য হতে পারে তাই অক্সিটোসিনের ব্যবহারে সতর্ক থাকতে হবে। প্রতিটি রোগীর সর্বনিম্ন কার্যকর ডোজ নির্ধারণ করে তা লেবার আনয়ন করতে হবে।
+পর্যাপ্ত চিকিৎসা ও তদারকিতে শুধুমাত্র অক্সিটোসিন ব্যবহার করতে হবে
+ভ্রুনের হার্টরেট ও মায়ের রক্তচাপ পর্যবেক্ষণে রাখতে হবে
+ইউটেরাসের ক্ষত বা সারভিক্স ইউটেরি থাকলে অক্সিটোসিনের সতর্কতার সাথে ব্যবহার করতে হবে
+
+### drug=oxytocin | section=interaction | lang=en
+Severe hypertension has been reported when Oxytocin was given three to four hours following prophylactic administration of a vasoconstrictor in conjunction with caudal-block anesthesia. Cyclopropane anesthesia may modify Oxytocin’s cardiovascular effects, so as to produce unexpected results such as hypotension. Maternal sinus bradycardia with abnormal atrioventricular rhythms has also been noted when Oxytocin was used concomitantly with cyclopropane anesthesia.
+
+### drug=oxytocin | section=precautions | lang=en
+Since uterine sensitivity to oxytocin may vary widely. Oxytocin should be used with care. The smallest effective dose must be determined for each patient and then utilized to initiate labor.
+Oxytocin should only be used when adequate medical supervision is provided. Fetal heart rate and maternal blood pressure should be determined.
+Oxytocin should be used with care if scars of the uterus and of the cervix uteri exist.
+
+### drug=aspirin | section=interaction | lang=bn
+অ্যান্টিকোয়াগুল্যান্টস, ওরাল হাইপোগ্লাইকাইমিক এজেন্টস, ফিনাইটয়েন এবং সোডিয়াম ভ্যালপ্রোয়েটের প্রভাব স্যালিসিলেটস বাড়িয়ে তুলতে পারে। তারা প্রোবেনসিডের ইউরিকোসরিক প্রভাবকে বাধা দেয় এবং সালফোনামাইডের বিষাক্ততা বাড়িয়ে তুলতে পারে। তারা ব্রোঙ্কোস্পাজমকে বাধা দিতে পারে বা সংবেদনশীল বিষয়ে অ্যাজমা আক্রমণ করতে পারে।
+
+### drug=aspirin | section=precautions | lang=bn
+হাঁপানী, অনিয়ন্ত্রিত রক্তচাপ এবং গর্ভবতী মহিলাদের ক্ষেত্রে সাবধানতা অবলম্বন করা উচিত। নাকের পলিপ এবং এলার্জি রােগীদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত।
+
+### drug=aspirin | section=interaction | lang=en
+Salicylates may enhance the effect of anticoagulants, oral hypoglycaemic agents, phenytoin and sodium valporate. They inhibit the uricosuric effect of probenecid and may increase the toxicity of sulphonamides. They may also precipitate bronchospasm or induce attacks of asthma in susceptible subjects.
+
+### drug=aspirin | section=precautions | lang=en
+It should be administered cautiously in asthma, uncontrolled blood pressure, and pregnant women. It should be administered with caution to patients with a nasal polyp and nasal allergy.
+
+### drug=paracetamol | section=interaction | lang=bn
+বারবিচুরেট জাতীয় ও বিষন্নতারোধী ট্রাইসাইক্লিক জাতীয় ঔষধ গ্রহণকারী এবং এলকোহল পানকারী রোগীদের ক্ষেত্রে অধিকমাত্রায় সেবন করলে প্যারাসিটামলের বিপাক কমে যেতে পারে। এলকোহল, মাত্রাধিকভাবে সেবন কৃত প্যারাসিটামল দ্বারা সৃষ্ট লিভারের বিষক্রিয়া আরো বাড়িয়ে দিতে পারে। খিচুনিবিরোধী ঔষধ এবং স্টেরয়েডজাতীয় জন্মনিরোধকের দীর্ঘ মেয়াদী ব্যবহার লিভার এনজাইমকে প্রণোদিত করে; ফলে এ জাতীয় ঔষধের সাথে একত্রে গ্রহণে ‘ফার্স্ট-পাস’ বিপাক ত্বরান্বিত হয় এবং প্যারাসিটামলের কার্যকরী মাত্রা অর্জন ব্যহত হয়।
+
+### drug=paracetamol | section=precautions | lang=bn
+গুরুতর কিডনি বা গুরুতর হেপাটিক বৈকল্যযুক্ত রোগীদের প্যারাসিটামল ব্যবহারে যত্ন নেওয়ার পরামর্শ দেওয়া হয়। যারা নন-সিরোটিক অ্যালকোহলযুক্ত লিভার রোগে আক্রান্ত তাদের ওভারডোজের ঝুঁকি বেশি। নির্ধারিত মাত্রা অতিক্রম করা যাবে না। রোগীদের একই সাথে অন্যান্য প্যারাসিটামলযুক্ত পণ্য বর্জন করা উচিত। প্যারাসিটামল শুধুমাত্র সেই রোগীর দ্বারা ব্যবহার করা উচিত যার জন্য এটি নির্ধারিত হয়।
+
+### drug=paracetamol | section=interaction | lang=en
+Patients who have taken barbiturates, tricyclic antidepressants and alcohol may show diminished ability to metabolise large doses of Paracetamol. Alcohol can increase the hepatotoxicity of Paracetamol overdosage. Chronic ingestion of anticonvulsants or oral steroid contraceptives induce liver enzymes and may prevent attainment of therapeutic Paracetamol levels by increasing first-pass metabolism or clearance.
+
+### drug=paracetamol | section=precautions | lang=en
+Care is advised in the administration of Paracetamol to patients with severe renal or severe hepatic impairment. The hazard of overdose is greater in those with non-cirrhotic alcoholic liver disease. Do not exceed the stated dose. Patients should be advised not to take other Paracetamol-containing products concurrently. This product should only be used by the patient for whom it is prescribed when clearly necessary.
+Administration of Paracetamol in doses higher than recommended may result in hepatic injury, including the risk of severe hepatotoxicity and death. Do not exceed the maximum recommended daily dose of Paracetamol. Use caution when administering Paracetamol in patients with the following conditions: hepatic impairment or active hepatic disease, alcoholism, chronic malnutrition, severe hypovolemia (e.g., due to dehydration or blood loss), or severe renal impairment (creatinine clearance < 30 ml/min). There were infrequent reports of life-threatening anaphylaxis requiring emergent medical attention. Discontinue Paracetamol IV immediately if symptoms associated with allergy or hypersensitivity occurs. Do not use Paracetamol IV in patients with Paracetamol allergy.
+
+### drug=paracetamol | section=special_populations | lang=en
+Pediatric Use
+: The safety and effectiveness of Paracetamol IV for the treatment of acute pain and fever in pediatric patients ages 2 years and older is supported by evidence from adequate and well-controlled studies of Paracetamol IV in adults.
+Geriatric use
+: No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Patients with Hepatic Impairment
+: Paracetamol is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease. A reduced total daily dose of Paracetamol may be warranted.
+Patients with Renal Impairment
+: In cases of severe renal impairment (creatinine clearance < 30 ml/min), longer dosing intervals and a reduced total daily dose of Paracetamol may be warranted.
+
+### drug=phenobarbital | section=interaction | lang=bn
+অ্যালকোহল অথবা অন্যান্য কেন্দ্রিয় স্নায়ুতন্ত্র অনুদ্দীপক ঔষধ একসাথে ব্যবহার করলে অতিরিক্ত কেন্দ্রিয় স্নায়ুতন্ত্রের অবসাদ হতে পারে।
+
+### drug=phenobarbital | section=precautions | lang=bn
+নিয়মিত ব্যবহারে শারীরিক ও মানসিক সহনশীলতা ও নির্ভরতা তৈরী হতে পারে। ফেনোবারবিটাল সাবধানে ব্যবহার করা উচিত তাদের ক্ষেত্রে যারা মানসিক অবসাদ গ্রন্থ, যাদের আত্মহত্যার সম্ভাবনা রয়েছে বা যাদের মাদকাসক্তির ইতিহাস আছে। হাসপাতালে ভর্তিকৃত লিভার ড্যামেজ রোগীদের ক্ষেত্রেও সাবধানে স্বল্পমাত্রায় ব্যবহার করা উচিত।
+
+### drug=phenobarbital | section=interaction | lang=en
+The concomitant use of Alcohol or other CNS depressants may produce additive CNS depressant effects.
+
+### drug=phenobarbital | section=precautions | lang=en
+Tolerance and psychological and physical dependence may occur with continuing use. Phenobarbital should be administered with caution to patients who are mentally depressed, have suicidal tendencies, or a history of drug abuse. In patients with hepatic damage, Phenobarbital should be administered with caution and initially reduced doses.
+
+### drug=phenytoin-sodium | section=precautions | lang=bn
+ফেনিটোইন দিয়ে দীর্ঘদিনের চিকিৎসার ক্ষেত্রে রক্তে ইহার মাত্রা মাঝে মাঝে পরীক্ষা করা উচিত। চামড়ায় ফুসকুড়ি হলে মাত্রা কমানো উচিত। ফেনিটোইনের ইনসুলিনের উপর ইনহিবিটরী ইফেক্টের দরুন রক্তে গ্লুকোজের পরিমান বৃদ্ধির রিপোর্ট পাওয়া গিয়েছে এই ক্ষেত্রে ইনসুলিন ব্যবহারকারী রোগীদের সতর্কতার সহিত ফেনিটোইন ব্যবহার করা উচিত। গর্ভবর্তী এবং দুগ্ধদানরত মায়েদের ক্ষেত্রে সাবধানতার সহিত ব্যবহার করা উচিত।
+
+### drug=phenytoin-sodium | section=interaction | lang=en
+Effects with other sedative drugs or ethanol may be potentiated. Enhances toxic effects of paracetamol, lithium. Increased risk of osteomalacia with acetazolamide. Decreased serum levels/effects with acyclovir, antineoplastics, benzodiazeines, ciprofloxacin, CYP2C9 inducers (e.g. carbamazepine), CYP2C19 inducers (e.g. rifampin), folic acid, vigabatrin. Increased serum concentrations with allopurinol, capecitabine, cimetidine, CYP2C9 inhibitors (e.g. fluconazole), CYP2C19 inhibitors (e.g. delavirdine), disulfiram, methylphenidate, metronidazole, omeprazole, SSRI, trazodone, trimethoprim. Increases metabolism of antiarrhythmics, anticonvulsants, antipsychotics, beta-blockers, calcium channel blockers, chloramphenicol, corticosteroids, doxycycline, oestrogens, HMG-CoA reductase inhibitors, methadone, theophylline, TCAs. Decreases levels/effects of clozapine, ciclosporin, tacrolimus, CYP2B6 substrates (e.g. bupropion, selegiline), CYP2C8 substrates (e.g. amiodarone), CYP2C9 substrates (e.g. celecoxib), CYP2C19 substrates (e.g. citalopram), CYP3A4 substrates (e.g. benzodiazepines), digoxin, itraconazole, levodopa, neuromuscular-blocking agents, thyroid hormones, topiramate. Increases levels/effect of dopamine, ticlopidine. Valproic acid may displace phenytoin from binding sites; and affect phenytoin serum concentrations. Transiently increases the hypothrombinaemia response to warfarin initially, followed by an inhibition of the response.
+
+### drug=phenytoin-sodium | section=precautions | lang=en
+In prolonged treatment periodic checking of the blood is advisable. Dose should be discontinued if skin rashes appears. Hyperglycemia resulting from the drug inhibitory effects on insulin release has been reported. It should be used with caution in pregnancy and in nursing mother.
+
+### drug=phytomenadione-injection | section=interaction | lang=bn
+ভিটামিন কে-১ কোউমারিন জাতীয় এন্টিকোয়াগুলেন্ট এর কাজকে ব্যহত করে। এন্টিকনভালসেন্ট ভিটামিন কে-১ এর কার্যকারিতাকে ব্যহত করে।
+
+### drug=phytomenadione-injection | section=precautions | lang=bn
+লিভারের তীব্র অকার্যকারীতার রোগীর ক্ষেত্রে সাবধানতার সাথে কোয়াগুলেশন বৈশিষ্ট্য পর্যবেক্ষণ করতে হবে।
+
+### drug=phytomenadione-injection | section=interaction | lang=en
+Phytomenadione antagonises the effect of coumarin-type anticoagulants. Coadministration of anticonvulsants can impair the action of vitamin K-1.
+
+### drug=phytomenadione-injection | section=precautions | lang=en
+Careful monitoring of the coagulation parameters is necessary for patients with severely impaired liver function after administration of Phytomenadione .
+
+### drug=atenolol | section=interaction | lang=bn
+যখন ক্যাটিকোলামাইন হ্রাসকারী ওষুধ (যেমন, রিসারপাইন) বিটা-ব্লকিং ওষুধের সাথে প্রয়ােগ করা হয় তখন একধরনের বিশেষায়িত প্রভাব পরিলক্ষিত হতে পারে। এজন্য এটিনোলল ও একটি ক্যাটিকোলামাইন হ্রাসকারক উপাদান একত্রে গ্রহণকারী রােগীর ক্ষেত্রে নিম্ন রক্তচাপ এবং অথবা সুনির্দিষ্ট ব্রাডিকার্ডিয়া (স্বাভাবিকের চেয়ে কম হৃদস্পন্দন) সৃষ্টি করতে পারে যার উপসর্গ গুলাে হচ্ছে- মাথাঘােরা, মূর্ছা অথবা পস্চু‌রাল হাইপােটেনশন (দেহের অবস্থানগত পরিবর্তনের কারণে নিম্ন রক্তচাপ)। তাই তাঁদেরকে নিবিড়ভাবে পর্যবেক্ষণ করা উচিত।
+যখন ক্যালসিয়াম চ্যানেল ব্লকারের এর সাথে এটিনোলল প্রয়ােগ করা তখনও একধরনের বিশেষায়িত প্রভাব পরিলক্ষিত হতে পারে।
+ডাইসােপাইরামিড একটি শক্তিশালী নেগেটিভ ইনােট্রপিক এবং ক্রোনােট্রপিক প্রভাব সম্বলিত টাইপ ১ (প্রথম শ্রেণীর) এ্যান্টিএ্যারিদমিক (হৃদস্পন্দন স্বাভাবিককারী) ওষুধ। ডাইসােপাইরামিড যখন বিটা ব্লকার এর সাথে প্রয়ােগ করা হয় তখন এটি তীব্র ব্রাডিকার্ডিয়া (স্বাভাবিকের চেয়ে কম হৃদস্পন্দন), এ্যাসিস্টোল (ফ্যাট লাইন ইন ইসিজি) এবং হার্ট ফেইলুর ঘটতে পারে।
+এমিওডারন একটি নেগেটিভ ক্রোনােট্রপিক বৈশিষ্ট্য সম্বলিত এ্যান্টি এ্যারিদমিক এজেন্ট যা বিটা ব্লকার এর কার্যকারীতাকে বাড়িয়ে দিতে পারে।
+বিটা ব্লকার সমূহ উচ্চ রক্তচাপ এর পুনারাবৃত্তি আরাে জোরালাে করতে পারে যা ক্লোনিডিন প্রত্যাহার থেকে হতে পারে। যদি ওষুধ দুটি একত্রে প্রয়ােগ করা হয় তবে ক্লোনিডিন এর পর্যায়ক্রমিক প্রত্যাহারের কয়েক দিন পূর্বে বিটা ব্লকার প্রত্যাহার করা উচিত। যদি বিটা-ব্লকার থেরাপী দ্বারা ক্লোনিডিন প্রতিস্থাপন করা হয় তবে, ক্লোনিডিনের ব্যবহার বন্ধের কয়েক দিন পরে বিটা-ব্লকার এর সূচনা করা উচিত।
+প্রােস্টাগ্লানডিন সিনথেসিস প্রশমনকারী ওষুধ যেমন ইনডােমিথাসিন এর সাথে বিটা-ব্লকার একত্রে প্রয়ােগ করলে বিটা-ব্লকার এর উচ্চরক্তচাপরােধী প্রভাব কমে যেতে পারে।
+যখন বিটা-ব্লকার প্রয়ােগ করা হয় তখন, হয় আকস্মিক, রােগ নির্ণয় সম্পর্কিত অথবা থেরাপিউটিক কারণে যেসমস্ত রােগীর বিভিন্ন এ্যালার্জেন দ্বারা এ্যানাফাইলেকটিক প্রতিক্রিয়ার পূর্ব অভিজ্ঞতা আছে তাদের আরাে তীব্র প্রতিক্রিয়ার পুনরাবৃত্তির সম্ভাবনা থাকে। এ ধরনের রােগীর সাধারণত এ্যালার্জি চিকিৎসার জন্য এপিনেফ্রিন জাতীয় যে ওষুধ ব্যবহার করা হয়, সে জাতীয় ওষুধে এ ক্ষেত্রে কার্যকর না ও হতে পারে।
+ডিজিটালিস গ্লাইকোসাইড ও বিটা-ব্লকার এ্যাট্রিওভেন্ট্রিকুলার কন্ট্রাকশন ও হৃদস্পন্দনকে কমিয়ে দিতে পারে। একই সাথে ব্যবহারের ফলে ব্রাডিকার্ডিয়ার (স্বাভাবিকের কম হৃদস্পন্দন) ঝুঁকি বেড়ে যেতে পারে।
+
+### drug=atenolol | section=precautions | lang=bn
+সাধারণ: কোন একটি বিটা ব্লকার গ্রহণ করছে এমন রােগীর উপর এটিনোলল প্রয়ােগের পূর্বে অবশ্যই রােগীকে যত্নসহকারে পর্যবেক্ষণ করতে হবে। চিকিৎসা সম্পর্কিত পর্যবেক্ষণ যেমন- নাড়ির স্পন্দন এবং উচ্চ রক্তচাপ এর উপর ভিত্তি করে এটিনোললের প্রারম্ভিক এবং পরবর্তী মাত্রার নিম্নাভিমুখী সমন্বয় করতে হবে। এটিনোলল পার্শ্বিয় রক্ত নালীর রক্ত সংবহনের সমস্যার অবনতি ঘটাতে পারে।
+বৃক্কের অকার্যকারীতায়: রেনালের (যেসকল রােগীর বৃক্কের/ কিডনীর অকার্যকারীতার সমস্যা রয়েছে) কার্যকারীতার সমস্যার রােগীর ক্ষেত্রে ওষুধটি সর্তকতার সাথে প্রয়ােগ করা উচিত।
+বয়স্কদের ক্ষেত্রে ব্যবহার:
+করােনারী এ্যাথেরােস্কেরােসিসের কারণে সংঘঠিত উচ্চ রক্তচাপ এবং এনজিনা পেক্‌টরিস রােগীর ক্ষেত্রে
+: বয়স্ক রােগীদের মাত্রা নির্ধারণের ক্ষেত্রে সর্তকতা অবলম্বন করা উচিত, স্বাভাবিকভাবে মাত্রা পরিসীমার সর্বনিম্ন মাত্রা দিয়ে চিকিৎসা শুরু করা উচিত, তাছাড়া মাত্রা নির্ধারণের ক্ষেত্রে রােগীর যকৃত/ লিভার, কিডনী/ বৃক্ক অথবা হৃদপিন্ডের কার্যকারিতা এবং রােগীর অন্যান্য রােগ অথবা রােগী অন্য যেসকল ওষুধ ব্যবহার করছেন। সে বিষয়গুলােও বিবেচনায় আনতে হবে
+এ্যাকিউট মায়ােকার্ডিয়াল ইনফার্কশন
+: সাধারণত, বয়স্ক রােগীর মাত্রা নির্বাচনের ক্ষেত্রে সর্তকতা অবলম্বন করা উচিত এবং তা স্বাভাবিকভাবে মাত্রা পরিসীমার সর্বনিম্ন মাত্রা দিয়ে চিকিৎসা শুরু করা উচিত। তাছাড়া মাত্রা নির্ধারণের ক্ষেত্রে রােগীর যকৃত/লিভার, কিডনী/বৃক্ক অথবা হৃদপিণ্ডের কার্যকারিতা এবং রােগীর অন্যান্য রােগ অথবা রােগী অন্য যে সকল ওষুধ ব্যবহার করছেন সে বিষয়গুলােও বিবেচনায় আনতে হবে। উচ্চ রক্তচাপ অথবা মায়ােকার্ডিয়াল ইনফার্কশন এর রােগীদের মূল্যায়নের ক্ষেত্রে সর্বদা কিডনীর কার্যকারীতা পরিমাপ করা উচিত।
+
+### drug=atenolol | section=special_populations | lang=bn
+বয়স্ক রােগী অথবা রেনাল ইমপেযইয়ারমেন্ট রােগীর ক্ষেত্রে (যে সকল রােগীর কিডনীর অকার্যকারীতার সমস্যা রয়েছে): এটিনোলল কিডনী দ্বারা নিঃসৃত হয়; তাই যেসকল রােগীর মারাত্মক কিডনীর অকার্যকারীতার সমস্যা রয়েছে তাদের ক্ষেত্রে ওষুধটির মাত্রা সমন্বয় করা উচিত। সাধারণত, বয়স্ক রােগীর মাত্রা নির্বাচনের ক্ষেত্রে সর্তকতা অবলম্বন করা উচিত এবং তা স্বাভাবিকভাবে মাত্রা পরিসীমার সর্বনিম্ন মাত্রা দিয়ে চিকিৎসা শুরু করা উচিত। তাছাড়া মাত্রা নির্ধারণের ক্ষেত্রে রােগীর লিভার, কিডনী অথবা হৃদপিণ্ডের কার্যকারিতা এবং রােগীর অন্যান্য রােগ অথবা রােগী অন্য যেসকল ওষুধ ব্যবহার করছেন সে বিষয়গুলােও বিবেচনায় আনতে হবে। বয়স্ক রােগী, যেসকল রােগীর কিডনীর অকার্যকারীতার সমস্যা রয়েছে এবং অন্য কোন কারণে যদি রােগীর কিডনীর অকার্যকারীতার সমস্যা থাকে সেক্ষেত্রে নির্দেশিত মুখে সেব্য সর্বোচ্চ মাত্রা নিম্নে বর্ণিত হলাে:
+ক্রিয়েটিনিন ক্লিয়ারেন্স ১৬-২৭ মিলি/মিনিট/১.৭৩ বর্গ মিটার: সর্বোচ্চ মাত্রা দৈনিক ৫০ মিগ্রা
+ক্রিয়েটিনিন ক্লিয়ারেন্স >১৫ মিলি/মিনিট/১.৭৩ বর্গ মিটার: সর্বোচ্চ মাত্রা দৈনিক ২৫ মিগ্রা
+কিছু রােগী যাদের বৃক্কের/কিডনীর অকার্যকারীতার সমস্যা রয়েছে অথবা বয়স্ক রােগী, তাদের ক্ষেত্রে উচ্চরক্তচাপের চিকিৎসার শুরুতে এটিনোললের প্রারম্ভিক মাত্রা কম হওয়া প্রয়ােজন: ২৫ মিগ্রা এর একটি ট্যাবলেট দিনে একবার। হেমােডায়ালাইসিসের রােগীদের প্রতি ডায়ালাইসিসের পর ২৫ মিগ্রা অথবা ৫০ মিগ্রা প্রয়ােগ করতে হবে। যেহেতু এক্ষেত্রে রক্তচাপ উল্লেখযােগ্য হারে কমে যাওয়ার সম্ভাবনা থাকে তাই রােগীকে হাসপাতালে চিকিৎসকের তত্ত্বাবধানে এই চিকিৎসা দিতে হবে।
+
+### drug=atenolol | section=interaction | lang=en
+Catecholamine-depleting drugs (eg, reserpine) may have an additive effect when given with beta-blocking agents. Patients treated with Atenolol plus a catecholamine depletor should therefore be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension.
+Calcium channel blockers may also have an additive effect when given with Atenolol.
+Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects. Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
+Beta blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine. If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine. If replacing clonidine by beta-blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
+Concomitant use of prostaglandin synthase inhibiting drugs, eg, indomethacin, may decrease the hypotensive effects of beta blockers.
+While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+### drug=atenolol | section=precautions | lang=en
+General: Patients already on a beta blocker must be evaluated carefully before Atenolol is administered. Initial and subsequent Atenolol dosages can be adjusted downward depending on clinical observations including pulse and blood pressure. Atenolol may aggravate peripheral arterial circulatory disorders.
+Impaired Renal Function: The drug should be used with caution in patients with impaired renal function.
+Geriatric Use:
+Hypertension and Angina Pectoris: Due to Coronary Atherosclerosis: Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Acute Myocardial Infarction: Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
+
+### drug=atenolol | section=special_populations | lang=en
+Elderly Patients or Patients with Renal Impairment: Atenolol is excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, refecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. The following maximum oral dosages are recommended for elderly, renal impaired patients and for patients with renal impairment due to other causes:
+Creatinine clearance 15-35 ml/min/1.73 m
+2
+: Maximum dosage 50 mg daily
+Creatinine clearance <15 mL/min/1.73 m
+2
+: Maximum dosage 25 mg daily
+Some renal impaired or elderly patients being treated for hypertension may require a lower starting dose of Atenolol: 25 mg given as one tablet a day. Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; this should be done under hospital supervision as marked falls in blood pressure can occur.
+
+### drug=prochlorperazine-maleate | section=interaction | lang=bn
+এ্যালকোহল, বারবিচুরেট এবং অন্যান্য ঘুমের ওষুধ কেন্দ্রীয় স্নায়ুতন্ত্রের অবদমনকারী ক্রিয়াকে বাড়িয়ে দিতে পারে। এন্টাসিড, পারকিনসনস রােগের ওষুধ এবং লিথিয়াম প্রােক্লোরপেরাজিনের শােষণে বাধা দান করে। এই ওষুধ প্লাসমায় প্রােপানােলল এবং ফেনোবারবিটাল এর ঘনত্বে প্রভাব ফেলতে পারে।
+
+### drug=prochlorperazine-maleate | section=precautions | lang=bn
+গাড়ি অথবা যন্ত্রপাতি চালনার সময় সতর্কতা অবলম্বন করা প্রয়ােজন। এলকোহল ব্যবহারে তীব্র ঘুম ঘুম ভাব দেখা দিতে পারে। এই ওষুধ সূর্যালােকের প্রতি প্রতিক্রিয়া বৃদ্ধি করতে পারে; তাই দীর্ঘ সময় সূর্যালােকে থাকা এড়িয়ে চলতে হবে কিংবা সূর্যালােক থেকে বাঁচার জন্য সানস্ক্রীন অথবা প্রয়ােজনীয় কাপড় ব্যবহার করতে হবে। এই ওষুধ ব্যবহারে গরমে জ্ঞান হারানাের ঘটনা ঘটতে পারে।
+
+### drug=prochlorperazine-maleate | section=interaction | lang=en
+Alcohol, barbiturate & other sedatives may increase the CNS depressant action. Some drugs like Antacids, antiparkinson's drug, lithium may interfere the absorption of Prochlorperazine. This drug may interfere with the plasma concentration of Propanolol and Phenobarbital.
+
+### drug=prochlorperazine-maleate | section=precautions | lang=en
+Caution should be taken while performing tasks that require alertness, such as driving or using machinery. The use of alcohol can cause extreme drowsiness. This medication may increase sensitivity to sunlight. Prolonged sun exposure should be avoided and sunscreen and protective clothing should be taken when anybody is exposed to the sun. This medication can reduce sweating making it more susceptible to heatstroke.
+
+### drug=progesterone-micronised-capsule | section=interaction | lang=bn
+কিটোকোনাজোল প্রজেস্টেরনের মেটাবলিজমকে (বিপাক প্রক্রিয়া) বাধাগ্রস্ত করে।
+
+### drug=progesterone-micronised-capsule | section=precautions | lang=bn
+তীব্র কিডনি বৈকল্য, ডায়াবেটিস মেলিটাস, খিঁচুনি, মাইগ্রেন, মাথাব্যথা, হৃদরোগ এবং বিষণ্ণতার রোগীদের ক্ষেত্রে সতর্কতার সাথে ব্যবহার করতে হবে।
+
+### drug=progesterone-micronised-capsule | section=interaction | lang=en
+Ketoconazole inhibits the metabolism of progesterone.
+
+### drug=progesterone-micronised-capsule | section=precautions | lang=en
+Severe renal insufficiency, diabetes mellitus, seizures, migraine, headache, heart diseases, depression.
+

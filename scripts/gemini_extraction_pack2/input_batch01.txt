@@ -1,0 +1,293 @@
+### drug=sodium-valproate | section=interaction | lang=bn
+ওষুধের বিপাকে সোডিয়াম ভেলপ্রোয়েট অনির্দিষ্ট প্রতিবন্ধক হিসেবে কাজ করে। যে সকল ঔষধের সাথে এটি তাৎপর্যপূর্ণ ইন্টার‍্যাকশন করে তাদের মধ্যে ফেনোবারবিটাল, ফিনাইটয়েন, ওয়ারফারিন, এসপিরিন ইত্যাদি উল্লেখযোগ্য।
+
+### drug=sodium-valproate | section=precautions | lang=bn
+সোডিয়াম ভেলপ্রোয়েট সেবনের পূর্বে এবং সেবনকালে প্রথম ৬ মাসের মধ্যে ঝুঁকিপূর্ণ রোগীদের ক্ষেত্রে লিভার ফাংশন মনিটর করতে হবে। সোডিয়াম ভেলপ্রোয়েট সেবনের পূর্বে কিংবা বড় ধরনের অস্ত্রোপাচারের আগে যাতে কোন রক্তপাত না হয় তা নিশ্চিত করতে হবে। কিডনীর সমস্যাজনিত রোগী, গর্ভবর্তী এবং স্তন্যদানকারী মা এবং সিটেমিক লুপাস এরিথোমেটোসাস রোগীর ক্ষেত্রে বিশেষ ব্যবস্থা নিতে হবে। সোডিয়াম ভালপ্রোয়েট মুত্রের সাথে আংশিক ভাবে কিটোন মেটাবোলাইট হিসেবে নিঃসৃত হয় যা ইউরিন কিটোন টেস্টে ভুল তথ্য দিতে পারে। আকস্মিক ভাবে ওষুধ সেবন বন্ধ করা উচিত নয়। গর্ভাবস্থায় এবং গর্ভধারণে ইচ্ছুক মহিলাদের ক্ষেত্রে সোডিয়াম ভেলপ্রোয়েট ব্যবহার করা উচিত নয়।
+
+### drug=sodium-valproate | section=interaction | lang=en
+Sodium Vaiproate appears to act as a non specific inhibitor of drug metabolism. Drugs to which it interacts most significantly are Phenobarbital, Phenytoin, Warfarin, Aspirin etc.
+
+### drug=sodium-valproate | section=precautions | lang=en
+Liver functions should be monitored before therapy and during first 6 months especially in patients most at risk, No undue potential for bleeding before starting and before major surgery must be ensured, Care should be taken in renal impairment, pregnancy, breast-feeding and systemic lupus erythematosus. Sodium Valproate is partially eliminated in the urine as a ketone metabolite, which may lead to a false interpretation of the urine ketone test. Sudden withdrawal of therapy should be avoided. Sodium Valproate should not be used during pregnancy and in women of childbearing potential.
+
+### drug=azithromycin-dihydrate | section=interaction | lang=bn
+খাদ্য অথবা এন্টাসিডের উপস্থিতিতে এজিথ্রোমাইসিনের শোষণ কমে যায়। আরগোট এলকালয়েড গ্রহণকারী রোগীদের ক্ষেত্রে একইসাথে এজিথ্রোমাইসিন ব্যবহার করা উচিত নয়, কারণ এজিথ্রোমাইসিনের সাথে সাইটোক্রোম পি-৪৫০ এর বিক্রিয়ার ফলে আরগোটিজম দেখা দিতে পারে। ম্যাক্রোলাইডসমূহ যেহেতু সাইক্লোস্পোরিন ও ডিজক্সিনের প্লাজমা মাত্রা বাড়িয়ে দেয়, সেহেতু এজিথ্রোমাইসিনের সাথে এদের ব্যবহারের ক্ষেত্রে সতর্কতা অবলম্বন করতে হবে। ওয়ারফারিন, থিওফাইলিন, কার্বামাজিপিন, মিথাইলপ্রেডনিসোলন ও সিমেটিডিনের সাথে এজিথ্রোমাইসিনের কোন মিথষ্ক্রিয়া নেই।
+
+### drug=azithromycin-dihydrate | section=precautions | lang=bn
+অন্যান্য এন্টিবায়োটিকের মতোই অসংবেদনশীল অনুজীবঘটিত অতিসংক্রমণ (ফাঙ্গাল অতিসংক্রমণসহ) ঘটনার ব্যাপারে সতর্ক থাকতে হবে। মাত্রাধিক্য বৃক্কীয় বৈকল্যতার ক্ষেত্রে এটির ব্যবহারে সতর্কতা অবলম্বন করতে হবে।
+
+### drug=azithromycin-dihydrate | section=interaction | lang=en
+Antacid
+: In patients receiving azithromycin and antacids, azithromycin should be taken at least 1 hour before or 2 hours after the antacid. Carbamazepine: In a pharmacokinetic interaction study in healthy volunteers, no significant effect was observed on the plasma levels of carbamazepine or its active metabolite.
+Cyclosporin
+: Some of the related macrolide antibiotics interfere with the metabolism of cyclosporin. In the absence of conclusive data from pharmacokinetic studies or clinical data investigating potential interactions between azithromycin and cyclosporine, caution should be exercised before co-administration of these two drugs. If coadministrations is necessary, cyclosporin levels should be monitored and the dose adjusted accordingly.
+Digoxin
+: Some of the macrolide antibiotics have been reported to impair the metabolism of digoxin (in the gut) in some patients. Therefore, in patients receiving concomitant azithromycin and digoxin the possibility of raised digoxin levels should be borne in mind and digoxin levels monitored.
+Ergot derivatives
+: Because of the theoretical possibility of ergotism, azithromycin and ergot derivatives should not be co-administered.
+Methylprednisolone
+: In a pharmacokinetic interaction study in healthy volunteers, azithromycin had no significant effect on the pharmacokinetics of methylprednisolone.
+Theophylline
+: There is no evidence of any pharmacokinetic interaction when azithromycin and theophylline are co-administered to healthy volunteers. In general, however, theophylline levels should be monitored.
+Warfarin
+: In a pharmacodynamic interaction study, azithromycin did not alter the anticoagulant effect of a single 15 mg dose of warfarin administered to healthy volunteers. Azithromycin and warfarin may be co-administered, but monitoring of the prothrombin time should be continued as routinely performed.
+Terfenadine
+: Azithromycin did not affect the pharmacokinetics of terfenadine administered at the recommended dose of 60 mg every 12 hours. Addition of azithromycin did not result in any significant changes in cardiac repolarisation (QTc interval) measured during the steady state dosing of terfenadine.
+
+### drug=azithromycin-dihydrate | section=precautions | lang=en
+As with erythromycin and other macrolides, rare serious allergic reactions, including angioneurotic oedema and anaphylaxis, has been reported. Some of these reactions with azithromycin have resulted in recurrent symptoms and required a long period of observation and treatment.
+
+### drug=azithromycin-dihydrate | section=special_populations | lang=en
+Use in renal impairment
+: No dose adjustment is needed in patients with mild renal impairment (creatinine clearance >40 ml/min), but there are no data regarding azithromycin in patients with more severe renal impairment, thus caution should be exercised in using azithromycin in these patients.
+Use in hepatic impairment
+: As the liver is the principal route of excretion of azithromycin, it should not be used in patients with hepatic disease.
+Effects on ability to drive and use machines
+: There is no evidence to suggest that azithromycin may have an effect on a patient’s ability to drive or operate machinery.
+
+### drug=sulphamethoxazole-trimethoprim | section=precautions | lang=bn
+Prolonged full dose treatment with sulfamethoxazole-trimethoprim combination is associated with the risk of macrocytic anaemia due to the drug’s interference in the conversion of Folic acid into Folinic acid. If this occurs, it can be reversed by giving Folinic acid. Care should be taken when giving this combination to diabetic patients receiving sulphonylurea drug for possible potentiation of action of sulphonylurea.
+
+### drug=sulphamethoxazole-trimethoprim | section=precautions | lang=en
+Prolonged full dose treatment with sulfamethoxazole-trimethoprim combination is associated with the risk of macrocytic anaemia due to the drug’s interference in the conversion of Folic acid into Folinic acid. If this occurs, it can be reversed by giving Folinic acid. Care should be taken when giving this combination to diabetic patients receiving sulphonylurea drug for possible potentiation of action of sulphonylurea.
+
+### drug=terbutaline-sulfate | section=interaction | lang=bn
+β-blocking agents, especially the non-selective ones such as propranolol may partially or totally inhibit the effect of β-stimulants. Therefore Terbutaline preparations and non-selective β-blockers should not normally be administered concurrently. Terbutaline should be used with caution in patients receiving other sympathomimetics.
+
+### drug=terbutaline-sulfate | section=precautions | lang=bn
+Care should be taken with patients suffering from myocardial insufficiency or thyrotoxicosis. Due to the hyperglycaemic effects of β2-stimulants, additional blood glucose measurements are initially recommended when Terbutaline therapy is commenced in diabetic patients. If a previously effective dosage regimen no longer gives the same symptomatic relief the patient should seek further medical advice, for reassessment of asthma therapy, as soon as possible. Potentially serious hypokalaemia may result from β2-agonist therapy. Particular caution is advised in severe asthma as this effect may be potentiated by concomitant treatment with xanthine derivatives, steroids, diuretics and by hypoxia. It is recommended that serum potassium levels are monitored in such situations. Due to the positive inotropic effect of β2-agonists, these drugs should not be used in patients with hypertophic cardiomyopathy.
+
+### drug=terbutaline-sulfate | section=interaction | lang=en
+β-blocking agents, especially the non-selective ones such as propranolol may partially or totally inhibit the effect of β-stimulants. Therefore Terbutaline preparations and non-selective β-blockers should not normally be administered concurrently. Terbutaline should be used with caution in patients receiving other sympathomimetics.
+
+### drug=terbutaline-sulfate | section=precautions | lang=en
+Care should be taken with patients suffering from myocardial insufficiency or thyrotoxicosis. Due to the hyperglycaemic effects of β2-stimulants, additional blood glucose measurements are initially recommended when Terbutaline therapy is commenced in diabetic patients. If a previously effective dosage regimen no longer gives the same symptomatic relief the patient should seek further medical advice, for reassessment of asthma therapy, as soon as possible. Potentially serious hypokalaemia may result from β2-agonist therapy. Particular caution is advised in severe asthma as this effect may be potentiated by concomitant treatment with xanthine derivatives, steroids, diuretics and by hypoxia. It is recommended that serum potassium levels are monitored in such situations. Due to the positive inotropic effect of β2-agonists, these drugs should not be used in patients with hypertophic cardiomyopathy.
+
+### drug=human-tetanus-immunoglobulin | section=interaction | lang=bn
+May reduce the efficacy of live vaccines.
+
+### drug=human-tetanus-immunoglobulin | section=precautions | lang=bn
+Should not be administered intravenously
+A separate sterile syringe must be used for each patient to prevent the possible transmission of hepatitis B and other infectious diseases.
+Should be administered with caution to individuals who have exhibited systemic allergic reactions to immunoglobulin. Epinephrine (0.1~0.5ml, 1:1000) should be available for immediate treatment.
+In patients who have severe thrombocytopenia or any coagulation disorder that would contra-indicated intramuscular injection, human tetanus immunoglobulin should be given only if the expected benefits out way the risks.
+While administering human tetanus immunoglobulin care should be taken to drawback the plunger of the syringe before injection in order to be certain that the needle is not in blood vessel.
+Human tetanus immunoglobulin is prepared from human plasma is pasteurized in its bulk condition to reduce the risk of viruses infections but freedom from the risk of unknown viruses (Parvovirus B-19, etc) cannot be assumed. The infused patient is continuously checked for long time after injection.
+
+### drug=human-tetanus-immunoglobulin | section=interaction | lang=en
+May reduce the efficacy of live vaccines.
+
+### drug=human-tetanus-immunoglobulin | section=precautions | lang=en
+Should not be administered intravenously
+A separate sterile syringe must be used for each patient to prevent the possible transmission of hepatitis B and other infectious diseases.
+Should be administered with caution to individuals who have exhibited systemic allergic reactions to immunoglobulin. Epinephrine (0.1~0.5ml, 1:1000) should be available for immediate treatment.
+In patients who have severe thrombocytopenia or any coagulation disorder that would contra-indicated intramuscular injection, human tetanus immunoglobulin should be given only if the expected benefits out way the risks.
+While administering human tetanus immunoglobulin care should be taken to drawback the plunger of the syringe before injection in order to be certain that the needle is not in blood vessel.
+Human tetanus immunoglobulin is prepared from human plasma is pasteurized in its bulk condition to reduce the risk of viruses infections but freedom from the risk of unknown viruses (Parvovirus B-19, etc) cannot be assumed. The infused patient is continuously checked for long time after injection.
+
+### drug=tetracycline-hydrochloride | section=interaction | lang=bn
+Tetracycline in combination with methoxy-fluorane may result nephrotoxicity. Antacids containing calcium, aluminium or magnesium impair the absorption of tetracycline and result in decreased serum level. Tetracycline inhibits the antimicrobial activity of penicillin when used concomitantly.
+
+### drug=tetracycline-hydrochloride | section=precautions | lang=bn
+Absorption of tetracycline is impaired by the concomitant administration of milk and by calcium, magnesium, iron and particularly aluminium salts commonly used as antacids. Tetracycline depresses plasma prothrombin activity. Therefore, reduced dosage of concurrent anticoagulants may be required. Lower doses are indicated in cases of renal impairment to avoid excessive systemic accumulation and if therapy is prolonged, serum level determinations are advisable. The concomitant use of oral tetracycline may reduce the efficacy of oral contraceptives and penicillins; an increased incidence of breakthrough bleeding may also be experienced. It should only be used with great caution in conjunction with other potentially hepatotoxic drugs.
+
+### drug=tetracycline-hydrochloride | section=interaction | lang=en
+Tetracycline in combination with methoxy-fluorane may result nephrotoxicity. Antacids containing calcium, aluminium or magnesium impair the absorption of tetracycline and result in decreased serum level. Tetracycline inhibits the antimicrobial activity of penicillin when used concomitantly.
+
+### drug=tetracycline-hydrochloride | section=precautions | lang=en
+Absorption of tetracycline is impaired by the concomitant administration of milk and by calcium, magnesium, iron and particularly aluminium salts commonly used as antacids. Tetracycline depresses plasma prothrombin activity. Therefore, reduced dosage of concurrent anticoagulants may be required. Lower doses are indicated in cases of renal impairment to avoid excessive systemic accumulation and if therapy is prolonged, serum level determinations are advisable. The concomitant use of oral tetracycline may reduce the efficacy of oral contraceptives and penicillins; an increased incidence of breakthrough bleeding may also be experienced. It should only be used with great caution in conjunction with other potentially hepatotoxic drugs.
+
+### drug=thalidomide | section=interaction | lang=bn
+ওপিওয়েড, অ্যান্টিহিস্টামিন, অ্যান্টিসাইকোটিক, অ্যান্টি-অ্যানজাইটি
+: এজেন্ট, বা অন্যান্য সিএনএস ডিপ্রেসেন্টস (অ্যালকোহল সহ) থ্যালিডোমাইডের সাথে ওপিওয়েড, অ্যান্টিহিস্টামিন, অ্যান্টিসাইকোটিক, অ্যান্টি-অ্যানজাইটি এজেন্ট, বা অন্যান্য সিএনএস ডিপ্রেসেন্ট একত্রে ব্যবহার করলে একটি অতিরিক্ত সিডেটিভ প্রভাব তৈরি হতে পারে। তাই একত্রে ব্যবহার এড়ানো উচিত।
+যে ওষুধ ব্র্যাডিকার্ডিয়া সৃষ্টি করে
+: কার্ডিয়াক সঞ্চালন বিলম্বিত করে এমন ওষুধ থ্যালিডোমাইডের সাথে একত্রে ব্যবহার করলে তা ব্র্যাডিকার্ডিয়াক প্রভাব বাড়িয়ে দিতে পারে এবং তাই সতর্কতার সাথে ব্যবহার করা উচিত।
+হরমোনাল গর্ভনিরোধকের সাথে প্রতিক্রিয়াকারী ওষুধ
+: হরমোনাল গর্ভনিরোধক এজেন্টের সাথে একত্রে এইচআইভি-প্রোটিএজ ইনহিবিটর, গ্রিসিওফুলভিন, মোডাফিনিল, পেনিসিলিন, রিফাম্পিন, রিফাবিউটিন, ফেনিটোইন, কার্বামাজেপিন, বা নির্দিষ্ট কিছু ভেষজ সাপ্লিমেন্টস যেমন সেন্ট জনস ওয়ার্ট ব্যবহার করলে, এগুলির একত্রে চিকিৎসা বন্ধের এক মাস পর পর্যন্ত ও গর্ভনিরোধের কার্যকারিতা হ্রাস পেতে পারে। অতএব, যেসকল মহিলাদের চিকিৎসার জন্য এগুলির এক বা একাধিক ওষুধ গ্রহন করা প্রয়োজন তাদের অবশ্যই থ্যালিডোমাইড গ্রহণের সময় আরও দুইটি কার্যকর বা অতি কার্যকর গর্ভনিরোধক পদ্ধতি ব্যবহার করতে হবে।
+পেরিফেরাল নিউরোপ্যাথি সৃষ্টিকারী ওষুধ
+: যেসব ওষুধ গ্রহণের ফলে পেরিফেরাল নিউরোপ্যাথি দেখা দেয় (যেমন, বোর্টেজোমিব, অ্যামিওডারোন, সিসপ্ল্যাটিন, ডোসেট্যাক্সেল, প্যাক্লিট্যাক্সেল, ভিনক্রিস্টিন, ডিসালফিরাম, ফেনিটোইন, মেট্রোনিডাজল, অ্যালকোহল) সেগুলির সাথে থ্যালিডোমাইড একত্রে গ্রহন করলে ক্ষতিকর প্রভাব বৃদ্ধি পেতে পারে, তাই সতর্কতার সাথে ব্যবহার করা উচিত।
+কনকোমিট্যান্ট থেরাপি যা থ্রম্বোইম্বোলিজমের ঝুঁকি বাড়াতে পারে
+: মাল্টিপল মায়েলোমা রোগীদের মধ্যে যারা ডেক্সামেথাসোনের সাথে থ্যালিডোমাইড গ্রহণ করে তাদের ক্ষেত্রে এরিথ্রোপয়েটিক এজেন্ট, বা অন্যান্য এজেন্ট যা থ্রম্বোইম্বোলিজমের ঝুঁকি বাড়াতে পারে, যেমন ইস্ট্রোজেন অন্তর্ভুক্ত আছে এমন থেরাপি, সেগুলি সতর্কতার সাথে ব্যবহার করা উচিত।
+
+### drug=thalidomide | section=precautions | lang=bn
+এম্ব্রায়ো-ভ্রূণে বিষক্রিয়া
+: থ্যালিডোমাইড মানুষের জন্য একটি শক্তিশালী টেরাটোজেন যার এমনকি একটি একক মাত্রা সেবনেও মারাত্মক গুরুতর এবং জীবনঘাতি জন্মগত ত্রুটি দেখা দিতে পারে। প্রায় ৪০% শিশুর জন্মের সময় বা তার কিছু পরেই মৃত্যু ঘটে। প্রজনন সম্ভাবনাময় মহিলাদের জন্য যদি আর কোন বিকল্প চিকিৎসা না থাকে, তাহলে গর্ভধারন এড়াতে পর্যাপ্ত সতর্কতা অবলম্বন করে থ্যালিডোমাইড দিয়ে চিকিৎসা করা যেতে পারে। ত্বকের মাধ্যমে শোষিত বা শ্বাসের সাথে গৃহীত থ্যালিডোমাইডের প্রজনন ঝুঁকি সম্পর্কিত নির্দিষ্ট কোন তথ্য নেই। প্রজনন সম্ভাবনাময় মহিলাদের থ্যালিডোমাইড ক্যাপসুলের সংস্পর্শ এড়ানো উচিত। শরীরের কোনস্থান থ্যালিডোমাইডের ভাঙ্গা ক্যাপসুল বা ভিতরের পাউডার উপাদানের সংস্পর্শে আসলে, উক্ত স্থানটি সাবান এবং পানি দিয়ে ধুয়ে ফেলতে হবে। স্বাস্থ্যসেবা প্রদানকারী বা অন্যান্য পরিচর্যাকারীর শরীরের কোন অংশে থ্যালিডোমাইড গ্রহণকারী রোগীর শরীর নিঃসৃত তরল পদার্থ লাগলে, উক্ত স্থানটি সাবান এবং পানি দিয়ে ধুয়ে ফেলতে হবে। এ ক্ষেত্রে যথাযথ সতর্কতা অবলম্বন করা উচিত, যেমন ত্বকে থ্যালিডোমাইডের সম্ভাব্য সংস্পর্শ প্রতিরোধ করতে গাভস পরা।
+রক্তদান
+: থ্যালিডোমাইড চিকিৎসা চলাকালীন সময় এবং ওষুধ বন্ধ করার পর ৪ সপ্তাহ পর্যন্ত রোগীদের রক্তদান থেকে বিরত থাকা উচিত।
+ভেনাস এবং আর্টারিয়াল থ্রম্বোইম্বোলিজম
+: মাল্টিপল মায়েলোমা রোগীদের ক্ষেত্রে থ্যালিডোমাইড ব্যবহারের ফলে যেমন ভেনাস থ্রম্বোইম্বোলিজম, ডিপ ভেনাস থ্রম্বোসিস এবং পালমোনারি এমবোলিজমের ঝুঁকি বেড়ে যায়। ডেক্সামেথাসন সহ স্ট্যান্ডার্ড কেমোথেরা- পিউটিক এজেন্টগুলির সাথে থ্যালিডোমাইড একত্রে ব্যবহার করা হলে এই ঝুঁকি উল্লেখযোগ্যভাবে বৃদ্ধি পায়। আলাদাভাবে প্রতিটি রোগীর মূল ঝুঁকির কারণগুলি মূল্যায়নের ভিত্তিতে থ্রম্বোপ্রফাইল্যাক্সিস এর ব্যবহার বিবেচনা করা উচিত। থ্রম্বোইম্বোলিজমের লক্ষণ ও উপসর্গগুলির জন্য রোগী এবং চিকিৎসকদের পর্যবেক্ষণ করা উচিত।
+তন্দ্রা ও ঝিমুনিভাব
+: থ্যালিডোমাইড প্রায়শই তন্দ্রা ও ঝিমুনিভাব সৃষ্টি করে। তন্দ্রাচ্ছন্নতা সমস্যা তৈরি করতে পারে এমন পরিস্থিতি এড়ানোর এবং ডাক্তারের যথাযথ পরামর্শ ছাড়া তন্দ্রা হতে পারে এমন অন্যকোন ওষুধ সেবন না করার জন্য রোগীদের নির্দেশনা দেওয়া উচিত। গাড়ি চালানো অথবা অন্যান্য জটিল বা বিপজ্জনক যন্ত্রপাতি চালানোর মতো ঝুঁকিপূর্ণ কাজগুলি সম্পাদনের জন্য প্রয়োজনীয় মানসিক এবং/অথবা শারীরিক সক্ষমতার উপর সম্ভাব্য প্রভাব সম্পর্কে রোগীদের সতর্ক করা উচিত। ওষুধের মাত্রা কমানোর প্রয়োজন হতে পারে।
+থ্রোম্বোসাইটোপেনিয়া
+: থ্যালিডোমাইডের ক্লিনিকাল ব্যবহারের সাথে গ্রেড ৩ বা ৪ এর মত থ্রোম্বোসাইটোপেনিয়া, সম্পর্কিত বলে রিপোর্ট করা হয়েছে। এ অবস্থায় প্লাটিলেট সহ রক্তকণিকার সংখ্যা পর্যবেক্ষণ করা উচিত। ওষুধের মাত্রা হ্রাস, বিলম্ব, বা বন্ধ করার প্রয়োজন হতে পারে। পেটেচিয়া, এপিস্ট্যাক্সিস এবং গ্যাস্ট্রোইনটেস্টাইনাল রক্তপাতের লক্ষণ ও উপসর্গগুলির জন্য রোগীকে পর্যবেক্ষেণে রাখা উচিত, বিশেষভাবে একত্রে সেব্য অন্যান্য ওষুধ যদি রক্তপাতের ঝুঁকি বাড়ায়।
+পেরিফেরাল স্নায়ুরোগ
+: থ্যালিডোমাইড স্নায়ুর স্থায়ী ক্ষতির কারণ হতে পারে। পেরিফেরাল নিউরোপ্যাথি থ্যালিডোমাইড চিকিৎসার একটি সাধারণ (২১০%) এবং গুরুতর পার্শ্বপ্রতিক্রিয়া যা আর ভাল নাও হতে পারে। পেরিফেরাল নিউরোপ্যাথি সাধারণত থ্যালিডোমাইডের কয়েক মাস ব্যাপী দীর্ঘস্থায়ী ব্যবহারের ফলে দেখা দেয়; তবে অপেক্ষাকৃত স্বল্পমেয়াদী ব্যবহারের পরেও পেরিফেরাল নিউরোপ্যাথি হওার ঘটনা ঘটেছে। নিউরোপ্যাথি হতে পারে এমন ওষুধ সতর্কতার সাথে ব্যবহার করা উচিত।
+মাথা ঘোরা এবং অর্থোস্ট্যাটিক হাইপোটেনশন
+: থ্যালিডোমাইড গ্রহনে মাথা ঘোরা এবং অর্থোস্ট্যাটিক হাইপোটেনশন হতে পারে। তাই, শোয়া বা হেলান দেওয়া অবস্থা থেকে দাঁড়ানোর আগে কয়েক মিনিটের জন্য সোজা হয়ে বসে থাকতে রোগীদের পরামর্শ দেওয়া উচিত।
+নিউট্রোপেনিয়া
+: থ্যালিডোমাইডের ক্লিনিকাল ব্যবহারের কারণে নিউট্রোপেনিয়া সহ শ্বেত রক্তকণিকার সংখ্যা হ্রাস পাওয়ার ঘটনা ঘটেছে। অ্যাবসুলিউট নিউট্রোফিল কাউন্ট (এএনসি) <৭৫০/এমএম৩ হলে চিকিৎসা শুরু করা উচিত নয়। শ্বেত রক্ত কণিকার সংখ্যা এবং ডিফারেনশিয়াল নিয়মিতভাবে পর্যবেক্ষণ করা উচিত, বিশেষ করে সেসব রোগীদের ক্ষেত্রে, যাদের নিউট্রোপেনিয়া হওয়ার ঝুঁকি বেশি, যেমন এইচআইভি-সেরোপজিটিভ রোগী। চিকিৎসা চলাকালীন অবস্থায় যদি এএনসি ৭৫০/এমএম৩-এর নিচে নেমে যায়, তাহলে রোগীর ওষুধের মাত্রা এবং সেবনবিধি পুনর্মূল্যায়ন করা উচিত, এবং যদি নিউট্রোপেনিয়া অব্যাহত থাকে, তাহলে থ্যালিডোমাইড বন্ধ করার বিষয়ে বিবেচনা করা উচিত যদি তা ক্লিনিক্যালি যথাযথ হয়।
+
+### drug=thalidomide | section=special_populations | lang=bn
+শিশু
+: ১২ বছরের কম বয়সী শিশুদের জন্য থ্যালিডোমাইডের নিরাপদ ব্যবহার এবং কার্যকারিতা প্রতিষ্ঠিত হয়নি।
+বয়স্কদের ক্ষেত্রে ব্যবহার
+: ৬৫ বছরের কম বয়সী রোগীদের তুলনায় ৬৫ বছরের বেশি বয়সী রোগীদের মধ্যে অ্যাট্রিয়াল ফিব্রিলেশন, কোষ্ঠকাঠিন্য, ক্লান্তি, বমি ভাব, হাইপোক্যালে- মিয়া, ডিপ ভেনাস থ্রম্বোসিস, হাইপারগ্লাইসেমিয়া, এবং পালমোনারি এমবোলিজম এর ঘটনা বেশি ঘটে।
+
+### drug=thalidomide | section=interaction | lang=en
+Opioids, Antihistamines, Antipsychotics, Anti-anxiety Agents, or Other CNS Depressants (Including Alcohol)
+: The use of opioids, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants concomitantly with thalidomide may cause an additive sedative effect and should be avoided.
+Drugs which Cause Bradycardia
+: The use of drugs which slow cardiac conduction concomitantly with Thalidomide may cause an additive bradycardic effect and should be used with caution.
+Drugs that Interfere with Hormonal Contraceptives
+: Concomitant use of HIV-protease inhibitors, griseofulvin, modafinil, penicillins, rifampin, rifabutin, phenytoin, carbamazepine, or certain herbal supplements such as St. John’s Wort with hormonal contraceptive agents may reduce the effectiveness of the contraception up to one month after discontinuation of these concomitant therapies. Therefore, females requiring treatment with one or more of these drugs must use two other effective or highly effective methods of contraception while taking thalidomide.
+Drugs which Cause Peripheral Neuropathy
+: The use of drugs which cause peripheral neuropathy (e.g., bortezomib, amiodarone, cisplatin, docetaxel, paclitaxel, vincristine, disulfiram, phenytoin, metronidazole, alcohol) can cause an additive effect and should be used with caution.
+Concomitant Therapies that may Increase the Risk of Thromboembolism
+: Erythropoietic agents, or other agents that may increase the risk of thromboembolism, such as estrogen containing therapies, should be used with caution in multiple myeloma patients receiving Thalidomide with dexamethasone.
+
+### drug=thalidomide | section=precautions | lang=en
+Embryo-Fetal Toxicity
+: Thalidomide is a powerful human teratogen that induces a high frequency of severe and life-threatening birth defects, even after a single dose. Mortality at or shortly after birth has been reported in about 40% of infants. When there is no satisfactory alternative treatment, females of reproductive potential may be treated with Thalidomide provided adequate precautions are taken to avoid pregnancy. There are no specific data available regarding the reproductive risks of cutaneous absorption or inhalation of Thalidomide; however, females of reproductive potential should avoid contact with Thalidomide Capsules. If there is contact with non-intact Thalidomide capsules or the powder contents, the exposed area should be washed with soap and water. If healthcare providers or other care givers are exposed to body fluids from patients receiving Thalidomide, the exposed area should be washed with soap and water. Appropriate precautions should be utilized, such as wearing gloves to prevent the potential cutaneous exposure to Thalidomide.
+Blood Donation
+: Patients must not donate blood during treatment with Thalidomide and for 4 weeks following discontinuation of the drug.
+Venous and Arterial Thromboembolism
+: The use of Thalidomide in patients with MM results in an increased risk of venous thromboembolism, such as deep venous thrombosis and pulmonary embolism. This risk increases significantly when Thalidomide is used in combination with standard chemotherapeutic agents including dexamethasone. Thromboprophylaxis should be considered based on an assessment of individual patients' underlying risk factors. Patients and physicians should be observant for the signs and symptoms of thromboembolism.
+Thrombocytopenia
+: Thrombocytopenia, including Grade 3 or 4 occurrences, has been reported in association with the clinical use of thalidomide. Blood counts, including platelet counts should be monitored. Dose reduction, delay, or discontinuation may be required. Patient should be monitored for signs and symptoms of bleeding including petechiae, epistaxis, and gastrointestinal bleeding, especially if concomitant medication may increase the risk of bleeding.
+Drowsiness and Somnolence
+: Thalidomide frequently causes drowsiness and somnolence. Patients should be instructed to avoid situations where drowsiness may be a problem and not to take other medications that may cause drowsiness without adequate medical advice. Patients should be advised as to the possible impairment of mental and/or physical abilities required for the performance of hazardous tasks, such as driving a car or operating other complex or dangerous machinery. Dose reductions may be required.
+Peripheral Neuropathy
+: Thalidomide is known to cause nerve damage that may be permanent. Peripheral neuropathy is a common (>10%) and potentially severe adverse reaction of treatment with Thalidomide that may be irreversible. Peripheral neuropathy generally occurs following chronic use over a period of months; however, peripheral neuropathy following relatively short-term use has been reported. Medications known to be associated with neuropathy should be used with caution in patients receiving Thalidomide.
+Dizziness and Orthostatic Hypotension
+: Patients should also be advised that Thalidomide may cause dizziness and orthostatic hypotension and that, therefore, they should sit upright for a few minutes prior to standing up from a recumbent position.
+Neutropenia
+: Decreased white blood cell counts, including neutropenia, have been reported in association with the clinical use of Thalidomide. Treatment should not be initiated with an absolute neutrophil count (ANC) of <750/mm3. White blood cell count and differential should be monitored on an ongoing basis, especially in patients who may be more prone to neutropenia, such as patients who are HIVseropositive. If ANC decreases to below 750/mm3 while on treatment, the patient’s medication regimen should be re-evaluated and, if the neutropenia persists, consideration should be given to withholding Thalidomide if clinically appropriate.
+
+### drug=thalidomide | section=special_populations | lang=en
+Pediatric Use
+: Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
+Geriatric Use
+: Patients >65 years of age shows higher incidences of atrial fibrillation, constipation, fatigue, nausea, hypokalemia, deep venous thrombosis, hyperglycemia, and pulmonary embolism compared to patients <65 years of age.
+
+### drug=tranexamic-acid | section=interaction | lang=bn
+ট্রানেক্সামিক এসিড একটি সংশ্লেষিত অ্যামাইনাে এসিড যা পেনিসিলিন (যেমন ও বেনজাইল পেনিসিলিন) দ্রবণের সাথে সামঞ্জস্যপূর্ন নয়। স্ট্রেপটোকাইনেজ ও ইউরােকাইনেজ এর মতাে থ্রম্বোলাইটিক ঔষধ ট্রানেক্সামিক এসিড-এর এন্টিফিব্রিনােলাইটিক অ্যাকশনকে বাধা দেয়। ইস্ট্রোজেন আছে এমন ঔষধ যেমন ওরাল কন্ট্রাসেপটিভ এর সাথে ট্রানেক্সামিক এসিড একত্রে ব্যবহার করলে থ্রম্বাস তৈরি হওয়ার সম্ভাবনা বেড়ে যেতে পারে। ট্রান্সফিউশন-এর ক্ষেত্রে রক্তের সাথে সরাসরি ট্রানেক্সামিক এসিড-এর ব্যবহার এড়িয়ে চলা উচিৎ।
+
+### drug=tranexamic-acid | section=precautions | lang=bn
+ট্রানেক্সামিক এসিড ঐসব ক্ষেত্রেই ব্যবহার করা উচিৎ যেখানে ফাইব্রিন অতিমাত্রায় তরলীকৃত হয় (হাইপার ফিব্রিনােলাইসিস)। নিবারক চিকিৎসা হিসেবে অপারেশনের ২৪ ঘন্টা পূর্বে অবশ্যই শুরু করতে হবে এবং অপারেশনের পরে আরো ৩-৪ দিন চিকিৎসা চালিয়ে যাওয়া উচিৎ।
+রক্তক্ষরণের চিকিৎসা বন্ধ হয়ে যাবার পরও (লক্ষণ সমূহ অদৃশ্য হওয়ার পরও) কমপক্ষে আরাে ২৪ ঘন্টা দীর্ঘায়িত করতে হবে।
+রক্ত মিশ্রিত মূত্রে (হেমাটিউরিয়াতে) বিশেষ করে যখন উক্ত রক্তক্ষরণের সাথে অন্যান্য রক্তক্ষরণের কারণ জড়িত নয় তখন ডােজ কমাতে হবে যাতে মূত্রনালীতে রক্ত জমাট না বাঁধতে পারে।
+গুরুতর রকমের মূত্রাল্পতা অথবা মূত্রহীন অবস্থায় ট্রানেক্সামিক এসিড কোন অবস্থাতেই ব্যবহারযােগ্য নয় এবং অবশ্যই কেবল সতর্কতার সাথে কম জটিল কিডনীর অকার্যকারিতায় ব্যবহার করতে হবে।
+হার্ট ও লিভারের অসুখের রােগীর বেলায়ও এই প্রডাক্ট ব্যবহারে বিশেষ সতর্কতা অবলম্বন করতে হবে।
+
+### drug=tranexamic-acid | section=interaction | lang=en
+Tranexamic Acid is a synthetic Amino Acid that is incompatible with solutions containing penicillins (eg: Benzyl penicillin). Thrombolytic drugs like Streptokinase & Urokinase antagonise the antifibrinolytic action of Tranexamic Acid. The potential for thrombus formation may be increased by concomitant administration of estrogen containing drugs, like oral contraceptives. Direct admixture of Tranexamic Acid with whole blood should be avoided during Transfusion.
+
+### drug=tranexamic-acid | section=precautions | lang=en
+Tranexamic Acid should be used in cases where there is hyperfibrinolysis. The prophylactic treatment must begin 24 hours before the operation and continue until 3-4 days after it.
+The therapy of hemorrhages must be prolonged for at least 24 hours after manifestations have disappeared.
+In hematuria, especially when this is not accompanied by any other hemorrhagic manifestations, reduce the doses to prevent formation of clots in the urinary tract.
+Tranexamic Acid must not be used in serious renal insufficiency or anuric syndromes and must only be used with caution in less serious renal dysfunctions.
+The administration of product requires particular care in cardiopathic and hepatopathic subjects.
+
+### drug=benzathine-benzylpenicillin | section=interaction | lang=bn
+No potentially hazardous interactions have been described.
+
+### drug=benzathine-benzylpenicillin | section=precautions | lang=bn
+It should be given with caution in patient with a history of allergy and renal impairment.
+
+### drug=benzathine-benzylpenicillin | section=interaction | lang=en
+No potentially hazardous interactions have been described.
+
+### drug=benzathine-benzylpenicillin | section=precautions | lang=en
+It should be given with caution in patient with a history of allergy and renal impairment.
+
+### drug=zinc-sulfate-monohydrate | section=interaction | lang=bn
+টেট্রাসাইক্লিন এবং জিংক একত্রে সেবন করলে উভয়ের শোষণের মাত্রা কমে যেতে পারে। অনুরুপভাবে জিংক এবং কুইনোলন জাতীয় ঔষধ একত্রে সেবন করলে উভয়ের শোষণের হার কমে যেতে পারে। পেনিসিলামিন এবং জিংক এর সহ সেবন জিংক এর শোষণের হার কমিয়ে দিতে পারে।
+
+### drug=zinc-sulfate-monohydrate | section=precautions | lang=bn
+তীব্র রেনাল ফেইলিউরের ক্ষেত্রে শরীরে জিংক জমা হতে পারে; সেক্ষেত্রে মাত্রা সমন্বয় করতে হবে।
+
+### drug=zinc-sulfate-monohydrate | section=interaction | lang=en
+Concomitant intake of a tetracycline and zinc may decrease the absorption of both the tetracycline and zinc. Similarly concomitant administration of zinc and quinolone drug may also decrease the absorption of both. Concomitant intake of penicillamine and zinc may decrese absorption of zinc.
+
+### drug=zinc-sulfate-monohydrate | section=precautions | lang=en
+In acute renal failure, zinc accumulation may occur in body; so dose adjustment is needed.
+
+### drug=vitamin-a | section=precautions | lang=bn
+দীর্ঘদিন চিকিৎসার পর রেটিনল ফোর্ট মুক্ত অন্তর্বর্তী সময় নিশ্চিত করতে হবে। গর্ভকালীন অবস্থায় ৫,০০০ আই.ইউ. এর বেশী মাত্রা দেয়া সংগত নয়। অন্যান্য রোগীদের ক্ষেত্রে কেবল মাত্র চিকিৎসকের পরামর্শেই ৫০,০০০ আই.ইউ. এর বেশী ভিটামিন এ দেয়া যেতে পারে।
+
+### drug=vitamin-a | section=precautions | lang=en
+Ensure Vitamin A free interval after long term therapy with vitamin A. No daily dose over 5000 IU during pregnancy. Vitamin A doses over 50000 IU under medical supervision only.
+
+### drug=warfarin-sodium | section=interaction | lang=bn
+মুখে সেব্য এন্টিকোয়াগুলেন্ট-এর ক্ষেত্রে ক্লিনিক্যালি গুরুত্ববহ ড্রাগ ইন্টারএ্যাকশানের সম্ভাবনা অধিক। সমস্ত রোগীদের সতর্ক করে দেয়ার প্রয়োজন রয়েছে এর ব্যবহারের ক্ষেত্রে। ডাক্তারের পরামর্শ ব্যতীত কোন ঔষধ গ্রহণ বা বর্জন করা থেকে বিরত থাকতে হবে।
+
+### drug=warfarin-sodium | section=precautions | lang=bn
+নিয়মিতভাবে প্রোথ্রম্বিন টাইম (ইন্টারন্যাশনাল নরমালাইজড রেশিও) অথবা অন্য কোন যুৎসই কোয়াগুলেশন টেস্ট করা প্রয়োজন। একত্রে অথবা এককভাবে অসংখ্য কারণে এন্টিকোয়াগুলেন্ট-এর প্রতি সংবেদশীলতা পরিবর্তিত হতে পারে যেমন, খাদ্যাভ্যাস পরিবর্তন, ভ্রমন, পরিবেশ, শারীরিক অবস্থা ও ঔষধ। সাধারণভাবে হাসপাতাল থেকে ছাড়া পাওয়া, অন্য কোন ঔষধ সেবন শুরু করা অথবা বন্ধ করা অথবা অনিয়মিত গ্রহণের ঠিক পরপরই আবার প্রোথ্রম্বিন টাইম নির্ধারন করা ভাল। নিম্নলিখিত কারন সমূহ ওয়ারফারিনের কার্যকারিতা বৃদ্ধি করে ও সেক্ষেত্রে মাত্রা কমানোর প্রয়োজন হতে পারে, যেমন- ওজন কমে যাওয়া, বয়স্ক রোগী, চরম অসুস্থতা, বৃক্কের কার্যকারিতা কমে যাওয়া, খাদ্যে ভিটামিন K কম থাকা ও কতিপয় ঔষধ সেবন। কিছু ক্ষেত্রে মেইন্টেন্যান্স মাত্রা বৃদ্ধি করতে হতে পারে, যেমন ওজন বৃদ্ধিতে, ডায়রিয়া, বমি, বর্ধিত ভিটামিন K, তেল ও চর্বি জাতীয় খাবার গ্রহণ ও কতিপয় ঔষধ সেবন। ঔষধের ফরমুলেশন পরিবর্তনের ক্ষেত্রেও অতিরিক্ত টেস্ট করার প্রয়োজন রয়েছে। ওয়ারফারিনের কার্যকারিতা ভিটামিন K প্রয়োগের মাধ্যমে পরিবর্তন করতে একাধিক দিন প্রয়োজন, তাই জরুরী অবস্থায় ফ্রেশ ফ্রোজেন প্লাজমা দিতে হবে।
+
+### drug=warfarin-sodium | section=interaction | lang=en
+Oral anticoagulants have a greater potential for clinically significant drug interactions. Warn all patients about potential hazards and instruct against taking or withdrawing any drug, including non-prescription products, without the advice of a physician.
+
+### drug=warfarin-sodium | section=precautions | lang=en
+Periodic determination of prothrombin time (PT)/international normalized ratio (INR) or other suitable coagulation test is essential. Numerous factors, alone or in combination, including travel, changes in diet, environment, physical state and medication may influence response of the patient to anticoagulants. It is generally good practice to monitor the patient's response with additional PT/INR determination in the period immediately after discharge from the hospital, and whenever other medications are initiated, discontinued or taken irregularly. The following factors may exaggerate the effects of warfarin and necessitate a reduction in dosage; loss of weight, elderly subject, acute illness, deficient renal function, decreased dietary intake of vitamin K, administration of certain drugs (see drug interaction). Factors which may call for an increase in maintenance dosage include weight gain, diarrhea and vomiting, increased intake of vitamin K, fats and oils, and the administration of certain drugs. Careful additional laboratory control is necessary if the patient is to be changed from one formulation to another. Reversal of warfarin anticoagulation by vitamin K takes several days. In emergency situations fresh frozen plasma should be given.
+
+### drug=levothyroxine-sodium | section=interaction | lang=bn
+ট্রাই/টেট্রাসাইক্লিক এন্টিডিপ্রেসেন্টস এবং লিভোথাইরক্সিনের একযোগে ব্যবহার উভয় ওষুধের চিকিতসা ও বিষক্রিয়ার প্রভাবগুলিকে বাড়িয়ে তুলতে পারে, সম্ভবত ক্যাটেলঅ্যামিন রিসেপ্টারের সংবেদনশলতা বৃদ্ধি করার কারনে। বিষক্রিয়ার প্রভাবগুলির মধ্যে কার্ডিয়াক অ্যারিদমিয়া এবং সিএনএস উদ্দীপনা বৃদ্ধির ঝুঁকি অন্তর্ভুক্ত থাকতে পারে। ট্রাইসাইক্লিসগুলির ক্রিয়া শুরু করা ত্বরান্বিত হতে পারে। লিভোথাইরক্সিনে স্থিতিশীল রোগীদের সারট্রালিন ব্যবহারের ফলে লিভোথাইরক্সিনের প্রয়োজনীয়তা বাড়তে পারে। লিভোথাইরক্সিনকে অ্যান্টিডায়াবেটিক বা ইনসুলিন থেরাপিতে যোগ করার ফলে অ্যান্টিডায়াবেটিক এজেন্ট বা ইনসুলিনের প্রয়োজনীয়তা বাড়তে পারে। যত্ন সহকারে ডায়াবেটিক নিয়ন্ত্রণ পর্যবেক্ষণের পরামর্শ দেওয়া হয়, বিশেষত যখন থাইরয়েড থেরাপি শুরু, পরিবর্তিত বা বন্ধ হয়ে যায়। হাইপারথাইরয়েডিজমে বা হাইপোথাইরয়েড রোগী যখন ইউথাইরয়েড অবস্থায় রুপান্তরিত হয় তখন সিরাম ডিজিটালিস গ্লাইকোসাইডের মাত্রা হ্রাস পেতে পারে। ডিজিটালিস গ্লাইকোসাইডগুলির চিকিৎসার প্রভাব হ্রাস হতে পারে।
+
+### drug=levothyroxine-sodium | section=precautions | lang=bn
+যেসব রোগীদের পিটুইটারি গ্রন্থির ক্রিয়া হ্রাসের কারণে হাইপোথাইরয়েডিজম হয়েছে, তাদের এড্রেনোকর্টিকাল ইনসাফিসিয়েন্সিও থাকতে পারে। লিভোথাইরক্সিন থেরাপি শুরু করার পূর্বে, একিউট এড্রেনাল ইনসাফিসিয়েন্সি প্রতিরোধ করার জন্য পর্যাপ্ত কর্টিকোস্টেরয়েড রিপ্লেসমেন্টের মাধ্যমে এর চিকিত্সা করা উচিত।
+হৃদরোগী এবং/অথবা গুরুতর ও দীর্ঘ-বিদ্যমান হাইপোথাইরয়েডিজম রোগীদের ক্ষেত্রে প্রাথমিক মাত্রা বাছাই ও মাত্রার যে কোন বৃদ্ধি যত্নসহকারে করা উচিত। অতিরিক্ত প্রাথমিক মাত্রা বা খুব দ্রুত মাত্রা বৃদ্ধি করলে এনজাইনা বৃদ্ধি বা অবনতির অভিযোগ, এরিদমিয়া, মায়োকার্ডিয়াল ইনফার্কশান, কার্ডিয়াক ফেইলিওর বা হঠাৎ রক্তচাপ বৃদ্ধি পেতে পারে, বিশেষত বয়স্ক রোগীদের মধ্যে
+টি
+৪
+- দিয়ে চিকিৎসার সময় শারীরিক ওজনের কোনও লক্ষ্যনীয় পরীবর্তন হলে মাত্রার সমন্বয় প্রয়োজন।
+রক্তে টি
+৩
+- এবং টি
+৪
+এর মাত্রা পর্যবেক্ষণের সময় এটি মনে রাখা উচিত যে টি
+৩
+- এর একটি সাধারণ স্তর অর্জনের জন্য একটি উচ্চ মাভাবিক হতে সামান্য বর্ধমান টি
+৪
+- এর স্তর প্রয়োজন হবে। প্রাথমিক হাইপোথাইরয়েডিজমে লিভোথাইরক্সিন এর সঠিক ডোজটি সাধারণত রক্তে টিএসএইচ এর মাত্রা পর্যবেক্ষণ করে প্রতিষ্ঠিত করা উচিত এটি স্বাভাবিক হয়েছে কিনা তা দেখার জন্য কারণ থাইরয়েড প্রিপারেশন দ্বারা বিষক্রিয়া হলে মারাত্নক পরিণতি হতে পারে।
+
+### drug=levothyroxine-sodium | section=interaction | lang=en
+Concurrent use of tri/tetracyclic antidepressants and Levothyroxine may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines.Toxic effects may include increased risk of cardiac arrhythmias and CNS stimulation; onset of action of tricyclics may be accelerated. Administration of sertraline in patients stabilized on Levothyroxine may result in increased Levothyroxine requirements. Addition of Levothyroxine to antidiabetic or insulin therapy may result in increased antidiabetic agent or insulin requirements. Careful monitoring of diabetic control is recommended, especially when thyroid therapy is started, changed, or discontinued. Serum digitalis glycoside levels may be reduced in hyperthyroidism or when the hypothyroid patient is converted to the euthyroid state. Therapeutic effect of digitalis glycosides may be reduced.
+
+### drug=levothyroxine-sodium | section=precautions | lang=en
+In patients whose hypothyroidism is due to a decrease in pituitary gland function, there may also be adrenocortical insufficiency;before starting Levothyroxine therapy, this should be treated by adequate replacement with Corticosteroids to prevent acute adrenal insufficiency.
+The choice of the starting dose and of any increases in dosing should be made with great care in patients with cardiovascular disease and/or severe and long-existing hypothyroidism.Too high an initial dose or too rapid an increase in dosing may lead to development or worsening of angina complaints, arrhythmias, myocardial infarction, cardiac failure or to sudden increase in blood pressure, especially in older patients.
+Any marked change of body weight during treatment with T4 requires adjustment of the dosage.
+When monitoring blood levels of T3 and T4, it should be borne in mind that a "high" normal to slightly increased T4 level will be necessary in order to obtain a normal level of T3. The correct dosage of Levothyroxine in primary hypothyroidism should generally be established by monitoring the serum level of TSH to see whether it has normalized. Because intoxication with Thyroid preparations may have serious consequences.
+
+### drug=multivitamins-multiminerals-a-z-prenatal-preparation | section=precautions | lang=bn
+Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematological remission can occur while neurological manifestations remain progressive
+
+### drug=multivitamins-multiminerals-a-z-prenatal-preparation | section=precautions | lang=en
+Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematological remission can occur while neurological manifestations remain progressive
+
+### drug=insulin-human-rdna | section=interaction | lang=bn
+Concomitant use of other drugs may influence insulin requirements.
+The following substances may reduce the insulin requirements: Oral hypoglycaemic agents (OHA), monoamine oxidase inhibitors (MAOI), non-selective beta-blocking agents, angiotensin converting enzyme (ACE) inhibitors, salicylates and alcohol.
+The following substances may increase the insulin requirements: Thiazides, glucocorticoids, thyroid hormones and beta-sympathomimetics, growth hormone and danazol.
+Beta-blockers may mask the symptoms of hypoglycaemia and delay recovery from hypoglycaemia. Octreotide/lanreotide may both increase and decrease insulin requirement. Alcohol may intensify and prolong the hypoglycaemic effect of insulin.
+
+### drug=insulin-human-rdna | section=precautions | lang=bn
+Inadequate dosing or discontinuation of treatment, especially in type 1 diabetes, may lead to hyperglycaemia. In type 1 diabetes, untreated hyperglycaemic events eventually leads to diabetic ketoacidosis which is potentially lethal.
+Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
+Changes in strength, brand (manufacturer), type (rapid acting insulin, dual acting insulin, intermediate and long acting insulin etc.), species (animal, human insulin analogue) and/or method of manufacture (recombinant DNA versus animal source insulin) may result in the need for a change in dosage.
+Before travelling between different time zones, the patients should be advised to consult the doctor, since this may mean that the patients have to take insulin and meals at different time.
+
+### drug=insulin-human-rdna | section=interaction | lang=en
+Concomitant use of other drugs may influence insulin requirements.
+The following substances may reduce the insulin requirements: Oral hypoglycaemic agents (OHA), monoamine oxidase inhibitors (MAOI), non-selective beta-blocking agents, angiotensin converting enzyme (ACE) inhibitors, salicylates and alcohol.
+The following substances may increase the insulin requirements: Thiazides, glucocorticoids, thyroid hormones and beta-sympathomimetics, growth hormone and danazol.
+Beta-blockers may mask the symptoms of hypoglycaemia and delay recovery from hypoglycaemia. Octreotide/lanreotide may both increase and decrease insulin requirement. Alcohol may intensify and prolong the hypoglycaemic effect of insulin.
+
+### drug=insulin-human-rdna | section=precautions | lang=en
+Inadequate dosing or discontinuation of treatment, especially in type 1 diabetes, may lead to hyperglycaemia. In type 1 diabetes, untreated hyperglycaemic events eventually leads to diabetic ketoacidosis which is potentially lethal.
+Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
+Changes in strength, brand (manufacturer), type (rapid acting insulin, dual acting insulin, intermediate and long acting insulin etc.), species (animal, human insulin analogue) and/or method of manufacture (recombinant DNA versus animal source insulin) may result in the need for a change in dosage.
+Before travelling between different time zones, the patients should be advised to consult the doctor, since this may mean that the patients have to take insulin and meals at different time.
+

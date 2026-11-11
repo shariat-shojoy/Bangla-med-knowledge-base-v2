@@ -1,0 +1,44 @@
+### drug=atorvastatin-calcium | section=interaction | lang=bn
+এটরভাসটাটিনের সাথে সাইক্লোস্পোরিন, ফিব্রিক এসিড ডেরিভেটিভ, এরিথ্রোমাইসিন, এজোল এন্টিফাংগাল এবং নিয়াসিন প্রদান করলে মায়োপ্যাথি হবার ঝুঁকি বেড়ে যায়। উচ্চ রক্তচাপ বিরোধী অথবা হাইপোগ্লাইসেমিক ঔষধের সাথে এটরভাসটাটিনের কোন উল্লেখযোগ্য ক্লিনিক্যাল প্রতিক্রিয়া জানা যায়নি। এটরভাসটাটিনের সাথে ডিগক্সিন, এরিথ্রোমাইসিন, ওরাল কন্ট্রাসেপটিভ, কলেস্টিপল, এন্টাসিড এবং ওয়ারফারিন দেয়া হলে রোগীকে নিবিড় পর্যবেক্ষণে রাখতে হবে।
+
+### drug=atorvastatin-calcium | section=precautions | lang=bn
+যকৃতের উপর প্রভাবঃ চিকিৎসা শুরুর আগে এবং চিকিৎসা শুরুর পরে নির্দিষ্ট সময়ের ব্যবধানে যকৃতের কার্যকারিতার পরীক্ষাগুলো করতে হবে। যাদের যকৃতের রোগ আছে অথবা যারা অতিরিক্ত পরিমাণে এলকোহল সেবন করে তাদের ক্ষেত্রে সতর্কতার সাথে এটরভাসটাটিন ব্যবহার করতে হবে। CPK লেভেল অতিরিক্ত বৃদ্ধি পেলে অথবা মায়োপ্যাথি দেখা দিলে বা দেখা দেওয়ার সম্ভাবনা থাকলে এটরভাসটাটিন থেরাপি বন্ধ করতে হবে।
+
+### drug=atorvastatin-calcium | section=special_populations | lang=bn
+যকৃতের (লিভারের) সমস্যা
+: লিভারের সমস্যায় আক্রান্ত রোগীদের ক্ষেত্রে এ্যাটোরভাস্টাটিন সতর্কতার সাথে সেবন করতে হবে।
+শিশুদের ক্ষেত্রে
+: ১০ বছর বা তার অধিক বয়সী রোগীদের ক্ষেত্রে এ্যাটোরভাস্টাটিন প্রারম্ভিক দৈনিক মাত্রা ১০মিঃগ্রাঃ থেকে শুরু করে টাইট্রেশনের মাধ্যমে ২০মিঃগ্রাঃ পর্যন্ত দেওয়া যাবে। ১০ বছরের নিচের শিশুদের কে দেওয়া যাবে না।
+
+### drug=atorvastatin-calcium | section=interaction | lang=en
+The risk of myopathy during treatment with drugs of this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, niacin (nicotinic acid), erythromycin, azole antifungals.
+Antacid
+: When atorvastatin and antacid suspension were coadministered, plasma concentrations of atorvastatin decreased approximately 35%. However, LDL-C reduction was not altered.
+Colestipol
+: Plasma concentrations of atorvastatin decreased approximately 25% when colestipol and atorvastatin were coadministered. However, LDL-C reduction was greater when atorvastatin and colestipol were coadministered than when either drug was given alone.
+Digoxin
+: When multiple doses of atorvastatin and digoxin were coadministered, steady-state plasma digoxin concentrations increased by approximately 20%. Patients taking digoxin should be monitored appropriately.
+Erythromycin
+: In healthy individuals, plasma concentrations of atorvastatin increased approximately 40% with coadministration of atorvastatin and erythromycin, a known inhibitor of cytochrome P450 3A4.
+Oral Contraceptives
+: Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%. These increases should be considered when selecting an oral contraceptive for a woman taking atorvastatin.
+Warfarin
+: Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
+
+### drug=atorvastatin-calcium | section=precautions | lang=en
+Liver effects: Liver function tests should be performed before the initiation of treatment and periodically thereafter. Atorvastatin should be used with caution in patients who consume substantial quantities of alcohol or have a history of liver disease. Atorvastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+
+### drug=atorvastatin-calcium | section=special_populations | lang=en
+Geriatric
+: Plasma concentrations of Atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age 65 years) than in young adults. Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults.
+Pediatric
+: Pharmacokinetic data in the pediatric population are not available.
+Gender
+: There is no clinically significant difference in LDL-C reduction with Atorvastatin between men and women.
+Renal Insufficiency
+: Renal disease has no influence on the plasma concentrations or LDL-C reduction of Atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary.
+Hemodialysis
+: Hemodialysis is not expected to significantly enhance clearance of Atorvastatin since the drug is extensively bound to plasma proteins.
+Hepatic Insufficiency
+: In patients with chronic alcoholic liver disease, plasma concentrations of Atorvastatin are markedly increased.
+

@@ -1,0 +1,35 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+iron-sucrose,G06-015,G06-035,,,high,
+iron-sucrose,G06-017,,,,high,
+iron-sucrose,G06-023,G06-042,,,high,
+iron-sucrose,G06-024,G06-043,,,high,
+iron-sucrose,G06-026,G06-045,,,high,
+iron-sucrose,G06-029,G06-050,,,medium,Bangla splits asthma (G06-048) and history of anaphylaxis (G06-050) and omits allergic disorders generally and eczema; matched to G06-050 as closer
+iron-sucrose,G06-031,,,,high,
+iron-sucrose,P04-142,P04-136,,,high,
+iron-sucrose,P04-146,P04-140,,,high,
+iron-sucrose,,G06-048,,asthma,high,Part of combined English claim G06-029 (which was matched to G06-050)
+labetalol-hydrochloride,G06-060,G06-081,,,high,
+labetalol-hydrochloride,G06-072,G06-093,,,high,Exact translation of the same statement (Bangla claim extracted with CAUSES label instead of USE_IN)
+lamotrigine,G06-103,,,,high,
+lamotrigine,G06-104,,,,high,
+levetiracetam,G06-115,G06-125,,,high,Bangla states epilepsy generally rather than Juvenile Myoclonic Epilepsy
+levetiracetam,G06-116,G06-126,,,high,
+levetiracetam,P06-074,P06-043,,,high,
+levetiracetam,P06-099,,আত্মঘাতী পরিকল্পনা এবং আচরনের তথ্য পাওয়া গেছে,,high,
+levetiracetam,,P06-057,,"In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection.",high,
+levetiracetam,,P06-072,,No dose adjustment is needed in patients with mild to moderate hepatic impairment.,high,
+levonorgestrel-for-emergency-contraception,G06-134,G06-149,,,high,
+levonorgestrel-for-emergency-contraception,G06-135,G06-150,,,high,
+levonorgestrel-for-emergency-contraception,G06-136,G06-151,,,high,
+levonorgestrel-for-emergency-contraception,G06-137,G06-152,,,high,
+levonorgestrel-for-emergency-contraception,G06-139,G06-154,,,high,
+levonorgestrel-for-emergency-contraception,G06-143,G06-158,,,high,
+levonorgestrel-for-emergency-contraception,G06-144,G06-159,,,high,
+levonorgestrel-for-emergency-contraception,P06-127,P06-115,,,high,
+levothyroxine-sodium,G06-162,G06-172,,,high,Bangla incorporates the subacute thyroiditis exception directly into the hypothyroidism replacement therapy indication
+levothyroxine-sodium,G06-163,G06-173,,,high,
+levothyroxine-sodium,G06-164,G06-174,,,high,
+lithium-carbonate,G06-185,G06-196,,,high,
+lithium-carbonate,G06-186,G06-197,,,high,
+lithium-carbonate,G06-190,,তাই অত্যন্ত জরুরি প্রয়োজন না হলে গর্ভাবস্থায় এর ব্যবহার এড়িয়ে চলতে হবে।,,high,

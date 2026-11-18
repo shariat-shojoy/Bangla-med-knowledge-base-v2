@@ -1,0 +1,352 @@
+### drug=ethinyl-estradiol-desogestrel-003-mg
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G05-001 | INDICATED_FOR | prevent pregnancy | - | indications | "This combination tablet is indicated to prevent pregnancy."
+G05-002 | USE_IN | disorder affecting the blood circulation | contraindicated | contraindications | "If you have, or have ever had a disorder affecting the blood circulation."
+G05-006 | USE_IN | heart attack | contraindicated | contraindications | "the heart (heart attack)"
+G05-009 | USE_IN | first sign of a stroke (such as transient ischaemic attack o | contraindicated | contraindications | "or stroke (such as transient ischaemic attack or small reversible stroke)."
+G05-017 | USE_IN | pregnant or think you might be pregnant | contraindicated | contraindications | "If you are pregnant or think you might be pregnant."
+G05-021 | USE_IN | pregnant, or who think they may be pregnant | contraindicated | pregnancy_lactation | "This tablet must not be used by women who are pregnant, or who think they may be pregnant."
+G05-018 | USE_IN | allergic to any of the ingredients | contraindicated | contraindications | "If you are allergic to any of the ingredients of this tablet."
+P03-320 | USE_IN | high cholesterol or triglycerides | caution | precautions | "high blood levels of cholesterol or triglycerides"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G05-038 | USE_IN | pregnancy | contraindicated | contraindications | "আপনি যদি গর্ভধারণ করেন কিংবা মনে হয় আপনার গর্ভ সঞ্চার হয়েছে।"
+G05-039 | USE_IN | hypersensitivity to any ingredient | contraindicated | contraindications | "এই ট্যাবলেটে-এর কোন একটি উপাদানের ক্ষেত্রে আপনি সংবেদনশীল হলে।"
+G05-042 | USE_IN | pregnant women or women who wish to conceive | avoid | pregnancy_lactation | "গর্ভবতী মহিলা বা যারা গর্ভধারণ করতে চান তাদের এই ট্যাবলেট খাওয়া উচিত নয়।"
+G05-023 | USE_IN | blood circulation disorder | contraindicated | contraindications | "আপনার এমন কোন জটিলতা আছে বা ছিল যাতে রক্ত সরবরাহ বিঘ্নিত হয়"
+G05-027 | USE_IN | heart disease | contraindicated | contraindications | "হৃদপিন্ডে (হৃদরোগ)"
+G05-022 | INDICATED_FOR | contraception | - | indications | "গর্ভনিরোধক হিসাবে ইহা নির্দেশিত।"
+## ENGLISH SECTION TEXT: contraindications
+Do not use the combined Pill if you have any of the conditions listed below. If any of these apply to you, tell your doctor before starting to use this tablet. Your doctor may advise you to use a different type of Pill or an entirely different (non-hormonal) method of birth control.
+If you have, or have ever had a disorder affecting the blood circulation. In particular, those conditions relating to thrombosis. Thrombosis is the formation of a blood clot. This may occur in the blood vessels of the legs (deep vein thrombosis), the lungs (pulmonary embolism), the heart (heart attack), the brain (stroke), or other parts of the body.
+If you have or have ever had a condition that may be a first sign of a heart attack (such as angina pectoris or chest pain) or stroke (such as transient ischaemic attack or small reversible stroke).
+If you have diabetes mellitus with blood vessel damage.
+If you have jaundice (yellowing of the skin) or severe liver disease.
+If you have or have had cancer of the breast or the genital organs.
+If you have or have had a benign or malignant tumour in the liver.
+If you have any unexplained vaginal bleeding.
+If you are pregnant or think you might be pregnant.
+If you are allergic to any of the ingredients of this tablet.
+If any of these conditions appear for the first time while using the Pill, stop taking it at once and consult your doctor. In the meantime, use non-hormonal contraceptive measures.
+## BANGLA SECTION TEXT: contraindications
+যদি নিম্নবর্ণিত অবস্থাগুলির কোন একটি আপনার হয়ে থাকে, তবে কমবাইন্ড পিল ব্যবহার করবেন না। যদি এইগুলির একটিও আপনার ক্ষেত্রে প্রয়োজ্য হয়, তবে এই ট্যাবলেটে খাবার পূর্বে ডাক্তারকে বলুন। ডাক্তার আপনার জন্য ভিন্ন ধরণের পিল বা সম্পূর্ণ ভিন্ন (হরমোন বহির্ভূত) জন্মনিয়ন্ত্রণ ব্যবস্থা দেবেন।
+আপনার এমন কোন জটিলতা আছে বা ছিল যাতে রক্ত সরবরাহ বিঘ্নিত হয়, বিশেষ করে থ্রম্বসিস সম্পর্কিত অবস্থাসমূহ। থ্রম্বসিসে রক্ত জমাট বেধে যায়। এ অবস্থা পায়ের রক্তনালীতে (ডিপ ভেইন থ্রম্বসিস), ফুসফুসে (পালমোনারী এমবলিজম), হৃদপিন্ডে (হৃদরোগ), মস্তিষ্কে (স্ট্রোক), বা দেহের অন্য কোথাও সৃষ্টি হাতে পারে।
+আপনার এমন কোন অবস্থা আছে বা ছিল যা হৃদরোগের প্রাথমিক লক্ষণ হতে পারে (যেমন এনজিনা পেক্টরিস বা বুকে ব্যাথা) বা স্ট্রোক (যেমন ক্ষণস্থায়ী ইশকেমিক আক্রমণ বা ক্ষুদ্র পুণঃআক্রমণাত্বক স্ট্রোক) দেখা দিলে
+আপনার রক্তনালীর ক্ষতিগ্রস্থততা সহ ডায়াবেটিস দেখা দিলে।
+আপনার যদি জন্ডিস (ত্বক হলুদ হওয়া) বা প্রকট যকৃতের ব্যাধি হয়ে থাকে।
+আপনার স্তন বা যৌনাঙ্গে ক্যান্সার দেখা দেয় বা অতীতে হলে।
+আপনার যকৃতে (লিভার) সাধারণ বা বিপজ্জনক টিউমার দেখা দিলে বা অতীতে হয়ে থাকলে।
+অজানা কারণে আপনার ভ্যাজিনাল রক্তস্রাব হলে।
+আপনি যদি গর্ভধারণ করেন কিংবা মনে হয় আপনার গর্ভ সঞ্চার হয়েছে।
+এই ট্যাবলেটে-এর কোন একটি উপাদানের ক্ষেত্রে আপনি সংবেদনশীল হলে।
+পিল খাওয়ার সময় এই সব অবস্থা প্রথম বারের মতো দেখা দিলে সাথে সাথে পিল খাওয়া বন্ধ করুন ও ডাক্তারের পরামর্শ নিন। ইতিমধ্যে অন্য কোন হরমোনবিহীন জন্মনিয়ন্ত্রণ ব্যবস্থা গ্রহণ করুন।
+## ENGLISH SECTION TEXT: indications
+This combination tablet is indicated to prevent pregnancy. Oral contraceptives are a very effective method of birth control. When taken correctly (without missing tablets), the chance of becoming pregnant is very low.
+## BANGLA SECTION TEXT: indications
+গর্ভনিরোধক হিসাবে ইহা নির্দেশিত। মুখে খাওয়া জন্মনিয়ন্ত্রণ বড়ি জন্মনিয়ন্ত্রণের সবচেয়ে নির্ভরযোগ্য পদ্ধতি। সঠিকভাবে গ্রহণ করা হলে (কোন বড়ি বাদ না দিয়ে) গর্ভধারণের ঝুঁকি নেই বললেই চলে।
+## ENGLISH SECTION TEXT: precautions
+Before you start to use this tablet: If the combined Pill is used in the presence of any of the conditions listed below you may need to be kept under close observation. Your doctor can explain this to you. Therefore, if any of these apply to you, tell your doctor before starting to use this tablet
+you smoke;
+you have diabetes;
+you are overweight;
+you have high blood pressure;
+you have a heart valve disorder or a certain heart rhythm disorder;
+you have an inflammation of your veins (superficial phlebitis);
+you have varicose veins;
+anyone in your immediate family has had a thrombosis, a heart attack or a stroke;
+you suffer from migraine;
+you suffer from epilepsy;
+you or someone in your immediate family have or had high blood levels of cholesterol or triglycerides (fatty substances);
+anyone in your immediate family has had breast cancer;
+you have liver or gallbladder disease;
+you have Crohn's disease or ulcerative colitis (chronic inflammatory bowel disease);
+you have systemic lupus eryhematosus (SLE; a disease affecting the skin all over the body);
+you have haemolytic uraemic syndrome (HUS; a disorder of blood coagulation causing failure of the kidneys);
+you have sickle cell disease;
+you have or have had chloasma (yellowish-brown pigmentation patches on the skin, particularly of the face): if so, avoid too much exposure to the sun or ultraviolet radiation.
+If any of the above conditions appear for the first time, recur or worsen while using the Pill, you should contact your doctor.
+The Pill and Thrombosis
+: A thrombosis is the formation of a blood clot, which may block a blood vessel. A thrombosis sometimes occurs in the deep veins of the legs (deep venous thrombosis). If this blood clot breaks away from the veins where it is formed, it may reach and block the arteries of the lungs, causing a so-called "Pulmonary embolism." Deep venous thrombosis is a rare occurrence. It can develop whether or not you are taking the Pill. It can also happen if you become pregnant. The risk is higher in Pill-users than in non-users, but it is not as high as the risk during pregnancy.
+Blood clots can also occur very rarely in the blood vessels of the heart (causing a heart attack) or the brain (causing a stroke). Extremely rarely blood clots can occur in the liver, gut, kidney or eye.
+Very occasionally a thrombosis may cause serious permanent disabilities or may even be fatal.
+The risk of having a heart attack or stroke increases, as you get older. It also increases the more you smoke. When using the Pill you should stop smoking, especially if you are older than about 35 years of age.
+If you develop high blood pressure while using the Pill, you may be told to stop using it.
+The risk of having a deep venous thrombosis is temporarily increased as a result of an operation or immobilisation (for example, when you have your leg or legs in plaster or splints). In women who use the Pill, the risk may be yet higher. Tell your doctor you are using the Pill well in advance of any expected hospitalisation or surgery. Your doctor may tell you to stop taking the Pill several weeks before surgery or at the time of immobilisation. Your doctor will also tell you when you can start taking the Pill again after you are back on your feet. If you notice possible signs of a thrombosis, stop taking the Pill and consult your doctor immediately.
+The Pill and cancer
+: Breast cancer has been diagnosed, slightly more often in women who use the Pill than in women of the same age who do not use the Pill. This slight increase in the numbers of breast cancer diagnoses gradually disappears during the course of the 10 years after stopping use of the Pill. It is not known whether the difference is caused by the Pill. It may be that the women were examined more often, so that the breast cancer was noticed earlier. In rare cases benign liver tumours and even more rarely, malignant liver tumours have been reported in users of the Pill. These tumours may lead to internal bleeding. Contact your doctor immediately if you have severe pain in your stomach.
+Cervical cancer has been reported to occur more often in women using the Pill for a long time. This finding may not be caused by the Pill but may be related to sexual behaviour and other factors.
+The Pill and other Medicines
+: Some medicines may stop the Pill from working properly. These include medicines used for the treatment of epilepsy (eg. primidone, phenytoin, barbiturates) and tuberculosis (eg. rifampicin); and antibiotics (eg. ampcillin, tetracyclines, griseofulvin) for some other infectious diseases. Always tell the doctor, who prescribes the Pill, which medicines you are already using. Also tell any other doctor or dentist who prescribes another medicine (or the dispensing pharmacist) that you use this tablet. They can tell you if you need to take additional contraceptive precautions and if so, for how long.
+The Pill and Ability to Drive
+: There are no observed effects.
+## BANGLA SECTION TEXT: precautions
+আপনি এই ট্যাবলেট শুরু করার আগে
+: কম্বাইন্ড পিল খাওয়া শুরু করার সময় যদি নিম্নে বর্ণিত যে কোন একটি অবস্থায় থাকেন তবে আপনার প্রতি বিশেষ নজর দেয়া উচিত। আপনার ডাক্তার বিষয়টির ভাল ব্যাখ্যা দিতে পারবেন। এই সব অবস্থায় আপনি থাকলে এই ট্যাবলেট শুরু করার পূর্বে ডাক্তারকে বিষয়টি খুলে বলুন।
+আপনি ধুমপান করেন;
+আপনার ডায়াবেটিস আছে;
+আপনার ওজন বেশী;
+আপনার উচ্চ রক্তচাপ আছে;
+আপনার হৃদপিন্ডের ভালভে জটিলতা আছে কিংবা হৃদস্পন্দনের সমস্যা আছে;
+আপনার শিরায় কোন প্রদাহ (সুপারফিসিয়াল ফ্লেবাইটিস) আছে;
+আপনার ভেরিকোজ ভেইন আছে;
+আপনার নিকট আত্মীয়ের কারো থ্রম্বসিস বা হার্ট এটাক আছে বা স্ট্রোক হয়েছিল;
+আপনার মাইগ্রেনের ব্যাথা আছে;
+আপনার মৃগি রোগ আছে;
+আপনি বা আপনার নিকট আত্মীয়ের কারো রক্তের কোলেষ্টেরল বা ট্রাইগ্লিসারাইড এর মাত্রা যথেষ্ট বেশী (চর্বিজাতীয় পদার্থ) আছে বা ছিল;
+আপনার নিকট আত্মীয়ের কারো স্তন ক্যান্সার ছিল;
+আপনার যকৃত (লিভার) বা পিত্ত থলির (গলব্লাডার) রোগ আছে;
+আপনার ক্রন্স ডিজিজ বা আলসারেটিভ কোলাইটিস (ক্রনিক ইনফ্লামেটরী বাওয়েল ডিজিজ) আছে;
+আপনার সিসটেমিক লুপাস এরিদম্যাটোসাস (এসএলই; সারা দেহের ত্বকের জটিলতা) আছে;
+আপনার হিমোলাইটিক ইউরেমিক সিন্ড্রোম (একটি রক্ত জমাট বাধাজনিত কিডনি ফেইলিওর রোগ) আছে;
+আপনার সিকল সেল ডিজিজ আছে;
+আপনার ক্লোসমা (ত্বকে, বিশেষ করে মুখে খয়েরী-হলুদাভ ছোপ) পূর্বে ছিল বা বর্তমানে আছে, যদি থাকে তবে উন্মুক্ত সূর্যালোকে যাবেন না বা অতিবেগুনী রেডিয়েশনের সম্মুখীন হবেন না।
+পিল খাবার সময় প্রথমবার উপরের যে কোন অবস্থায় আক্রান্ত হলে, আবার দেখা দিলে বা বেড়ে গেলে ডাক্তারের পরামর্শ নিন।
+পিল ও থ্রম্বসিস
+: থ্রম্বসিস হল রক্ত জমাট বেধে রক্তনালি বন্ধ হয়ে যাওয়া। পায়ের গভীর শিরায় কখনও থ্রম্বসিস দেখা যেতে পারে (ডিপ ভিনাস থ্রম্বসিস)। এই জমাট রক্তের টুকরো জমাট বাঁধার স্থান থেকে ভেঙে ফুসফুসে পৌঁছে ধমনীর গতিপথ বন্ধ করে দিতে পারে, এর ফলে তথাকথিত "পালমোনারী এম্বলিজম" এর সৃষ্টি হয়। ডিপ ভিনাস থ্রম্বসিস সচরাচর হয় না। এ অবস্থা আপনি পিল খান বা নাই খান হতে পারে। আপনি গর্ভবতী হলেও এ অবস্থা দেখা দিতে পারে। যারা পিল খান না তাদের চেয়ে যারা পিল খান তাদের এতে আক্রান্ত হওয়ার আশঙ্কা বেশি, কিন্তু গর্ভকালীন অবস্থার ঝুঁকির চেয়ে বেশি নয়।
+খুব অল্প ক্ষেত্রে রক্তের দানা বাঁধতে পারে হৃদপিন্ডের রক্তনালিতে (হৃদরোগ দেখা দেয়) বা মস্তিস্কে (এতে ষ্ট্রোক হয়)। যকৃতে, খাদ্যনালীতে, কিডনীতে ও চোখে রক্ত দানা বাঁধে না বললেই চলে।
+কদাচিৎ, থ্রম্বসিস ভয়াবহ দৈহিক অক্ষমতার সৃষ্টি করতে পারে, অনেক সময় তা মারাত্মকও হতে পারে।
+হার্ট এটাক বা স্ট্রোকের ঝুঁকি আরও বেড়ে যায় যখন আপনার বয়স বাড়তে থাকবে। এই ঝুঁকি আরও বাড়বে যদি আপনি ধূমপান করেন। আপনি পিল খেতে আরম্ভ করলে ধূমপান বন্ধ করুন, বিশেষ করে আপনার বয়স ৩৫ বৎসরের বেশি হয়ে গেলে।
+পিল খাওয়াকালীন আপনার উচ্চ রক্তচাপ দেখা দিলে আপনাকে পিল খাওয়া বন্ধ করতে বলা হতে পারে।
+আপনার অস্ত্রোপচার হলে বা আপনার পায়ে প্লাষ্টার বা স্প্লিন্ট বাঁধার কারণে চলাচলের অক্ষমতা হলে অস্থায়ীভাবে ডিপ ভিনাস থ্রম্বসিস হবার ঝুঁকি বাড়তে পারে। যে সকল মহিলা পিল খান, এসব জটিলতার ঝুঁকি আরও বেড়ে যেতে পারে। হাসপাতালে ভর্তি বা অস্ত্রোপচারের প্রয়োজন হলে পূর্বেই আপনার ডাক্তারকে জানান যে আপনি পিল খাচ্ছেন। আপনার ডাক্তার অস্ত্রোপচারের কয়েক সপ্তাহ আগে বা যখন আপনার চলাফেরা বন্ধ হবে তখন পিল খাওয়া বন্ধ করেও দিতে পারে।
+হাঁটাচলা আরম্ভ করার পর কখন আপনি আবার পিল খাওয়া আরম্ভ করবেন তা আপনার ডাক্তার আপনাকে বলে দেবেন।
+থ্রম্বসিস হওয়ার সম্ভাব্য সংকেতগুলি আপনার নজরে এলে পিল খাওয়া বন্ধ করুন ও সাথে সাথে ডাক্তারকে জানান।
+পিল ও ক্যান্সার
+: যে সকল মহিলা পিল খান তাদের স্তন ক্যান্সার হওয়ার সম্ভাবনা একই বয়সের যে সকল মহিলা পিল খান না তাদের চেয়ে কিছুটা বেশি। স্তন ক্যান্সার হওয়ার সম্ভাবনার হারের এই স্বল্প বৃদ্ধি পিল খাওয়া বন্ধ করার পর থেকে দশ বৎসরের মধ্যে চলে যায়। এই পার্থক্য পিল খাওয়ার কারণে কি না তা সঠিকভাবে জানা যায় নাই। এমনও হতে পারে যে মহিলাদের ঘন ঘন স্বাস্থ্য পরীক্ষা করা হয়, আর এই কারণে স্তন ক্যান্সার আগেই ধরা পড়ে।
+পিল ব্যবহারকারীদের মধ্যে অল্প কিছু অবস্থায় যকৃতের বিনাইন টিউমার এবং আরও বিরলভাবে ম্যালিগ্ল্যান্ট লিভার টিউমার দেখা দেয়। এই সকল টিউমারের কারণে আভ্যন্তরীণ রক্ত ক্ষরণ হতে পারে। আপনার পাকস্থলিতে তীব্র ব্যাথা হলে তৎক্ষণাৎ আপনার ডাক্তারের সাথে যোগাযোগ করুন।
+যে সব মহিলা দীর্ঘকাল পিল সেবন করেন তাদের সার্ভাইকাল ক্যান্সার হওয়ার সম্ভাবনা থাকতে পারে। তবে এই সকল ক্যান্সার পিল সেবনের কারণে না হয়ে যৌন আচরণ বা অন্য কোন কারণের জন্যও হতে পারে।
+পিল ও অন্যান্য ওষুধ
+: কোন কোন ওষুধ খেলে পিলের কার্যকারিতা নষ্ট হতে পারে। এ সকল ওষুধের মধ্যে মৃগী রোগে ব্যবহৃত ওষুধ, (যেমন- প্রিমিডোন, ফিনাইটইন, বার্বিচুরেট), যক্ষা (যেমন-রিফামপিসিন) এবং অন্য কিছু ছোঁয়াচে রোগের জন্য ব্যবহৃত এন্টিবায়োটিক (যেমন- এম্পিসিলিন, টেট্রাসাইক্লিন, গ্রিসিওফুলভিন)। যে ডাক্তার আপনাকে পিল খেতে বলেছেন তাকে বলুন আপনি সম্প্রতি কি ওষুধ খাচ্ছেন। অন্য কোন ডাক্তার বা ডেন্টিস্ট (বা ফার্মাসিস্ট) আপনাকে কোন ওষুধ দিলেও তাকে বলুন যে আপনি এই ট্যাবলেট খাচ্ছেন। আপনার অন্য কোন জন্মনিয়ন্ত্রণ ব্যবস্থা নেয়ার প্রয়োজন হবে কি না, হলে কতদিন, তা তারা আপনাকে জানাবেন।
+পিল ও গাড়ি চালনা
+: পিল খাওয়ার সাথে গাড়ি চালনায় কোন বিরূপ প্রভাব নেই।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+The Pill and Breastfeeding: This tablet is generally not recommended for use during breast feeding. If you wish to take the Pill while breastfeeding, please seek the advice of your doctor.
+The Pill and Pregnancy: This tablet must not be used by women who are pregnant, or who think they may be pregnant.
+## BANGLA SECTION TEXT: pregnancy_lactation
+পিল ও স্তন্যদান
+: শিশুকে বুকের দুধ খাওয়ানোর সময় এই ট্যাবলেট খাওয়ার কথা বলা হয় না। স্তন্যদানের সময় আপনি পিল খেতে চাইলে আপনার ডাক্তারের পরামর্শ নিন।
+পিল ও গর্ভধারণ
+: গর্ভবতী মহিলা বা যারা গর্ভধারণ করতে চান তাদের এই ট্যাবলেট খাওয়া উচিত নয়।
+
+### drug=fluconazole
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G05-099 | INDICATED_FOR | Fungal urinary tract infections | - | indications | "Fungal urinary tract infections"
+G05-101 | INDICATED_FOR | Prophylaxis for fungal infection in neutropenic cancer patie | - | indications | "Prophylaxis for fungal infection in neutropenic cancer patients."
+G05-102 | INDICATED_FOR | coccidioidomycosis | - | indications | "Acute treatment of other systemic fungal infections such as coccidioidomycosis"
+G05-103 | INDICATED_FOR | histoplasmosis | - | indications | "and histoplasmosis."
+G05-105 | USE_IN | known hypersensitivity to related triazole compounds | avoid | contraindications | "or to related triazole compounds."
+G05-106 | CAUSES | adverse fetal efects | - | pregnancy_lactation | "Fluconazole adverse fetal efects have been seen in animals"
+G05-108 | USE_IN | women of child bearing potential | avoid | pregnancy_lactation | "or in women of child bearing potential unless adequate contraception is employed."
+P04-348 | INTERACTS_WITH | oral sulphonyl ureas | - | interaction | "prolong the serum half-life of concomitantly administed oral sulphonyl ureas"
+P04-349 | INTERACTS_WITH | chlorpropamide | - | interaction | "chlorpropamide"
+P04-350 | INTERACTS_WITH | glibenclamide | - | interaction | "gilbenclamide"
+P04-351 | INTERACTS_WITH | glipizide | - | interaction | "glipizide"
+P04-352 | INTERACTS_WITH | tolbutamide | - | interaction | "tolbutamide"
+P04-353 | INTERACTS_WITH | hydrochlorothiazide | - | interaction | "hydrochlorothiazide"
+P04-356 | INTERACTS_WITH | combined oral contraceptive | - | interaction | "combined oral contraceptive"
+P04-358 | INTERACTS_WITH | theophylline | caution | interaction | "theophyline … should be observed for sign of toxicity"
+P04-359 | CAUSES | hepatic necrosis | - | precautions | "hapatic necrosis"
+P04-360 | CAUSES | exfoliative cutaneous reactions | - | precautions | "exfoliative cutaneous reactions"
+P04-361 | CAUSES | Stevens Johnson Syndrome | - | precautions | "Stevens Johnson Syndrome"
+P04-362 | CAUSES | toxic epidermal necrolysis | - | precautions | "toxic epidermal necrolysis"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P04-346 | USE_IN | proarrhythmic patients | caution | precautions | "প্রো-এরিদমিক রোগীদের ক্ষেত্রে ফ্লুকোনাজল ব্যবহারে সতর্কতা অবলম্বন করতে হবে"
+## ENGLISH SECTION TEXT: contraindications
+Fluconazole should not be used in patients with known hypersensitivity to Fluconazole or to related triazole compounds.
+## BANGLA SECTION TEXT: contraindications
+ফ্লুকোনাজল বা অন্যান্য ট্রাইএজল জাতীয় ঔষধের-এর প্রতি অতিসংবেদনশীলতায় এটি প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+Fluconazole is indicated in-
+Vaginal Candidiasis
+Oropharyngeal Candidiasis
+Esophageal Candidiasis
+Tinea corporis/Tinea cruris/Tinea pedis/Other Tinea
+Kerion
+Pityriasis versicolor
+Onychomycosis
+Invasive candidal infections and cryptococcal infections (including meningitis)
+Prevention of cryptococcal meningitis
+Prevention of fungal infections in immunocompromised patients
+Systemic Candidiasis and Cryptococcal infection
+In Superficial Candidiasis
+In Systemic Candidiasis & Cryptococcal infection
+Other indications-
+Fungal urinary tract infections
+Disseminated candidiasis
+Prophylaxis for fungal infection in neutropenic cancer patients.
+Acute treatment of other systemic fungal infections such as coccidioidomycosis and histoplasmosis.
+## BANGLA SECTION TEXT: indications
+ফ্লুকোনাজল নিম্নোক্ত উপসর্গে নির্দেশিত-
+ভ্যাজাইনাল ক্যান্ডিডিয়াসিস
+অবোফ্যারিজিয়ান ক্যান্ডিডিয়াসিস
+ইসোফ্যাজিয়াল ক্যান্ডিডিয়াসিস
+টিনিয়া কর্পোরিস/টিনিয়া ক্রুরিস/টিনিয়া পেডিস/অন্যান্য টিনিয়া
+কেরিয়ন
+পিটাইরিয়াসিস ভার্সিকলার
+অন্যইকোমাইকোসিস
+ইনভেসিভ ক্যান্ডিডাল ইনফেকশন এবং ক্রিপ্টোকক্কাল ইনফেকশন (মেনিঞ্জাইটিস সহ)
+ক্রিপ্টোকক্কাল মেনিঞ্জাইটিস প্রিভেনশন
+ইমিউনোকম্প্রেমাইজড ছত্রাক সংক্রমণ প্রতিরোধ রোগীদের
+সুপারফিশিয়াল ক্যান্ডিডিয়াসিস
+সিস্টেমিক ক্যান্ডিডিয়াসিস এবং ক্রিপ্টোকক্কাল সংক্রমণে
+## ENGLISH SECTION TEXT: interaction
+In an interaction study, fuconazole increased the prothombin time after warfarin administration in healthy males. Though the magnitude of change was small (12%) careful monitoring of prothombin time in patients receiving coumarin type anticoagulants is recommended.
+Fluconazole has been shown to prolong the serum half-life of concomitantly administed oral sulphonyl ureas (chlorpropamide, gilbenclamide, glipizide and tolbutamide) in healthy volunteers. Fluconazole and oral sulphonylureas may be co-administered to diabetic patients, but the possibility of a hypoglycemic episode should be borne in mind.
+In a kinetic interaction study, co-administration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fuconazole increased plasma concentrations of fuconazole by 40%. An efect of this magnitude should not necessitate a change in the fuconazole dose regimen in subjects recieving concomitant diureties, although the prescribers should bear it in mind.
+Concomitant administration of fuconazole and phenytoin may increase the level of phenytoin to a clinically signifcant degree. Administration of fuconazole and rifampicin has resulted in a 25% decrease in the AUC and 20% shorter half-life of fuconazole. Patients recieving concomitant rifampicin, an increase in the fuconazole dose should be considered.
+Two kinetic studies with combined oral contraceptive have been performed using muitiple dose of fuconazole. There were no relevant efects on either hormone level in the 50 mg fuconazole study, while at 200 mg daily the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 4% respectively. Thus multipule dose use of fuconazole at these dose is unlikely to have an efect on the efcacy of the combined oral contraceptives. Fluconazole 50 mg daily does not afect endogenous steroid levels in females. 200-400 mg daily has no clinically singnifcant efect on endogenous steroid levels or on ACTH stimulated response in healthy male volunteers.
+A kinetic study in renal transplant patients found fuconazole 200 mg daily to slowly increase cyclosporin concentrations. However, in another multiple dose study with 100 mg daily, fuconazole did not afect cyclosporin levels in patients with bone marrow transplants. Cyclosporin plasma concentration monitoring in patients receiving fuconazole is recommended.
+Interaction studies have shown that when oral fuconazole is co-administered with food. cemetidine, antacids or following total body irradiation for bone marrow transplantation, no clinically signifcant impairment of fuconazole absorption occurs.
+In placebo-controlled interaction study, the administration of fuconazole 200mg for 14 days resulted in an 18% decrease, in the mean plasma clearance of theophyline, Patients who are receiving dose of theophyline or who are otherwise at increased risk for theophyline toxicity should be observed for sign of toxicity while receiving fuconazole, and the therapy modifed appropriately if sign of toxicity while receiving fuconazole, and the therapy modifed appropriately if sign of toxicity develop.
+Physicians should be aware that drug-drug interaction studies with other medications have not been conducted, but that such interactions may occur.
+## BANGLA SECTION TEXT: interaction
+সাইক্লোস্পোরিন বা ফিনায়টোয়েন-এর সাথে ফ্লুকোনাজলের যুগপৎ ব্যবহারে সাইক্লোস্পোরিন বা ফিনায়টোয়েনের প্লাজমা ঘনত্ব বৃদ্ধি পায়। ওয়ারফেরিনের সাথে যুগপৎ ব্যবহারে প্রোথ্রম্বিন সময় বৃদ্ধি পায়। রিফামপিসিনের সাথে যুগপৎ ব্যবহারে রিফামপিসিনের প্লাজমা ঘনত্ব হ্রাস পায়।
+## ENGLISH SECTION TEXT: precautions
+in some patients, particularly those with serious underlying diseases such as AIDS and cancer, abnormalities of hepatic, renal, haematological and other biochemical function tests have been observed during treatment with fuconazole, but the clinical signifcance and relationship to treatment is uncertain.
+Very rarely. patients who died with severe underlying disease and who had received multiple dose fuconazole, had post-mortem fndings which included hapatic necrosis. These patients were receiving multiple concomitant medications, some known to be potentially hepatotoxic, and/or had underlying diseases, which could have caused the hepatic necrosis. Consequently, because a causal relationship with fuconazole cannot be excluded, the risk-beneft ratio of continued fuconazole treatment should be assessed in those patients in whom a signifcant rise of liver enzymes occurs.
+Patients have rarely developed exfoliative cutaneous reactions, such pa Stevens Johnson Syndrome and toxic epidermal necrolysis, during treatment with fuconazole. AIDS patients are more prone to the development of severe cutaneous reactions to many drugs.
+If a rash develops in a patients treated for a superfaclal fungal infection which is considered attributable to fuconazole further therapy with this agent should be discontinued. In patients with invasive/ systemic fungal infections who develop rashes, they should be monitored closely and fuconazole should be discontinued if bolbous lesions or erythema multiform develop.
+Use during lactation: Fluconazole is found in human breast milk at concentrations similar to plasma. hence its use in nursing mothers is not recommended.
+Driving/Use of machinery: Experience with fuconazole indicates that therapy a unlikely to impair a patient's ability to drive or use machinery.
+## BANGLA SECTION TEXT: precautions
+প্রো-এরিদমিক রোগীদের ক্ষেত্রে ফ্লুকোনাজল ব্যবহারে সতর্কতা অবলম্বন করতে হবে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Fluconazole adverse fetal efects have been seen in animals only at dose levels associated with maternal toxicity. These levels are many times in excess of those recommended for therapeutic use. There has been little use during human pregnancy. Accordingly, fuconazole should not be used in pregnancy or in women of child bearing potential unless adequate contraception is employed.
+## BANGLA SECTION TEXT: pregnancy_lactation
+US FDA প্রেগনেন্সি ক্যাটাগরী অনুযায়ী ফ্লুকোনাজল 'C' শ্রেনীভূক্ত ঔষধ। সুতরাং, প্রত্যাশিত সুবিধা, Fetus এর ঝুঁকির চেয়ে বেশী না হলে গর্ভাবস্থায় ও স্তন্যদানকালে ফ্লুকোনাজল ব্যবহারে বিরত থাকা উচিত।
+
+### drug=folic-acid
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G05-133 | INDICATED_FOR | Anemias of infancy | - | indications | "infancy"
+G05-135 | USE_IN | patients who have shown previous intolerance to the drug | contraindicated | contraindications | "Folic acid is contraindicated in patients who have shown previous intolerance to the drug."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G05-142 | USE_IN | intolerance to folic acid or any component of this formulati | contraindicated | contraindications | "যারা ফলিক এসিড অথবা এই ফরমুলেশনের যে কোন উপাদান এর প্রতি অসহিষ্ণুতা আছে তাদের ক্ষেত্রে এই প্রিপারেশনটি প্রতিনির্দেশিত।"
+## ENGLISH SECTION TEXT: contraindications
+Folic acid is contraindicated in patients who have shown previous intolerance to the drug.
+## BANGLA SECTION TEXT: contraindications
+যারা ফলিক এসিড অথবা এই ফরমুলেশনের যে কোন উপাদান এর প্রতি অসহিষ্ণুতা আছে তাদের ক্ষেত্রে এই প্রিপারেশনটি প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+Folic acid is indicated for the treatment of-
+Folic acid deficiency
+Megaloblastic anemia
+Anemias of nutritional origins, pregnancy, infancy, or childhood.
+## BANGLA SECTION TEXT: indications
+এই প্রিপারেসনটি নিম্নোক্ত উপসর্গে নির্দেশিত-
+ফলিক এসিড ঘাটতি
+মেগালোব্লাস্টিক রক্তসল্পতা
+পুষ্টি উৎস, গর্ভাবস্থা, শৈশবকালীন রক্তসল্পতার চিকিৎসায়।
+
+### drug=folic-acid-zinc-sulfate-monohydrate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G05-144 | INDICATED_FOR | Folic Acid deficiencies | - | indications | "Folic Acid"
+G05-145 | INDICATED_FOR | Zinc deficiencies | - | indications | "and Zinc deficiencies."
+G05-146 | USE_IN | hypersensitivity to Zinc | contraindicated | contraindications | "Zinc is contraindicated in patients having hypersensitivity to Zinc."
+G05-147 | USE_IN | untreated cobalamine deficiency | contraindicated | contraindications | "Folic Acid is contraindicated in untreated cobalamine deficiency"
+G05-149 | INDICATED_FOR | lactation | - | pregnancy_lactation | "& lactation."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G05-150 | INDICATED_FOR | Zinc and folic acid deficiency diseases | - | indications | "এই ট্যাবলেট জিংক এবং ফলিক এসিডের অভাবজনিত রােগের চিকিৎসায় ও প্রতিরােধে নির্দেশিত।"
+G05-151 | USE_IN | hypersensitivity to zinc and folic acid | contraindicated | contraindications | "যে সকল রােগীর জিংক এবং ফলিক এসিডের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে প্রতিনির্দেশিত।"
+## ENGLISH SECTION TEXT: contraindications
+Zinc is contraindicated in patients having hypersensitivity to Zinc. Folic Acid is contraindicated in untreated cobalamine deficiency
+## BANGLA SECTION TEXT: contraindications
+যে সকল রােগীর জিংক এবং ফলিক এসিডের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+This tablet is indicated for the treatment and prophylaxis of Folic Acid and Zinc deficiencies.
+## BANGLA SECTION TEXT: indications
+এই ট্যাবলেট জিংক এবং ফলিক এসিডের অভাবজনিত রােগের চিকিৎসায় ও প্রতিরােধে নির্দেশিত।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Recommended during pregnancy & lactation.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থায় ও স্তন্যদানকালে এই ট্যাবলেট নির্দেশিত।
+
+### drug=ibuprofen-oral
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G05-210 | INDICATED_FOR | primary dysmenorrhea | - | indications | "primary dysmenorrhea"
+G05-211 | INDICATED_FOR | mild to moderate pain | - | indications | "mild to moderate pain"
+G05-215 | INDICATED_FOR | Rheumatic pain | - | indications | "Rheumatic pain"
+G05-216 | INDICATED_FOR | Muscular pain | - | indications | "Muscular pain"
+G05-217 | USE_IN | known hypersensitivity to ibuprofen or any other components | contraindicated | contraindications | "It is contraindicated in patients with known hypersensitivity to ibuprofen or any other components of this product."
+G05-218 | USE_IN | history of gastrointestinal bleeding or perforation, related | contraindicated | contraindications | "history of gastrointestinal bleeding or perforation, related to previous NSAIDs therapy,"
+G05-219 | USE_IN | active or history of recurrent peptic ulcer/haemorrhage | contraindicated | contraindications | "active or history of recurrent peptic ulcer/haemorrhage,"
+G05-220 | USE_IN | severe renal failure | contraindicated | contraindications | "severe renal failure"
+G05-221 | USE_IN | severe hepatic failure | contraindicated | contraindications | "or severe hepatic failure,"
+G05-222 | USE_IN | severe heart failure (NYHA Class IV) | contraindicated | contraindications | "severe heart failure (NYHA Class IV),"
+G05-223 | USE_IN | last trimester of pregnancy | contraindicated | contraindications | "last trimester of pregnancy,"
+G05-227 | USE_IN | last trimester of pregnancy | contraindicated | pregnancy_lactation | "Ibuprofen is contraindicated during the last trimester of pregnancy."
+G05-224 | USE_IN | significant dehydration | contraindicated | contraindications | "significant dehydration"
+G05-225 | USE_IN | cerebrovascular or other active bleeding | contraindicated | contraindications | "and cerebrovascular or other active bleeding."
+G05-226 | USE_IN | first and second trimester of pregnancy | avoid | pregnancy_lactation | "During the first and second trimester of pregnancy, ibuprofen should not be given unless clearly necessary."
+G05-228 | TRANSFERS_TO | breast milk | - | pregnancy_lactation | "Ibuprofen is excreted in the breast milk in very low concentration"
+G05-229 | CAUSES | affect the breastfed infant adversely | - | pregnancy_lactation | "and is unlikely to affect the breastfed infant adversely."
+P05-124 | USE_IN | SLE | caution | precautions | "Patients with SLE are more likely than others to develop hypersensitivity to ibuprofen"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G05-240 | INDICATED_FOR | soft tissue injury | - | indications | "নরম কোষ কলার আঘাত"
+G05-244 | CAUSES | adverse effects on the growing fetus | - | pregnancy_lactation | "বর্ধিষ্ণু গর্ভজাত সন্তানের উপর বিরূপ প্রতিক্রিয়ার সম্ভাবনা সর্বোতভাবে বাতিল করা যায় না।"
+G05-246 | USE_IN | lactating women | avoid | pregnancy_lactation | "আইবুপ্রােফেন গর্ভাবস্থায় এবং স্তন্যদানকারী মহিলাদের দেওয়া উচিত নয়, যদি না ঝুঁকি অপেক্ষা মায়েদের সুবিধাসমূহ অধিক হয়।"
+G05-235 | INDICATED_FOR | synovitis | - | indications | "সাইনােভাইটিস"
+G05-243 | USE_IN | active or severe peptic ulcer | contraindicated | contraindications | "যাদের সক্রিয় বা মারাত্মক পেপটিক আলসার রয়েছে, তাদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত।"
+G05-234 | INDICATED_FOR | ankylosing spondylitis | - | indications | "এনকাইলজিং স্পন্ডিলাইটিস"
+G05-239 | INDICATED_FOR | migraine | - | indications | "মাইগ্রেন"
+P05-104 | USE_IN | systemic lupus erythematosus | caution | precautions | "সিস্টেমিক লুপাস ইরাইথেমাটোসাস রোগীদের আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীলতা তৈরীর সম্ভাবনা বেশী"
+G05-242 | USE_IN | hypersensitive to ibuprofen | contraindicated | contraindications | "আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত।"
+G05-233 | INDICATED_FOR | juvenile polyarthritis | - | indications | "জুভেনাইল পলিআর্গ্রাইটিস"
+G05-232 | INDICATED_FOR | gouty arthritis | - | indications | "গাউটি আর্থ্রাইটিস"
+P05-101 | USE_IN | history of gastrointestinal bleeding | caution | precautions | "পরিপাকান্ত্রের রক্তক্ষরণ অথবা আলসার এর পূর্ব-ইতিহাস আছে এমন রােগীদের ক্ষেত্রে সর্বোচ্চ সতর্কতার সাথে এবং কার্যকর সর্বনিম্ন মাত্রায় প্রয়োগ করতে হবে"
+P05-102 | USE_IN | history of ulcer | caution | precautions | "পরিপাকান্ত্রের রক্তক্ষরণ অথবা আলসার এর পূর্ব-ইতিহাস আছে"
+G05-237 | INDICATED_FOR | dysmenorrhea | - | indications | "ডিসমেনােরিয়া"
+G05-245 | USE_IN | pregnancy | avoid | pregnancy_lactation | "আইবুপ্রােফেন গর্ভাবস্থায় এবং স্তন্যদানকারী মহিলাদের দেওয়া উচিত নয়, যদি না ঝুঁকি অপেক্ষা মায়েদের সুবিধাসমূহ অধিক হয়।"
+## ENGLISH SECTION TEXT: contraindications
+It is contraindicated in patients with known hypersensitivity to ibuprofen or any other components of this product. It is also contraindicated in patients with history of gastrointestinal bleeding or perforation, related to previous NSAIDs therapy, active or history of recurrent peptic ulcer/haemorrhage, severe renal failure or severe hepatic failure, severe heart failure (NYHA Class IV), last trimester of pregnancy, significant dehydration and cerebrovascular or other active bleeding.
+## BANGLA SECTION TEXT: contraindications
+আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত। এছাড়া যাদের সক্রিয় বা মারাত্মক পেপটিক আলসার রয়েছে, তাদের ক্ষেত্রে আইবুপ্রােফেন প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+Ibuprofen is indicated in-
+Relief of the signs and symptoms of rheumatoid arthritis and osteoarthritis
+Treatment of primary dysmenorrhea
+Control of mild to moderate pain generally and particularly when pain is associated with inflammation
+Reduction of fever
+Dental and period pain
+Relief of backache
+Rheumatic pain
+Muscular pain
+## BANGLA SECTION TEXT: indications
+আইবুপ্রােফেন নিম্নোক্ত উপসর্গে নির্দেশিত-
+রিউমাটয়েড আর্থাইটিস
+অস্টিওআথ্রাইটিস
+গাউটি আর্থ্রাইটিস
+জুভেনাইল পলিআর্গ্রাইটিস
+এনকাইলজিং স্পন্ডিলাইটিস
+সাইনােভাইটিস
+কোমর ব্যথা
+ডিসমেনােরিয়া
+জ্বর
+মাইগ্রেন
+নরম কোষ কলার আঘাত এবং
+দাঁত ও পেশীর প্রদাহ ও ব্যথা ইত্যাদি ক্ষেত্রে নির্দেশিত।
+## ENGLISH SECTION TEXT: precautions
+Patients on long term therapy with ibuprofen require ocular monitoring at regular intervals, as changes in ocular function have been reported. Patients with SLE are more likely than others to develop hypersensitivity to ibuprofen. Ibuprofen should be prescribed with caution in patients with asthma.
+## BANGLA SECTION TEXT: precautions
+আইবুপ্রোফেন পরিপাকান্ত্রের রক্তক্ষরণ অথবা আলসার এর পূর্ব-ইতিহাস আছে এমন রােগীদের ক্ষেত্রে সর্বোচ্চ সতর্কতার সাথে এবং কার্যকর সর্বনিম্ন মাত্রায় প্রয়োগ করতে হবে। আইবুপ্রােফেন দ্বারা দীর্ঘকালীন চিকিৎসার সময় চোখের অবস্থা পর্যবেক্ষণ করতে হবে, কারণ এক্ষেত্রে চোখের কার্যাবলীতে পরিবর্তন দেখা যায়। সিস্টেমিক লুপাস ইরাইথেমাটোসাস রোগীদের আইবুপ্রােফেন এর প্রতি অতিসংবেদনশীলতা তৈরীর সম্ভাবনা বেশী। এ্যাজমা ও অন্যান্য ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ঔষধের প্রতি অতিসংবেদনশীল রােগীদের ক্ষেত্রে ইহা সতর্কতার সাথে প্রয়ােগ করতে হবে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy
+: During the first and second trimester of pregnancy, ibuprofen should not be given unless clearly necessary. Ibuprofen is contraindicated during the last trimester of pregnancy.
+Lactation
+: Ibuprofen is excreted in the breast milk in very low concentration and is unlikely to affect the breastfed infant adversely.
+## BANGLA SECTION TEXT: pregnancy_lactation
+বর্ধিষ্ণু গর্ভজাত সন্তানের উপর বিরূপ প্রতিক্রিয়ার সম্ভাবনা সর্বোতভাবে বাতিল করা যায় না। আইবুপ্রােফেন গর্ভাবস্থায় এবং স্তন্যদানকারী মহিলাদের দেওয়া উচিত নয়, যদি না ঝুঁকি অপেক্ষা মায়েদের সুবিধাসমূহ অধিক হয়।
+
+### drug=indomethacin-oral
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G05-255 | USE_IN | history of these disorders | caution | contraindications | "and it should be used with caution in patients with a history of these disorders."
+G05-256 | USE_IN | previously hypersensitive patients | contraindicated | contraindications | "It is also contraindicated in the previously hypersensitive patients."
+P05-142 | USE_IN | psychiatric problems | caution | precautions | "Indomethacin capsule should be used with caution with psychiatric problems"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G05-266 | USE_IN | hypersensitivity to this drug | not recommended | contraindications | "এই ওষুধের প্রতি অতিসংবেদনশীল রোগীর ক্ষেত্রে এই ওষুধের ব্যবহার নির্দেশিত নয়।"
+G05-265 | USE_IN | these diseases | caution | contraindications | "এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার সাথে ব্যবহার করা উচিতি।"
+## ENGLISH SECTION TEXT: contraindications
+Indomethacin is contraindicated in patients with ulcer, gastritis, active ulcerative colitis, and it should be used with caution in patients with a history of these disorders. In these cases, administration of Indomethacin suppositories should be preferred. It is also contraindicated in the previously hypersensitive patients.
+## BANGLA SECTION TEXT: contraindications
+ইনডোমেথাসিন আলসার, গ্যাস্ট্রিকের প্রদাহ এবং প্রত্যক্ষ আলসারেটিভ কোলাইটিস-এ নির্দেশিত নয়। এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার সাথে ব্যবহার করা উচিতি। তদুপরি এ সকল রোগের ক্ষেত্রে ইনডোমেথাসিন সতর্কতার ক্ষেত্রে ব্যবহার করা উচিত। এই ওষুধের প্রতি অতিসংবেদনশীল রোগীর ক্ষেত্রে এই ওষুধের ব্যবহার নির্দেশিত নয়।
+## ENGLISH SECTION TEXT: precautions
+Indomethacin capsule should be used with caution with psychiatric problems, epilepsy or parkinsonism since the drug may aggravate these conditions. It is not recommended for pregnant women, because at the present time clinical studies are insufficient. Indomethacin is not given nomally in neonates except when used to assist closure of a patent ductus arteriosus.
+## BANGLA SECTION TEXT: precautions
+যেহেতু ইনডোমেথাসিন মৃগীরোগ অথবা পারকিনসনিজম বৃদ্ধিতে সহায়তা করে এজন্য এসব রোগীর ক্ষেত্রে সতর্কতা অবলম্বন করা উচিত। গর্ভবর্তী মহিলার ক্ষেত্রে ইহা নির্দেশিত নয় কারণ এখন পর্যন্ত পর্যাপ্ত পরিমাণে ক্লিনিক্যাল সমীক্ষা করা হয়নি। পেটেন্ট ডাক্টাস আর্টেরিওসাস চিকিৎসা ছাড়া সদ্যজাত শিশুদের ক্ষেত্রে ইনডোমেথাসিন ব্যবহার করা উচিত নয়।
+

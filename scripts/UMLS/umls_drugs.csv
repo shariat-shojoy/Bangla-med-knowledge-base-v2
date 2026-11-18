@@ -1,0 +1,566 @@
+﻿kind,input,n_claims,query_used,match,cui,umls_name,rxnorm,atc,semtype,needs_review
+drug,10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula,15,10 vitamin 6 mineral pregnancy and breast feeding formula,none,,,,,,no match
+drug,albendazole,41,albendazole,exact,C0001911,albendazole,430,P02CA03,Organic Chemical; Pharmacologic Substance,
+drug,amoxicillin-clavulanic-acid,43,amoxicillin clavulanic acid,none,,,,,,no match
+drug,amoxicillin-trihydrate,38,amoxicillin trihydrate,exact,C0521900,amoxicillin trihydrate,133008,,Organic Chemical; Antibiotic,
+drug,ampicillin-sodium,47,ampicillin sodium,exact,C0282052,ampicillin sodium,81953,,Organic Chemical; Antibiotic,
+drug,aspirin,58,aspirin,exact,C0004057,aspirin,1191,A01AD05;N02BA01;B01AC06,Organic Chemical; Pharmacologic Substance,
+drug,atenolol,80,atenolol,exact,C0004147,atenolol,1202,C07AB03,Organic Chemical; Pharmacologic Substance,
+drug,atorvastatin-calcium,77,atorvastatin calcium,exact,C0286650,atorvastatin calcium,83366,,Organic Chemical; Pharmacologic Substance,
+drug,atosiban-acetate,40,atosiban acetate,exact,C0873206,atosiban acetate,2680385,,Organic Chemical; Pharmacologic Substance,
+drug,azithromycin-dihydrate,52,azithromycin dihydrate,exact,C0795582,azithromycin dihydrate,253155,,Organic Chemical; Antibiotic,
+drug,benzathine-benzylpenicillin,19,benzathine benzylpenicillin,close,C0030829,penicillin G benzathine,7982,J01CE08,Organic Chemical; Antibiotic,combination or inexact
+drug,betamethasone,35,betamethasone,exact,C0005308,betamethasone,1514,D07XC01;R03BA04;R01AD06;H02AB01;S02BA07;S01BA06;S03BA03;S01CB04;C05AA05;D07AC01;A07EA04,Organic Chemical; Pharmacologic Substance; Hormone,
+drug,cabergoline,65,cabergoline,exact,C0107994,cabergoline,47579,G02CB03;N04BC06,Organic Chemical; Pharmacologic Substance,
+drug,caffeine-citrate,15,caffeine citrate,exact,C0054436,caffeine citrate,20033,,Organic Chemical; Pharmacologic Substance,
+drug,calcium-carbonate,43,calcium carbonate,exact,C0006681,calcium carbonate,1897,A02AC01;A12AA04,Pharmacologic Substance; Inorganic Chemical,
+drug,calcium-gluconate,34,calcium gluconate,exact,C0006699,calcium gluconate,1908,A12AA03;B05XA19;D11AX03,Organic Chemical; Pharmacologic Substance,
+drug,captopril,15,captopril,exact,C0006938,captopril,1998,C09AA01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug,carbamazepine,64,carbamazepine,exact,C0006949,carbamazepine,2002,N03AF01,Organic Chemical; Pharmacologic Substance,
+drug,carbetocin,17,carbetocin,exact,C0054670,carbetocin,,H01BB03,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug,carbimazole,21,carbimazole,exact,C0006983,carbimazole,2020,H03BB01,Organic Chemical; Pharmacologic Substance,
+drug,carboprost-tromethamine,30,carboprost tromethamine,exact,C0054721,carboprost tromethamine,20259,,Organic Chemical; Pharmacologic Substance,
+drug,cefazolin-sodium,29,cefazolin sodium,exact,C0700526,cefazolin sodium,203171,,Organic Chemical; Antibiotic,
+drug,cefixime-trihydrate,33,cefixime,exact,C0060400,cefixime,25033,J01DD08,Organic Chemical; Antibiotic,
+drug,ceftriaxone-sodium,40,ceftriaxone sodium,exact,C0700527,ceftriaxone sodium,203172,,Organic Chemical; Antibiotic,
+drug,cefuroxime-axetil,44,cefuroxime axetil,exact,C0055015,cefuroxime axetil,20493,,Organic Chemical; Antibiotic,
+drug,chlorhexidine-gluconate-71,8,chlorhexidine gluconate,exact,C0055361,chlorhexidine gluconate,20791,,Organic Chemical; Pharmacologic Substance,
+drug,cholecalciferol-vitamin-d3,74,cholecalciferol vitamin d3,none,,,,,,no match
+drug,ciprofloxacin,148,ciprofloxacin,exact,C0008809,ciprofloxacin,2551,S02AA15;J01MA02;S03AA07;S01AE03,Organic Chemical; Pharmacologic Substance,
+drug,clindamycin,42,clindamycin,exact,C0008947,clindamycin,2582,J01FF01;G01AA10;D10AF01,Organic Chemical; Antibiotic,
+drug,clotrimazole-vaginal-tablet,19,clotrimazole,exact,C0009074,clotrimazole,2623,D01AC01;G01AF02;A01AB18,Organic Chemical; Pharmacologic Substance,
+drug,cyanocobalamin,43,cyanocobalamin,close,C0042845,vitamin B12,11248,B03BA01,Organic Chemical; Pharmacologic Substance; Vitamin,combination or inexact
+drug,dexamethasone,157,dexamethasone,exact,C0011777,dexamethasone,3264,S02BA06;S03BA01;R01AD03;D07AB19;C05AA09;D10AA03;S01BA01;S01CB01;H02AB02;D07XB05;A01AC02,Organic Chemical; Pharmacologic Substance,
+drug,diazepam,71,diazepam,exact,C0012010,diazepam,3322,N05BA01,Organic Chemical; Pharmacologic Substance,
+drug,diclofenac-sodium,98,diclofenac sodium,exact,C0700583,diclofenac sodium,203214,,Organic Chemical; Pharmacologic Substance,
+drug,dinoprostone,70,dinoprostone,exact,C0012472,dinoprostone,3478,G02AD02,Organic Chemical; Pharmacologic Substance; Hormone,
+drug,doxycycline-hydrochloride,102,doxycycline hydrochloride,exact,C0771947,doxycycline hydrochloride,236647,,Organic Chemical; Antibiotic,
+drug,drospirenone-ethinyl-estradiol-002-mg,100,drospirenone ethinyl estradiol,close,C2604206,drospirenone / ethinyl estradiol,840781,G03AA12,Pharmacologic Substance,combination or inexact
+drug,dydrogesterone,79,dydrogesterone,exact,C0013340,dydrogesterone,3706,G03DB01,Organic Chemical; Pharmacologic Substance; Hormone,
+drug,enalapril-maleate,57,enalapril maleate,exact,C0700452,enalapril maleate,203123,,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug,enoxaparin-sodium,60,enoxaparin sodium,exact,C0724579,enoxaparin sodium,221095,,Organic Chemical; Pharmacologic Substance,
+drug,ergometrine-maleate,47,ergometrine,close,C0014704,ergonovine,4021,G02AB03,Organic Chemical; Pharmacologic Substance,combination or inexact
+drug,erythromycin-oral,72,erythromycin,exact,C0014806,erythromycin,4053,D10AF02;J01FA01;S01AA17,Organic Chemical; Antibiotic,
+drug,ethinyl-estradiol-desogestrel-003-mg,106,ethinyl estradiol desogestrel,close,C1112096,desogestrel / ethinyl estradiol,324044,G03AA09;G03AB05,Pharmacologic Substance,combination or inexact
+drug,ethinyl-estradiol-levonorgestrel-ferrous-fumarate,41,ethinyl estradiol levonorgestrel ferrous fumarate,none,,,,,,no match
+drug,ferrous-ascorbate-folic-acid-zinc-sulfate,27,ferrous ascorbate folic acid zinc sulfate,none,,,,,,no match
+drug,ferrous-fumarate-folic-acid,19,ferrous fumarate folic acid,close,C0717767,ferrous fumarate / folic acid,1008559,B03AD02,Pharmacologic Substance,combination or inexact
+drug,ferrous-sulfate,17,ferrous sulfate,exact,C0060282,ferrous sulfate,24947,B03AA07,Pharmacologic Substance; Inorganic Chemical,
+drug,ferrous-sulfate-folic-acid,14,ferrous sulfate folic acid,close,C0717768,ferrous sulfate / folic acid,1008065,B03AD03,Pharmacologic Substance,combination or inexact
+drug,fluconazole,70,fluconazole,exact,C0016277,fluconazole,4450,J02AC01;D01AC15,Organic Chemical; Pharmacologic Substance,
+drug,folic-acid,25,folic acid,exact,C0016410,folic acid,4511,B03BB01;V04CX02,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug,folic-acid-zinc-sulfate-monohydrate,14,folic acid zinc sulfate monohydrate,none,,,,,,no match
+drug,gentamicin-sulfate-injection,33,gentamicin,exact,C3854019,gentamicin,1596450,S02AA14;D06AX07;S03AA06;J01GB03;S01AA11,Organic Chemical; Antibiotic,
+drug,heparin-sodium,98,heparin sodium,exact,C0037513,heparin sodium,9877,,Organic Chemical; Pharmacologic Substance,
+drug,hepatitis-b-immuneglobulin,25,hepatitis b immuneglobulin,none,,,,,,no match
+drug,human-anti-d-immunoglobulins,16,human anti d immunoglobulins,none,,,,,,no match
+drug,human-tetanus-immunoglobulin,19,human tetanus immunoglobulin,none,,,,,,no match
+drug,ibuprofen-oral,64,ibuprofen,exact,C0020740,ibuprofen,5640,C01EB16;M02AA13;M01AE01;G02CC01;R02AX02,Organic Chemical; Pharmacologic Substance,
+drug,indomethacin-oral,43,indomethacin,exact,C0021246,indomethacin,5781,C01EB03;S01BC01;M01AB01;M02AA23,Organic Chemical; Pharmacologic Substance,
+drug,insulin-human-rdna,48,insulin human rdna,none,,,,,,no match
+drug,iron-sucrose,51,iron sucrose,exact,C0060241,iron sucrose,24909,B03AB02,Organic Chemical; Pharmacologic Substance,
+drug,isotretinoin-oral,120,isotretinoin,exact,C0022265,isotretinoin,6064,D10AD04;D10BA01,Organic Chemical; Pharmacologic Substance,
+drug,labetalol-hydrochloride,64,labetalol hydrochloride,exact,C0699440,labetalol hydrochloride,202693,,Organic Chemical; Pharmacologic Substance,
+drug,lamotrigine,60,lamotrigine,exact,C0064636,lamotrigine,28439,N03AX09,Organic Chemical; Pharmacologic Substance,
+drug,levetiracetam,83,levetiracetam,exact,C0377265,levetiracetam,114477,N03AX14,Organic Chemical; Pharmacologic Substance,
+drug,levonorgestrel-for-emergency-contraception,53,levonorgestrel for emergency contraception,none,,,,,,no match
+drug,levothyroxine-sodium,34,levothyroxine sodium,exact,C0079691,levothyroxine sodium,40144,H03AA01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Hormone",
+drug,lithium-carbonate,85,lithium carbonate,exact,C0085217,lithium carbonate,42351,,Pharmacologic Substance; Inorganic Chemical,
+drug,losartan-potassium,82,losartan potassium,exact,C0700492,losartan potassium,203160,,Organic Chemical; Pharmacologic Substance,
+drug,magnesium-sulfate,59,magnesium sulfate,exact,C0024480,magnesium sulfate,6585,A12CC02;B05XA05;V04CC02;A06AD04;D11AX05,Pharmacologic Substance; Inorganic Chemical,
+drug,mebendazole,24,mebendazole,exact,C0025023,mebendazole,6672,P02CA01,Organic Chemical; Pharmacologic Substance,
+drug,medroxyprogesterone-acetate-injection,48,medroxyprogesterone acetate injection,exact,C2092240,medroxyprogesterone acetate Injection,,,Clinical Drug,
+drug,metformin-hydrochloride,134,metformin hydrochloride,exact,C0770893,metformin hydrochloride,235743,,Organic Chemical; Pharmacologic Substance,
+drug,methotrexate,118,methotrexate,exact,C0025677,methotrexate,6851,L01BA01;L04AX03,Organic Chemical; Pharmacologic Substance,
+drug,methyldopa,54,methyldopa,close,C3540782,"Methyldopa, centrally acting adntiadrenergic agents",,C02AB,Organic Chemical; Pharmacologic Substance,combination or inexact
+drug,methylergonovine-maleate,50,methylergonovine maleate,exact,C0289432,methylergonovine maleate,84158,,Organic Chemical; Pharmacologic Substance,
+drug,metoclopramide-hydrochloride,42,metoclopramide hydrochloride,exact,C0887128,metoclopramide hydrochloride,267036,,Organic Chemical; Pharmacologic Substance,
+drug,metronidazole,84,metronidazole,exact,C0025872,metronidazole,6922,P01AB01;G01AF01;J01XD01;A01AB17;D06BX01,Organic Chemical; Pharmacologic Substance,
+drug,mifepristone,84,mifepristone,exact,C0026088,mifepristone,6964,G03XB01,Organic Chemical; Pharmacologic Substance,
+drug,misoprostol,47,misoprostol,exact,C0085174,misoprostol,42331,A02BB01;G02AD06,Organic Chemical; Pharmacologic Substance,
+drug,multivitamins-multiminerals-a-z-prenatal-preparation,8,multivitamins multiminerals a z prenatal preparation,none,,,,,,no match
+drug,nifedipine,64,nifedipine,exact,C0028066,nifedipine,7417,C08CA05,Organic Chemical; Pharmacologic Substance,
+drug,nitrofurantoin,40,nitrofurantoin,exact,C0028156,nitrofurantoin,7454,J01XE01,Organic Chemical; Pharmacologic Substance,
+drug,ondansetron,23,ondansetron,exact,C0061851,ondansetron,26225,A04AA01,Organic Chemical; Pharmacologic Substance,
+drug,oral-rehydration-salt-glucose-based,16,oral rehydration salt glucose based,none,,,,,,no match
+drug,oxytocin,42,oxytocin,exact,C0030095,oxytocin,7824,H01BB02,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Hormone",
+drug,paracetamol,83,paracetamol,close,C0000970,acetaminophen,161,N02BE01,Organic Chemical; Pharmacologic Substance,combination or inexact
+drug,phenobarbital,51,phenobarbital,exact,C0031412,phenobarbital,8134,N03AA02,Organic Chemical; Pharmacologic Substance,
+drug,phenytoin-sodium,84,phenytoin sodium,exact,C0237417,phenytoin sodium,71227,,Organic Chemical; Pharmacologic Substance,
+drug,phytomenadione-injection,16,phytomenadione,close,C0031862,vitamin K1,8308,B02BA01,Organic Chemical; Pharmacologic Substance; Vitamin,combination or inexact
+drug,phytomenadione-oral,12,phytomenadione,close,C0031862,vitamin K1,8308,B02BA01,Organic Chemical; Pharmacologic Substance; Vitamin,combination or inexact
+drug,prochlorperazine-maleate,49,prochlorperazine maleate,exact,C0033231,prochlorperazine maleate,8706,,Organic Chemical; Pharmacologic Substance,
+drug,progesterone-micronised-capsule,57,progesterone,exact,C0033308,progesterone,8727,G03DA04,Organic Chemical; Pharmacologic Substance; Hormone,
+drug,progesterone-micronised-vaginal-gel,50,progesterone,exact,C0033308,progesterone,8727,G03DA04,Organic Chemical; Pharmacologic Substance; Hormone,combination or inexact
+drug,progesterone-micronised-vaginal-pessary,56,progesterone,exact,C0033308,progesterone,8727,G03DA04,Organic Chemical; Pharmacologic Substance; Hormone,combination or inexact
+drug,promethazine-hydrochloride,73,promethazine hydrochloride,exact,C0546876,promethazine hydrochloride,142445,,Organic Chemical; Pharmacologic Substance,
+drug,propylthiouracil,44,propylthiouracil,exact,C0033511,propylthiouracil,8794,H03BA02,"Nucleic Acid, Nucleoside, or Nucleotide; Pharmacologic Substance",
+drug,pyridoxine-hydrochloride-doxylamine-succinate,33,pyridoxine doxylamine,close,C3556196,doxylamine / pyridoxine,1375947,,Pharmacologic Substance,combination or inexact
+drug,salbutamol,37,salbutamol,close,C0001927,albuterol,435,R03AC02;R03CC02,Organic Chemical; Pharmacologic Substance,combination or inexact
+drug,sodium-valproate,57,sodium valproate,exact,C0037567,sodium valproate,9919,,Organic Chemical; Pharmacologic Substance,
+drug,sulphamethoxazole-trimethoprim,40,sulphamethoxazole trimethoprim,close,C0041044,Trimethoprim-Sulfamethoxazole Combination,10831,J01EE01,Pharmacologic Substance,combination or inexact
+drug,terbutaline-sulfate,30,terbutaline sulfate,exact,C0039543,terbutaline sulfate,10369,,Organic Chemical; Pharmacologic Substance,
+drug,tetracycline-hydrochloride,54,tetracycline hydrochloride,exact,C0546879,tetracycline hydrochloride,142446,,Organic Chemical; Antibiotic,
+drug,thalidomide,65,thalidomide,exact,C0039736,thalidomide,10432,L04AX02,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug,tranexamic-acid,63,tranexamic acid,exact,C0040613,tranexamic acid,10691,B02AA02,Organic Chemical; Pharmacologic Substance,
+drug,vitamin-a,33,vitamin a,exact,C0042839,vitamin A,11246,D10AD02;R01AX02;S01XA02;A11CA01,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug,warfarin-sodium,45,warfarin sodium,exact,C0376218,warfarin sodium,114194,,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug,zinc-sulfate-monohydrate,20,zinc sulfate monohydrate,exact,C1274086,zinc sulfate monohydrate,1309410,,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,phenytoin,40,phenytoin,exact,C0031507,phenytoin,8183,N03AB02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,alcohol,22,alcohol,none,,,,,,no match
+drug_or_class,carbamazepine,20,carbamazepine,exact,C0006949,carbamazepine,2002,N03AF01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,rifampicin,19,rifampicin,close,C0035608,rifampin,9384,J04AB02,Organic Chemical; Antibiotic,
+drug_or_class,digoxin,17,digoxin,exact,C0012265,digoxin,3407,C01AA05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,warfarin,17,warfarin,exact,C0043031,warfarin,11289,B01AA03,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug_or_class,phenobarbital,14,phenobarbital,exact,C0031412,phenobarbital,8134,N03AA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cimetidine,14,cimetidine,exact,C0008783,cimetidine,2541,A02BA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,barbiturates,14,barbiturates,none,,,,,,no match
+drug_or_class,diuretics,13,diuretics,exact,C0012798,Diuretics,,C03,Pharmacologic Substance,
+drug_or_class,probenecid,13,probenecid,exact,C0033209,probenecid,8698,M04AB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,primidone,13,primidone,exact,C0033148,primidone,8691,N03AA03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,drugs,13,drugs,none,,,,,,no match
+drug_or_class,theophylline,12,theophylline,exact,C0039771,theophylline,10438,R03DA04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,oral contraceptives,12,oral contraceptives,none,,,,,,no match
+drug_or_class,tetracycline,12,tetracycline,exact,C0039644,tetracycline,10395,S01AA09;D06AA04;S02AA08;A01AB13;J01AA07;S03AA02,Organic Chemical; Antibiotic,
+drug_or_class,tetracyclines,11,tetracyclines,close,C0039644,tetracycline,10395,S01AA09;D06AA04;S02AA08;A01AB13;J01AA07;S03AA02,Organic Chemical; Antibiotic,
+drug_or_class,lithium,11,lithium,close,C3540800,Lithium antipsychotics,,N05AN,Pharmacologic Substance,
+drug_or_class,cyclosporin,10,cyclosporin,close,C0010592,cyclosporine,3008,L04AD01;S01XA18,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug_or_class,antacids,10,antacids,exact,C0003138,Antacids,,A02A,Pharmacologic Substance,
+drug_or_class,anticoagulants,10,anticoagulants,none,,,,,,no match
+drug_or_class,anticonvulsants,10,anticonvulsants,none,,,,,,no match
+drug_or_class,nsaids,10,nsaids,none,,,,,,no match
+drug_or_class,calcium channel blockers,9,calcium channel blockers,exact,C0006684,Calcium Channel Blockers,,C08,Pharmacologic Substance,
+drug_or_class,tricyclic antidepressants,8,tricyclic antidepressants,none,,,,,,no match
+drug_or_class,cns depressants,8,cns depressants,none,,,,,,no match
+drug_or_class,erythromycin,8,erythromycin,exact,C0014806,erythromycin,4053,D10AF02;J01FA01;S01AA17,Organic Chemical; Antibiotic,
+drug_or_class,indomethacin,8,indomethacin,exact,C0021246,indomethacin,5781,C01EB03;S01BC01;M01AB01;M02AA23,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cardiac glycosides,7,cardiac glycosides,exact,C0007158,Cardiac Glycosides,,C01A,Organic Chemical; Pharmacologic Substance,
+drug_or_class,digitalis glycosides,7,digitalis glycosides,exact,C0012253,Digitalis Glycosides,,C01AA,Organic Chemical; Pharmacologic Substance,
+drug_or_class,salicylates,7,salicylates,close,C0036075,salicylate,9522,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,oral anticoagulants,7,oral anticoagulants,none,,,,,,no match
+drug_or_class,magnesium antacids,7,magnesium antacids,none,,,,,,no match
+drug_or_class,penicillin,6,penicillin,none,,,,,,no match
+drug_or_class,milk,6,milk,none,,,,,,no match
+drug_or_class,beta-blockers,6,beta-blockers,none,,,,,,no match
+drug_or_class,fluconazole,6,fluconazole,exact,C0016277,fluconazole,4450,J02AC01;D01AC15,Organic Chemical; Pharmacologic Substance,
+drug_or_class,calcium,6,calcium,close,C3540037,CALCIUM SUPPLEMENTS,,A12AA;A12A,Pharmacologic Substance; Vitamin,
+drug_or_class,methyldopa,6,methyldopa,close,C3540782,"Methyldopa, centrally acting adntiadrenergic agents",,C02AB,Organic Chemical; Pharmacologic Substance,
+drug_or_class,griseofulvin,6,griseofulvin,exact,C0018242,griseofulvin,5021,D01BA01;D01AA08,Organic Chemical; Pharmacologic Substance,
+drug_or_class,magnesium trisilicate antacids,6,magnesium trisilicate antacids,none,,,,,,no match
+drug_or_class,methotrexate,6,methotrexate,exact,C0025677,methotrexate,6851,L01BA01;L04AX03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,ace inhibitors,6,ace inhibitors,none,,,,,,no match
+drug_or_class,any other drug,6,any other drug,none,,,,,,no match
+drug_or_class,penicillins,5,penicillins,none,,,,,,no match
+drug_or_class,penicillamine,5,penicillamine,exact,C0030817,penicillamine,7975,M01CC01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug_or_class,neuromuscular blocking agents,5,neuromuscular blocking agents,none,,,,,,no match
+drug_or_class,phenobarbitone,5,phenobarbitone,none,,,,,,no match
+drug_or_class,thiazide diuretics,5,thiazide diuretics,none,,,,,,no match
+drug_or_class,ketoconazole,5,ketoconazole,exact,C0022625,ketoconazole,6135,J02AB02;D01AC08;H02CA03;G01AF11,Organic Chemical; Pharmacologic Substance,
+drug_or_class,corticosteroids,5,corticosteroids,close,C3539185,Corticosteroid nasal preparations for topical use,,R01AD,Organic Chemical; Pharmacologic Substance,
+drug_or_class,acetylsalicylic acid,5,acetylsalicylic acid,close,C0004057,aspirin,1191,A01AD05;N02BA01;B01AC06,Organic Chemical; Pharmacologic Substance,
+drug_or_class,sulfinpyrazone,5,sulfinpyrazone,exact,C0038742,sulfinpyrazone,10205,M04AB02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antihypertensive drugs,5,antihypertensive drugs,none,,,,,,no match
+drug_or_class,chloramphenicol,5,chloramphenicol,exact,C0008168,chloramphenicol,2348,S02AA01;G01AA05;S03AA08;S01AA01;D06AX02;D10AF03;J01BA01,Organic Chemical; Antibiotic,
+drug_or_class,live vaccines,4,live vaccines,none,,,,,,no match
+drug_or_class,thiazides,4,thiazides,none,,,,,,no match
+drug_or_class,glucocorticoids,4,glucocorticoids,close,C3540777,"Glucocorticoids, Systemic",,H02AB,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,sedatives,4,sedatives,none,,,,,,no match
+drug_or_class,hypnotics,4,hypnotics,none,,,,,,no match
+drug_or_class,azole antifungals,4,azole antifungals,none,,,,,,no match
+drug_or_class,grapefruit juice,4,grapefruit juice,exact,C0452456,grapefruit juice,1431224,,Food,
+drug_or_class,halothane,4,halothane,exact,C0018549,halothane,5095,N01AB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,anticoagulant therapy,4,anticoagulant therapy,none,,,,,,no match
+drug_or_class,cholestyramine,4,cholestyramine,none,,,,,,no match
+drug_or_class,aluminum antacids,4,aluminum antacids,none,,,,,,no match
+drug_or_class,sucralfate,4,sucralfate,exact,C0038633,sucralfate,10156,A02BX02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,iron,4,iron,exact,C0302583,iron,90176,,"Pharmacologic Substance; Biologically Active Substance; Element, Ion, or Isotope",
+drug_or_class,zinc,4,zinc,exact,C0043481,zinc,11416,,"Pharmacologic Substance; Biologically Active Substance; Element, Ion, or Isotope",
+drug_or_class,ampicillin,4,ampicillin,exact,C0002680,ampicillin,733,J01CA01;S01AA19,Organic Chemical; Antibiotic,
+drug_or_class,dexamethasone,4,dexamethasone,exact,C0011777,dexamethasone,3264,S02BA06;S03BA01;R01AD03;D07AB19;C05AA09;D10AA03;S01BA01;S01CB01;H02AB02;D07XB05;A01AC02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,protease inhibitors,4,protease inhibitors,close,C3540755,"Protease inhibitors, direct acting antivirals",,J05AE,Pharmacologic Substance,
+drug_or_class,potassium supplements,4,potassium supplements,close,C0304475,Potassium supplement,,A12BA;A12B,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,phenylbutazone,4,phenylbutazone,exact,C0031463,phenylbutazone,8160,M01AA01;M02AA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,nsaid,4,nsaid,none,,,,,,no match
+drug_or_class,triamterene,4,triamterene,exact,C0040869,triamterene,10763,C03DB02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,amiloride,4,amiloride,exact,C0002502,amiloride,644,C03DB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,allopurinol,4,allopurinol,exact,C0002144,allopurinol,519,M04AA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,quinidine,4,quinidine,exact,C0034414,quinidine,9068,C01BA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,aliskiren,3,aliskiren,exact,C1120110,aliskiren,325646,C09XA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,monoamine oxidase (mao) inhibitors,3,monoamine oxidase (mao) inhibitors,none,,,,,,no match
+drug_or_class,monoamine oxidase inhibitors,3,monoamine oxidase inhibitors,none,,,,,,no match
+drug_or_class,aspirin,3,aspirin,exact,C0004057,aspirin,1191,A01AD05;N02BA01;B01AC06,Organic Chemical; Pharmacologic Substance,
+drug_or_class,steroids,3,steroids,none,,,,,,no match
+drug_or_class,opioids,3,opioids,close,C0002772,"Analgesics, Opioid",,N02A,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antihistamines,3,antihistamines,none,,,,,,no match
+drug_or_class,thyroid hormones,3,thyroid hormones,exact,C0040135,Thyroid Hormones,,H03AA,Hormone,
+drug_or_class,ergotamine,3,ergotamine,exact,C0014710,ergotamine,4025,N02CA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,rifabutin,3,rifabutin,exact,C0140575,rifabutin,55672,J04AB04,Organic Chemical; Antibiotic,
+drug_or_class,aminoglutethimide,3,aminoglutethimide,exact,C0002555,aminoglutethimide,677,L02BG01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,ephedrine,3,ephedrine,exact,C0014479,ephedrine,3966,S01FB02;R01AB05;R03CA02;C01CA26;R01AA03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,colestipol,3,colestipol,exact,C0009279,colestipol,2685,C10AC02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,digitalis,3,digitalis,none,,,,,,no match
+drug_or_class,omeprazole,3,omeprazole,exact,C0028978,omeprazole,7646,A02BC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,isoniazid,3,isoniazid,exact,C0022209,isoniazid,6038,J04AC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,topiramate,3,topiramate,exact,C0076829,topiramate,38404,N03AX11,Organic Chemical; Pharmacologic Substance,
+drug_or_class,propranolol,3,propranolol,exact,C0033497,propranolol,8787,C07AA05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,platelet inhibitors,3,platelet inhibitors,none,,,,,,no match
+drug_or_class,dipyridamole,3,dipyridamole,exact,C0012582,dipyridamole,3521,B01AC07,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antacid,3,antacid,close,C0003138,Antacids,,A02A,Pharmacologic Substance,
+drug_or_class,hydrochlorothiazide,3,hydrochlorothiazide,exact,C0020261,hydrochlorothiazide,5487,C03AA03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,rifampin,3,rifampin,exact,C0035608,rifampin,9384,J04AB02,Organic Chemical; Antibiotic,
+drug_or_class,valproic acid,3,valproic acid,exact,C0042291,valproic acid,11118,N03AG01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,metronidazole,3,metronidazole,exact,C0025872,metronidazole,6922,P01AB01;G01AF01;J01XD01;A01AB17;D06BX01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,acetazolamide,3,acetazolamide,exact,C0000981,acetazolamide,167,S01EC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,trimethoprim,3,trimethoprim,exact,C0041041,trimethoprim,10829,J01EA01,Organic Chemical; Antibiotic,
+drug_or_class,folic acid,3,folic acid,exact,C0016410,folic acid,4511,B03BB01;V04CX02,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,disulfiram,3,disulfiram,exact,C0012772,disulfiram,3554,N07BB01;P03AA04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,itraconazole,3,itraconazole,exact,C0064113,itraconazole,28031,J02AC02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cyp3a4 substrates,3,cyp3a4 substrates,none,,,,,,no match
+drug_or_class,antipsychotics,3,antipsychotics,close,C0040615,Antipsychotic Agents,,N05A,Pharmacologic Substance,
+drug_or_class,amiodarone,3,amiodarone,exact,C0002598,amiodarone,703,C01BD01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,monoamine oxidase inhibitors (within 14 days),2,monoamine oxidase inhibitors (within 14 days),none,,,,,,no match
+drug_or_class,ergot derivatives,2,ergot derivatives,none,,,,,,no match
+drug_or_class,methylprednisolone,2,methylprednisolone,exact,C0025815,methylprednisolone,6902,H02AB04;D10AA02;D07AA01,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,β-blocking agents,2,β-blocking agents,close,C3541930,"Beta blocking agents, antiglaucoma preparations and miotics",,S01ED,Pharmacologic Substance,
+drug_or_class,non-selective β-blockers,2,non-selective β-blockers,none,,,,,,no match
+drug_or_class,other sympathomimetics,2,other sympathomimetics,none,,,,,,no match
+drug_or_class,xanthine derivatives,2,xanthine derivatives,close,C3541953,"Xanthine derivatives, psychostimulants, agents used for ADHD and nootropics",,N06BC,Organic Chemical; Pharmacologic Substance,
+drug_or_class,methoxy-fluorane,2,methoxy-fluorane,none,,,,,,no match
+drug_or_class,"antacids containing calcium, aluminium or magnesium",2,"antacids containing calcium, aluminium or magnesium",none,,,,,,no match
+drug_or_class,"calcium, magnesium, iron and particularly aluminium salts",2,"calcium, magnesium, iron and particularly aluminium salts",none,,,,,,no match
+drug_or_class,concurrent anticoagulants,2,concurrent anticoagulants,none,,,,,,no match
+drug_or_class,other potentially hepatotoxic drugs,2,other potentially hepatotoxic drugs,none,,,,,,no match
+drug_or_class,drugs which slow cardiac conduction,2,drugs which slow cardiac conduction,none,,,,,,no match
+drug_or_class,hormonal contraceptive agents,2,hormonal contraceptive agents,none,,,,,,no match
+drug_or_class,drugs which cause peripheral neuropathy,2,drugs which cause peripheral neuropathy,none,,,,,,no match
+drug_or_class,standard chemotherapeutic agents including dexamethasone,2,standard chemotherapeutic agents including dexamethasone,none,,,,,,no match
+drug_or_class,thrombolytic drugs like streptokinase & urokinase,2,thrombolytic drugs like streptokinase & urokinase,none,,,,,,no match
+drug_or_class,estrogen containing drugs,2,estrogen containing drugs,none,,,,,,no match
+drug_or_class,quinolone drug,2,quinolone drug,none,,,,,,no match
+drug_or_class,non-prescription products,2,non-prescription products,none,,,,,,no match
+drug_or_class,vitamin k,2,vitamin k,exact,C0042878,vitamin K,11258,,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,tri/tetracyclic antidepressants,2,tri/tetracyclic antidepressants,none,,,,,,no match
+drug_or_class,sertraline,2,sertraline,exact,C0074393,sertraline,36437,N06AB06,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antidiabetic agent or insulin,2,antidiabetic agent or insulin,none,,,,,,no match
+drug_or_class,oral hypoglycaemic agents (oha),2,oral hypoglycaemic agents (oha),none,,,,,,no match
+drug_or_class,monoamine oxidase inhibitors (maoi),2,monoamine oxidase inhibitors (maoi),none,,,,,,no match
+drug_or_class,non-selective beta-blocking agents,2,non-selective beta-blocking agents,close,C0304515,"Beta blocking agents, non-selective",,C07AA,Pharmacologic Substance,
+drug_or_class,angiotensin converting enzyme (ace) inhibitors,2,angiotensin converting enzyme (ace) inhibitors,none,,,,,,no match
+drug_or_class,beta-sympathomimetics,2,beta-sympathomimetics,none,,,,,,no match
+drug_or_class,growth hormone,2,growth hormone,none,,,,,,no match
+drug_or_class,danazol,2,danazol,exact,C0010961,danazol,3102,G03XA01,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,octreotide/lanreotide,2,octreotide/lanreotide,none,,,,,,no match
+drug_or_class,antihypertensive therapy,2,antihypertensive therapy,none,,,,,,no match
+drug_or_class,anticholinergic agents,2,anticholinergic agents,exact,C0242896,Anticholinergic Agents,,N04A,Pharmacologic Substance,
+drug_or_class,other medicinal products,2,other medicinal products,none,,,,,,no match
+drug_or_class,medicines to lower blood pressure,2,medicines to lower blood pressure,none,,,,,,no match
+drug_or_class,antipsychotic medicines,2,antipsychotic medicines,none,,,,,,no match
+drug_or_class,domperidone,2,domperidone,exact,C0013015,domperidone,3626,A03FA03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,pergolide,2,pergolide,exact,C0031007,pergolide,8047,N04BC02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,metoclopramide,2,metoclopramide,exact,C0025853,metoclopramide,6915,A03FA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,bromocriptine,2,bromocriptine,exact,C0006230,bromocriptine,1760,N04BC01;G02CB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,lisuride,2,lisuride,exact,C0023863,lisuride,6446,G02CB02;N02CA07,Organic Chemical; Pharmacologic Substance,
+drug_or_class,dihydroergotamine,2,dihydroergotamine,exact,C0012291,dihydroergotamine,3418,N02CA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,ergometrine,2,ergometrine,close,C0014704,ergonovine,4021,G02AB03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,methysergide,2,methysergide,exact,C0025842,methysergide,6911,N02CA04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,potent cyp 3a4 inhibitors,2,potent cyp 3a4 inhibitors,none,,,,,,no match
+drug_or_class,macrolide antibiotics,2,macrolide antibiotics,none,,,,,,no match
+drug_or_class,hiv protease inhibitors,2,hiv protease inhibitors,none,,,,,,no match
+drug_or_class,reverse transcriptase inhibitors,2,reverse transcriptase inhibitors,none,,,,,,no match
+drug_or_class,less potent cyp 3a4 inhibitors,2,less potent cyp 3a4 inhibitors,none,,,,,,no match
+drug_or_class,saquinavir,2,saquinavir,exact,C0286738,saquinavir,83395,J05AE01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,nefazodone,2,nefazodone,exact,C0068485,nefazodone,31565,N06AX06,Organic Chemical; Pharmacologic Substance,
+drug_or_class,fluoxetine,2,fluoxetine,exact,C0016365,fluoxetine,4493,N06AB03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,fluvoxamine,2,fluvoxamine,exact,C0085228,fluvoxamine,42355,N06AB08,Organic Chemical; Pharmacologic Substance,
+drug_or_class,zileuton,2,zileuton,exact,C0081408,zileuton,40575,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,clotrimazole,2,clotrimazole,exact,C0009074,clotrimazole,2623,D01AC01;G01AF02;A01AB18,Organic Chemical; Pharmacologic Substance,
+drug_or_class,aminoglycosides antibiotics,2,aminoglycosides antibiotics,none,,,,,,no match
+drug_or_class,other vaginal preparations,2,other vaginal preparations,none,,,,,,no match
+drug_or_class,other vaginal therapy,2,other vaginal therapy,none,,,,,,no match
+drug_or_class,coumarin anticoagulant drugs,2,coumarin anticoagulant drugs,none,,,,,,no match
+drug_or_class,heparin,2,heparin,exact,C0019134,heparin,5224,C05BA03;B01AB01;S01XA14,Organic Chemical; Pharmacologic Substance; Biologically Active Substance,
+drug_or_class,hepatic cytochrome-p450-3a4 system inducers,2,hepatic cytochrome-p450-3a4 system inducers,none,,,,,,no match
+drug_or_class,concomitant vaginal products,2,concomitant vaginal products,none,,,,,,no match
+drug_or_class,tetracycline preparations,2,tetracycline preparations,none,,,,,,no match
+drug_or_class,vitamin d therapy,2,vitamin d therapy,none,,,,,,no match
+drug_or_class,cytochrome p450 mediated drugs,2,cytochrome p450 mediated drugs,none,,,,,,no match
+drug_or_class,labetalol,2,labetalol,exact,C0022860,labetalol,6185,C07AG01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,betamethasone,2,betamethasone,exact,C0005308,betamethasone,1514,D07XC01;R03BA04;R01AD06;H02AB01;S02BA07;S01BA06;S03BA03;S01CB04;C05AA05;D07AC01;A07EA04,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,tocolytic activity drugs,2,tocolytic activity drugs,none,,,,,,no match
+drug_or_class,beta-mimetics,2,beta-mimetics,none,,,,,,no match
+drug_or_class,class i antiarrhythmic agents,2,class i antiarrhythmic agents,none,,,,,,no match
+drug_or_class,calcium antagonists of the verapamil type,2,calcium antagonists of the verapamil type,none,,,,,,no match
+drug_or_class,prostaglandin synthetase inhibitors,2,prostaglandin synthetase inhibitors,none,,,,,,no match
+drug_or_class,beta-adrenergic blocking agents,2,beta-adrenergic blocking agents,close,C0001645,Adrenergic beta-Antagonists,,C07;C07A,Pharmacologic Substance,
+drug_or_class,hormonal contraceptives,2,hormonal contraceptives,none,,,,,,no match
+drug_or_class,oxytocic medications,2,oxytocic medications,none,,,,,,no match
+drug_or_class,dairy products,2,dairy products,none,,,,,,no match
+drug_or_class,aluminium antacids,2,aluminium antacids,none,,,,,,no match
+drug_or_class,antibiotics,2,antibiotics,close,C3540704,Antibiotics for systemic use,,J02AA,Antibiotic,
+drug_or_class,aminosalicylic acid,2,aminosalicylic acid,exact,C0030125,aminosalicylic acid,7833,J04AA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,biguanides,2,biguanides,close,C4317165,biguanide,1918319,,Organic Chemical,
+drug_or_class,colchicine,2,colchicine,exact,C0009262,colchicine,2683,M04AC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,k salts,2,k salts,none,,,,,,no match
+drug_or_class,neuroleptics,2,neuroleptics,none,,,,,,no match
+drug_or_class,sedative antihistamines,2,sedative antihistamines,none,,,,,,no match
+drug_or_class,calcium antacids,2,calcium antacids,none,,,,,,no match
+drug_or_class,iron preparations,2,iron preparations,close,C3540023,IRON ANTIANEMIC PREPARATIONS,,B03A,Pharmacologic Substance,
+drug_or_class,bismuth salicylate,2,bismuth salicylate,none,,,,,,no match
+drug_or_class,modafinil,2,modafinil,exact,C0066677,modafinil,30125,N06BA07,Organic Chemical; Pharmacologic Substance,
+drug_or_class,ritonavir,2,ritonavir,exact,C0292818,ritonavir,85762,J05AE03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,calcium antagonists,2,calcium antagonists,none,,,,,,no match
+drug_or_class,adrenergic-blocking drugs,2,adrenergic-blocking drugs,none,,,,,,no match
+drug_or_class,potassium losing diuretic,2,potassium losing diuretic,none,,,,,,no match
+drug_or_class,potassium-containing salt substitutes,2,potassium-containing salt substitutes,none,,,,,,no match
+drug_or_class,high flux membranes,2,high flux membranes,none,,,,,,no match
+drug_or_class,ticlopidine,2,ticlopidine,exact,C0040207,ticlopidine,10594,B01AC05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,prostaglandins,2,prostaglandins,close,C0356622,"Prostaglandins, oxytocics",,G02AD,Organic Chemical; Pharmacologic Substance,
+drug_or_class,oxytocin,2,oxytocin,exact,C0030095,oxytocin,7824,H01BB02,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Hormone",
+drug_or_class,cyp3a4 inhibitors,2,cyp3a4 inhibitors,none,,,,,,no match
+drug_or_class,enzyme inducers,2,enzyme inducers,none,,,,,,no match
+drug_or_class,caffeine,2,caffeine,exact,C0006644,caffeine,1886,D11AX26;N06BC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,dairy foods,2,dairy foods,none,,,,,,no match
+drug_or_class,phytic acid,2,phytic acid,exact,C0031855,phytic acid,8302,,"Organic Chemical; Pharmacologic Substance; Indicator, Reagent, or Diagnostic Aid",
+drug_or_class,tea,2,tea,none,,,,,,no match
+drug_or_class,dicumarol,2,dicumarol,exact,C0005640,dicumarol,1598,B01AA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,warfarin sodium,2,warfarin sodium,exact,C0376218,warfarin sodium,114194,,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug_or_class,dextran,2,dextran,exact,C0086140,dextran,42635,B05AA05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,ibuprofen,2,ibuprofen,exact,C0020740,ibuprofen,5640,C01EB16;M02AA13;M01AE01;G02CC01;R02AX02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,hydroxychloroquine,2,hydroxychloroquine,exact,C0020336,hydroxychloroquine,5521,P01BA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,nicotine,2,nicotine,exact,C0028040,nicotine,7407,N07BA01,Organic Chemical; Hazardous or Poisonous Substance,
+drug_or_class,tacrolimus,2,tacrolimus,exact,C0085149,tacrolimus,42316,L04AD02;D11AH01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,diflunisal,2,diflunisal,exact,C0012228,diflunisal,3393,N02BA11,Organic Chemical; Pharmacologic Substance,
+drug_or_class,sulfonylureas,2,sulfonylureas,close,C3653359,Sulfonylureas for blood glucose lowering,,A10BB,Pharmacologic Substance,
+drug_or_class,vitamin a,2,vitamin a,exact,C0042839,vitamin A,11246,D10AD02;R01AX02;S01XA02;A11CA01,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,vitamin a derivatives,2,vitamin a derivatives,none,,,,,,no match
+drug_or_class,microdosed progesterone,2,microdosed progesterone,none,,,,,,no match
+drug_or_class,topical keratolytic anti-acne agents,2,topical keratolytic anti-acne agents,none,,,,,,no match
+drug_or_class,topical exfoliative anti-acne agents,2,topical exfoliative anti-acne agents,none,,,,,,no match
+drug_or_class,oxidising agents,2,oxidising agents,none,,,,,,no match
+drug_or_class,benzoyl peroxide,2,benzoyl peroxide,exact,C0005088,benzoyl peroxide,1418,D10AE01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,aggressive chemical dermabrasion,2,aggressive chemical dermabrasion,none,,,,,,no match
+drug_or_class,cutaneous laser treatment,2,cutaneous laser treatment,none,,,,,,no match
+drug_or_class,wax depilation,2,wax depilation,none,,,,,,no match
+drug_or_class,valproate,2,valproate,exact,C0080356,valproate,40254,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,lopinavir/ritonavir,2,lopinavir/ritonavir,close,C0939237,lopinavir / ritonavir,284640,J05AR10,Pharmacologic Substance,
+drug_or_class,atazanavir/ritonavir,2,atazanavir/ritonavir,close,C1977391,"atazanavir, ritonavir drug combination",,J05AR23,Pharmacologic Substance,
+drug_or_class,lamotrigine,2,lamotrigine,exact,C0064636,lamotrigine,28439,N03AX09,Organic Chemical; Pharmacologic Substance,
+drug_or_class,gabapentin,2,gabapentin,exact,C0060926,gabapentin,25480,N02BF01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,osmotic laxative macrogol,2,osmotic laxative macrogol,none,,,,,,no match
+drug_or_class,food,2,food,close,C3540798,Food allergenic extracts,,V01AA08,Pharmacologic Substance; Immunologic Factor,
+drug_or_class,anticonvulsant agents,2,anticonvulsant agents,none,,,,,,no match
+drug_or_class,piroxicam,2,piroxicam,exact,C0031990,piroxicam,8356,M01AC01;S01BC06;M02AA07,Organic Chemical; Pharmacologic Substance,
+drug_or_class,enalapril,2,enalapril,exact,C0014025,enalapril,3827,C09AA02,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug_or_class,captopril,2,captopril,exact,C0006938,captopril,1998,C09AA01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug_or_class,ssri,2,ssri,none,,,,,,no match
+drug_or_class,urea,2,urea,exact,C0041942,urea,11002,B05BC02;D02AE01,Organic Chemical; Pharmacologic Substance; Biologically Active Substance,
+drug_or_class,xanthine preparations,2,xanthine preparations,none,,,,,,no match
+drug_or_class,sodium bicarbonate,2,sodium bicarbonate,exact,C0074722,sodium bicarbonate,36676,B05CB04;B05XA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,alkalinizing agents,2,alkalinizing agents,none,,,,,,no match
+drug_or_class,spironolactone,2,spironolactone,exact,C0037982,spironolactone,9997,C03DA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,potassium-sparing diuretics,2,potassium-sparing diuretics,none,,,,,,no match
+drug_or_class,phenindione,2,phenindione,exact,C0031406,phenindione,8130,B01AA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,oral typhoid vaccines,2,oral typhoid vaccines,none,,,,,,no match
+drug_or_class,chloroquine,2,chloroquine,exact,C0008269,chloroquine,2393,P01BA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,bacteriostatic antibacterials,2,bacteriostatic antibacterials,none,,,,,,no match
+drug_or_class,furosemide,2,furosemide,exact,C0016860,furosemide,4603,C03CA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,nifedipine,2,nifedipine,exact,C0028066,nifedipine,7417,C08CA05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cationic drugs,2,cationic drugs,none,,,,,,no match
+drug_or_class,morphine,2,morphine,exact,C0026549,morphine,7052,N02AA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,procainamide,2,procainamide,exact,C0033216,procainamide,8700,C01BA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,quinine,2,quinine,exact,C0034417,quinine,9071,P01BC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,vancomycin,2,vancomycin,exact,C0042313,vancomycin,11124,S01AA28;J01XA01;A07AA09,"Amino Acid, Peptide, or Protein; Antibiotic",
+drug_or_class,phenothiazines,2,phenothiazines,none,,,,,,no match
+drug_or_class,thyroid products,2,thyroid products,none,,,,,,no match
+drug_or_class,estrogens,2,estrogens,close,C3537250,"ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",,G03C,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,nicotinic acid,2,nicotinic acid,close,C0027996,niacin,7393,C10AD02;C04AC01,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,sympathomimetics,2,sympathomimetics,exact,C0039052,Sympathomimetics,,R01BA,Pharmacologic Substance,
+drug_or_class,insulin,2,insulin,none,,,,,,no match
+drug_or_class,insulin secretagogue,2,insulin secretagogue,none,,,,,,no match
+drug_or_class,sulfonamides,2,sulfonamides,close,C3539179,"Sulfonamides, Gynecological",,G01AE,Organic Chemical; Pharmacologic Substance,
+drug_or_class,azathioprine,2,azathioprine,exact,C0004482,azathioprine,1256,L04AX01,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug_or_class,retinoids,2,retinoids,none,,,,,,no match
+drug_or_class,sulfasalazine,2,sulfasalazine,exact,C0036078,sulfasalazine,9524,A07EC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cisplatin,2,cisplatin,exact,C0008838,cisplatin,2555,L01XA01,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,mercaptopurine,2,mercaptopurine,exact,C0000618,mercaptopurine,103,L01BB02,"Nucleic Acid, Nucleoside, or Nucleotide; Pharmacologic Substance",
+drug_or_class,folic acid derivatives,2,folic acid derivatives,close,C3654017,Folic acid and derivatives as antianemics,,B03BB,Organic Chemical; Pharmacologic Substance,
+drug_or_class,trimethoprim/sulfamethoxazole,2,trimethoprim/sulfamethoxazole,close,C0041044,Trimethoprim-Sulfamethoxazole Combination,10831,J01EE01,Pharmacologic Substance,
+drug_or_class,leucovorin calcium,2,leucovorin calcium,exact,C0731033,leucovorin calcium,225852,V03AF03,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,anesthetics,2,anesthetics,exact,C0002932,Anesthetics,,N01,Pharmacologic Substance,
+drug_or_class,ferrous sulfate,2,ferrous sulfate,exact,C0060282,ferrous sulfate,24947,B03AA07,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,ferrous gluconate,2,ferrous gluconate,exact,C0060277,ferrous gluconate,24942,B03AA03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,drugs known to cause td/eps/nms,2,drugs known to cause td/eps/nms,none,,,,,,no match
+drug_or_class,5-fluorouracil,2,5-fluorouracil,none,,,,,,no match
+drug_or_class,busulfan,2,busulfan,exact,C0006463,busulfan,1828,L01AB01,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug_or_class,st john's wort,2,st john's wort,close,C0813171,St. John's wort extract,258326,N06AX25,Organic Chemical; Pharmacologic Substance,
+drug_or_class,misoprostol,2,misoprostol,exact,C0085174,misoprostol,42331,A02BB01;G02AD06,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cardiac drugs,2,cardiac drugs,none,,,,,,no match
+drug_or_class,pulmonary drugs,2,pulmonary drugs,none,,,,,,no match
+drug_or_class,cns drugs,2,cns drugs,none,,,,,,no match
+drug_or_class,anti-bacterials,2,anti-bacterials,none,,,,,,no match
+drug_or_class,anti-epileptics,2,anti-epileptics,none,,,,,,no match
+drug_or_class,muscle relaxants,2,muscle relaxants,exact,C0358430,Muscle relaxants,,M03,Pharmacologic Substance,
+drug_or_class,tubocurarine,2,tubocurarine,exact,C0041345,tubocurarine,10917,M03AA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antiulcerants,2,antiulcerants,none,,,,,,no match
+drug_or_class,uricosuric drugs,2,uricosuric drugs,none,,,,,,no match
+drug_or_class,oral hypoglycaemic agents,2,oral hypoglycaemic agents,none,,,,,,no match
+drug_or_class,sulphonamides,2,sulphonamides,close,C3539179,"Sulfonamides, Gynecological",,G01AE,Organic Chemical; Pharmacologic Substance,
+drug_or_class,oral steroid contraceptives,2,oral steroid contraceptives,none,,,,,,no match
+drug_or_class,other paracetamol-containing products,2,other paracetamol-containing products,none,,,,,,no match
+drug_or_class,reserpine,2,reserpine,exact,C0035179,reserpine,9260,C02AA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,disopyramide,2,disopyramide,exact,C0012702,disopyramide,3541,C01BA03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,clonidine,2,clonidine,exact,C0009014,clonidine,2599,S01EA04;N02CX02;C02AC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,allergens,2,allergens,exact,C0002092,Allergens,,V01A;V01,Immunologic Factor,
+drug_or_class,epinephrine,2,epinephrine,exact,C0014563,epinephrine,3992,A01AD01;R01AA14;R03AA01;B02BC09;S01EA01;C01CA24,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,cyclosporine,2,cyclosporine,exact,C0010592,cyclosporine,3008,L04AD01;S01XA18,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug_or_class,fibric acid derivatives,2,fibric acid derivatives,none,,,,,,no match
+drug_or_class,niacin,2,niacin,exact,C0027996,niacin,7393,C10AD02;C04AC01,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,apomorphine,1,apomorphine,exact,C0003596,apomorphine,1043,N04BC07;G04BE07,Organic Chemical; Pharmacologic Substance,
+drug_or_class,monoamine-oxidase inhibitor antidepressant (maoi),1,monoamine-oxidase inhibitor antidepressant (maoi),none,,,,,,no match
+drug_or_class,monoamine oxidase antidepressant,1,monoamine oxidase antidepressant,none,,,,,,no match
+drug_or_class,other thiourea antithyroid agents,1,other thiourea antithyroid agents,none,,,,,,no match
+drug_or_class,magnesium trisillicate,1,magnesium trisillicate,none,,,,,,no match
+drug_or_class,antacid containing carbonate,1,antacid containing carbonate,none,,,,,,no match
+drug_or_class,ergot alkaloids,1,ergot alkaloids,close,C3541393,"Ergot alkaloids, antimigraine",,N02CA,Organic Chemical; Pharmacologic Substance,
+drug_or_class,terfenadine,1,terfenadine,exact,C0085173,terfenadine,42330,R06AX12,Organic Chemical; Pharmacologic Substance,
+drug_or_class,"opioids, antihistamines, antipsychotics, anti-anxiety agents, or other cns depressants (including alcohol)",1,"opioids, antihistamines, antipsychotics, anti-anxiety agents, or other cns depressants (including alcohol)",none,,,,,,no match
+drug_or_class,erythropoietic agents or therapies containing estrogen,1,erythropoietic agents or therapies containing estrogen,none,,,,,,no match
+drug_or_class,erythropoietic agents,1,erythropoietic agents,none,,,,,,no match
+drug_or_class,solutions containing penicillins,1,solutions containing penicillins,none,,,,,,no match
+drug_or_class,oxytocic agents,1,oxytocic agents,none,,,,,,no match
+drug_or_class,medications known to lower blood pressure,1,medications known to lower blood pressure,none,,,,,,no match
+drug_or_class,nephrotoxic drugs,1,nephrotoxic drugs,none,,,,,,no match
+drug_or_class,ototoxic drugs,1,ototoxic drugs,none,,,,,,no match
+drug_or_class,ethacrynic acid,1,ethacrynic acid,exact,C0014963,ethacrynic acid,4109,C03CC01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,frusemide,1,frusemide,none,,,,,,no match
+drug_or_class,beta-lactam antibiotics,1,beta-lactam antibiotics,none,,,,,,no match
+drug_or_class,central nervous system depressants,1,central nervous system depressants,none,,,,,,no match
+drug_or_class,anticholinesterases,1,anticholinesterases,close,C3540712,Anticholinesterase anti-dementia drugs,,N06DA,Pharmacologic Substance,
+drug_or_class,non-steroidal anti-inflammatory agents,1,non-steroidal anti-inflammatory agents,none,,,,,,no match
+drug_or_class,calcium-channel blockers,1,calcium-channel blockers,close,C0006684,Calcium Channel Blockers,,C08,Pharmacologic Substance,
+drug_or_class,calcitriol,1,calcitriol,exact,C0006674,calcitriol,1894,D05AX03;A11CC04,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug_or_class,estrogen,1,estrogen,close,C3537250,"ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",,G03C,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,progesterone,1,progesterone,exact,C0033308,progesterone,8727,G03DA04,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,iodine,1,iodine,exact,C0021968,iodine,5933,D08AG03,"Pharmacologic Substance; Biologically Active Substance; Element, Ion, or Isotope",
+drug_or_class,digitoxin,1,digitoxin,exact,C0012258,digitoxin,3403,C01AA04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,orlistat,1,orlistat,exact,C0076275,orlistat,37925,A08AB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,mineral oil,1,mineral oil,exact,C0026156,mineral oil,6972,A06AA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,laxatives,1,laxatives,none,,,,,,no match
+drug_or_class,paraffin oil,1,paraffin oil,none,,,,,,no match
+drug_or_class,actinomycin,1,actinomycin,none,,,,,,no match
+drug_or_class,imidazole antifungal agents,1,imidazole antifungal agents,none,,,,,,no match
+drug_or_class,yogurt,1,yogurt,none,,,,,,no match
+drug_or_class,antidiabetic drugs,1,antidiabetic drugs,none,,,,,,no match
+drug_or_class,antidiabetics,1,antidiabetics,none,,,,,,no match
+drug_or_class,neuromuscular blocking drugs,1,neuromuscular blocking drugs,none,,,,,,no match
+drug_or_class,general anesthetics,1,general anesthetics,close,C0017302,General anesthetic drugs,,N01A,Pharmacologic Substance,
+drug_or_class,narcotic analgesics,1,narcotic analgesics,none,,,,,,no match
+drug_or_class,antidepressants,1,antidepressants,close,C0003289,Antidepressive Agents,,N06A,Pharmacologic Substance,
+drug_or_class,antidiabetic agents,1,antidiabetic agents,none,,,,,,no match
+drug_or_class,quinolone antimicrobials,1,quinolone antimicrobials,none,,,,,,no match
+drug_or_class,quinolones,1,quinolones,none,,,,,,no match
+drug_or_class,systemic nsaids,1,systemic nsaids,none,,,,,,no match
+drug_or_class,oral contraceptive,1,oral contraceptive,none,,,,,,no match
+drug_or_class,oral iron,1,oral iron,none,,,,,,no match
+drug_or_class,oral iron preparations,1,oral iron preparations,none,,,,,,no match
+drug_or_class,ketorolac tromethamine,1,ketorolac tromethamine,exact,C0064326,ketorolac tromethamine,28200,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,agents which affect hemostasis,1,agents which affect hemostasis,none,,,,,,no match
+drug_or_class,ketorolac,1,ketorolac,exact,C0073631,ketorolac,35827,M01AB15;S01BC05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,clopidogrel,1,clopidogrel,exact,C0070166,clopidogrel,32968,B01AC04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,dextran 40,1,dextran 40,exact,C0011793,dextran 40,3272,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,thrombolytics,1,thrombolytics,none,,,,,,no match
+drug_or_class,antiplatelet aggregation agents,1,antiplatelet aggregation agents,none,,,,,,no match
+drug_or_class,glycoprotein iib/iiia antagonists,1,glycoprotein iib/iiia antagonists,none,,,,,,no match
+drug_or_class,co-trimoxazole,1,co-trimoxazole,none,,,,,,no match
+drug_or_class,magnesium trisilicate-containing antacid,1,magnesium trisilicate-containing antacid,none,,,,,,no match
+drug_or_class,oral sulphonyl ureas,1,oral sulphonyl ureas,none,,,,,,no match
+drug_or_class,chlorpropamide,1,chlorpropamide,exact,C0008287,chlorpropamide,2404,A10BB02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,glibenclamide,1,glibenclamide,close,C0017628,glyburide,4815,A10BB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,glipizide,1,glipizide,exact,C0017642,glipizide,4821,A10BB07,Organic Chemical; Pharmacologic Substance,
+drug_or_class,tolbutamide,1,tolbutamide,exact,C0040374,tolbutamide,10635,A10BB03;V04CA01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,combined oral contraceptive,1,combined oral contraceptive,none,,,,,,no match
+drug_or_class,other nsaids,1,other nsaids,none,,,,,,no match
+drug_or_class,anti-platelet agents,1,anti-platelet agents,none,,,,,,no match
+drug_or_class,aminoglycosides,1,aminoglycosides,none,,,,,,no match
+drug_or_class,mifepristone,1,mifepristone,exact,C0026088,mifepristone,6964,G03XB01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,quinolone,1,quinolone,none,,,,,,no match
+drug_or_class,zidovudine,1,zidovudine,exact,C0043474,zidovudine,11413,J05AF01,"Nucleic Acid, Nucleoside, or Nucleotide; Pharmacologic Substance",
+drug_or_class,voriconazole,1,voriconazole,exact,C0393080,voriconazole,121243,J02AC03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,estrogen containing oral contraceptives,1,estrogen containing oral contraceptives,none,,,,,,no match
+drug_or_class,estrogen-containing oral contraceptives,1,estrogen-containing oral contraceptives,none,,,,,,no match
+drug_or_class,anti-epileptic drugs,1,anti-epileptic drugs,none,,,,,,no match
+drug_or_class,antiepileptic medicinal products,1,antiepileptic medicinal products,none,,,,,,no match
+drug_or_class,calcium channel blocking agents,1,calcium channel blocking agents,none,,,,,,no match
+drug_or_class,selective serotonin reuptake inhibitors,1,selective serotonin reuptake inhibitors,exact,C0360105,Selective Serotonin Reuptake Inhibitors,,N06AB,Pharmacologic Substance,
+drug_or_class,potassium sparing diuretics,1,potassium sparing diuretics,none,,,,,,no match
+drug_or_class,potassium containing compounds,1,potassium containing compounds,none,,,,,,no match
+drug_or_class,angiotensin receptor antagonists,1,angiotensin receptor antagonists,none,,,,,,no match
+drug_or_class,salt substitutes containing potassium,1,salt substitutes containing potassium,none,,,,,,no match
+drug_or_class,ace-inhibitor,1,ace-inhibitor,none,,,,,,no match
+drug_or_class,angiotensin receptor antagonist,1,angiotensin receptor antagonist,none,,,,,,no match
+drug_or_class,anti-inflammatory drug,1,anti-inflammatory drug,none,,,,,,no match
+drug_or_class,thiazide diuretic,1,thiazide diuretic,none,,,,,,no match
+drug_or_class,oral estrogen-progesterone contraceptives,1,oral estrogen-progesterone contraceptives,none,,,,,,no match
+drug_or_class,combined oral estrogen/progesterone contraceptives,1,combined oral estrogen/progesterone contraceptives,none,,,,,,no match
+drug_or_class,isosorbide,1,isosorbide,exact,C0022251,isosorbide,6057,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,calcium channel blocking drugs,1,calcium channel blocking drugs,none,,,,,,no match
+drug_or_class,sulphonylurea,1,sulphonylurea,close,C3653359,Sulfonylureas for blood glucose lowering,,A10BB,Pharmacologic Substance,
+drug_or_class,broad spectrum antibiotics,1,broad spectrum antibiotics,none,,,,,,no match
+drug_or_class,nonabsorbable broad spectrum antibiotics,1,nonabsorbable broad spectrum antibiotics,none,,,,,,no match
+drug_or_class,oral anticoagulant therapy,1,oral anticoagulant therapy,none,,,,,,no match
+drug_or_class,anti-arrhythmics,1,anti-arrhythmics,none,,,,,,no match
+drug_or_class,anti-arrythmics,1,anti-arrythmics,none,,,,,,no match
+drug_or_class,β-blockers,1,β-blockers,none,,,,,,no match
+drug_or_class,cytochrome p-450 inducers,1,cytochrome p-450 inducers,none,,,,,,no match
+drug_or_class,cytochrome p-450 inhibitors,1,cytochrome p-450 inhibitors,none,,,,,,no match
+drug_or_class,vasoconstrictor,1,vasoconstrictor,none,,,,,,no match
+drug_or_class,cyclopropane anesthesia,1,cyclopropane anesthesia,none,,,,,,no match
+drug_or_class,sodium valproate,1,sodium valproate,exact,C0037567,sodium valproate,9919,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,sodium valporate,1,sodium valporate,none,,,,,,no match
+drug_or_class,sedative drugs,1,sedative drugs,none,,,,,,no match
+drug_or_class,ethanol,1,ethanol,exact,C0001962,ethanol,448,V03AZ01;D08AX08;V03AB16,Organic Chemical; Pharmacologic Substance,
+drug_or_class,paracetamol,1,paracetamol,close,C0000970,acetaminophen,161,N02BE01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,acyclovir,1,acyclovir,exact,C0001367,acyclovir,281,S01AD03;D06BB03;J05AB01,"Nucleic Acid, Nucleoside, or Nucleotide; Pharmacologic Substance",
+drug_or_class,antineoplastics,1,antineoplastics,none,,,,,,no match
+drug_or_class,benzodiazeines,1,benzodiazeines,none,,,,,,no match
+drug_or_class,ciprofloxacin,1,ciprofloxacin,exact,C0008809,ciprofloxacin,2551,S02AA15;J01MA02;S03AA07;S01AE03,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cyp2c9 inducers,1,cyp2c9 inducers,none,,,,,,no match
+drug_or_class,cyp2c19 inducers,1,cyp2c19 inducers,none,,,,,,no match
+drug_or_class,vigabatrin,1,vigabatrin,exact,C0048044,vigabatrin,14851,N03AG04,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Biologically Active Substance",
+drug_or_class,capecitabine,1,capecitabine,exact,C0671970,capecitabine,194000,L01BC06,"Nucleic Acid, Nucleoside, or Nucleotide; Pharmacologic Substance",
+drug_or_class,cyp2c9 inhibitors,1,cyp2c9 inhibitors,none,,,,,,no match
+drug_or_class,cyp2c19 inhibitors,1,cyp2c19 inhibitors,none,,,,,,no match
+drug_or_class,delavirdine,1,delavirdine,exact,C0288165,delavirdine,83816,J05AG02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,methylphenidate,1,methylphenidate,exact,C0025810,methylphenidate,6901,N06BA04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,trazodone,1,trazodone,exact,C0040805,trazodone,10737,N06AX05,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antiarrhythmics,1,antiarrhythmics,none,,,,,,no match
+drug_or_class,doxycycline,1,doxycycline,exact,C0013090,doxycycline,3640,A01AB22;J01AA02,Organic Chemical; Antibiotic,
+drug_or_class,oestrogens,1,oestrogens,close,C3537250,"ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",,G03C,Organic Chemical; Pharmacologic Substance; Hormone,
+drug_or_class,hmg-coa reductase inhibitors,1,hmg-coa reductase inhibitors,close,C3539119,"HMG CoA reductase inhibitors, plain lipid modifying drugs",,C10AA,Pharmacologic Substance,
+drug_or_class,methadone,1,methadone,exact,C0025605,methadone,6813,N07BC02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,tcas,1,tcas,none,,,,,,no match
+drug_or_class,clozapine,1,clozapine,exact,C0009079,clozapine,2626,N05AH02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,ciclosporin,1,ciclosporin,close,C0010592,cyclosporine,3008,L04AD01;S01XA18,"Amino Acid, Peptide, or Protein; Pharmacologic Substance",
+drug_or_class,cyp2b6 substrates,1,cyp2b6 substrates,none,,,,,,no match
+drug_or_class,bupropion,1,bupropion,exact,C0085208,bupropion,42347,N06AX12,Organic Chemical; Pharmacologic Substance,
+drug_or_class,selegiline,1,selegiline,exact,C0036579,selegiline,9639,N04BD01,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cyp2c8 substrates,1,cyp2c8 substrates,none,,,,,,no match
+drug_or_class,cyp2c9 substrates,1,cyp2c9 substrates,none,,,,,,no match
+drug_or_class,celecoxib,1,celecoxib,exact,C0538927,celecoxib,140587,M01AH01;L01XX33,Organic Chemical; Pharmacologic Substance,
+drug_or_class,cyp2c19 substrates,1,cyp2c19 substrates,none,,,,,,no match
+drug_or_class,citalopram,1,citalopram,exact,C0008845,citalopram,2556,N06AB04,Organic Chemical; Pharmacologic Substance,
+drug_or_class,benzodiazepines,1,benzodiazepines,none,,,,,,no match
+drug_or_class,levodopa,1,levodopa,exact,C0023570,levodopa,6375,N04BA01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Biologically Active Substance",
+drug_or_class,neuromuscular-blocking agents,1,neuromuscular-blocking agents,none,,,,,,no match
+drug_or_class,dopamine,1,dopamine,exact,C0013030,dopamine,3628,C01CA04,Organic Chemical; Pharmacologic Substance; Biologically Active Substance,
+drug_or_class,coumarin anticoagulants,1,coumarin anticoagulants,none,,,,,,no match
+drug_or_class,coumarin-type anticoagulants,1,coumarin-type anticoagulants,none,,,,,,no match
+drug_or_class,catecholamine depleting drugs,1,catecholamine depleting drugs,none,,,,,,no match
+drug_or_class,prostaglandin synthase inhibitors,1,prostaglandin synthase inhibitors,none,,,,,,no match
+drug_or_class,catecholamine-depleting drugs,1,catecholamine-depleting drugs,none,,,,,,no match
+drug_or_class,prostaglandin synthase inhibiting drugs,1,prostaglandin synthase inhibiting drugs,none,,,,,,no match
+drug_or_class,antiparkinson's drugs,1,antiparkinson's drugs,none,,,,,,no match
+drug_or_class,barbiturate,1,barbiturate,none,,,,,,no match
+drug_or_class,antiparkinson's drug,1,antiparkinson's drug,none,,,,,,no match
+drug_or_class,propanolol,1,propanolol,none,,,,,,no match
+drug_or_class,hypoglycemic drugs,1,hypoglycemic drugs,none,,,,,,no match

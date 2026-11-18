@@ -1,0 +1,317 @@
+### drug=losartan-potassium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-206 | USE_IN | hypersensitive to any component of this product | contraindicated | contraindications | "patients who are hypersensitive to any component of this product."
+G06-209 | CAUSES | risk to the fetus | - | pregnancy_lactation | "The risk to the fetus increases if Losartan Potassium is administered during the second or third trimesters of pregnancy."
+G06-211 | CAUSES | adverse effects | - | pregnancy_lactation | "potential for adverse effects on the nursing infant"
+P06-227 | INTERACTS_WITH | salt substitutes containing potassium | - | interaction | "salt substitutes containing potassium"
+P06-231 | INTERACTS_WITH | anti-inflammatory drug | - | interaction | "an anti-inflammatory drug"
+P06-237 | CAUSES | fetal morbidity | - | precautions | "increases fetal and neonatal morbidity and death"
+P06-238 | CAUSES | neonatal morbidity | - | precautions | "neonatal morbidity"
+P06-239 | CAUSES | fetal death | - | precautions | "and death"
+P06-240 | CAUSES | neonatal death | - | precautions | "and death"
+P06-244 | USE_IN | renal impaired patient | caution | precautions | "Changes in renal function including renal failure have been reported in renal impaired patient"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P06-204 | INTERACTS_WITH | NSAID | - | interaction | "ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ড্রাগ"
+G06-216 | USE_IN | hypersensitivity to losartan potassium or any of its ingredi | contraindicated | contraindications | "লোসারটান পটাশিয়াম বা এর অন্য কোন উপাদানের প্রতি অতিসংবেদনশীলতা"
+P06-217 | USE_IN | renal impairment | caution | precautions | "বৃক্কীয় অকার্যকরী রোগীর ক্ষেত্রে অকার্যকারিতা বেড়ে যেতে পারে বা বৃক্ক বিকল হতে পারে"
+G06-219 | CAUSES | risk to newborn | - | pregnancy_lactation | "নবজাতকের ঝুঁকি বেড়ে যায়"
+P06-212 | CAUSES | fetal and neonatal morbidity | - | precautions | "নবজাতক ও Fetus নষ্ট বা মৃত্যু হার বেড়ে যায়"
+P06-213 | CAUSES | fetal and neonatal death | - | precautions | "মৃত্যু হার বেড়ে যায়"
+## ENGLISH SECTION TEXT: contraindications
+Losartan Potassium is contraindicated in pregnant women and in patients who are hypersensitive to any component of this product. Losartan Potassium should not be administered with Aliskiren in patients with diabetes.
+## BANGLA SECTION TEXT: contraindications
+লোসারটান পটাশিয়াম গর্ভবতী মহিলা ও যে সমস্ত রোগীর লোসারটান পটাশিয়াম বা এর অন্য কোন উপাদানের প্রতি অতিসংবেদনশীলতা রয়েছে তাদের ক্ষেত্রে এটি প্রতিনির্দেশিত। যে সমস্ত রোগীদের ডায়াবেটিস আছে তাদের ক্ষেত্রে এলিসকিরেন এর সাথে যৌথ ভাবে ব্যবহার করা উচিত নয়।
+## ENGLISH SECTION TEXT: interaction
+Rifampicin and fluconazole reduce levels of active metabolite of Losartan Potassium. Concomitant use of Losartan Potassium and hydrochlorothiazide may lead to potentiation of the antihypertensive effects. Concomitant use of potassium-sparing diuretics (eg, spironolactone, triamterene, amiloride), potassium supplements or salt substitutes containing potassium may lead to increases in serum potassium. The antihypertensive effect of losartan may be attenuated by the non-steroidal anti-inflammatory drug indomethacin. The use of ACE-inhibitor, angiotensin receptor antagonist, an anti-inflammatory drug and a thiazide diuretic at the same time increases the risk of renal impairment.
+## BANGLA SECTION TEXT: interaction
+রিফামপিসিন ও ফ্লুকোনাজল লোসারটান পটাশিয়ামের সক্রিয় মেটাবোলাইট কমিয়ে দেয়। একই সাথে লোসারটান পটাশিয়াম ও হাইড্রোক্লোরোথায়াজাইড ব্যবহার করলে রক্তচাপ কমানোর ক্ষমতা বেড়ে যায়। একই সাথে পটাশিয়াম স্পারিং ডাইইউরেটিক (যেমনঃ স্পাইরোনোল্যাকটন, ট্রাইএ্যামটেরিন, এমিলোরাইড), পটাশিয়াম সাপ্লিমেন্ট বা যে সমস্ত যৌগের মধ্যে পটাশিয়াম আছে সে গুলো সিরাম পটাশিয়ামকে বাড়িয়ে দেয়। লোসারটানের সাথে ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ড্রাগ ইনডোমিথাসিন ব্যবহার করলে উচ্চরক্তচাপ কমানোর ক্ষমতা কমে যায়। একই সাথে ACE ইনহিবিটর, এনজিওটেনসিন রিসিপ্টর এন্টাগোনিষ্ট, ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ড্রাগ এবং থায়াজাইড ডাইইউরেটিক ব্যবহার করলে বৃক্কের অকার্যকারিতা হওয়ার ঝুঁকি বেড়ে যায়।
+## ENGLISH SECTION TEXT: precautions
+Use of Losartan Potassium during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. In patients who are intravascularly volume-depleted (e.g., those treated with high-dose diuretics), symptomatic hypotension may occur. Plasma concentration of Losartan Potassium is significantly increased in cirrhotic patients. Changes in renal function including renal failure have been reported in renal impaired patient.
+## BANGLA SECTION TEXT: precautions
+গর্ভাবস্থায় দ্বিতীয় ও তৃতীয় ট্রাইমেস্টারে লোসারটান পটাশিয়াম ব্যবহার করলে নবজাতকের বৃক্কীয় কার্যকারিতা মারাত্বকভাবে কমে যায় এবং নবজাতক ও Fetus নষ্ট বা মৃত্যু হার বেড়ে যায়। যে সকল রোগীর ইন্ট্রাভাস্কুলার ভলিউম কম (যেমনঃ উচ্চ মাত্রায় ডাইইউরেটিক ব্যবহার করেছে এমন) তাদের লক্ষণ জনিত নিম্নরক্তচাপ হতে পারে। সিরোটিক রোগীর ক্ষেত্রে লোসারটান পটাশিয়ামের রক্ত রস ঘনত্ব উলে­খযোগ্য হারে বৃদ্ধি পায়। বৃক্কীয় অকার্যকরী রোগীর ক্ষেত্রে অকার্যকারিতা বেড়ে যেতে পারে বা বৃক্ক বিকল হতে পারে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy Category D. The risk to the fetus increases if Losartan Potassium is administered during the second or third trimesters of pregnancy. It is not known whether Losartan Potassium is excreted in human milk, as many drugs are excreted in human milk and because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রেগন্যান্সি ক্যাটাগরী 'D'। গর্ভবস্থায় দ্বিতীয় ও তৃতীয় ট্রাইমেস্টারে লোসারটান পটাশিয়াম ব্যবহার করলে নবজাতকের ঝুঁকি বেড়ে যায়। মাতৃদুগ্ধের সাথে লোসারটান পটাশিয়াম নিঃসৃত হয় কিনা জানা যায়নি, যেহেতু অনেক ঔষধ মাতৃদুগ্ধের সাথে নিঃসৃত হয় এবং দুগ্ধপোষ্য শিশুর উপর বিরূপ প্রতিক্রিয়া হওয়ার সম্ভাবনা থাকার কারণে মায়ের উপর ঔষধের গুরুত্ব বিবেচনা করে স্তন্যদান বন্ধ করতে হবে অথবা ঔষধের ব্যবহার বন্ধ করতে হবে।
+
+### drug=mebendazole
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-223 | INDICATED_FOR | whipworms | - | indications | "whipworms"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G06-231 | INDICATED_FOR | tapeworms | - | indications | "ফিতাক্রিমি"
+## ENGLISH SECTION TEXT: indications
+Mebendazole is indicated for the treatment of threadworms, whipworms, roundworms and hookworms.
+## BANGLA SECTION TEXT: indications
+মেবেনডাজল সূতাকৃমি, ফিতাক্রিমি, কেঁচোকৃমি এবং হুককৃমির চিকিৎসার জন্য নির্দেশিত।
+
+### drug=medroxyprogesterone-acetate-injection
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G07-003 | INDICATED_FOR | recurrent and/or metastatic endometrial carcinoma | - | indications | "Adjunctive and/or pallivative treatment of recurrent and/or metastatic endometrial"
+G07-004 | INDICATED_FOR | recurrent and/or metastatic renal carcinoma | - | indications | "or renal carcinoma."
+G07-005 | INDICATED_FOR | hormonally-dependant recurrent breast cancer | - | indications | "The treatment of hormonally-dependant recurrent breast cancer in post-menopausal women."
+G07-007 | USE_IN | undiagnosed vaginal bleeding | contraindicated | contraindications | "Undiagnosed vaginal bleeding"
+G07-008 | USE_IN | malignancy of breast | contraindicated | contraindications | "Known or suspected malignancy of breast ( when used for ovulation suppression or gynaecology indications)"
+P06-340 | CAUSES | unexpected vaginal bleeding | - | precautions | "Unexpected vaginal bleeding during therapy"
+P06-341 | USE_IN | unexpected vaginal bleeding | - | precautions | "Unexpected vaginal bleeding during therapy"
+P06-342 | USE_IN | fluid retention | - | precautions | "patient with a pre-existing medical condition that might be adversely affected by fluid retention"
+P06-343 | USE_IN | history of clinical depression | - | precautions | "patients with a history of treatment for clinical depression"
+P06-344 | USE_IN | diabetic patient | - | precautions | "diabetic patient"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G07-015 | INDICATED_FOR | metastatic urinary tract cancer | - | indications | "এবং/অথবা মূত্রনালীর ক্যান্সারের চিকিৎসায়।"
+G07-016 | INDICATED_FOR | hormone-dependent breast cancer in post-menopausal women | - | indications | "মাসিক ঋতু স্রাব বন্ধ, নারীর হরমোন নির্ভর স্তন ক্যান্সারের চিকিৎসায়।"
+G07-014 | INDICATED_FOR | metastatic endometrial cancer | - | indications | "মেটাস্টেটিক অন্তজরায়ুর"
+G07-018 | USE_IN | breast cancer | contraindicated | contraindications | "জানা অথবা অনুমেয় স্তন ক্যান্সার"
+## ENGLISH SECTION TEXT: contraindications
+Known or suspected pregnancy, Undiagnosed vaginal bleeding, Known or suspected malignancy of breast ( when used for ovulation suppression or gynaecology indications), Severe liver dysfunction, Known hypersensitivity to medroxyprogesterone acetate or any component of the drug.
+## BANGLA SECTION TEXT: contraindications
+জানা অথবা অনুমেয় গর্ভধারণ, জানা অথবা অনুমেয় স্তন ক্যান্সার, গুরুতর লিভার অক্ষমতা, মেড্রোক্সিপ্রোজেস্টেরন এসিটেট অথবা উপাদানের প্রতি অতি সংবেদনশীলতা।
+## ENGLISH SECTION TEXT: indications
+Medroxyprogesterone Acetate indicated for:
+Ovulation suppression
+The treatment of endometriosis.
+Adjunctive and/or pallivative treatment of recurrent and/or metastatic endometrial or renal carcinoma.
+The treatment of hormonally-dependant recurrent breast cancer in post-menopausal women.
+## BANGLA SECTION TEXT: indications
+মেড্রোক্সিপ্রোজেস্টেরন এসিটেট ইঞ্জেকশন নিম্নবর্ণিত কারণে ব্যবহৃত হয়ঃ
+ডিম্বক্ষরনে বাধা দেয়া।
+অন্তজরায়ুর চিকিৎসা।
+মেটাস্টেটিক অন্তজরায়ুর এবং/অথবা মূত্রনালীর ক্যান্সারের চিকিৎসায়।
+মাসিক ঋতু স্রাব বন্ধ, নারীর হরমোন নির্ভর স্তন ক্যান্সারের চিকিৎসায়।
+## ENGLISH SECTION TEXT: precautions
+Unexpected vaginal bleeding during therapy, patient with a pre-existing medical condition that might be adversely affected by fluid retention, patients with a history of treatment for clinical depression diabetic patient. It may decrease the level of the following endocrine biomarkers: Plasma /urinary steroid (eg: cortisol, oestrogen, pregnanediol , progesterone & testosterone ) Plasma /urinary gonadotrophin (eg: LH & FSH) & sex hormonebinding- globulin (SHBG)
+## BANGLA SECTION TEXT: precautions
+ইহা নিম্নবর্ণিত এন্ডোক্রাইন বায়োমার্কারের পরিমান কমাতে পারে, যেমনঃ প্লাজমা (রক্তরস)/মুত্রনালী হরমোন (কর্টিসোল, এস্ট্রোজেন, প্রিগনানেডিওল, প্রোজেস্টেরন, টেস্টোসটেরন), প্লাজমা (রক্তরস)/ মুত্রনালীর গোনাট্রপিন (যেমনঃ এল.এইচ এবং এফ.এস.এইচ) এবং যৌন-হরমোন বন্ধক গ্লোবিউলিন।
+
+### drug=metformin-hydrochloride
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G07-033 | USE_IN | cardiac failure | contraindicated | contraindications | "cardiac"
+G07-034 | USE_IN | respiratory failure | contraindicated | contraindications | "or respiratory failure"
+P06-419 | INTERACTS_WITH | isoniazid | caution | interaction | "and Isoniazid"
+P06-420 | CAUSES | hyperglycemia | - | interaction | "tend to produce hyperglycemia"
+P06-423 | USE_IN | impairment of renal function | caution | precautions | "increases with the degree of impairment of renal function"
+P06-428 | USE_IN | surgery | avoid | precautions | "Metformin Hydrochloride therapy should be stopped 2-3 days before surgery"
+P06-429 | USE_IN | intravenous urography | avoid | precautions | "and clinical investigations such as intravenous urography"
+P06-430 | USE_IN | intravenous angiography | avoid | precautions | "and intravenous angiography"
+P06-433 | USE_IN | trauma | not recommended | precautions | "or trauma"
+P06-434 | INTERACTS_WITH | sulphonylurea | caution | precautions | "During concomitant therapy with a sulphonylurea, blood glucose should be monitored because combined therapy may cause hypoglycaemia"
+P06-436 | INTERACTS_WITH | anticoagulants | caution | precautions | "an interaction between Metformin Hydrochloride and anticoagulants is a possibility and dosage of the latter may need adjustment"
+P06-441 | USE_IN | decreased renal function | caution | special_populations | "At least two to four times a year in patients with creatinine clearance at the lower limit of normal and in elderly subjects"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P06-392 | USE_IN | renal impairment | caution | special_populations | "বয়স্ক রোগী এবং যেসব রোগীর ক্রিয়েটিনিন ক্লিয়ারেন্স মান স্বাভাবিকের নিম্নতম মাত্রায় রয়েছে তাদের বছরে কমপক্ষে দুই থেকে চার বার ক্লিয়ারেন্স পর্যবেক্ষণ করতে হব"
+P06-379 | INTERACTS_WITH | isosorbide | caution | interaction | "আইসোসরবাইড"
+G07-056 | USE_IN | cardiac or respiratory failure | contraindicated | contraindications | "হৃদপিন্ড অথবা শ্বাসনালীর অকার্যকারিতা,"
+P06-357 | INTERACTS_WITH | cationic drugs | - | interaction | "ক্যাটায়নিক ড্রাগ … মেটফরমিনের সাথে প্রতিযোগিতার সম্মুখীন হতে পারে"
+## ENGLISH SECTION TEXT: contraindications
+Hypersensitivity to the active substance or to any of the excipients.
+Any type of acute metabolic acidosis (such as lactic acidosis, diabetic ketoacidosis).
+Severe renal failure (GFR <30 mL/min).
+Acute conditions with the potential to alter renal function such as: dehydration, severe infection, shock.
+Acute or chronic disease, which may cause tissue hypoxia such as: cardiac or respiratory failure, recent myocardial infarction, shock, Hepatic insufciency, acute alcohol intoxication, alcoholism.
+## BANGLA SECTION TEXT: contraindications
+সক্রিয় উপাদানের প্রতি অথবা যে কোন উপাদানের প্রতি অতিসংবেদনশীলতার ক্ষেত্রে।
+যেকোনো ধরনের বিপাকীয় এসিডোসিস যেমন ল্যাকটিক এসিডোসিস (শরীরে ল্যাকটেট এর পরিমাণ বৃদ্ধি), ডায়াবেটিক কিটোএসিডোসিস (রক্তে কিটোনবডির পরিমাণ বৃদ্ধি পাওয়া)
+কিডনীর মারাত্মক বিপর্যয় (জিএফআর <৩০ মিলি/মিনিট)।
+সঙ্কটজনক অবস্থা যা কিডনীর কার্যকারিতাকে পরিবর্তন করে যেমন- পানিশূন্যতা, মারাত্মক সংক্রমণ, শক।
+তীব্র অথবা দীর্ঘমেয়াদী রোগ যা টিস্যুর অক্সিজেনের পরিমাণ কমাতে পারে যেমন- হৃদপিন্ড অথবা শ্বাসনালীর অকার্যকারিতা, সাম্প্রতিক মায়োকার্ডিয়াল ইনফার্কশন (হৃদপিন্ডের আন্তঃকোষের ক্ষয়), শক, যকৃতের অকার্যকারিতা, মদ জাতীয় পানীয়র মারাত্মক নেশা, মদ জাতীয় পানীয়র প্রতি অতি আসক্তি।
+## ENGLISH SECTION TEXT: interaction
+No information is available about the interaction of Metformin and Furosemide when co-administered chronically. Nifedipine appears to enhance the absorption of Metformin. Metformin had minimal effects on Nifedipine. Cationic drugs (e.g., Amiloride, Digoxin, Morphine, Procainamide, Quinidine, Quinine, Triamterene, Trimethoprim, or Vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with Metformin by competing for common renal tubular transport systems. Metformin had no effect on Cimetidine pharmacokinetics. Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, Estrogens, Oral contraceptives, Phenytoin, Nicotinic Acid, sympathomimetics, calcium channel blocking drugs, and Isoniazid.
+## BANGLA SECTION TEXT: interaction
+মেটফরমিন ও ফিউরোসেমাইড একত্রে সেবনে দীর্ঘমেয়াদী কোন প্রতিক্রিয়ার তথ্য পাওয়া যায়নি। নিফিডিপিন মেটফরমিনের শোষণ বাড়ালেও নিফিডিপিনের উপর মেটফরমিনের সামান্য প্রভাব পরিলক্ষিত হয়। ক্যাটায়নিক ড্রাগ (যেমন: অ্যামিলোরাইড, ডিগোক্সিন, মরফিন, প্রোকেইনামাইড, কুইনিডিন, কুইনিন, ট্রায়ামটিরিন, ট্রাইমিথোপ্রিম অথবা ভেনকোমাইসিন) যারা কিডনির মাধ্যমে নিষ্কাশিত হয়, সেসব ক্ষেত্রে নিষ্কাশিত হবার সময় মেটফরমিনের সাথে প্রতিযোগিতার সম্মুখীন হতে পারে। সিমেটিডিনের ফার্মাকোকাইনেটিক বৈশিষ্ট্যের উপর মেটফরমিনের কোন প্রভাব নেই। কিছু কিছু ঔষধ যেমন থায়াজাইড এবং অন্যান্য মূত্রবর্ধক, কর্টিকোস্টেরয়েড, ফেনোথায়াজিন, থাইরয়েড প্রডাক্ট, ইস্ট্রোজেন, মুখে খাবার জন্মনিরোধক, ফিনাইটোয়েন, নিকোটিনিক এসিড, সিমপ্যাথোমিমেটিক ক্যালসিয়াম চ্যানেল ব্লকার এবং আইসোসরবাইড হাইপোগ্লাইসেমিয়া তৈরি করতে পারে এবং এসব ঔষধ গ্রহণের ক্ষেত্রে সাবধানতা অবলম্বন করতে হবে।
+## ENGLISH SECTION TEXT: precautions
+Metformin Hydrochloride is known to be substantially excreted by the kidney and the risk of Metformin accumulation and lactic acidosis increases with the degree of impairment of renal function. Metformin may lower vitamin B12 level. It also increases risk of hypoglycemia when use in combination with insulin or insulin secretagogue.
+Metformin Hydrochloride is excreted by the kidney and regular monitoring of renal function is advised in all diabetics. Metformin Hydrochloride therapy should be stopped 2-3 days before surgery and clinical investigations such as intravenous urography and intravenous angiography, and reinstated only after control or renal function has been regained. The use of Metformin is not advised in conditions which may cause dehydration or in patients suffering from serious infections or trauma. Patients receiving continuous Metformin therapy should have an annual estimation of Vitamin B-12 levels because of reports of decreased Vitamin B-12 absorption. During concomitant therapy with a sulphonylurea, blood glucose should be monitored because combined therapy may cause hypoglycaemia. Stabilization of diabetic patients with Metformin and insulin should be carried out in hospital because of the possibility of hypoglycaemia until the correct ratio of the two drugs has been obtained. Reduced renal clearance of Metformin Hydrochloride has been reported during cimetidine therapy, so a dose reduction should be considered. As with a number of drugs, an interaction between Metformin Hydrochloride and anticoagulants is a possibility and dosage of the latter may need adjustment.
+## BANGLA SECTION TEXT: precautions
+মেটফরমিন হাইড্রোক্লোরাইড কিডনির মাধ্যমে দেহ থেকে ধীরে ধীরে বের হয়। তাই শরীরে মেটফরমিন জমা হওয়া ও ল্যাকটিক এসিডোসিস হওয়ার সম্ভাবনা কিডনির অক্ষমতার মাত্রার উপর নির্ভর করে। মেটফরমিন শরীরে ভিটামিন বি১২ এর পরিমাণ কমায় এবং ইনসুলিন বা ইনসুলিন সিক্রেটোগগ এর সাথে একত্রে ব্যবহারে হাইপোগ্লাইসেমিয়া হওয়ার ঝুঁকি বাড়ায়।
+## ENGLISH SECTION TEXT: special_populations
+Elderly
+: Due to the potential for decreased renal function in elderly subjects, the metformin dosage should be adjusted based on renal function. Regular assessment of renal function is necessary.
+Pediatric population
+: The diagnosis of type 2 diabetes mellitus should be confirmed before treatment with metformin is initiated. No effect of metformin on growth and puberty has been detected during controlled clinical studies of one-year duration but no long-term data on these specific points are available. Therefore, a careful follow-up of the effect of metformin on these parameters in metformin-treated children, especially prepubescent children, is recommended.
+Children aged between 10 and 12 years
+: Particular caution is recommended when prescribing to children aged between 10 and 12 years.
+Renal function
+: As metformin is excreted by the kidney, creatinine clearance (this can be estimated from serum creatinine levels by using the Cockcroft-Gault formula) should be determined before initiating treatment and regularly thereafter:
+At least annually in patients with normal renal function,
+At least two to four times a year in patients with creatinine clearance at the lower limit of normal and in elderly subjects.
+Decreased renal function in elderly subjects is frequent and asymptomatic. Special caution should be exercised in situations where renal function may become impaired, for example when initiating antihypertensive therapy or diuretic therapy and when starting therapy with a non-steroidal anti-inflammatory drug (NSAID). GFR should be assessed before treatment initiation and regularly thereafter. Metformin is contraindicate in patients with GFR<30 ml/min and should be temporarily discontinued in the presence of conditions that alter renal function.
+## BANGLA SECTION TEXT: special_populations
+বয়স্কদের ক্ষেত্রে
+: বয়স্কদের ক্ষেত্রে কিডনীর কার্যকারিতা হ্রাসের সম্ভাবনা থাকায় কিডনীর কার্যকারিতার উপর ভিত্তি করে মেটফরমিনের মাত্রা সমন্বয় করা উচিত। সেক্ষেত্রে নিয়মিত কিডনীর কার্যকারিতা পর্যবেক্ষণ করা প্রয়োজন।
+শিশুদের ক্ষেত্রে
+: শিশুদের ক্ষেত্রে মেটফরমিন দিয়ে চিকিৎসা শুরুর পূর্বে রোগ নির্নয় করে নিশ্চিত হতে হবে যে, রোগীর টাইপ-২ ডায়াবেটিস মেলাইটাস রয়েছে।
+এক বছর ধরে করা নিয়ন্ত্রিত ক্লিনিক্যাল পরীক্ষায় শিশুর স্বাভাবিক বৃদ্ধি এবং বয়:সন্ধি কালীন বৃদ্ধির উপর মেটফরমিনের কোন প্রভাব পাওয়া যায়নি এবং এই সুনির্দিষ্ট বিষয়ের উপর দীর্ঘমেয়াদী কোন তথ্য নেই। তাই এসব বিষয়ের উপর মেটফরমিন দ্বারা চিকিৎসাধীন শিশুদের বিশেষভাবে বয়:সন্ধি পূর্ববর্তী শিশুদের উপর মেটফরমিনের প্রভাবের একটি নিবিড় পর্যবেক্ষণ নির্দেশিত।
+১০ থেকে ১২ বছর বয়সী শিশুদের ক্ষেত্রে
+: ১০ থেকে ১২ বছর বয়সী শিশুদের ক্ষেত্রে ওষুধটির ব্যবস্থাপত্র দেওয়ার সময় বিশেষ সতর্কতা অবলম্বন নির্দেশিত।
+কিডনীর কার্যকারিতার উপর প্রভাব
+: যেহেতু মেটফরমিন কিডনী দ্বারা নিঃসৃত হয় তাই চিকিৎসা শুরুর পূর্বেই ক্রিয়েটিনিন ক্লিয়ারেন্স (ককক্রফট-গল্ট সূত্র ব্যবহার করে রক্তে ক্রিয়েটিনিনের পরিমান থেকে এটি নির্ধারণ করা যাবে) নির্ধারণ করতে হবে এবং তারপর-
+যেসব রোগীর কিডনীর কার্যকারিতা স্বাভাবিক রয়েছে তাদের ক্ষেত্রে বছরে কমপক্ষে একবার ক্রিয়েটিনিন ক্লিয়ারেন্স পর্যবেক্ষণ করতে হবে।
+বয়স্ক রোগী এবং যেসব রোগীর ক্রিয়েটিনিন ক্লিয়ারেন্স মান স্বাভাবিকের নিম্নতম মাত্রায় রয়েছে তাদের বছরে কমপক্ষে দুই থেকে চার বার ক্লিয়ারেন্স পর্যবেক্ষণ করতে হবে।
+বয়স্ক রোগীর ক্ষেত্রে
+: কিডনীর কার্যকারিতা হ্রাসের ঘটনা প্রায়শই ঘটে এবং তা উপসর্গবিহীন হয়। কিডনীর কার্যকারিতা ক্ষতিগ্রস্ত করতে পারে এমন বিষয় যেমন প্রারম্ভিক ভাবে রক্তচাপ নিয়ন্ত্রণকারী ওষুধ অথবা মুত্রবর্ধক ওষুধ দিয়ে চিকিৎসা করার সময় এবং ব্যথানাশক ওষুধ দিয়ে চিকিৎসা শুরুর সময় বিশেষ সতর্কতা অবলম্বন করা উচিত।
+চিকিৎসা শুরুর পূর্বে এবং পরবর্তীর্তে নিয়মিতভাবে জিএফআর পরিমাপ করা উচিৎ। জিএফআর <৩০ মিলি/মিনিট রয়েছে এমন রোগীদের ক্ষেত্রে মেটফরমিন নিষিদ্ধ এবং কিডনীর কার্যকারিতা পরিবর্তন হয় এমন অবস্থার উপস্থিতিতে মেটফরমিন সাময়িকভাবে প্রত্যাহার করা উচিৎ।
+
+### drug=methotrexate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G07-078 | INDICATED_FOR | severe, recalcitrant, disabling psoriasis | - | indications | "symptomatic control of severe, recalcitrant, disabling psoriasis that is not adequately responsive to other forms of therapy."
+P06-492 | INTERACTS_WITH | nonabsorbable broad spectrum antibiotics | - | interaction | "Nonabsorbable Broad Spectrum Antibiotics"
+P06-497 | USE_IN | intrathecal therapy | contraindicated | precautions | "Methotrexate formulations and diluents containing preservatives must not be used for intrathecal"
+P06-505 | USE_IN | geriatric patients | caution | special_populations | "Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P06-474 | USE_IN | elderly patients | caution | special_populations | ": হেপাটিক, অস্থি মজ্জা এবং রেনাল বিষাক্ততার প্রাথমিক লক্ষণগুলির জন্য পর্যবেক্ষণ করা উচিত"
+P06-461 | INTERACTS_WITH | broad spectrum antibiotics | - | interaction | "ব্রড স্পেকট্রাম অ্যান্টিবায়োটিক"
+G07-106 | INDICATED_FOR | severe psoriasis | - | indications | "মেথোট্রেক্সেট গুরুতর সোরিয়াসিস নিয়ন্ত্রণের ক্ষেত্রে নির্দেশিত, যারা অন্যান্য থেরাপির বিরুদ্ধে যথাযথভাবে সাড়া পায়নি।"
+## ENGLISH SECTION TEXT: indications
+Neoplastic Diseases
+:
+Treatment of gestational choriocarcinoma, chorioadenoma destruens and hydatidiform mole
+In acute lymphoblastic leukemia
+Used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin’s lymphomas
+Treatment of breast cancer, epidermoid cancers of the head and neck, advanced mycosis fungoides (cutaneous T-cell lymphoma) and lung cancer, particularly squamous cell and small cell types.
+Rheumatoid Arthritis including Polyarticular-Course Juvenile Rheumatoid Arthritis
+: Indicated in the management of selected adults with severe, active rheumatoid arthritis, or children with active polyarticular-course juvenile rheumatoid arthritis, who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of first-line therapy including full dose non-steroidal anti-inflammatory agents (NSAIDs)
+Psoriasis
+: Indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis that is not adequately responsive to other forms of therapy.
+## BANGLA SECTION TEXT: indications
+নিওপ্লাস্টিক রোগ
+:
+গর্ভকালীন কোরিওকার্সিনোমা, কোরিওএডেনোমা ডেস্ট্রুয়েন্স এবং হাইডাটিডিফর্ম মোলের চিকিৎসায় নির্দেশিত
+একিউট লিম্ফোব্লাসটিক লিউকিমিয়াতে নির্দেশিত
+এডভ্যান্সড পর্যায়ের নন-হজকিনস লিম্ফোমাতে নির্দেশিত
+স্তন ক্যান্সার, মাথা এবং গলার এপিডারময়েড ক্যান্সার, এডভ্যান্সড মাইকোসিস ফাংগয়েডিস এবং ফুসফুসের ক্যান্সারে নির্দেশিত, বিশেষত স্কোয়ামাস সেল এবং ছোট কোষের প্রকারগুলির ক্ষেত্রে।
+রিউম্যাটয়েড আর্থ্রাইটিস এবং পলিআর্টিকুলার জুভেনাইল রিউম্যাটয়েড আথ্রাইটিস
+: মেথোট্রেক্সেট গুরুতর, সক্রিয়, রিউম্যাটয়েড আর্থ্রাইটিস, বা সক্রিয় পলিআর্টিকুলার কোর্স রিউম্যাটয়েড আর্থ্রাইটিসে আক্রান্ত শিশুদের ক্ষেত্রে নির্দেশিত যারা ননস্টেরয়েডাল অ্যান্টি-ইনফ্ল্যামেটরি এজেন্ট (এনএসএআইডি) সহ প্রথম-লাইনের থেরাপির বিরুদ্ধে অপর্যাপ্ত সাড়া পেয়েছে।
+সোরিয়াসিস
+: মেথোট্রেক্সেট গুরুতর সোরিয়াসিস নিয়ন্ত্রণের ক্ষেত্রে নির্দেশিত, যারা অন্যান্য থেরাপির বিরুদ্ধে যথাযথভাবে সাড়া পায়নি।
+## ENGLISH SECTION TEXT: interaction
+NSAIDs: Should not be administered prior to or concomitantly with high doses of methotrexate, such as used in the treatment of osteosarcoma
+Salicylates, Phenylbutazone, Phenytoin and Sulfonamides: Toxicity may be increased Penicillin, Theophylline, Probenecid, Azathioprine, Retinoids,
+Sulfasalazine: Should be closely monitored for possible increased risk of hepatotoxicity
+Cisplatin: Caution must be exercised if high-dose methotrexate is administered in combination
+Mercaptopurine: Methotrexate increases the plasma levels of mercaptopurine
+Tetracycline, Chloramphenicol and Nonabsorbable Broad Spectrum Antibiotics: May decrease intestinal absorption of methotrexate
+Vitamin preparations containing folic acid or its derivatives: Decreases responses to systemically administered methotrexate
+Trimethoprim/Sulfamethoxazole: Rarely increases bone marrow suppression
+## BANGLA SECTION TEXT: interaction
+এনএসএআইডি: হাই-ডোজ মেথোট্রেক্সেট ব্যবহারের আগে বা একই সাথে দেওয়া উচিত নয়, যেমন অস্টিওসারকোমার চিকিৎসার ক্ষেত্রে
+স্যালিসায়লেটস, ফিনাইলবুটাজোন, ফেনিটোইন এবং সালফোনামাইডস: বিষাক্ততা বৃদ্ধি পেতে পারে
+পেনিসিলিন, থিওফায়লিন, প্রোবিনিসিড, এজাথিয়োপ্রিন, রেটিনয়েড, সালফাসেলাজিন: লিভারের বিষাক্ততার ঝুঁকি বৃদ্ধির জন্য রোগীকে পর্যবেক্ষন
+করা উচিত
+সিসপ্ল্যাটিন: হাই-ডোজ মেথোট্রেক্সেট একই সাথে দেওয়া হলে সাবধানতা অবলম্বন করা আবশ্যক
+মারকেপ্টোপিউরিন: মেথোট্রেক্সেট প্লাজমাতে মারকেপ্টোপিউরিনের মাত্রা বাড়িয়ে দেয়
+টেট্রাসাইক্লিন, ক্লোরামফেনিকল এবং ব্রড স্পেকট্রাম অ্যান্টিবায়োটিক: অন্ত্রে মেথোট্রেক্সেটের শোষণ হ্রাস করতে পারে
+ফলিক অ্যাসিড বা এর ডেরিভেটিভযুক্ত ভিটামিনের প্রস্তুতি: মেথোট্রেক্সেট এই ড্রাগগুলির রেস্পন্স কমিয়ে দেয়
+ট্রাইমেথোপ্রিম/ সালফামেথক্সাজল: খুব কম ক্ষেত্রে অস্থি মজ্জার দমন বৃদ্ধি করে
+## ENGLISH SECTION TEXT: precautions
+Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy
+It is necessary to follow patients on methotrexate closely for toxic effects
+If adverse reactions occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken. If necessary, this could include the use of leucovorin calcium
+If methotrexate therapy is reinstituted, it should be carried out with caution, with adequate consideration of further need for the drug and increased alertness as to possible recurrence of toxicity
+Persistent liver function test abnormalities, &/or depression of serum albumin may be indicators of serious liver toxicity & require evaluation
+Folate deficiency: May increase methotrexate toxicity
+## BANGLA SECTION TEXT: precautions
+প্রিজারভেটিভ যুক্ত মেথোট্রেক্সেটের ফর্মুলেশনগুলি ইন্ট্রাথ্যাকাল বা হাই-ডোজ মেথোট্রেক্সেট থেরাপির জন্য ব্যবহার করা যাবেনা
+মেথোট্রেক্সেট সেবন করা রোগীদেরকে বিষাক্ত প্রভাবের পর্যবেক্ষণ করা প্রয়োজন
+পার্শ্ব প্রতিক্রিয়া দেখা দিলে ঔষধের পরিমাণ কমাতে বা বন্ধ করতে হবে এবং যথাযথ ব্যবস্থা নিতে হবে, যেমন লিউকোভরিন ক্যালসিয়াম ব্যবহার করা যেতে পারে
+যদি মেথোট্রেক্সেট থেরাপি রিকনস্টিটিউট করা হয়, তবে সতর্কতার সাথে ঔষধের পরবর্তী ব্যবহার এবং সম্ভাব্য বিষাক্ত প্রভাবের পুনরাবৃত্তির জন্য বিবেচনা করতে হবে
+ক্রমাগত লিভার পরীক্ষার অস্বাভাবিকতা এবং সিরাম অ্যালবুমিনের পরিমান কমে যাওয়া লিভারের গুরুতর বিষাক্ততার নির্দেশনা এবং সেটির পর্যবেক্ষন দরকার
+ফোলেটের ঘাটতি: মেথোট্রেক্সেটের বিষাক্ততা বাড়িয়ে তুলতে পারে
+## ENGLISH SECTION TEXT: special_populations
+Pediatric patients
+: Benefits should be weighed against the potential risk before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
+Geriatric patients
+: Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
+## BANGLA SECTION TEXT: special_populations
+শিশুদের ক্ষেত্রে
+: বিশেষত পেডিয়াট্রিক রোগী বা অল্প বয়স্কদের ক্ষেত্রে মেথোট্রেক্সেট আলাদা বা অন্যান্য ঔষুধের সাথে ব্যবহার করার আগে সম্ভাব্য ঝুঁকির বিরুদ্ধে সুবিধার বিবেচনা করা উচিত
+বয়স্ক রোগীদের ক্ষেত্রে
+: হেপাটিক, অস্থি মজ্জা এবং রেনাল বিষাক্ততার প্রাথমিক লক্ষণগুলির জন্য পর্যবেক্ষণ করা উচিত
+
+### drug=metronidazole
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G07-179 | INDICATED_FOR | Anaerobically infected pressure sores | - | indications | "and pressure sores."
+P07-079 | INTERACTS_WITH | oral anticoagulant therapy | caution | interaction | "prothrombin time should be more frequently monitored and anticoagulant therapy adjusted during treatment with metronidazole"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G07-203 | INDICATED_FOR | pressure sores | - | indications | "এবং প্রেসার র্সোস।"
+P07-073 | USE_IN | renal failure | - | special_populations | "কিডনি ফেইলিওর এর ক্ষেত্রে … মাত্রা পরিবর্তনের কোন প্রয়োজন হয় না"
+P07-061 | INTERACTS_WITH | anticoagulants | caution | interaction | "এন্টিকোয়াগুলেন্ট এর প্রভাব বৃদ্ধি পায় এবং রক্তক্ষরন এর সম্ভবনা বেড়ে যায়। মেট্রোনিডাজল এর সাথে দেওয়া হলে নিয়মিত প্রোথ্রম্বিন টাইম পর্যবেক্ষণ করতে হবে এবং এ"
+## ENGLISH SECTION TEXT: indications
+Metronidazole is indicated in the treatment of following diseases:
+The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).
+The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.
+In the treatment of urogenital trichomoniasis.
+Bacterial vaginosis (also known as non-specific vaginitis).
+All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers).
+Giardiasis.
+Acute ulcerative gingivitis.
+Anaerobically infected leg ulcers and pressure sores.
+Acute dental infections due to anaerobic organisms.
+Antibiotic associated pseudomembranus colitis.
+## BANGLA SECTION TEXT: indications
+মেট্রোনিডাজল নিম্নলিখিত রোগের চিকিৎসায় ব্যবহৃত হয়ঃ
+এনারুবিক ব্যাকটেরিয়া জনিত (বিশেষ করে ব্যাকটেরয়েড ও এনারুবিক স্ট্রেপটোকক্কি) অস্ত্রোপচার পরবর্তী সংক্রমণ প্রতিরোধে।
+এনারুবিক জীবাণু দ্বারা সংক্রমিত সেপটিসেমিয়া, ব্যাকটেরেমিয়া, পেরিটোনাইটিস, ব্রেইন এব্সেস, পেলভিক এব্সেস, পেলভিক সেলুলাইটিস ও অস্ত্রোপচার পরবর্তী ক্ষতের সংক্রমণের চিকিৎসায়।
+ইউরোজেনিটাল ট্রাইকোমোনিয়াসিসের চিকিৎসায়।
+ব্যাকটেরিয়াল ভ্যাজিনোসিস (যা নন-স্পেসিফিক ভ্যাজিনোসিস হিসেবে পরিচিত)।
+সকল ধরনের এ্যামেবিয়াসিস (ইনটেস্টিনাল, এক্সট্রা-ইনটেস্টিনাল এবং রোগের লক্ষণবিহীন কিন্তু সিস্ট বহনকারী অবস্থা)।
+জিয়ারডিয়াসিস।
+তীব্র আলসারেটিভ জিনজিভাইটিস।
+এনারুবিক জীবাণু দ্বারা সংক্রমিত পায়ের ঘা এবং প্রেসার র্সোস।
+এনারুবিক জীবাণুজনিত দাঁতের তীব্র সংক্রমণ।
+এন্টিবায়োটিক ব্যবহারজনিত সিউডোমেমব্রেনাস কলাইটিস।
+## ENGLISH SECTION TEXT: interaction
+Disulfiram
+: Psychotic reactions have been reported in patients who were using metronidazole and disulfiram concurrently.
+Alcohol
+: Alcoholic beverages and drugs containing alcohol should not be consumed during therapy and for at least one day afterwards because of the possibility of a disulfiram-like (antabuse effect) reaction (flushing, vomiting, tachycardia). Oral anticoagulant therapy (warfarin type): Potentiation of the anticoagulant effect and increased hemorrhagic risk caused by decreased hepatic catabolism. In case of co-administration, prothrombin time should be more frequently monitored and anticoagulant therapy adjusted during treatment with metronidazole.
+Lithium
+: Plasma levels of lithium may be increased by metronidazole.
+Cyclosporin
+: Serum cyclosporin and serum creatinine should be closely monitored when co-administration is necessary.
+Phenytoin or phenobarbital
+: increased elimination of metronidazole resulting in reduced plasma levels.
+5-Fluorouracil
+: Reduced clearance of 5-fluorouracil resulting in increased toxicity of 5-fluorouracil.
+Busulfan
+: Plasma levels of busulfan may be increased by metronidazole, which may lead to severe busulfan toxicity.
+## BANGLA SECTION TEXT: interaction
+ডাইসালফাইরাম
+: মেট্রোনিডাজল এবং ডাইসালফাইরাম এক সাথে ব্যবহার করলে মানসিক প্রতিক্রিয়ার উদ্ভব হতে পারে বলে রিপোর্ট পাওয়া গেছে।
+অ্যালকোহল
+: মেট্রোনিডাজল দ্বারা চিকিৎসা চলাকালীন সময় এবং শেষ হবার অন্তত ১ দিন পর পর্যন্ত রোগীদের অ্যালকোহল জাতীয় পানীয় সেবন করা থেকে বিরত থাকার পরামর্শ দিতে হবে কারন সেটা ডাইসালফাইরাম প্রতিক্রিয়ার (অ্যানটাবউস ইফেক্ট- ত্বকে অত্যধিক রক্ত সরবরাহ, বমি, দ্রুত হৃদস্পন্দন) কারন হতে পারে।
+এন্টিকোয়াগুলেন্ট চিকিৎসা (ওয়ারফেরিন জাতীয়)
+: হেপাটিক ক্যাটাবলিসম কমে যাওয়ার কারনে এন্টিকোয়াগুলেন্ট এর প্রভাব বৃদ্ধি পায় এবং রক্তক্ষরন এর সম্ভবনা বেড়ে যায়। মেট্রোনিডাজল এর সাথে দেওয়া হলে নিয়মিত প্রোথ্রম্বিন টাইম পর্যবেক্ষণ করতে হবে এবং এন্টিকোয়াগুলেন্ট-এর মাত্রা সমন্বয় করতে হবে।
+লিথিয়াম
+: মেট্রোনিডাজল দ্বারা রক্তের প্লাজমা তে লিথিয়াম এর মাত্রা বৃদ্ধি পেতে পারে।
+সাইক্লোস্পরিন
+: সেরাম এ সাইক্লোস্পরিন এবং ক্রিয়েটিনিন এর মাত্রা নিবির ভাবে পর্যবেক্ষণ করতে হবে যদি মেট্রোনিডাজল এর সাথে দেওয়া হয়।
+ফেনাইটয়েন অথবা ফেনোবারবিটাল
+: মেট্রোনিডাজল নিঃসরণ এর মাত্রা বেড়ে যাওয়ায় প্লাজমাতে পরিমান কমে যায়।
+৫-ফ্লুরোইউরাসিল
+: শরীর থেকে নিঃসরণ এর মাত্রা কমে যাওয়ায় ৫-ফ্লুরোইউরাসিল দ্বারা বিষক্রিয়ার সম্ভবনা বৃদ্ধি পায়।
+বিউসালফান
+: মেট্রোনিডাজল প্লাজমাতে বিউসালফান এর পরিমান বাড়িয়ে দেয় যা বিউসালফান জনিত বিষক্রিয়া সৃষ্টি করতে পারে।
+## ENGLISH SECTION TEXT: special_populations
+Hepatic impairment
+: Metronidazole is mainly metabolised by hepatic oxidation. Substantial impairment of metronidazole clearance may occur in the presence of advanced hepatic insufficiency. Significant cumulation may occur in patients with hepatic encephalopathy and the resulting high plasma concentrations of metronidazole may contribute to the symptoms of the encephalopathy. Metronidazole should therefore, be administered with caution to patients with hepatic encephalopathy. The daily dosage should be reduced to one third and may be administered once daily. Patients should be warned that metronidazole may darken urine.
+Renal impairment
+: The elimination half-life of metronidazole remains unchanged in the presence of renal failure. The dosage of metronidazole therefore needs no reduction. Such patients however retain the metabolites of metronidazole. The clinical significance of this is not known at present. In patients undergoing haemodialysis metronidazole and metabolites are efficiently removed during an eight hour period of dialysis. Metronidazole should therefore be re-administered immediately after haemodialysis. No routine adjustment in the dosage of Metronidazole need be made in patients with renal failure undergoing intermittent peritoneal dialysis (IDP) or continuous ambulatory peritoneal dialysis (CAPD).
+## BANGLA SECTION TEXT: special_populations
+যকৃতের সমস্যা
+: মেট্রোনিডাজলের বিপাক প্রধানত যকৃতে জারন দ্বারা হয়ে থাকে। যকৃতের গুরুত্বর সমস্যার ক্ষেত্রে মেট্রোনিডাজলের অপসারণে বড় ধরণের অবণতি ঘটতে পারে। যেসকল রোগীদের হেপাটিক এন্সেফেলোপ্যাথি আছে তাদের ক্ষেত্রে মেট্রোনিডাজল পুঁজিভুত হয় যার ফলাফলস্বরূপ রক্তে এর মাত্রা বেড়ে যাওয়ার কারণে এন্সেফেলোপ্যাথির লক্ষণসমূহ দেখা দিতে পারে। এই কারনে হেপাটিক এন্সেফেলোপ্যাথির রোগীদেও ক্ষেত্রে মেট্রোনিডাজল সতর্কতার সাথে প্রয়োগ করতে হবে। দৈনিক মাত্রা এক তৃতীয়াংশে কমিয়ে নিয়ে এসে দিনে একবার প্রয়োগ করতে হবে। মেট্রোনিডাজলের কারণে প্রস্রাব গাঢ় বর্ণের হতে পারে এই ব্যপারে রোগীকে সতর্ক করতে হবে।
+কিডনির সমস্যা
+: কিডনি ফেইলিওর এর ক্ষেত্রে মেট্রোনিডাজলের এলিমিনেশন হাফ-লাইফ অপরিবর্তিত থাকে। তাই এর মাত্রা পরিবর্তনের কোন প্রয়োজন হয় না। এই রোগীদের যদিও মেট্রোনিডাজলের মেটাবোলাইট সমুহ শরীরে জমা থাকে। তবে এখনও এর কোন ক্লিনিক্যাল তাৎপর্য নেই। হেমোডায়ালাইসিস এর রোগীদের ক্ষেত্রে মেট্রোনিডাজল এবং এর মেটাবোলাইট সমূহ ডায়ালাইসিসের ৮ ঘণ্টার মধ্যে শরীর থেকে বের হয়ে যায়। এই কারণে হেমোডায়ালাইসিস করার সাথে সাথেই পুনরায় মেট্রোনিডাজল দিতে হবে। Intermittent Peritoneal Dialysis (IDP) অথবা Continuous Ambulatory Peritoneal Dialysis (CAPD) এর রোগীদের ক্ষেত্রে মেট্রোনিডাজলের মাত্রার কোনরূপ সমন্বয় সাধন করতে হবে না।
+
+### drug=mifepristone
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G07-217 | USE_IN | pregnancy beyond 49 days of amenorrhoea | contraindicated | contraindications | "if the pregnancy is beyond 49 days of amenorrhoea when used with Misoprostol"
+G07-218 | USE_IN | pregnancy beyond 63 days of amenorrhoea | contraindicated | contraindications | "or beyond 63 days of amenorrhoea when used with Gemeprost."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G07-236 | USE_IN | pregnancy beyond 49 days | contraindicated | contraindications | "মিসোপ্রোস্টলের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৪৯ দিনের বেশি হলে"
+G07-237 | USE_IN | pregnancy beyond 63 days | contraindicated | contraindications | "জেমপ্রোস্টের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৬৩ দিনের বেশি হলে"
+## ENGLISH SECTION TEXT: contraindications
+Mifepristone must not be administered if there is doubt as to the existence or age of the pregnancy or if an extra-uterine pregnancy is suspected. An ultrasound scan and/or measurement of Beta-hCG must be performed before administration. For first trimester abortions, Mifepristone is contraindicated if the pregnancy is beyond 49 days of amenorrhoea when used with Misoprostol, or beyond 63 days of amenorrhoea when used with Gemeprost. Mifepristone should never be prescribed in patients with chronic adrenal failure, known allergy to Mifepristone or to any component of the product, severe asthma uncontrolled by corticosteroid therapy, porphyrias and renal failure, liver failure or malnutrition, or during breast feeding. Mifepristone is a lipophilic compound and may theoretically be excreted in the mother\'s breast milk, however no data is available.
+## BANGLA SECTION TEXT: contraindications
+গর্ভাবস্থার অস্তিত্ব বা সঠিক মেয়াদ সম্পর্কে কোনো সন্দেহ থাকলে, অথবা জরায়ুর বাইরে গর্ভাবস্থা বা একটোপিক প্রেগন্যান্সি (Extra-uterine/Ectopic pregnancy) সন্দেহ হলে মিফেপ্রিস্টোন কোনোভাবেই ব্যবহার করা যাবে না। ঔষধ প্রয়োগের পূর্বে অবশ্যই একটি আল্ট্রাসাউন্ড স্ক্যান (USG) এবং/অথবা বিটা-এইচসিজি পরীক্ষা করা আবশ্যক।
+প্রথম ট্রাইমেস্টারের গর্ভপাতের ক্ষেত্রে, মিসোপ্রোস্টলের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৪৯ দিনের বেশি হলে এবং জেমপ্রোস্টের সাথে ব্যবহার করলে মাসিক বন্ধ থাকার মেয়াদ ৬৩ দিনের বেশি হলে মিফেপ্রিস্টোন ব্যবহার করা সম্পূর্ণ নিষিদ্ধ।
+এছাড়াও দীর্ঘস্থায়ী অ্যাড্রেনাল ফেইলিউর, মিফেপ্রিস্টোন বা এর যেকোনো উপাদানের প্রতি পরিচিত অ্যালার্জি, কর্টিকোস্টেরয়েড থেরাপির মাধ্যমে অনিয়ন্ত্রিত তীব্র হাঁপানি, পরফাইরিয়া (Porphyria), কিডনি ফেইলিউর, যকৃতের ফেইলিউর (Liver failure), চরম অপুষ্টি এবং স্তন্যদানকালে মিফেপ্রিস্টোন কখনোই প্রেসক্রিপশন করা উচিত নয়। মিফেপ্রিস্টোন একটি চর্বি-দ্রবণীয় (Lipophilic) উপাদান এবং এটি তাত্ত্বিকভাবে মায়ের বুকের দুধে নিঃসৃত হতে পারে, তবে এর কোনো সুনির্দিষ্ট ডাটা বা প্রমাণ নেই।
+

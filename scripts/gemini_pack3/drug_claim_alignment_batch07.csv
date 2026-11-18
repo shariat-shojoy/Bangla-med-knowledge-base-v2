@@ -1,0 +1,46 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+losartan-potassium,G06-206,G06-216,,,high,
+losartan-potassium,G06-209,G06-219,,,medium,Bangla translates 'fetus' as 'নবজাতকের' (newborn) in the parallel sentence
+losartan-potassium,G06-211,,দুগ্ধপোষ্য শিশুর উপর বিরূপ প্রতিক্রিয়া হওয়ার সম্ভাবনা,,high,
+losartan-potassium,P06-227,,যে সমস্ত যৌগের মধ্যে পটাশিয়াম আছে,,medium,Bangla renders 'salt substitutes containing potassium' more broadly as potassium-containing compounds in the parallel clause
+losartan-potassium,P06-231,P06-204,,,high,Bangla renders 'an anti-inflammatory drug' in this combination sentence as 'ননস্টেরয়ডাল এন্টিইনফ্লামেটরী ড্রাগ' (NSAID)
+losartan-potassium,P06-237,P06-212,,,medium,P06-212 combines fetal and neonatal morbidity (could also match P06-238); matched to P06-237 as the first item
+losartan-potassium,P06-238,,নবজাতক ও Fetus নষ্ট বা মৃত্যু হার বেড়ে যায়,,high,Covered in combined Bangla claim P06-212 (which was matched to P06-237)
+losartan-potassium,P06-239,P06-213,,,medium,P06-213 combines fetal and neonatal death (could also match P06-240); matched to P06-239 as the first item
+losartan-potassium,P06-240,,নবজাতক ও Fetus নষ্ট বা মৃত্যু হার বেড়ে যায়,,high,Covered in combined Bangla claim P06-213 (which was matched to P06-239)
+losartan-potassium,P06-244,P06-217,,,high,
+mebendazole,G06-223,,,,high,Bangla lists tapeworms (ফিতাক্রিমি) in the second slot instead of whipworms
+mebendazole,,G06-231,,,high,English lists whipworms in the second slot instead of tapeworms
+medroxyprogesterone-acetate-injection,G07-003,G07-014,,,high,Bangla omits 'recurrent' and states metastatic endometrial cancer
+medroxyprogesterone-acetate-injection,G07-004,G07-015,,,medium,Bangla translates 'renal carcinoma' as 'মূত্রনালীর ক্যান্সারের' (urinary tract cancer)
+medroxyprogesterone-acetate-injection,G07-005,G07-016,,,high,
+medroxyprogesterone-acetate-injection,G07-007,,,,high,
+medroxyprogesterone-acetate-injection,G07-008,G07-018,,,high,
+medroxyprogesterone-acetate-injection,P06-340,,,,high,
+medroxyprogesterone-acetate-injection,P06-341,,,,high,
+medroxyprogesterone-acetate-injection,P06-342,,,,high,
+medroxyprogesterone-acetate-injection,P06-343,,,,high,
+medroxyprogesterone-acetate-injection,P06-344,,,,high,
+metformin-hydrochloride,G07-033,G07-056,,,medium,G07-056 combines cardiac and respiratory failure (could also match G07-034); matched to G07-033 as the first condition
+metformin-hydrochloride,G07-034,,হৃদপিন্ড অথবা শ্বাসনালীর অকার্যকারিতা,,high,Covered in combined Bangla claim G07-056 (which was matched to G07-033)
+metformin-hydrochloride,P06-419,,,,high,Bangla interaction text lists isosorbide (আইসোসরবাইড) in place of isoniazid
+metformin-hydrochloride,P06-420,,,,high,Bangla interaction text states hypoglycemia (হাইপোগ্লাইসেমিয়া) instead of hyperglycemia
+metformin-hydrochloride,P06-423,,শরীরে মেটফরমিন জমা হওয়া ও ল্যাকটিক এসিডোসিস হওয়ার সম্ভাবনা কিডনির অক্ষমতার মাত্রার উপর নির্ভর করে।,,medium,Parallel sentence in Bangla precautions describing risk dependence on degree of renal impairment
+metformin-hydrochloride,P06-428,,,,high,
+metformin-hydrochloride,P06-429,,,,high,
+metformin-hydrochloride,P06-430,,,,high,
+metformin-hydrochloride,P06-433,,,,high,
+metformin-hydrochloride,P06-434,,,,high,
+metformin-hydrochloride,P06-436,,,,high,
+metformin-hydrochloride,P06-441,P06-392,,,high,
+metformin-hydrochloride,,P06-379,,,high,English interaction text lists Isoniazid in place of isosorbide
+metformin-hydrochloride,,P06-357,,"Cationic drugs (e.g., Amiloride, Digoxin, Morphine, Procainamide, Quinidine, Quinine, Triamterene, Trimethoprim, or Vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with Metformin by competing for common renal tubular transport systems.",high,
+methotrexate,G07-078,G07-106,,,high,
+methotrexate,P06-492,P06-461,,,high,Bangla omits 'nonabsorbable' and states broad spectrum antibiotics
+methotrexate,P06-497,,প্রিজারভেটিভ যুক্ত মেথোট্রেক্সেটের ফর্মুলেশনগুলি ইন্ট্রাথ্যাকাল বা হাই-ডোজ মেথোট্রেক্সেট থেরাপির জন্য ব্যবহার করা যাবেনা,,high,
+methotrexate,P06-505,P06-474,,,high,
+metronidazole,G07-179,G07-203,,,high,
+metronidazole,P07-079,P07-061,,,high,
+metronidazole,,P07-073,,The elimination half-life of metronidazole remains unchanged in the presence of renal failure. The dosage of metronidazole therefore needs no reduction.,high,
+mifepristone,G07-217,G07-236,,,high,
+mifepristone,G07-218,G07-237,,,high,

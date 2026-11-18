@@ -1,0 +1,66 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+ethinyl-estradiol-desogestrel-003-mg,G05-001,G05-022,,,high,
+ethinyl-estradiol-desogestrel-003-mg,G05-002,G05-023,,,high,
+ethinyl-estradiol-desogestrel-003-mg,G05-006,G05-027,,,medium,Bangla translates 'heart attack' in the parallel thrombosis clause as 'হৃদপিন্ডে (হৃদরোগ)' (heart disease)
+ethinyl-estradiol-desogestrel-003-mg,G05-009,,স্ট্রোক (যেমন ক্ষণস্থায়ী ইশকেমিক আক্রমণ বা ক্ষুদ্র পুণঃআক্রমণাত্বক স্ট্রোক),,high,
+ethinyl-estradiol-desogestrel-003-mg,G05-017,G05-038,,,high,G05-038 also relates to G05-021 (pregnancy_lactation); matched to G05-017 because both are in contraindications
+ethinyl-estradiol-desogestrel-003-mg,G05-021,G05-042,,,medium,G05-038 also covers pregnancy (matched to G05-017 in contraindications); matched to G05-042 in pregnancy_lactation where Bangla states pregnant women or women who wish to conceive
+ethinyl-estradiol-desogestrel-003-mg,G05-018,G05-039,,,high,
+ethinyl-estradiol-desogestrel-003-mg,P03-320,,রক্তের কোলেষ্টেরল বা ট্রাইগ্লিসারাইড এর মাত্রা যথেষ্ট বেশী (চর্বিজাতীয় পদার্থ),,high,
+fluconazole,G05-099,,,,high,
+fluconazole,G05-101,,,,high,
+fluconazole,G05-102,,,,high,
+fluconazole,G05-103,,,,high,
+fluconazole,G05-105,,অন্যান্য ট্রাইএজল জাতীয় ঔষধের-এর প্রতি অতিসংবেদনশীলতায়,,high,
+fluconazole,G05-106,,,,high,
+fluconazole,G05-108,,,,high,
+fluconazole,P04-348,,,,high,
+fluconazole,P04-349,,,,high,
+fluconazole,P04-350,,,,high,
+fluconazole,P04-351,,,,high,
+fluconazole,P04-352,,,,high,
+fluconazole,P04-353,,,,high,
+fluconazole,P04-356,,,,high,
+fluconazole,P04-358,,,,high,
+fluconazole,P04-359,,,,high,
+fluconazole,P04-360,,,,high,
+fluconazole,P04-361,,,,high,
+fluconazole,P04-362,,,,high,
+fluconazole,,P04-346,,,high,
+folic-acid,G05-133,,,,high,Bangla states childhood anemia ('শৈশবকালীন রক্তসল্পতার') and omits infancy
+folic-acid,G05-135,G05-142,,,high,
+folic-acid-zinc-sulfate-monohydrate,G05-144,G05-150,,,medium,G05-150 combines both Folic Acid deficiencies (G05-144) and Zinc deficiencies (G05-145); matched to G05-144 as the first condition
+folic-acid-zinc-sulfate-monohydrate,G05-145,,জিংক এবং ফলিক এসিডের অভাবজনিত রােগের,,high,Combined with folic acid deficiency in Bangla claim G05-150 (matched to G05-144)
+folic-acid-zinc-sulfate-monohydrate,G05-146,G05-151,,,medium,Bangla states hypersensitivity to both zinc and folic acid whereas English specifies hypersensitivity to Zinc
+folic-acid-zinc-sulfate-monohydrate,G05-147,,,,high,
+folic-acid-zinc-sulfate-monohydrate,G05-149,,স্তন্যদানকালে,,high,
+ibuprofen-oral,G05-210,G05-237,,,high,
+ibuprofen-oral,G05-211,,,,high,
+ibuprofen-oral,G05-215,,,,high,
+ibuprofen-oral,G05-216,,পেশীর প্রদাহ ও ব্যথা,,high,
+ibuprofen-oral,G05-217,G05-242,,,high,
+ibuprofen-oral,G05-218,P05-101,,,medium,Bangla states history of gastrointestinal bleeding in precautions (caution) without mentioning perforation or prior NSAID therapy
+ibuprofen-oral,G05-219,G05-243,,,high,G05-243 covers active/severe peptic ulcer in contraindications; P05-102 separately covers history of ulcer in precautions
+ibuprofen-oral,G05-220,,,,high,
+ibuprofen-oral,G05-221,,,,high,
+ibuprofen-oral,G05-222,,,,high,
+ibuprofen-oral,G05-223,,,,high,Bangla states general pregnancy avoidance in G05-245 (matched to G05-226) without specifying the last trimester
+ibuprofen-oral,G05-227,,,,high,Bangla states general pregnancy avoidance in G05-245 (matched to G05-226) without specifying the last trimester
+ibuprofen-oral,G05-224,,,,high,
+ibuprofen-oral,G05-225,,,,high,
+ibuprofen-oral,G05-226,G05-245,,,medium,G05-245 states pregnancy generally (without specifying trimesters) and could also relate to G05-223 or G05-227; matched to G05-226 in pregnancy_lactation
+ibuprofen-oral,G05-228,,,,high,
+ibuprofen-oral,G05-229,,,,high,
+ibuprofen-oral,P05-124,P05-104,,,high,
+ibuprofen-oral,,G05-240,,,high,
+ibuprofen-oral,,G05-244,,,high,
+ibuprofen-oral,,G05-246,,,high,
+ibuprofen-oral,,G05-235,,,high,
+ibuprofen-oral,,G05-234,,,high,
+ibuprofen-oral,,G05-239,,,high,
+ibuprofen-oral,,G05-233,,,high,
+ibuprofen-oral,,G05-232,,,high,
+ibuprofen-oral,,P05-102,,active or history of recurrent peptic ulcer/haemorrhage,high,Part of combined English claim G05-219 (which was matched to G05-243)
+indomethacin-oral,G05-255,G05-265,,,medium,Bangla translates 'a history of these disorders' in the parallel sentence as 'এ সকল রোগের ক্ষেত্রে' (in these diseases)
+indomethacin-oral,G05-256,G05-266,,,high,
+indomethacin-oral,P05-142,,,,high,

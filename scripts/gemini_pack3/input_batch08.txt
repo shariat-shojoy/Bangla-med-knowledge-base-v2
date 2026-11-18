@@ -1,0 +1,302 @@
+### drug=nitrofurantoin
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-012 | USE_IN | nursing infants under one month of age | caution | pregnancy_lactation | "Because of the potential for serious adverse reactions from Nitrofurantoin in nursing infants under one month of age, a decision should be made whether to disco"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-024 | USE_IN | infants under 1 month | avoid | pregnancy_lactation | "১ মাসের নিচে বাচ্চাদেয় ক্ষেত্রে মারাত্মক পার্শ্ব-প্রতিক্রিয়া দেখা যেতে পারে সেহেতু এই ওযুধ দেয়ার পূর্বে এর গুরুত্ব বিবেচনা করে হয় দুগ্ধদান থেকে বিরত থাকতে হ"
+G08-021 | USE_IN | pregnant mothers | no data | pregnancy_lactation | "গর্ভবতী মায়েদের উপর কোন পর্যাপ্ত এবং সুনিয়ন্ত্রিত পরীক্ষা হয়নি।"
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy Category B. There are no adequate and well-controlled studies in pregnant women. This drug should be used during pregnancy only if clearly needed. Nitrofurantoin has been detected in human breast milk in trace amounts. Because of the potential for serious adverse reactions from Nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রেগন্যান্সি ক্যাটেগরি বি। গর্ভবতী মায়েদের উপর কোন পর্যাপ্ত এবং সুনিয়ন্ত্রিত পরীক্ষা হয়নি। এই ঔষধটি গর্ভাবন্থায় তখনই দেয়া যাবে যখন এটি সুস্পষ্টভাবে নির্দেশিত। নাইট্রোফিউরানটোইন অল্প পরিমাণে মাতৃদুগ্ধে নিঃসরিত হয়। যেহেতু ১ মাসের নিচে বাচ্চাদেয় ক্ষেত্রে মারাত্মক পার্শ্ব-প্রতিক্রিয়া দেখা যেতে পারে সেহেতু এই ওযুধ দেয়ার পূর্বে এর গুরুত্ব বিবেচনা করে হয় দুগ্ধদান থেকে বিরত থাকতে হবে অথবা ঔষধ খাওয়া থেকে বিরত থাকতে হবে।
+
+### drug=oxytocin
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-031 | INDICATED_FOR | stimulation of uterine contractions | - | indications | "Induction of labor, stimulation of uterine contractions."
+G08-036 | USE_IN | Cephalo-pelvic disproportion | contraindicated | contraindications | "Cephalo-pelvic disproportion."
+G08-037 | USE_IN | Abnormal position of the child or abnormal position of the s | contraindicated | contraindications | "Abnormal position of the child or abnormal position of the skull."
+G08-038 | USE_IN | Overdistention of the inferior segment of the uterus | contraindicated | contraindications | "Overdistention of the inferior segment of the uterus."
+G08-039 | USE_IN | Severe toxaemia | contraindicated | contraindications | "Severe toxaemia."
+G08-040 | USE_IN | Hypertonic uterine dysfunction | contraindicated | contraindications | "Hypertonic uterine dysfunction."
+G08-041 | USE_IN | Foetal distress | contraindicated | contraindications | "Foetal distress, where delivery is not imminent (uterine contractions may increase hypoxia)."
+G08-042 | USE_IN | Cord presentation and prolapse | contraindicated | contraindications | "Cord presentation and prolapse."
+G08-043 | USE_IN | Total placenta previa | contraindicated | contraindications | "Total placenta previa."
+G08-044 | USE_IN | Vasa praevia | contraindicated | contraindications | "Vasa praevia."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-052 | USE_IN | contraindication condition | contraindicated | contraindications | "সেফালো পেলভিক ডিসপ্রোপোরশন"
+G08-053 | USE_IN | contraindication condition | contraindicated | contraindications | "বাচ্চা বা মাথার অস্বাভাবিক অবস্থান"
+G08-054 | USE_IN | contraindication condition | contraindicated | contraindications | "ইউটেরাসের ইনফেরিয়র সেগমেন্ট এর অভারডিসটেনশন"
+G08-055 | USE_IN | contraindication condition | contraindicated | contraindications | "তীব্র টক্সেমিয়া"
+G08-056 | USE_IN | contraindication condition | contraindicated | contraindications | "হাইপারটনিক ইউটেরাইন ডিসফাংশন"
+G08-057 | USE_IN | contraindication condition | contraindicated | contraindications | "ফিটাল ডিস্ট্রেস যেখানে ডেলিভারী আসন্ন নয়"
+G08-058 | USE_IN | contraindication condition | contraindicated | contraindications | "কর্ড প্রেসেন্টেশন বা প্রোল্যাপস"
+G08-059 | USE_IN | contraindication condition | contraindicated | contraindications | "সম্পূর্ণ প্লাসেন্টা প্রেভিয়া"
+G08-060 | USE_IN | contraindication condition | contraindicated | contraindications | "ভাষা প্রেভিয়া"
+G08-047 | INDICATED_FOR | uterine contractions | - | indications | "প্রসব বেদনা শুরু করা, ইউটেরাস এর সংকোচন"
+## ENGLISH SECTION TEXT: contraindications
+Cephalo-pelvic disproportion.
+Abnormal position of the child or abnormal position of the skull.
+Overdistention of the inferior segment of the uterus.
+Severe toxaemia.
+Hypertonic uterine dysfunction.
+Foetal distress, where delivery is not imminent (uterine contractions may increase hypoxia).
+Cord presentation and prolapse.
+Total placenta previa.
+Vasa praevia.
+## BANGLA SECTION TEXT: contraindications
+সেফালো পেলভিক ডিসপ্রোপোরশন
+বাচ্চা বা মাথার অস্বাভাবিক অবস্থান
+ইউটেরাসের ইনফেরিয়র সেগমেন্ট এর অভারডিসটেনশন
+তীব্র টক্সেমিয়া
+হাইপারটনিক ইউটেরাইন ডিসফাংশন
+ফিটাল ডিস্ট্রেস যেখানে ডেলিভারী আসন্ন নয়
+কর্ড প্রেসেন্টেশন বা প্রোল্যাপস
+সম্পূর্ণ প্লাসেন্টা প্রেভিয়া
+ভাষা প্রেভিয়া
+## ENGLISH SECTION TEXT: indications
+Oxytocin is indicated in-
+Induction of labor, stimulation of uterine contractions.
+Post delivery period, for the prevention or treatment of secondary haemorrhage and adherent placenta.
+To stimulate lactation, only it advised by the registered Gynaecologist/Physician.
+Treatment of incomplete abortion to obtain more rapid expulsion in order to prevent secondary hemorrhage.
+## BANGLA SECTION TEXT: indications
+অক্সিটোসিন নিম্নোক্ত উপসর্গে নির্দেশিত-
+প্রসব বেদনা শুরু করা, ইউটেরাস এর সংকোচন
+পোস্ট ডেলিভারী পিরিয়ড, সেকেন্ডারী হেমোরেজ প্রতিরোধ ও এডহেরেন্ট প্লাসেন্টা
+স্টিমুলেশন অফ ল্যাকটেশন (শুধুমাত্র রেজিস্টার্ড চিকিৎসকের পরামর্শ অনুযায়ী)
+অসম্পূর্ণ এবরশনের সেকেন্ডারী রক্তপাত বন্ধে ক্ষেত্রে দ্রুত নিষ্কাশন এর জন্য।
+
+### drug=paracetamol
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-068 | INDICATED_FOR | myalgia | - | indications | "Paracetamol is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, b"
+P07-292 | USE_IN | non-cirrhotic alcoholic liver disease | caution | precautions | "The hazard of overdose is greater in those with non-cirrhotic alcoholic liver disease"
+P07-294 | CAUSES | hepatic injury | - | precautions | "Administration of Paracetamol in doses higher than recommended may result in hepatic injury"
+P07-296 | CAUSES | death | - | precautions | "and death"
+P07-297 | USE_IN | hepatic impairment | caution | precautions | "Use caution when administering Paracetamol in patients with the following conditions: hepatic impairment"
+P07-298 | USE_IN | active hepatic disease | caution | precautions | "active hepatic disease"
+P07-306 | USE_IN | severe active liver disease | contraindicated | special_populations | "severe active liver disease"
+P07-308 | USE_IN | active liver disease | caution | special_populations | "active liver disease"
+P07-299 | USE_IN | alcoholism | caution | precautions | "alcoholism"
+P07-300 | USE_IN | chronic malnutrition | caution | precautions | "chronic malnutrition"
+P07-301 | USE_IN | severe hypovolemia | caution | precautions | "severe hypovolemia"
+P07-302 | USE_IN | creatinine clearance < 30 ml/min | caution | precautions | "severe renal impairment (creatinine clearance < 30 ml/min)"
+P07-303 | CAUSES | anaphylaxis | - | precautions | "There were infrequent reports of life-threatening anaphylaxis requiring emergent medical attention"
+P07-304 | USE_IN | paracetamol allergy | contraindicated | precautions | "Do not use Paracetamol IV in patients with Paracetamol allergy"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+(none)
+## ENGLISH SECTION TEXT: indications
+Paracetamol is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.
+## BANGLA SECTION TEXT: indications
+প্যারাসিটামল জ্বর, সর্দি জ্বর, ইনফ্লুয়েঞ্জা, মাথা ব্যথা, দাঁতে ব্যথা, কানে ব্যথা, শরীর ব্যথা, স্নায়ু প্রদাহজনিত ব্যথা, ঋতুস্রাবজনিত ব্যথা, মচ্কে যাওয়া ব্যথা, অন্ত্রে ব্যথা, পিঠে ব্যথা, অস্ত্রোপচার পরবর্তী ব্যথা, প্রসব পরবর্তী ব্যথা, প্রদাহজনিত ব্যথা এবং শিশুদের টিকা পরবর্তী ব্যথায় কার্যকরী। এটি বাতজনিত ও অস্টিওআর্থ্রাইটিসজনিত ব্যথা এবং অস্থিসংযোগ সমূহের অনমনীয়তায় কার্যকরী।
+## ENGLISH SECTION TEXT: precautions
+Care is advised in the administration of Paracetamol to patients with severe renal or severe hepatic impairment. The hazard of overdose is greater in those with non-cirrhotic alcoholic liver disease. Do not exceed the stated dose. Patients should be advised not to take other Paracetamol-containing products concurrently. This product should only be used by the patient for whom it is prescribed when clearly necessary.
+Administration of Paracetamol in doses higher than recommended may result in hepatic injury, including the risk of severe hepatotoxicity and death. Do not exceed the maximum recommended daily dose of Paracetamol. Use caution when administering Paracetamol in patients with the following conditions: hepatic impairment or active hepatic disease, alcoholism, chronic malnutrition, severe hypovolemia (e.g., due to dehydration or blood loss), or severe renal impairment (creatinine clearance < 30 ml/min). There were infrequent reports of life-threatening anaphylaxis requiring emergent medical attention. Discontinue Paracetamol IV immediately if symptoms associated with allergy or hypersensitivity occurs. Do not use Paracetamol IV in patients with Paracetamol allergy.
+## BANGLA SECTION TEXT: precautions
+গুরুতর কিডনি বা গুরুতর হেপাটিক বৈকল্যযুক্ত রোগীদের প্যারাসিটামল ব্যবহারে যত্ন নেওয়ার পরামর্শ দেওয়া হয়। যারা নন-সিরোটিক অ্যালকোহলযুক্ত লিভার রোগে আক্রান্ত তাদের ওভারডোজের ঝুঁকি বেশি। নির্ধারিত মাত্রা অতিক্রম করা যাবে না। রোগীদের একই সাথে অন্যান্য প্যারাসিটামলযুক্ত পণ্য বর্জন করা উচিত। প্যারাসিটামল শুধুমাত্র সেই রোগীর দ্বারা ব্যবহার করা উচিত যার জন্য এটি নির্ধারিত হয়।
+## ENGLISH SECTION TEXT: special_populations
+Pediatric Use
+: The safety and effectiveness of Paracetamol IV for the treatment of acute pain and fever in pediatric patients ages 2 years and older is supported by evidence from adequate and well-controlled studies of Paracetamol IV in adults.
+Geriatric use
+: No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Patients with Hepatic Impairment
+: Paracetamol is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease. A reduced total daily dose of Paracetamol may be warranted.
+Patients with Renal Impairment
+: In cases of severe renal impairment (creatinine clearance < 30 ml/min), longer dosing intervals and a reduced total daily dose of Paracetamol may be warranted.
+
+### drug=phenobarbital
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-111 | INDICATED_FOR | generalized tonic-clonic seizures | - | indications | "Phenobarbital is indicated for the following conditions: Sedatives Hypnotics for the short-term treatment of insomnia Pre-anesthetics Long-term anticonvulsants "
+G08-113 | INDICATED_FOR | acute convulsive episodes | - | indications | "Phenobarbital is indicated for the following conditions: Sedatives Hypnotics for the short-term treatment of insomnia Pre-anesthetics Long-term anticonvulsants "
+G08-115 | INDICATED_FOR | eclampsia meningitis | - | indications | "Phenobarbital is indicated for the following conditions: Sedatives Hypnotics for the short-term treatment of insomnia Pre-anesthetics Long-term anticonvulsants "
+G08-117 | INDICATED_FOR | toxic reactions to Strychnine | - | indications | "Phenobarbital is indicated for the following conditions: Sedatives Hypnotics for the short-term treatment of insomnia Pre-anesthetics Long-term anticonvulsants "
+G08-118 | INDICATED_FOR | toxic reactions to local anesthetics | - | indications | "Phenobarbital is indicated for the following conditions: Sedatives Hypnotics for the short-term treatment of insomnia Pre-anesthetics Long-term anticonvulsants "
+G08-120 | USE_IN | latent porphyria | contraindicated | contraindications | "Phenobarbital is contraindicated in patients with known Phenobarbital sensitivity or a history of latent porphyria."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-136 | USE_IN | allergy | contraindicated | contraindications | "যে সমস্ত রোগীর ফেনোবারবিটাল এর প্রতি সংবেদনশীলতার ইতিহাস আছে বা এলার্জির ইতিহাস রয়েছে তাদের প্রতি ইহা প্রতিনির্দেশিত।"
+G08-133 | INDICATED_FOR | toxic reactions | - | indications | "ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ নিদ্রাকারক তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য এ্যানেসথেসিয়ার পূর্বে দীর্ঘ সময় খিঁচুনীরোধক"
+G08-134 | INDICATED_FOR | local anesthesia | - | indications | "ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ নিদ্রাকারক তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য এ্যানেসথেসিয়ার পূর্বে দীর্ঘ সময় খিঁচুনীরোধক"
+G08-131 | INDICATED_FOR | meningitis | - | indications | "ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ নিদ্রাকারক তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য এ্যানেসথেসিয়ার পূর্বে দীর্ঘ সময় খিঁচুনীরোধক"
+G08-128 | INDICATED_FOR | tonic-clonic seizures | - | indications | "ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ নিদ্রাকারক তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য এ্যানেসথেসিয়ার পূর্বে দীর্ঘ সময় খিঁচুনীরোধক"
+## ENGLISH SECTION TEXT: contraindications
+Phenobarbital is contraindicated in patients with known Phenobarbital sensitivity or a history of latent porphyria.
+## BANGLA SECTION TEXT: contraindications
+যে সমস্ত রোগীর ফেনোবারবিটাল এর প্রতি সংবেদনশীলতার ইতিহাস আছে বা এলার্জির ইতিহাস রয়েছে তাদের প্রতি ইহা প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+Phenobarbital is indicated for the following conditions:
+Sedatives
+Hypnotics for the short-term treatment of insomnia
+Pre-anesthetics
+Long-term anticonvulsants for the treatment of generalized tonic-clonic and cortical local seizures. And, in the emergency control of certain acute convulsive episodes, (those associated with status epilepticus, eclampsia meningitis, tetanus, and toxic reactions to Strychnine or local anesthetics).
+## BANGLA SECTION TEXT: indications
+ফেনোবারবিটাল নিম্নলিখিত অবস্থার জন্য নির্দেশিতঃ
+নিদ্রাকারক
+তন্দ্রাভাব আনায়ন, অনিদ্রার স্বল্পমেয়াদী চিকিৎসার জন্য
+এ্যানেসথেসিয়ার পূর্বে
+দীর্ঘ সময় খিঁচুনীরোধক চিকিৎসার জন্য যেমন টনিক-ক্লোনিক ও কার্টিক্যাল সিজার এবং হঠাৎ খিঁচুনী হলে জরুরী নিয়ন্ত্রনের জন্য (স্ট্যাটাস এপিলেটিকাস, মেনিনজাইটিস, টিটেনাস, বিষক্রিয়া জনিত রিঅ্যাকশন, ও লোকাল এ্যানেসথেসিয়ায়) ব্যবহৃত হয়
+
+### drug=phytomenadione-injection
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-141 | INDICATED_FOR | haemorrhagic disease in the newborn | - | indications | "Prophylaxis and treatment of haemorrhagic disease in the newborn. Haemorrhage or risk of haemorrhage as a result of severe hypoprothrombinemia … Prevention and "
+G08-143 | INDICATED_FOR | bleeding due to vitamin K deficiency | - | indications | "Prophylaxis and treatment of haemorrhagic disease in the newborn. Haemorrhage or risk of haemorrhage as a result of severe hypoprothrombinemia … Prevention and "
+P07-409 | USE_IN | severely impaired liver function | caution | precautions | "Careful monitoring of the coagulation parameters is necessary for patients with severely impaired liver function"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P07-406 | USE_IN | severe liver failure | caution | precautions | "লিভারের তীব্র অকার্যকারীতার রোগীর ক্ষেত্রে সাবধানতার সাথে কোয়াগুলেশন বৈশিষ্ট্য পর্যবেক্ষণ করতে হবে"
+G08-147 | INDICATED_FOR | vitamin K deficiency bleeding | - | indications | "নবজাতকের ক্ষেত্রে প্রতিরোধক হিসাবে ও হেমোরেজিক অবস্থায় ব্যবহার্য। তীব্র হাইপোপ্রোথ্রম্বিনেমিয়ার … ভিটামিন কে এর অভাবজনিত রক্তক্ষরণে ব্যবহার্য।"
+G08-145 | INDICATED_FOR | hemorrhagic conditions in newborns | - | indications | "নবজাতকের ক্ষেত্রে প্রতিরোধক হিসাবে ও হেমোরেজিক অবস্থায় ব্যবহার্য। তীব্র হাইপোপ্রোথ্রম্বিনেমিয়ার … ভিটামিন কে এর অভাবজনিত রক্তক্ষরণে ব্যবহার্য।"
+## ENGLISH SECTION TEXT: indications
+Phytomenadione (Vitamin K-1) is indicated in following indications-
+Prophylaxis and treatment of haemorrhagic disease in the newborn.
+Haemorrhage or risk of haemorrhage as a result of severe hypoprothrombinemia (i.e. deficiency of clotting factors II, VII, IX and X) of various etiologies, including overdosage of courmarin-type anticoagulants, their combination with phenylbutazone, and other forms of hypovitaminosis K (e.g. in obstructive jaundice as well as liver and intestinal disorders, and after prolonged treatment with antibiotics, sulphonamides or salicylates).
+Prevention and treatment of bleeding due to vitamin K deficiency.
+## BANGLA SECTION TEXT: indications
+ফাইটোমেনাডিওন (ভিটামিন কে-১) নিম্নোক্ত উপসর্গে নির্দেশিত-
+নবজাতকের ক্ষেত্রে প্রতিরোধক হিসাবে ও হেমোরেজিক অবস্থায় ব্যবহার্য।
+তীব্র হাইপোপ্রোথ্রম্বিনেমিয়ার (i.e. deficiency of clotting factors II, VII, IX and X) কারনে সৃষ্ট হেমোরেজ বা তার ঝুঁকি, কোউমারিন জাতীয় অ্যান্টি কোয়াগুলেন্টের অতিমাত্রায় ব্যবহার, ফিনাইল বিউটাজোন এবং হাইপোভিটামিনোসিস-কে (জন্ডিস, লিভার ও ইন্টেসটাইনের অকার্যকারিতা, দীর্ঘমেয়াদী অ্যান্টিবায়োটিক, সালফোনামাইড, সালফোনামাইড ও স্যালিসাইলেটের ব্যবহার)।
+ভিটামিন কে এর অভাবজনিত রক্তক্ষরণে ব্যবহার্য।
+## ENGLISH SECTION TEXT: precautions
+Careful monitoring of the coagulation parameters is necessary for patients with severely impaired liver function after administration of Phytomenadione .
+## BANGLA SECTION TEXT: precautions
+লিভারের তীব্র অকার্যকারীতার রোগীর ক্ষেত্রে সাবধানতার সাথে কোয়াগুলেশন বৈশিষ্ট্য পর্যবেক্ষণ করতে হবে।
+
+### drug=prochlorperazine-maleate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-157 | INDICATED_FOR | psychotic illness | - | indications | "To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions. Relieving nausea, vomiting, and attacks o"
+G08-160 | INDICATED_FOR | generalized non-psychotic anxiety | - | indications | "To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions. Relieving nausea, vomiting, and attacks o"
+G08-164 | USE_IN | children <2 years of age | contraindicated | contraindications | "Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS depression; coma; should not be used in children <2 years of age or <10 kg."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-171 | INDICATED_FOR | generalized anxiety | - | indications | "তীব্র বমিবমিভাব এবং বমি নিয়ন্ত্রণের জন্য মাথাঘােরা, মেনিয়ার্স রােগ এবং অন্যান্য কানের সমস্যার জন্য মানসিক অসুস্থতা যেমন- সিজোফ্রেনিয়া তীব্র মানসিক বৈকল্য সাধ"
+G08-175 | USE_IN | children under 2 years | not recommended | contraindications | "প্রােক্লোরপেরাজিন অথবা এর সদৃশ কোন উপাদানের প্রতি অতিমাত্রায় প্রতিক্রিয়াশীল হলে, গুরুতর সিএনএস বিষণ্ণতা, কোমাতে নির্দেশিত নয়। ২ বছর অথবা ১০ কেজি ওজনের নিচে ব"
+## ENGLISH SECTION TEXT: contraindications
+Hypersensitivity to prochlorperazine or any component of the formulation, severe CNS
+depression; coma; should not be used in children <2 years of age or <10 kg.
+## BANGLA SECTION TEXT: contraindications
+প্রােক্লোরপেরাজিন অথবা এর সদৃশ কোন উপাদানের প্রতি অতিমাত্রায় প্রতিক্রিয়াশীল হলে, গুরুতর সিএনএস বিষণ্ণতা, কোমাতে নির্দেশিত নয়। ২ বছর অথবা ১০ কেজি ওজনের নিচে বাচ্চাদের জন্য নির্দেশিত নয়।
+## ENGLISH SECTION TEXT: indications
+Prochlorperazine Maleate is indicated-
+To control severe nausea and vomiting caused by radiation therapy, cancer chemotherapy, surgery, and other conditions.
+Relieving nausea, vomiting, and attacks of dizziness or spinning sensations (vertigo) associated with Meniere's disease and other inner ear disorders.
+For the treatment of psychotic illness such as schizophrenia (hallucinations and hostility).
+Acute mania.
+For the short-term treatment of generalized non-psychotic anxiety.
+## BANGLA SECTION TEXT: indications
+প্রােক্লোরপেরাজিন ম্যালিয়েট নিম্নোক্ত উপসর্গে নির্দেশিত-
+রেডিয়েশন থেরাপি, ক্যান্সার কেমােথেরাপি, শল্য চিকিৎসা এবং অন্যান্য
+অবস্থাজনিত তীব্র বমিবমিভাব এবং বমি নিয়ন্ত্রণের জন্য
+মাথাঘােরা, মেনিয়ার্স রােগ এবং অন্যান্য কানের সমস্যার জন্য
+মানসিক অসুস্থতা যেমন- সিজোফ্রেনিয়া
+তীব্র মানসিক বৈকল্য
+সাধারণ উদ্বেগ।
+
+### drug=progesterone-micronised-capsule
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-180 | INDICATED_FOR | post-menopausal hormone replacement therapy | - | indications | "Maintenance of Pregnancy in cases of Threatened / Recurrent abortion. Luteal support during IUI and ART procedures IVF-ET. Luteal support in cases of proven lut"
+G08-187 | INDICATED_FOR | Oocyte donation programme | - | indications | "Maintenance of Pregnancy in cases of Threatened / Recurrent abortion. Luteal support during IUI and ART procedures IVF-ET. Luteal support in cases of proven lut"
+G08-193 | USE_IN | cancers of uterus and genital organs | contraindicated | contraindications | "Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood"
+G08-195 | USE_IN | history of stroke | contraindicated | contraindications | "Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood"
+G08-196 | USE_IN | blood clots | contraindicated | contraindications | "Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood"
+G08-197 | USE_IN | miscarriage | avoid | contraindications | "It should not be used in a case of miscarriage and tissue left in the uterus."
+G08-198 | USE_IN | tissue left in the uterus | avoid | contraindications | "It should not be used in a case of miscarriage and tissue left in the uterus."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-208 | INDICATED_FOR | oocyte donation | - | indications | "ঝুঁকিপূর্ণ অথবা বারবার গর্ভপাতের ক্ষেত্রে গর্ভাবস্থা রক্ষায় … বিনাইন মাস্টোপ্যাথি (স্তনের ক্ষতিকর নয় এমন টিউমার বা সিস্ট)।"
+G08-216 | USE_IN | history of stroke or blood clots | contraindicated | contraindications | "অতি সংবেদনশীলতা (অ্যালার্জি), যকৃতের কর্মহীনতা, কারণ নির্ণয়হীন যোনিপথে রক্তপাত, পোরফাইরিয়া, জরায়ু ও যৌনাঙ্গের ক্যান্সার, স্তন ক্যান্সার, স্ট্রোক বা রক্ত জমাট"
+G08-214 | USE_IN | uterine and genital cancers | contraindicated | contraindications | "অতি সংবেদনশীলতা (অ্যালার্জি), যকৃতের কর্মহীনতা, কারণ নির্ণয়হীন যোনিপথে রক্তপাত, পোরফাইরিয়া, জরায়ু ও যৌনাঙ্গের ক্যান্সার, স্তন ক্যান্সার, স্ট্রোক বা রক্ত জমাট"
+G08-201 | INDICATED_FOR | post-menopausal HRT | - | indications | "ঝুঁকিপূর্ণ অথবা বারবার গর্ভপাতের ক্ষেত্রে গর্ভাবস্থা রক্ষায় … বিনাইন মাস্টোপ্যাথি (স্তনের ক্ষতিকর নয় এমন টিউমার বা সিস্ট)।"
+## ENGLISH SECTION TEXT: contraindications
+Hypersensitivity, hepatic dysfunction, undiagnosed vaginal bleeding, porphyria, cancers of uterus and genital organs, breast cancers, history of stroke or blood clots. It should not be used in a case of miscarriage and tissue left in the uterus.
+## BANGLA SECTION TEXT: contraindications
+অতি সংবেদনশীলতা (অ্যালার্জি), যকৃতের কর্মহীনতা, কারণ নির্ণয়হীন যোনিপথে রক্তপাত, পোরফাইরিয়া, জরায়ু ও যৌনাঙ্গের ক্যান্সার, স্তন ক্যান্সার, স্ট্রোক বা রক্ত জমাট বাঁধার পূর্ব ইতিহাস থাকলে এটি ব্যবহার করা যাবে না। অসম্পূর্ণ গর্ভপাতের ক্ষেত্রে (জরায়ুতে টিস্যু অবশিষ্ট থাকলে) এটি ব্যবহার করা উচিত নয়।
+## ENGLISH SECTION TEXT: indications
+Progesterone capsule is indicated in-
+Maintenance of Pregnancy in cases of Threatened / Recurrent abortion.
+Luteal support during IUI and ART procedures IVF-ET.
+Luteal support in cases of proven luteal phase insufficiency.
+Along with estrogen in post-menopausal hormone replacement therapy (HRT) either in sequential or in continuous regimen.
+To prevent endometrial hyperplasia where endogenous estrogen is present.
+As progesterone challenge test in secondary amenorrhoea.
+For cycle control along with estrogen therapy.
+Dysfunctional uterine bleeding (DUB)
+Premenstrual tension.
+Endometriosis.
+Oocyte donation programme.
+Benign mastopathy.
+## BANGLA SECTION TEXT: indications
+প্রোজেস্টেরন ক্যাপসুল নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+ঝুঁকিপূর্ণ অথবা বারবার গর্ভপাতের ক্ষেত্রে গর্ভাবস্থা রক্ষায়।
+আইইউআই (IUI) এবং এআরটি (ART) পদ্ধতি আইভিএফ-ইটি (IVF-ET)-এর সময় লুটিয়াল সাপোর্টে।
+প্রমাণিত লুটিয়াল ফেজ অপর্যাপ্ততার ক্ষেত্রে লুটিয়াল সাপোর্টে।
+মেনোপজ বা মাসিক বন্ধের পরবর্তী হরমোন রিপ্লেসমেন্ট থেরাপিতে (HRT) ইস্ট্রোজেনের সাথে সিকুয়েন্সিয়াল (পর্যায়ক্রমিক) বা একটানা নিয়মে।
+এন্ডোজেনাস ইস্ট্রোজেন উপস্থিত থাকলে এন্ডোমেট্রিয়াল হাইপারপ্লাসিয়া (জরায়ুর ভেতরের স্তরের অস্বাভাবিক বৃদ্ধি) প্রতিরোধ করতে।
+সেকেন্ডারি অ্যামেনোরিয়াতে (ঋতুস্রাব বন্ধ হয়ে যাওয়া) প্রজেস্টেরন চ্যালেঞ্জ টেস্ট হিসেবে।
+ইস্ট্রোজেন থেরাপির পাশাপাশি মাসিক চক্র নিয়ন্ত্রণে।
+ডিসফাংশনাল ইউটেরাইন ব্লিডিং বা ডিইউবি (জরায়ু থেকে অস্বাভাবিক রক্তক্ষরণ)।
+প্রিমেনস্ট্রুয়াল টেনশন (মাসিক পূর্ববর্তী মানসিক চাপ ও অস্বস্তি)।
+এন্ডোমেট্রিওসিস।
+ওসাইট (ডিম্বাণু) দান কর্মসূচিতে।
+বিনাইন মাস্টোপ্যাথি (স্তনের ক্ষতিকর নয় এমন টিউমার বা সিস্ট)।
+
+### drug=progesterone-micronised-vaginal-gel
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-221 | USE_IN | malignancy of the breast or genital organs | contraindicated | contraindications | "Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivi"
+G08-225 | USE_IN | Liver disease | contraindicated | contraindications | "Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivi"
+G08-229 | USE_IN | thromboembolic disorders | contraindicated | contraindications | "Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivi"
+G08-231 | USE_IN | history of hormone associated thrombophlebitis | contraindicated | contraindications | "Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivi"
+G08-233 | INDICATED_FOR | embryo implantation | - | pregnancy_lactation | "It has been used to successfully support embryo implantation and maintain pregnancies."
+G08-235 | TRANSFERS_TO | milk | - | pregnancy_lactation | "Detectable amounts of progestogens have been identified in the milk of mothers receiving them."
+G08-236 | CAUSES | effects on nursing infant | - | pregnancy_lactation | "The effect of this on the nursing infant has not been determined."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-241 | USE_IN | breast or genital cancer | contraindicated | contraindications | "স্তন বা যৌনাঙ্গের কোনো জানা বা সন্দেহভাজন ক্যান্সার … তীব্র পোরফাইরিয়া থাকলে এটি ব্যবহার করা যাবে না।"
+## ENGLISH SECTION TEXT: contraindications
+Known or suspected malignancy of the breast or genital organs, Missed abortion. Undiagnosed uterine bleeding, Liver dysfunction or disease, Known hypersensitivity to any of the components of the formulation, Known or suspected progesterone-dependent neoplasia, Active thrombophlebitis or thromboembolic disorders, cerebral apoplexy, or a history of hormone associated thrombophlebitis or thromboembolic disorders, Acute porphyria.
+## BANGLA SECTION TEXT: contraindications
+স্তন বা যৌনাঙ্গের কোনো জানা বা সন্দেহভাজন ক্যান্সার, মিসড অ্যাবোর্শন (গর্ভেই ভ্রূণের মৃত্যু হওয়া), কারণ নির্ণয়হীন জরায়ু থেকে রক্তপাত, যকৃতের (লিভার) অকার্যকারিতা বা রোগ, ওষুধের যেকোনো উপাদানের প্রতি অতিসংবেদনশীলতা, জানা বা সন্দেহভাজন প্রোজেস্টেরন-নির্ভর টিউমার, সক্রিয় থ্রম্বোফ্লেবাইটিস বা থ্রম্বোএমবোলিক ব্যাধি (রক্তনালীতে রক্ত জমাট বাঁধা), সেরিব্রাল অ্যাপোপ্লেক্সি (স্ট্রোক) বা হরমোনজনিত রক্ত জমাট বাঁধার পূর্ব ইতিহাস এবং তীব্র পোরফাইরিয়া থাকলে এটি ব্যবহার করা যাবে না।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy category A. It has been used to successfully support embryo implantation and maintain pregnancies. Do not use during lactation. Detectable amounts of progestogens have been identified in the milk of mothers receiving them. The effect of this on the nursing infant has not been determined.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রেগন্যান্সি ক্যাটাগরি 'A'। ভ্রূণ প্রতিস্থাপন সফল করতে এবং গর্ভাবস্থা টিকিয়ে রাখতে এটি সফলভাবে ব্যবহৃত হয়ে আসছে। স্তন্যদানকালে এটি ব্যবহার করবেন না। প্রোজেস্টেরন গ্রহণকারী মায়েদের বুকের দুধে এর উপস্থিতি শনাক্ত করা গেছে, যা শিশুর ওপর কী প্রভাব ফেলে তা এখনও নিশ্চিত নয়।
+
+### drug=progesterone-micronised-vaginal-pessary
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-258 | USE_IN | Severe hepatic dysfunction | contraindicated | contraindications | "Hypersensitivity to the active substance or to any of the excipients Undiagnosed vaginal bleeding Known or suspected progesterone sensitive malignant tumors Por"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-270 | USE_IN | severe hepatic disease | contraindicated | contraindications | "এই ওষুধের কোনো উপাদানের প্রতি অতিসংবেদনশীলতা থাকলে … তীব্র থ্রম্বোফ্লেবাইটিস অথবা পূর্বে এই ধরনের রোগ থাকার ইতিহাস থাকলে।"
+## ENGLISH SECTION TEXT: contraindications
+Hypersensitivity to the active substance or to any of the excipients
+Undiagnosed vaginal bleeding
+Known or suspected progesterone sensitive malignant tumors Porphyria
+Severe hepatic dysfunction or disease
+Known missed abortion or ectopic pregnancy
+Active arterial or venous thromboembolism or severe thrombophlebitis or a history of these events
+## BANGLA SECTION TEXT: contraindications
+এই ওষুধের কোনো উপাদানের প্রতি অতিসংবেদনশীলতা থাকলে।
+কোনো কারণ জানা যায়নি এমন যোনিপথের রক্তপাত হলে।
+প্রোজেস্টেরন-সংবেদনশীল ম্যালিগন্যান্ট টিউমার (ক্যান্সার) থাকলে বা হওয়ার সন্দেহ থাকলে।
+পরফাইরিয়া রোগ থাকলে।
+লিভারের মারাত্মক রোগ বা লিভারের কার্যক্ষমতাহীনতা থাকলে।
+মিসড অ্যাবোরশন (গর্ভেই ভ্রূণ মারা যাওয়া কিন্তু রক্তপাত না হওয়া) বা একটোপিক প্রেগন্যান্সি (জরায়ুর বাইরে গর্ভধারণ) নিশ্চিত হলে।
+সক্রিয় ধমনী বা শিরার থ্রম্বোঅ্যাম্বলিজম (রক্তনালীতে রক্ত জমাট বাঁধা), তীব্র থ্রম্বোফ্লেবাইটিস অথবা পূর্বে এই ধরনের রোগ থাকার ইতিহাস থাকলে।
+
+### drug=propylthiouracil
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-283 | TRANSFERS_TO | breast milk | - | pregnancy_lactation | "Propylthiouracil is present in breast milk in small amounts"
+G08-284 | USE_IN | nursing mother | caution | pregnancy_lactation | "neonatal development should be closely monitored in any nursing mother treated with this drug."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+(none)
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Propylthiouracil crosses the placenta and can induce fetal goiter and hypothyroidism. The lowest dose possible should be used after carefully weighing the mother’s needs against the risk to the fetus. Propylthiouracil is present in breast milk in small amounts and neonatal development should be closely monitored in any nursing mother treated with this drug.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রোপাইলথায়োইউরাসিল প্লাসেন্টা অতিক্রম করতে পারে এবং ভ্রূণের গলগণ্ড ও হাইপারথাইরয়েডিজম ঘটাতে পারে। মায়ের প্রয়োজনীয়তা ও ভ্রূণের ঝুঁকির কথা বিবেচনা করে সম্ভাব্য সর্বনিম্ন মাত্রা প্রয়োগ করতে হবে। প্রোপাইলথাইয়োইউরাসিল মাতৃদুগ্ধে অল্প পরিমাণে তাই মাতৃদুগ্ধ দানকালে এই ওষুধ সেবন করা হলে নবজাতক শিশুর অগ্রগতি নিবিড়ভাবে পর্যবেক্ষণ করতে হবে।
+
+### drug=pyridoxine-hydrochloride-doxylamine-succinate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G08-293 | INDICATED_FOR | nausea and vomiting of pregnancy | - | indications | "This combination is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management."
+G08-296 | INDICATED_FOR | nausea and vomiting of pregnancy | - | pregnancy_lactation | "This is intended for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G08-299 | INDICATED_FOR | nausea and dizziness during pregnancy | - | indications | "ইহা গর্ভকালীন অবস্থায় মাথা ঘোরানো এবং বমি বমি ভাব চিকিৎসায় নির্দেশিত।"
+## ENGLISH SECTION TEXT: indications
+This combination is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.
+## BANGLA SECTION TEXT: indications
+ইহা গর্ভকালীন অবস্থায় মাথা ঘোরানো এবং বমি বমি ভাব চিকিৎসায় নির্দেশিত।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy category A. This is intended for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management. Both Doxylamine Succinate & Pyridoxine Hydrochloride are excreted into breast milk. Therefore, caution should be exercised while breastfeeding.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থায় বিভাগ এ। গর্ভাবস্থায় মহিলাদের মাথা ঘোরানো এবং বমি বমি ভাবের চিকিৎসার ক্ষেত্রে ইহা ব্যবহার করা হয়। ডক্সিলামিন সাক্সিনেট এবং পাইরিডক্সিন হাইড্রোক্লোরাইড উভয়ই মাতৃ দুগ্ধে নির্গত হয়। তাই স্তন্যদান কালে সাবধানতা অবলম্বন করা উচিত।
+

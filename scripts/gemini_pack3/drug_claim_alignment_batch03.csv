@@ -1,0 +1,83 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+dexamethasone,G03-205,,,,high,
+dexamethasone,G03-207,G03-265,,,medium,Bangla states various types of rhinitis rather than perennial or seasonal allergic rhinitis
+dexamethasone,G03-223,G03-281,,,high,
+dexamethasone,G03-232,G03-292,,,high,
+dexamethasone,G03-236,G03-296,,,medium,Bangla states severe tuberculosis alongside other medicines without specifying fulminating or disseminated pulmonary tuberculosis
+dexamethasone,G03-244,,,,high,
+dexamethasone,G03-249,G03-308,,,high,
+dexamethasone,G03-254,,চোখে ভাইরাসের সংক্রমণ,,high,
+dexamethasone,G03-261,G03-317,,,high,
+dexamethasone,,G03-288,,craniotomy,high,
+dexamethasone,,G03-289,,head injury,high,
+diazepam,G03-320,,,,high,
+diazepam,G03-324,,,,high,
+diazepam,G03-325,G03-343,,,high,
+diazepam,G03-326,G03-345,,,medium,Bangla translates status epilepticus in the corresponding indications slot as seizures in epileptic patients (could also broadly relate to G03-330)
+diazepam,G03-329,,,,high,
+diazepam,G03-330,,,,high,
+diazepam,G03-332,G03-349,,,high,
+diazepam,G03-334,,,,high,Bangla contraindications lists respiratory hypersensitivity (G03-348) instead of hypersensitivity to benzodiazepines
+diazepam,G03-335,G03-352,,,high,
+diazepam,P03-405,,,,high,
+diazepam,P03-406,,,,high,
+diazepam,P03-407,,,,high,
+diazepam,P03-415,P03-398,,,medium,Bangla states alcohol abuse without mentioning drug abuse
+diazepam,,G03-348,,,high,
+diazepam,,G03-344,,,high,
+diclofenac-sodium,G04-001,G04-037,,,high,
+diclofenac-sodium,G04-002,,,,medium,"Bangla merges 'chronic involutive' into 'দীর্ঘস্থায়ী, হাড়ের জটিল বহুমুখী প্রদাহ' (G04-038, matched to G04-003)"
+diclofenac-sodium,G04-003,G04-038,,,medium,"G04-038 corresponds to 'chronic involutive, polyarthritis' (could also partially match G04-002); matched to G04-003 as the closer condition"
+diclofenac-sodium,G04-005,G04-040,,,medium,Bangla translates osteoarthritis as bone inflammation in the corresponding list position
+diclofenac-sodium,G04-006,G04-041,,,medium,Bangla translates spondylarthroses as vertebral dislocation in the corresponding list position
+diclofenac-sodium,G04-008,,,,high,
+diclofenac-sodium,G04-012,G04-046,,,high,
+diclofenac-sodium,G04-013,G04-047,,,high,
+diclofenac-sodium,G04-014,G04-048,,,medium,Bangla renders 'surgical interventions' in the corresponding list position as severe surgical wound and injury pain
+diclofenac-sodium,G04-015,G04-049,,,high,
+diclofenac-sodium,G04-016,,,,high,
+diclofenac-sodium,G04-017,,,,medium,"Bangla uses general genital tract inflammation (G04-051), which was matched to the closer claim G04-020 (salpingitis)"
+diclofenac-sodium,G04-018,G04-050,,,medium,G04-050 (uterine inflammation) could also cover G04-019 (parametritis); matched to G04-018 as the closer condition
+diclofenac-sodium,G04-019,,,,medium,"Bangla uses general uterine inflammation (G04-050), which was matched to the closer claim G04-018 (endometritis)"
+diclofenac-sodium,G04-020,G04-051,,,medium,G04-051 (genital tract inflammation) could also cover G04-017 (adnexitis); matched to G04-020 as the closer condition
+diclofenac-sodium,G04-021,G04-052,,,high,
+diclofenac-sodium,G04-023,,"অস্ত্রোপচারের পরবর্তী ও আঘাতের ফলে সৃষ্ট ব্যথা, প্রদাহ এবং ফোলা।",,high,
+diclofenac-sodium,G04-024,G04-056,,,medium,Bangla splits urogenital operation pain/inflammation into G04-056 and G04-057; matched to G04-056 as the closer urogenital claim
+diclofenac-sodium,G04-025,G04-058,,,high,
+diclofenac-sodium,G04-026,G04-062,,,medium,"G04-062 covers hypersensitivity to diclofenac, gel base ingredients, and other NSAIDs (could also match G04-028); matched to G04-026 because it includes product ingredients"
+diclofenac-sodium,G04-028,G04-059,,,medium,G04-059 covers hypersensitivity to diclofenac sodium (G04-062 also mentions other NSAIDs)
+diclofenac-sodium,G04-029,G04-061,,,medium,Bangla states asthma generally without specifying precipitation by acetylsalicylic acid or prostaglandin synthetase inhibitors
+diclofenac-sodium,G04-030,G04-063,,,high,
+diclofenac-sodium,G04-036,G04-069,,,high,
+diclofenac-sodium,P04-024,,,,high,Bangla precautions frames peptic ulcer as a pre-existing condition requiring caution rather than an adverse effect caused by treatment
+diclofenac-sodium,P04-025,,,,high,Bangla precautions frames gastrointestinal bleeding as a pre-existing condition requiring caution (P04-002) rather than an adverse effect caused by treatment
+diclofenac-sodium,P04-026,P04-003,,,high,
+diclofenac-sodium,P04-029,P04-006,,,high,
+diclofenac-sodium,,G04-054,,"As pre-operative medication for the prevention of pain, inflammation, and swelling.",high,
+diclofenac-sodium,,G04-053,,,high,
+diclofenac-sodium,,G04-057,,prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract,medium,Second half of split Bangla translation of G04-024
+diclofenac-sodium,,P04-002,,,high,English precautions mentions peptic ulceration or gastrointestinal bleeding occurring during treatment rather than caution in pre-existing patients
+dinoprostone,G04-074,G04-101,,,high,
+dinoprostone,G04-075,G04-102,,,medium,G04-102 combines G04-075 and G04-076; matched to G04-075 as the first clause
+dinoprostone,G04-076,,যেখানে জরায়ুর দীর্ঘায়িত সংকোচন অনুপযুক্ত বলে মনে করা হয়,,high,Covered in combined Bangla claim G04-102 (matched to G04-075)
+dinoprostone,G04-077,G04-103,,,medium,G04-103 combines G04-077 and G04-078; matched to G04-077 as the first clause
+dinoprostone,G04-078,,জরায়ু অস্ত্রোপচার,,high,Covered in combined Bangla claim G04-103 (matched to G04-077)
+dinoprostone,G04-079,G04-104,,,high,
+dinoprostone,G04-080,G04-105,,,medium,G04-105 combines G04-080 and G04-081; matched to G04-080 as the first clause
+dinoprostone,G04-081,,আঘাতমূলক ডেলিভারি,,high,Covered in combined Bangla claim G04-105 (matched to G04-080)
+dinoprostone,G04-084,G04-108,,,medium,"G04-108 combines G04-084, G04-085, and G04-086; matched to G04-084 as the primary condition"
+dinoprostone,G04-085,,একাধিক গর্ভাবস্থা,,high,Covered in combined Bangla claim G04-108 (matched to G04-084)
+dinoprostone,G04-086,,পলিহাইড্রোমনিয়াস,,high,Covered in combined Bangla claim G04-108 (matched to G04-084)
+dinoprostone,G04-087,G04-109,,,medium,G04-109 combines G04-087 and G04-088; matched to G04-087 as the first clause
+dinoprostone,G04-088,,সন্দেহজনক কোরিওঅ্যামনিওনাইটিস,,high,Covered in combined Bangla claim G04-109 (matched to G04-087)
+dinoprostone,G04-090,G04-111,,,medium,Bangla translates fetal malpresentation as fetal abnormality
+doxycycline-hydrochloride,G04-128,G04-164,,,medium,"Bangla splits 'Lympho-granuloma venereum, psittacosis' across G04-164 and G04-165"
+doxycycline-hydrochloride,G04-129,G04-165,,,medium,Bangla renders psittacosis alongside 'venereum' as 'ভেনেরিয়াম লিটাকোসিস' (G04-165)
+doxycycline-hydrochloride,G04-132,G04-168,,,high,
+doxycycline-hydrochloride,G04-142,G04-178,,,medium,G04-178 combines G04-142 (tularemia) and G04-143 (cellulitis); matched to G04-142 as the first condition
+doxycycline-hydrochloride,G04-143,,সেলুলাইটিস,,high,Combined with tularemia in Bangla claim G04-178 (matched to G04-142)
+doxycycline-hydrochloride,G04-151,G04-185,,,medium,Bangla states risk to fetal bone growth without mentioning staining
+doxycycline-hydrochloride,G04-153,,এই ওষুধ গ্রহণকারী মায়েরা তাদের সন্তানের বুকের দুধ খাওয়ানো থেকে বিরত থাকা উচিত।,,high,Matched to exact Bangla pregnancy_lactation text; Bangla contraindications also includes G04-183
+doxycycline-hydrochloride,P04-057,P04-041,,,high,
+doxycycline-hydrochloride,P04-061,P04-045,,,high,
+doxycycline-hydrochloride,,G04-183,,It is also contraindicated to pregnant women and to the lactating mothers.,high,

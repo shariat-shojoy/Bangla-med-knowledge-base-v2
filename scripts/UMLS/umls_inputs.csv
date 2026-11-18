@@ -1,0 +1,2578 @@
+﻿kind,name,n_claims
+drug,10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula,15
+drug,albendazole,41
+drug,amoxicillin-clavulanic-acid,43
+drug,amoxicillin-trihydrate,38
+drug,ampicillin-sodium,47
+drug,aspirin,58
+drug,atenolol,80
+drug,atorvastatin-calcium,77
+drug,atosiban-acetate,40
+drug,azithromycin-dihydrate,52
+drug,benzathine-benzylpenicillin,19
+drug,betamethasone,35
+drug,cabergoline,65
+drug,caffeine-citrate,15
+drug,calcium-carbonate,43
+drug,calcium-gluconate,34
+drug,captopril,15
+drug,carbamazepine,64
+drug,carbetocin,17
+drug,carbimazole,21
+drug,carboprost-tromethamine,30
+drug,cefazolin-sodium,29
+drug,cefixime-trihydrate,33
+drug,ceftriaxone-sodium,40
+drug,cefuroxime-axetil,44
+drug,chlorhexidine-gluconate-71,8
+drug,cholecalciferol-vitamin-d3,74
+drug,ciprofloxacin,148
+drug,clindamycin,42
+drug,clotrimazole-vaginal-tablet,19
+drug,cyanocobalamin,43
+drug,dexamethasone,157
+drug,diazepam,71
+drug,diclofenac-sodium,98
+drug,dinoprostone,70
+drug,doxycycline-hydrochloride,102
+drug,drospirenone-ethinyl-estradiol-002-mg,100
+drug,dydrogesterone,79
+drug,enalapril-maleate,57
+drug,enoxaparin-sodium,60
+drug,ergometrine-maleate,47
+drug,erythromycin-oral,72
+drug,ethinyl-estradiol-desogestrel-003-mg,106
+drug,ethinyl-estradiol-levonorgestrel-ferrous-fumarate,41
+drug,ferrous-ascorbate-folic-acid-zinc-sulfate,27
+drug,ferrous-fumarate-folic-acid,19
+drug,ferrous-sulfate,17
+drug,ferrous-sulfate-folic-acid,14
+drug,fluconazole,70
+drug,folic-acid,25
+drug,folic-acid-zinc-sulfate-monohydrate,14
+drug,gentamicin-sulfate-injection,33
+drug,heparin-sodium,98
+drug,hepatitis-b-immuneglobulin,25
+drug,human-anti-d-immunoglobulins,16
+drug,human-tetanus-immunoglobulin,19
+drug,ibuprofen-oral,64
+drug,indomethacin-oral,43
+drug,insulin-human-rdna,48
+drug,iron-sucrose,51
+drug,isotretinoin-oral,120
+drug,labetalol-hydrochloride,64
+drug,lamotrigine,60
+drug,levetiracetam,83
+drug,levonorgestrel-for-emergency-contraception,53
+drug,levothyroxine-sodium,34
+drug,lithium-carbonate,85
+drug,losartan-potassium,82
+drug,magnesium-sulfate,59
+drug,mebendazole,24
+drug,medroxyprogesterone-acetate-injection,48
+drug,metformin-hydrochloride,134
+drug,methotrexate,118
+drug,methyldopa,54
+drug,methylergonovine-maleate,50
+drug,metoclopramide-hydrochloride,42
+drug,metronidazole,84
+drug,mifepristone,84
+drug,misoprostol,47
+drug,multivitamins-multiminerals-a-z-prenatal-preparation,8
+drug,nifedipine,64
+drug,nitrofurantoin,40
+drug,ondansetron,23
+drug,oral-rehydration-salt-glucose-based,16
+drug,oxytocin,42
+drug,paracetamol,83
+drug,phenobarbital,51
+drug,phenytoin-sodium,84
+drug,phytomenadione-injection,16
+drug,phytomenadione-oral,12
+drug,prochlorperazine-maleate,49
+drug,progesterone-micronised-capsule,57
+drug,progesterone-micronised-vaginal-gel,50
+drug,progesterone-micronised-vaginal-pessary,56
+drug,promethazine-hydrochloride,73
+drug,propylthiouracil,44
+drug,pyridoxine-hydrochloride-doxylamine-succinate,33
+drug,salbutamol,37
+drug,sodium-valproate,57
+drug,sulphamethoxazole-trimethoprim,40
+drug,terbutaline-sulfate,30
+drug,tetracycline-hydrochloride,54
+drug,thalidomide,65
+drug,tranexamic-acid,63
+drug,vitamin-a,33
+drug,warfarin-sodium,45
+drug,zinc-sulfate-monohydrate,20
+condition,pregnancy,215
+condition,lactation,80
+condition,renal impairment,35
+condition,hypersensitivity,32
+condition,pregnant women,23
+condition,hypertension,22
+condition,asthma,18
+condition,breastfeeding,17
+condition,nursing mothers,15
+condition,epilepsy,14
+condition,hepatic impairment,14
+condition,pulmonary embolism,13
+condition,urinary tract infections,12
+condition,thrombocytopenia,12
+condition,liver disease,11
+condition,women of childbearing potential,10
+condition,bone and joint infections,10
+condition,migraine,10
+condition,diabetes,10
+condition,depression,10
+condition,renal failure,9
+condition,sinusitis,9
+condition,nursing mother,9
+condition,breast feeding,9
+condition,alcoholism,9
+condition,hypotension,9
+condition,contraindication condition,9
+condition,impaired renal function,9
+condition,severe hepatic impairment,9
+condition,otitis media,8
+condition,skin and soft tissue infections,8
+condition,use in pregnancy and lactation,8
+condition,congestive heart failure,8
+condition,rheumatoid arthritis,8
+condition,undiagnosed vaginal bleeding,8
+condition,heart failure,8
+condition,renal insufficiency,8
+condition,neutropenia,8
+condition,cardiovascular disease,8
+condition,pediatric patients,8
+condition,suicidal ideation,8
+condition,peritonitis,7
+condition,neonates,7
+condition,lower respiratory tract infections,7
+condition,nursing woman,7
+condition,systemic lupus erythematosus,7
+condition,glaucoma,7
+condition,bronchitis,7
+condition,jaundice,7
+condition,breast cancer,7
+condition,breakthrough bleeding,7
+condition,suicide,7
+condition,hepatic insufficiency,6
+condition,septicaemia,6
+condition,meningitis,6
+condition,any condition,6
+condition,children,6
+condition,cardiogenic shock,6
+condition,renal disease,6
+condition,hyperthyroidism,6
+condition,gonorrhoea,6
+condition,bronchiectasis,6
+condition,ankylosing spondylitis,6
+condition,first trimester of pregnancy,6
+condition,severe renal insufficiency,6
+condition,endometriosis,6
+condition,dysfunctional uterine bleeding,6
+condition,stroke,6
+condition,bipolar disorder,6
+condition,known hypersensitivity,6
+condition,headache,6
+condition,hepatic disease,6
+condition,hypokalaemia,6
+condition,dizziness,6
+condition,colitis,6
+condition,history of depression,6
+condition,myocardial infarction,6
+condition,pediatric population,6
+condition,respiratory tract infections,5
+condition,insomnia,5
+condition,fetal harm,5
+condition,erysipelas,5
+condition,kidney disease,5
+condition,osteoporosis,5
+condition,severe hypertension,5
+condition,thyrotoxicosis,5
+condition,pyelonephritis,5
+condition,cellulitis,5
+condition,salpingitis,5
+condition,tonsillitis,5
+condition,porphyria,5
+condition,venous thromboembolism,5
+condition,diabetic ketoacidosis,5
+condition,adverse effects,5
+condition,severe renal impairment,5
+condition,deep venous thrombosis,5
+condition,drowsiness,5
+condition,diabetes mellitus,5
+condition,seizures,5
+condition,elderly,5
+condition,history of liver disease,5
+condition,bronchial asthma,4
+condition,anaphylactic reactions,4
+condition,vitamin & mineral deficiency,4
+condition,increased demand of nutrients,4
+condition,genito-urinary tract infections,4
+condition,reye's syndrome,4
+condition,breast-feeding,4
+condition,active peptic ulcer,4
+condition,acute myocardial infarction,4
+condition,congenital adrenal hyperplasia,4
+condition,stop breast milk production,4
+condition,porphyrias,4
+condition,premature rupture of membranes,4
+condition,skin and skin structure infections,4
+condition,acute bacterial otitis media,4
+condition,gonorrhea,4
+condition,cystitis,4
+condition,otitis externa,4
+condition,osteomyelitis,4
+condition,mastoiditis,4
+condition,teratogenicity,4
+condition,lupus erythematosus,4
+condition,respiratory depression,4
+condition,peptic ulcer,4
+condition,induction of labor,4
+condition,influenza,4
+condition,heart disease,4
+condition,high blood pressure,4
+condition,threatened miscarriage,4
+condition,secondary amenorrhea,4
+condition,deep vein thrombosis,4
+condition,severe liver disease,4
+condition,unexplained vaginal bleeding,4
+condition,prophylaxis of iron deficiency,4
+condition,iron deficiency anaemia,4
+condition,ectopic pregnancy,4
+condition,fever,4
+condition,non-dialysis dependent-chronic kidney disease,4
+condition,type 2 diabetes mellitus,4
+condition,lactic acidosis,4
+condition,dehydration,4
+condition,shock,4
+condition,ischaemic heart disease,4
+condition,maintenance of pregnancy,4
+condition,luteal support,4
+condition,premature infants,4
+condition,somnolence,4
+condition,peripheral neuropathy,4
+condition,narrow angle glaucoma,4
+condition,retinal thrombosis,4
+condition,agranulocytosis,4
+condition,bleeding,4
+condition,dialysis,4
+condition,heart diseases,4
+condition,infants,4
+condition,respiratory disease,4
+condition,premenarcheal use,4
+condition,hemodialysis,4
+condition,symptomatic hypotension,4
+condition,major surgery,4
+condition,pancytopenia,4
+condition,lithium toxicity,4
+condition,diarrhoea,4
+condition,hepatic encephalopathy,4
+condition,myopathy,4
+condition,fetal harm (animal studies),3
+condition,children under two years,3
+condition,hypersensitivity to any of the ingredients,3
+condition,roundworm,3
+condition,other infections,3
+condition,adverse effect,3
+condition,mild to moderate pain,3
+condition,severe bradycardia,3
+condition,hypersensitivity to any component,3
+condition,active liver disease,3
+condition,abruptio placenta,3
+condition,toxaemia of pregnancy,3
+condition,hypoparathyroidism,3
+condition,primary generalized tonic-clonic seizures,3
+condition,septicemia,3
+condition,osteomalacia,3
+condition,bacteraemia,3
+condition,lobar pneumonia,3
+condition,bronchopneumonia,3
+condition,acute and chronic bronchitis,3
+condition,prostatitis,3
+condition,wound infections,3
+condition,abscesses,3
+condition,cholecystitis,3
+condition,endometritis,3
+condition,impairment of fertility,3
+condition,known hypersensitivity to any of the components,3
+condition,ill effects,3
+condition,pernicious anemia,3
+condition,folic acid deficiency,3
+condition,macrocytic anaemia,3
+condition,lymphoma,3
+condition,tuberculosis,3
+condition,agitation,3
+condition,status epilepticus,3
+condition,myasthenia gravis,3
+condition,osteoarthritis,3
+condition,hypersensitivity to any ingredient,3
+condition,first trimester,3
+condition,tracheitis,3
+condition,cholera,3
+condition,syphilis,3
+condition,impetigo,3
+condition,acne,3
+condition,acute renal failure,3
+condition,severe headache,3
+condition,dysmenorrhoea,3
+condition,severe heart failure,3
+condition,heart attack,3
+condition,severe thrombocytopenia,3
+condition,human pregnancy,3
+condition,rheumatic pain,3
+condition,severe renal failure,3
+condition,hypoglycaemia,3
+condition,iron overload,3
+condition,anaesthesia,3
+condition,nursing,3
+condition,myoclonic seizures,3
+condition,recent myocardial infarction,3
+condition,severe anemia,3
+condition,active hepatic disease,3
+condition,liver failure,3
+condition,inflammatory bowel disease,3
+condition,vomiting,3
+condition,common cold,3
+condition,myalgia,3
+condition,tetanus,3
+condition,missed abortion,3
+condition,liver dysfunction,3
+condition,severe hepatic dysfunction,3
+condition,hypothyroidism,3
+condition,angioneurotic oedema,3
+condition,anaphylaxis,3
+condition,nephrotoxicity,3
+condition,orthostatic hypotension,3
+condition,atrial fibrillation,3
+condition,constipation,3
+condition,anemia,3
+condition,anaphylactic shock,3
+condition,muscle weakness,3
+condition,nausea,3
+condition,cerebrovascular disorders,3
+condition,aortic stenosis,3
+condition,elderly patients,3
+condition,haemorrhage,3
+condition,obesity,3
+condition,hypersensitivity reactions,3
+condition,surgery,3
+condition,toxic epidermal necrolysis,3
+condition,death,3
+condition,hypoglycemia,3
+condition,hyperglycemia,3
+condition,liver toxicity,3
+condition,hepatotoxicity,3
+condition,magnesium deficiency,2
+condition,irregular heartbeat,2
+condition,constipation (laxative use),2
+condition,cardiovascular disorder,2
+condition,heart block,2
+condition,gastric and duodenal ulcer prophylaxis in nsaid users at high risk,2
+condition,nsaid-induced gastric and duodenal damage,2
+condition,gastric and duodenal ulcers without nsaid therapy,2
+condition,induction of labour,2
+condition,postpartum haemorrhage (prevention and treatment),2
+condition,prostaglandin allergy,2
+condition,severe acne resistant to standard therapy,2
+condition,excessively elevated blood lipids,2
+condition,hypervitaminosis a,2
+condition,severe foetal malformation,2
+condition,spontaneous abortion,2
+condition,status epilepticus (grand mal),2
+condition,seizures during neurosurgery (prevention and treatment),2
+condition,hypersensitivity to phenytoin and hydantoins,2
+condition,infected wounds,2
+condition,skin and skin structure infection,2
+condition,bone and soft tissue infections,2
+condition,septic abortion,2
+condition,burns complicated by sepsis,2
+condition,nausea and vomiting from emetogenic cancer chemotherapy (prevention),2
+condition,radiotherapy-induced nausea and vomiting (prevention),2
+condition,allergic conditions of respiratory tract and skin,2
+condition,sedation,2
+condition,allergic rhinitis,2
+condition,urticaria,2
+condition,pre-operative sedation in surgery and obstetrics (adjunct),2
+condition,sedation in children,2
+condition,coma or cns depression,2
+condition,neonates and premature infants,2
+condition,two weeks before delivery,2
+condition,neonatal irritability and excitement,2
+condition,"prolonged neurological disturbances in the infant (high doses, late pregnancy)",2
+condition,"lower respiratory tract infections (bronchitis, pneumonia)",2
+condition,"upper respiratory tract infections (sinusitis, pharyngitis/tonsillitis)",2
+condition,hypersensitivity to azithromycin or other macrolides,2
+condition,hepatic diseases,2
+condition,uterine atony after elective caesarean under epidural or spinal anaesthesia (prevention),2
+condition,postpartum haemorrhage after elective caesarean under epidural or spinal anaesthesia (prevention),2
+condition,sensitization reactions to drug or foreign proteins,2
+condition,hookworm,2
+condition,threadworm,2
+condition,whipworm,2
+condition,tapeworm,2
+condition,opisthorchi,2
+condition,hydatid,2
+condition,children weighing less than 10 kg,2
+condition,"renal, hepatic or cardiac failure",2
+condition,upper respiratory tract infections,2
+condition,penicillin hypersensitivity,2
+condition,cross-sensitivity with other beta-lactam antibiotics,2
+condition,history of co-amoxiclav or penicillin-associated cholestatic jaundice,2
+condition,"ear, nose and throat infections",2
+condition,venereal disease,2
+condition,dental abscess,2
+condition,penicillin hypersensitive patients,2
+condition,infections of the respiratory tract,2
+condition,infections of the gastrointestinal tract,2
+condition,risk,2
+condition,prophylaxis against arterial occlusive events,2
+condition,chronic disease accompanied by pain and inflammation,2
+condition,antipyretic,2
+condition,children less than 12 years,2
+condition,bleeding due to haemophilia,2
+condition,intracranial haemorrhage,2
+condition,other ulceration,2
+condition,complications during delivery,2
+condition,angina pectoris,2
+condition,sinus bradycardia,2
+condition,heart block greater than first degree,2
+condition,overt cardiac failure,2
+condition,elevated cholesterol and triglycerides in mixed dyslipidemia,2
+condition,dysbetalipoproteinaemia,2
+condition,cardiac ischaemic events in coronary artery disease,2
+condition,hypercholesterolemia associated with or exacerbated by diabetes mellitus or renal transplantation,2
+condition,unexplained persistent elevations of serum transaminases,2
+condition,history of serious adverse reaction to prior administration of hmg-coa reductase inhibitors,2
+condition,toxicity to reproduction,2
+condition,"women who are pregnant, trying to become pregnant or suspect they are pregnant",2
+condition,rheumatic fever,2
+condition,first three months of pregnancy,2
+condition,inflammatory and allergic disorders,2
+condition,"ear, eye, nose and oral ulceration",2
+condition,mental illness associated with child-birth (puerperal psychosis),2
+condition,apnea of prematurity,2
+condition,vitamin d deficiency,2
+condition,hyperphosphataemia,2
+condition,hypercalcaemia,2
+condition,sarcoidosis,2
+condition,cardiac disease,2
+condition,dietary supplement,2
+condition,severe hypoglycemic tetany,2
+condition,vitamin d-deficiency,2
+condition,extreme hypercalcemia,2
+condition,mild-to-moderate hypertension,2
+condition,trigeminal neuralgia,2
+condition,atrioventricular block,2
+condition,bone marrow depression,2
+condition,preparation of patients for thyroidectomy,2
+condition,radio-active ablative therapy,2
+condition,inadvertent or spontaneous rupture of membranes,2
+condition,postpartum hemorrhage,2
+condition,acute pelvic inflammatory disease,2
+condition,biliary tract infections,2
+condition,genital infections,2
+condition,endocarditis,2
+condition,perioperative prophylaxis,2
+condition,bacterial septicemia,2
+condition,prevention of postoperative infections,2
+condition,pharyngitis/tonsillitis,2
+condition,acute bacterial maxillary sinusitis,2
+condition,acute bacterial exacerbation of chronic bronchitis,2
+condition,skin and skin-structure infections,2
+condition,early lyme disease (erythema migrans),2
+condition,rickets,2
+condition,pre-eclampsia,2
+condition,infections caused by organisms resistant to other antibiotics,2
+condition,infections in immunosuppressed patients with haematological or solid tumors,2
+condition,empyema,2
+condition,epididymitis,2
+condition,infected ulcers,2
+condition,infected burns,2
+condition,enteric fever,2
+condition,infective diarrhea,2
+condition,cholangitis,2
+condition,empyema of the gall bladder,2
+condition,intra abdominal abscesses,2
+condition,septic arthritis,2
+condition,pelvic inflammatory diseases,2
+condition,"urethral, rectal and pharyngeal gonorrhoea",2
+condition,impairment of peri/post natal development,2
+condition,arthropathy,2
+condition,upper respiratory infections,2
+condition,lower respiratory infections,2
+condition,pelvic infections,2
+condition,intra-abdominal infections,2
+condition,septicemia and endocarditis,2
+condition,dental infections,2
+condition,hemorrhage,2
+condition,risk to the fetus,2
+condition,atopic dermatitis,2
+condition,drug hypersensitivity reactions,2
+condition,serum sickness,2
+condition,bullous dermatitis herpetiformis,2
+condition,exfoliative erythroderma,2
+condition,mycosis fungoides,2
+condition,pemphigus,2
+condition,severe erythema multiforme (stevens-johnson syndrome),2
+condition,primary or secondary adrenocortical insufficiency,2
+condition,hypercalcemia associated with cancer,2
+condition,nonsuppurative thyroiditis,2
+condition,regional enteritis,2
+condition,ulcerative colitis,2
+condition,acquired (autoimmune) hemolytic anemia,2
+condition,secondary thrombocytopenia,2
+condition,acute exacerbations of multiple sclerosis,2
+condition,cerebral edema,2
+condition,temporal arteritis,2
+condition,uveitis,2
+condition,idiopathic nephrotic syndrome,2
+condition,berylliosis,2
+condition,idiopathic eosinophilic pneumonias,2
+condition,symptomatic sarcoidosis,2
+condition,acute gouty arthritis,2
+condition,acute rheumatic carditis,2
+condition,psoriatic arthritis,2
+condition,dermatomyositis,2
+condition,polymyositis,2
+condition,tuberculous meningitis,2
+condition,systemic and ophthalmic fungal infections,2
+condition,hypersensitivity to corticosteroids,2
+condition,mild to moderate anxiety,2
+condition,excitation,2
+condition,fear,2
+condition,aggressiveness,2
+condition,premedication for surgical procedures,2
+condition,febrile convulsions,2
+condition,acute gout,2
+condition,sprain,2
+condition,abortion at 12 to 20 weeks,2
+condition,clean out vagina after miscarriage,2
+condition,suspected or clinically evident pre-existing fetal distress,2
+condition,history of epilepsy,2
+condition,"pregnancy, labor or delivery",2
+condition,breastfeeding mothers,2
+condition,pneumonia,2
+condition,traveler's diarrhea,2
+condition,shigella dysentery,2
+condition,acute intestinal amebiasis,2
+condition,trachoma,2
+condition,furunculosis,2
+condition,inclusion conjunctivitis,2
+condition,brucellosis,2
+condition,q-fever,2
+condition,hypersensitivity to tetracyclines,2
+condition,children under 8 years,2
+condition,lactating mothers,2
+condition,pregnant and lactating mothers,2
+condition,known or suspected pregnancy,2
+condition,pregnancy occurs during use,2
+condition,reduce quantity and change composition of breast milk,2
+condition,habitual miscarriage,2
+condition,secondary amenorrhoea,2
+condition,infertility due to luteal insufficiency,2
+condition,known or suspected progestogen dependent neoplasms,2
+condition,hepatic disease or dysfunction,2
+condition,dubin-johnson syndrome,2
+condition,rotor syndrome,2
+condition,history of herpes in pregnancy,2
+condition,harmful effect during pregnancy,2
+condition,breastfed child,2
+condition,decreases fertility,2
+condition,dysmenorrhea,2
+condition,unstable angina,2
+condition,non-q-wave myocardial infarction,2
+condition,"hypersensitivity to enoxaparin sodium, heparin or lmw heparins",2
+condition,peritonsillar abscess,2
+condition,pharyngitis,2
+condition,blepharitis,2
+condition,established trachoma,2
+condition,trauma,2
+condition,scarlet fever,2
+condition,whooping cough,2
+condition,thrombosis,2
+condition,haemolytic anaemia,2
+condition,increased body iron content,2
+condition,megaloblastic anaemia of pregnancy,2
+condition,anaemia of pregnancy,2
+condition,iron and folic acid deficiency,2
+condition,vaginal candidiasis,2
+condition,oropharyngeal candidiasis,2
+condition,esophageal candidiasis,2
+condition,tinea corporis,2
+condition,tinea cruris,2
+condition,tinea pedis,2
+condition,other tinea,2
+condition,kerion,2
+condition,pityriasis versicolor,2
+condition,onychomycosis,2
+condition,invasive candidal infections,2
+condition,cryptococcal infections (including meningitis),2
+condition,prevention of cryptococcal meningitis,2
+condition,prevention of fungal infections in immunocompromised patients,2
+condition,systemic candidiasis,2
+condition,cryptococcal infection,2
+condition,superficial candidiasis,2
+condition,megaloblastic anemia,2
+condition,anemias of nutritional origins,2
+condition,anemias of pregnancy,2
+condition,anemias of childhood,2
+condition,harmful effects on the course of pregnancy,2
+condition,harmful effects on the fetus,2
+condition,harmful effects on the neonate,2
+condition,backache,2
+condition,last trimester of pregnancy,2
+condition,lactating women,2
+condition,osteoarthritis (degenerative joint disease),2
+condition,gout,2
+condition,ulcer,2
+condition,gastritis,2
+condition,active ulcerative colitis,2
+condition,active inflammatory bowel disease,2
+condition,hemodialysis dependent-chronic kidney disease,2
+condition,peritoneal dialysis dependent-chronic kidney disease,2
+condition,hypertension in pregnancy,2
+condition,hypertension after stroke,2
+condition,hypertension with angina,2
+condition,hypertension following acute myocardial infarction,2
+condition,hypertensive crisis,2
+condition,second or third degree heart block,2
+condition,infranodal a-v block,2
+condition,uncontrolled heart failure,2
+condition,sick-sinus syndrome,2
+condition,severe and prolonged hypotension,2
+condition,fetal malformations,2
+condition,pregnant women with hypertension,2
+condition,partial-onset seizures,2
+condition,generalized seizures of lennox-gastaut syndrome,2
+condition,partial-onset seizures with or without secondary generalization in newly diagnosed epilepsy,2
+condition,impact on fertility,2
+condition,generalized tonic-clonic seizures,2
+condition,prevent fertilization in case of unprotected intercourse,2
+condition,rape,2
+condition,diagnostic aid,2
+condition,untreated subclinical or overt thyrotoxicosis,2
+condition,uncorrected adrenal failure,2
+condition,mania,2
+condition,recurrent depression,2
+condition,addison's disease,2
+condition,untreated hypothyroidism,2
+condition,threadworms,2
+condition,roundworms,2
+condition,hookworms,2
+condition,ovulation suppression,2
+condition,severe liver dysfunction,2
+condition,diabetic complications,2
+condition,severe infection,2
+condition,acute alcohol intoxication,2
+condition,gestational choriocarcinoma,2
+condition,chorioadenoma destruens,2
+condition,hydatidiform mole,2
+condition,acute lymphoblastic leukemia,2
+condition,epidermoid cancers of the head and neck,2
+condition,advanced mycosis fungoides,2
+condition,lung cancer,2
+condition,"severe, active rheumatoid arthritis",2
+condition,active polyarticular-course juvenile rheumatoid arthritis,2
+condition,alcoholic liver disease,2
+condition,other chronic liver disease,2
+condition,immunodeficiency syndromes,2
+condition,bone marrow hypoplasia,2
+condition,leukopenia,2
+condition,hypersensitivity to methotrexate,2
+condition,neoplastic diseases,2
+condition,acute hepatitis,2
+condition,active cirrhosis,2
+condition,post-operative infections due to anaerobic bacteria,2
+condition,brain abscess,2
+condition,pelvic abscess,2
+condition,pelvic cellulitis,2
+condition,post-operative wound infections caused by anaerobes,2
+condition,urogenital trichomoniasis,2
+condition,bacterial vaginosis,2
+condition,intestinal amoebiasis,2
+condition,symptomless cyst passers (amoebiasis),2
+condition,giardiasis,2
+condition,acute ulcerative gingivitis,2
+condition,anaerobically infected leg ulcers,2
+condition,acute dental infections due to anaerobic organisms,2
+condition,antibiotic associated pseudomembranus colitis,2
+condition,hypersensitivity to metronidazole or other nitroimidazole derivatives,2
+condition,surgical termination of intra-uterine pregnancy,2
+condition,softening and dilatation of the cervix uteri,2
+condition,preparation for the action of prostaglandin analogues,2
+condition,labour induction for the expulsion of a dead fetus,2
+condition,doubt as to the existence or age of the pregnancy,2
+condition,extra-uterine pregnancy,2
+condition,chronic adrenal failure,2
+condition,allergy to mifepristone or any component,2
+condition,severe asthma uncontrolled by corticosteroid therapy,2
+condition,malnutrition,2
+condition,termination of pregnancy,2
+condition,breast-feeding women,2
+condition,angina,2
+condition,raynauds phenomenon,2
+condition,advanced aortic stenosis,2
+condition,gl obstruction,2
+condition,anuria,2
+condition,oliguria,2
+condition,pregnant patients at 38-42 weeks,2
+condition,labor,2
+condition,delivery,2
+condition,severe impairment of renal function,2
+condition,adherent placenta,2
+condition,incomplete abortion,2
+condition,toothache,2
+condition,earache,2
+condition,bodyache,2
+condition,neuralgia,2
+condition,sprains,2
+condition,colic pain,2
+condition,back pain,2
+condition,post-operative pain,2
+condition,postpartum pain,2
+condition,inflammatory pain,2
+condition,post vaccination pain,2
+condition,osteoarthritic pain,2
+condition,stiffness of joints,2
+condition,phenobarbital sensitivity,2
+condition,fetal damage,2
+condition,allergy,2
+condition,severe hypoprothrombinemia,2
+condition,pregnancy_lactation,2
+condition,meniere's disease,2
+condition,psychotic illness,2
+condition,schizophrenia,2
+condition,acute mania,2
+condition,severe cns depression,2
+condition,coma,2
+condition,children under 2 years,2
+condition,endometrial hyperplasia,2
+condition,cycle control,2
+condition,premenstrual tension,2
+condition,benign mastopathy,2
+condition,hepatic dysfunction,2
+condition,undiagnosed uterine bleeding,2
+condition,cerebral apoplexy,2
+condition,acute porphyria,2
+condition,luteal phase support,2
+condition,premenstrual syndrome,2
+condition,puerperal depression,2
+condition,progesterone sensitive malignant tumors,2
+condition,active arterial or venous thromboembolism,2
+condition,severe thrombophlebitis,2
+condition,graves' disease with hyperthyroidism,2
+condition,toxic multinodular goiter,2
+condition,fetal goiter,2
+condition,nausea and vomiting of pregnancy,2
+condition,chronic bronchitis,2
+condition,emphysema,2
+condition,partial seizures,2
+condition,absence seizures (petit mal),2
+condition,generalized tonic-clonic seizures (grand mal),2
+condition,atonic seizures,2
+condition,mixed seizures that include absence attack,2
+condition,prophylaxis of febrile convulsion,2
+condition,prophylaxis of post-traumatic epilepsy,2
+condition,prophylaxis of migraine,2
+condition,permanent tooth discoloration,2
+condition,newly diagnosed multiple myeloma (mm),2
+condition,cutaneous manifestations of moderate to severe erythema nodosum leprosum (enl),2
+condition,prevention and suppression of the cutaneous manifestations of enl recurrence,2
+condition,thrombocytopenic purpura,2
+condition,accidents during thrombolytic therapy and transfusion,2
+condition,thromboembolic disease,2
+condition,arterial and venous thrombosis,2
+condition,antifibrinolytic effect,2
+condition,xerophthalmia,2
+condition,"changes in skin, hair and nails",2
+condition,ichthyosis,2
+condition,darier's disease,2
+condition,psoriasis,2
+condition,women who are or may become pregnant,2
+condition,recurrent myocardial infarction,2
+condition,uncontrolled hypertension,2
+condition,zinc deficiency,2
+condition,zinc losing conditions,2
+condition,more severe renal impairment,2
+condition,diabetic patients receiving sulphonylurea drug,2
+condition,myocardial insufficiency,2
+condition,severe asthma,2
+condition,hypertophic cardiomyopathy,2
+condition,systemic allergic reactions to immunoglobulin,2
+condition,coagulation disorder,2
+condition,severe and life-threatening birth defects,2
+condition,females of reproductive potential,2
+condition,hematuria,2
+condition,serious renal insufficiency or anuric syndromes,2
+condition,less serious renal dysfunctions,2
+condition,cardiopathic and hepatopathic subjects,2
+condition,history of allergy,2
+condition,elderly subject,2
+condition,acute illness,2
+condition,deficient renal function,2
+condition,hypothyroidism due to a decrease in pituitary gland function,2
+condition,severe and long-existing hypothyroidism,2
+condition,hyperglycaemia,2
+condition,occlusive vascular disorders,2
+condition,aneurysms,2
+condition,tachyphylaxis,2
+condition,closed angle glaucoma,2
+condition,antihypertensive therapy,2
+condition,severe coronary artery disease,2
+condition,bladder neck obstruction,2
+condition,pyloro-duodenal obstruction,2
+condition,blood vessel administration,2
+condition,hbsag carrier,2
+condition,fall in blood pressure,2
+condition,anaphylactic reaction,2
+condition,puerperal psychosis,2
+condition,fibrotic reactions,2
+condition,hypersensitive,2
+condition,increased intraocular pressure,2
+condition,stenosing peptic ulcer,2
+condition,pyloroduodenal obstruction,2
+condition,urinary bladder-neck obstruction,2
+condition,history of gastrointestinal disease,2
+condition,sepsis,2
+condition,obliterative vascular disease,2
+condition,second stage of labor,2
+condition,abnormal liver function test,2
+condition,cholestatic jaundice,2
+condition,protein c or protein s deficiency,2
+condition,missed miscarriage,2
+condition,arterial or venous thromboembolism,2
+condition,thrombophlebitis,2
+condition,impaired liver function,2
+condition,echinococcosis,2
+condition,elderly with renal failure,2
+condition,impaired function of the liver,2
+condition,impaired function of the kidneys,2
+condition,multiple pregnancies,2
+condition,gestational age 24-27 weeks,2
+condition,uterine relaxation,2
+condition,postpartum bleeding,2
+condition,inadequate uterus contraction postpartum,2
+condition,severe hepatocellular injury,2
+condition,liver injury,2
+condition,peripheral vascular disease,2
+condition,hypoprothrombinemia,2
+condition,severe hepatic reactions,2
+condition,galactorrhoea,2
+condition,liver problems,2
+condition,mixed seizures,2
+condition,absence seizures,2
+condition,impaired hepatic function,2
+condition,gallbladder sludge,2
+condition,potent diuretics,2
+condition,hypersensitive to penicillin,2
+condition,hypertonus,2
+condition,sustained uterine contractility,2
+condition,fetal distress,2
+condition,hypertonic uterine contractility,2
+condition,tetanic uterine contractions,2
+condition,primary hyperthyroidism,2
+condition,granulomatous disease,2
+condition,cns disorders,2
+condition,arteriosclerosis,2
+condition,gastrointestinal disease,2
+condition,newborns,2
+condition,hypokalemia,2
+condition,sudden death,2
+condition,leber optic nerve atrophy,2
+condition,thrombocytosis,2
+condition,overweight,2
+condition,heart valve disorder,2
+condition,superficial phlebitis,2
+condition,varicose veins,2
+condition,"family history of thrombosis, heart attack or stroke",2
+condition,high cholesterol or triglycerides,2
+condition,family history of breast cancer,2
+condition,liver or gallbladder disease,2
+condition,crohn's disease or ulcerative colitis,2
+condition,haemolytic uraemic syndrome,2
+condition,sickle cell disease,2
+condition,chloasma,2
+condition,benign liver tumours,2
+condition,malignant liver tumours,2
+condition,cervical cancer,2
+condition,salicylate intoxication,2
+condition,abrupt withdrawal,2
+condition,gastrointestinal bleeding,2
+condition,eyes,2
+condition,mucus membranes,2
+condition,last half of pregnancy,2
+condition,infancy,2
+condition,circulatory disorder,2
+condition,habitual abortion,2
+condition,threatened abortion,2
+condition,tissue iron overload,2
+condition,hyperkalaemia,2
+condition,cerebrovascular disease,2
+condition,cough,2
+condition,outflow obstruction,2
+condition,vasospasm,2
+condition,cerebral ischaemia,2
+condition,ischaemia of extremities,2
+condition,breech and abnormal foetal presentation,2
+condition,chronic anaemia,2
+condition,respiratory impairment,2
+condition,cardiac impairment,2
+condition,toxemia,2
+condition,hypocalcaemia,2
+condition,thrombotic disorder,2
+condition,postpartum non-breastfeeding,2
+condition,prediabetes,2
+condition,uncontrolled dyslipidemia,2
+condition,irregular bleeding,2
+condition,amenorrhea,2
+condition,haemochromatosis,2
+condition,haemolytic anemia,2
+condition,red cell aplasia,2
+condition,tetracycline in pregnancy,2
+condition,folate dependent tumours,2
+condition,undiagnosed megaloblastic anaemia,2
+condition,vitamin b12 deficiency states,2
+condition,subacute combined degeneration of the cord,2
+condition,rhesus-positive individuals,2
+condition,postpartum usage,2
+condition,white clot syndrome,2
+condition,skin necrosis,2
+condition,gangrene of the extremities,2
+condition,neuraxial anaesthesia,2
+condition,spinal puncture,2
+condition,disease states with increased danger of haemorrhage,2
+condition,subacute bacterial endocarditis,2
+condition,haemophilia,2
+condition,vascular purpuras,2
+condition,ulcerative lesions of stomach or small intestine,2
+condition,menstruation,2
+condition,liver disease with impaired hemostasis,2
+condition,oedema with sodium retention,2
+condition,paediatric patients,2
+condition,changes in ocular function,2
+condition,parkinsonism,2
+condition,aggravated depression,2
+condition,anxiety,2
+condition,aggressive tendencies,2
+condition,mood alterations,2
+condition,psychotic symptoms,2
+condition,suicide attempts,2
+condition,dry skin,2
+condition,dry lips,2
+condition,erythema multiforme,2
+condition,stevens-johnson syndrome,2
+condition,allergic vasculitis,2
+condition,dry eyes,2
+condition,corneal opacities,2
+condition,decreased night vision,2
+condition,keratitis,2
+condition,arthralgia,2
+condition,increased serum creatine phosphokinase,2
+condition,premature epiphyseal closure,2
+condition,hyperostosis,2
+condition,calcification of tendons and ligaments,2
+condition,benign intracranial hypertension,2
+condition,lipid metabolism disorder,2
+condition,rash,2
+condition,blood dyscrasias,2
+condition,unexpected infection,2
+condition,suicidal behavior and ideation,2
+condition,aseptic meningitis,2
+condition,acute kidney injury,2
+condition,decreased blood cell counts,2
+condition,leucopenia,2
+condition,suicide attempt,2
+condition,children under 6 years,2
+condition,mild to moderate hepatic impairment,2
+condition,regular intake,2
+condition,regular contraception,2
+condition,severe digestive disease,2
+condition,neurotoxicity,2
+condition,ataxia,2
+condition,tremors,2
+condition,tinnitus,2
+condition,confusion,2
+condition,protracted sweating,2
+condition,decreased tolerance to lithium,2
+condition,second trimester of pregnancy,2
+condition,third trimester of pregnancy,2
+condition,reduced fetal renal function,2
+condition,intravascular volume depletion,2
+condition,cirrhotic patients,2
+condition,superinfections,2
+condition,anticoagulation therapy,2
+condition,crystalluria,2
+condition,high dose,2
+condition,history of β-lactam allergy,2
+condition,decreased plasma/urinary steroids,2
+condition,decreased cortisol,2
+condition,decreased pregnanediol,2
+condition,decreased progesterone,2
+condition,decreased testosterone,2
+condition,decreased lh,2
+condition,decreased fsh,2
+condition,decreased sex hormone-binding globulin,2
+condition,unexpected vaginal bleeding,2
+condition,metformin accumulation,2
+condition,low vitamin b12,2
+condition,children with type 2 diabetes,2
+condition,prepubescent children,2
+condition,children 10 to 12 years,2
+condition,gfr < 30 ml/min,2
+condition,conditions that alter renal function,2
+condition,toxicity,2
+condition,bone marrow suppression,2
+condition,intrathecal therapy,2
+condition,high dose methotrexate therapy,2
+condition,toxic effects,2
+condition,folate deficiency,2
+condition,young adults,2
+condition,history of liver dysfunction,2
+condition,history of clinical edema,2
+condition,history of weight gain,2
+condition,progressing edema,2
+condition,signs of heart failure,2
+condition,recurrence of hypertension,2
+condition,involuntary choreoathetotic movements,2
+condition,tardive dyskinesia,2
+condition,extrapyramidal symptoms,2
+condition,neuroleptic malignant syndrome,2
+condition,parkinson’s disease,2
+condition,psychotic reactions,2
+condition,disulfiram-like reaction,2
+condition,central neuropathy,2
+condition,insulin-dependent diabetes mellitus,2
+condition,heavy smoking,2
+condition,women over 35 who smoke 10 or more cigarettes per day,2
+condition,childbearing potential,2
+condition,acute fetal distress,2
+condition,placenta previa,2
+condition,children under 18 years,2
+condition,depressed renal function,2
+condition,severe continuing diarrhea,2
+condition,critical fluid losses,2
+condition,severe hypotension,2
+condition,poor cardiac reserve,2
+condition,ischaemic pain,2
+condition,acute pulmonary reactions,2
+condition,sub-acute pulmonary reactions,2
+condition,chronic pulmonary reactions,2
+condition,uterine sensitivity,2
+condition,scars of the uterus,2
+condition,scars of the cervix uteri,2
+condition,bronchospasm,2
+condition,uncontrolled blood pressure,2
+condition,nasal polyp,2
+condition,nasal allergy,2
+condition,non-cirrhotic alcoholic liver disease,2
+condition,psychological dependence,2
+condition,physical dependence,2
+condition,tolerance,2
+condition,mentally depressed patients,2
+condition,suicidal tendencies,2
+condition,history of drug abuse,2
+condition,hepatic damage,2
+condition,skin rashes,2
+condition,bradycardia,2
+condition,vertigo,2
+condition,syncope,2
+condition,postural hypotension,2
+condition,asystole,2
+condition,rebound hypertension,2
+condition,severe anaphylactic reaction,2
+condition,patients already on a beta blocker,2
+condition,peripheral arterial circulatory disorders,2
+condition,elderly with hypertension and angina pectoris,2
+condition,elderly with acute myocardial infarction,2
+condition,driving or using machinery,2
+condition,extreme drowsiness,2
+condition,prolonged sun exposure,2
+condition,heatstroke,2
+condition,hypomagnesaemia,1
+condition,seizures in eclampsia,1
+condition,seizures in acute uraemia,1
+condition,seizures in hypothyroidism,1
+condition,severe myocardial damage,1
+condition,significantly decreased kidney function,1
+condition,abortifacient effect,1
+condition,uterine atony after delivery of placenta,1
+condition,postpartum haemorrhage,1
+condition,subinvolution of the uterus,1
+condition,uterine haemorrhage in second stage of labour after anterior shoulder,1
+condition,toxaemia,1
+condition,adverse effects in the breast-feeding infant,1
+condition,reduced breast milk yield,1
+condition,fetal ototoxicity,1
+condition,post-operative nausea and vomiting (prevention and treatment),1
+condition,non-gonococcal urethritis and cervicitis due to chlamydia trachomatis,1
+condition,"before delivery of the infant, including induction of labour",1
+condition,hypersensitivity to oxytocin or carbetocin,1
+condition,"cardiovascular disease (coronary artery disease, valvular heart disease, cardiomyopathy, heart failure)",1
+condition,significant safety concern in the breastfed infant,1
+condition,hypermagnesaemia,1
+condition,"seizures (prevention and control), cause not named",1
+condition,myocardium,1
+condition,kidney function,1
+condition,uncomplicated genital infection due to chlamydia trachomatis,1
+condition,typhoid fever,1
+condition,post-operative nausea and vomiting (prevention),1
+condition,strongyloides,1
+condition,teratogenic effect,1
+condition,untoward effect,1
+condition,effect on fetal organ development,1
+condition,adverse reaction,1
+condition,infections due to susceptible ß-lactamase negative strains of microorganisms,1
+condition,h. pylori infection and duodenal ulcer disease,1
+condition,infections caused by susceptible ß-lactamase negative strains of bacteria,1
+condition,h. pylori infection and duodenal ulcer,1
+condition,infections of the genitourinary tract including gonorrhea,1
+condition,hypersensitivity to ampicillin and other penicillins,1
+condition,fetal risk,1
+condition,problems in the unborn child,1
+condition,harm to the unborn child,1
+condition,hypersensitivity to the atenolol or any of the drug product's components,1
+condition,clinically significant bradycardia,1
+condition,"premature infants, or infants with impaired renal function",1
+condition,hypersensitivity to the atenolol or any of its components,1
+condition,premature infants or infants with impaired kidney function,1
+condition,elevated total cholesterol and ldl cholesterol in familial hypercholesterolemia,1
+condition,elevated serum triglyceride levels in hypertriglyceridaemia,1
+condition,congenital anomalies,1
+condition,reduce the fetal levels of mevalonate,1
+condition,total cholesterol and ldl cholesterol in familial hypercholesterolemia,1
+condition,elevated serum triglyceride in hypertriglyceridaemia,1
+condition,birth defects,1
+condition,reduce fetal levels of mevalonate,1
+condition,delay imminent pre-term birth,1
+condition,gestational age below 24 or over 33 completed weeks,1
+condition,premature rupture of the membranes >30 weeks of gestation,1
+condition,abnormal foetal heart rate,1
+condition,antepartum uterine haemorrhage requiring immediate delivery,1
+condition,eclampsia and severe pre-eclampsia requiring delivery,1
+condition,intrauterine foetal death,1
+condition,suspected intrauterine infection,1
+condition,placenta praevia,1
+condition,continuation of pregnancy is hazardous,1
+condition,syphilis: early syphilis (primary and secondary),1
+condition,latent syphilis,1
+condition,yaws,1
+condition,pinta,1
+condition,poststreptococcal glomerulonephritis,1
+condition,patient hypersensitive to penicillin,1
+condition,systemic infections,1
+condition,hypersensitivity to any component of the tablets,1
+condition,conditions caused by hormonal disturbance,1
+condition,"serious mental disease, particularly psychotic disorders",1
+condition,conditions caused by high levels of prolactin due to hormonal disturbance,1
+condition,"serious mental disease, especially mental disorders",1
+condition,high blood pressure in pregnancy (pregnancy toxemia),1
+condition,calcium depletion,1
+condition,achlorhydria,1
+condition,chronic diarrhea,1
+condition,steatorrhea,1
+condition,sprue,1
+condition,pregnancy and lactation,1
+condition,menopause,1
+condition,pancreatitis,1
+condition,alkalosis,1
+condition,hyperidity,1
+condition,acid indigestion,1
+condition,heartburn,1
+condition,sour stomach,1
+condition,upset stomach,1
+condition,hyperparathyroidism,1
+condition,hypercalciuria,1
+condition,nephrolithiasis,1
+condition,zollinger-ellison syndrome,1
+condition,calcium gluconate deficiency states,1
+condition,severe hypercalciuria,1
+condition,hypercalcemia,1
+condition,adverse effects on the fetus,1
+condition,calcium deficiency,1
+condition,hypersensitivity to captopril,1
+condition,women of child-bearing potential,1
+condition,partial and secondary generalized tonic-clonic seizures,1
+condition,prophylaxis of bipolar disorder,1
+condition,allergic to one or any of its ingredients,1
+condition,partial and secondary generalized tonic clonic seizures,1
+condition,primary generalized tonic clonic seizures,1
+condition,bipolar disorder prophylaxis,1
+condition,hypersensitive patients,1
+condition,hypersensitivity to carbimazole,1
+condition,adversely affects the foetus,1
+condition,foetal or neonatal hypothyroidism and goitre,1
+condition,terminating pregnancy between the 13th and 20th weeks of gestation,1
+condition,failure of expulsion of the fetus,1
+condition,requirement of a repeat intrauterine instillation of drug for expulsion of the fetus,1
+condition,hypersensitivity to carboprost,1
+condition,teratogenic,1
+condition,embryotoxic,1
+condition,put the embryo or fetus at risk,1
+condition,termination of pregnancy between the 13th and 20th weeks of gestation,1
+condition,failure of fetus expulsion,1
+condition,requirement of repeated intrauterine drug administration for fetus expulsion,1
+condition,allergy to the cephalosporin group of antibiotics,1
+condition,upper respiratory tract infections (urti),1
+condition,hypersensitivity to cephalosporin antibiotics,1
+condition,uncomplicated urinary tract infection,1
+condition,pharyngitis and tonsillitis,1
+condition,acute bronchitis and acute exacerbation of chronic bronchitis,1
+condition,uncomplicated gonorrhea,1
+condition,hypersensitivity to cefixime or any other cephalosporin antibiotic,1
+condition,perioperative prophylaxis of infections associated with surgery,1
+condition,history of hypersensitivity to cephalosporin antibiotics,1
+condition,perioperative and postoperative prophylaxis,1
+condition,patients hypersensitive to cephalosporin antibiotics,1
+condition,infections caused by sensitive bacteria,1
+condition,lower respiratory tract infections including pneumoniae,1
+condition,secondary bacterial infections of acute bronchitis,1
+condition,known allergy to cephalosporins,1
+condition,treatment of infections caused by sensitive bacteria,1
+condition,lower respiratory tract infection including pneumonia,1
+condition,secondary bacterial infection of acute bronchitis,1
+condition,patients with known hypersensitivity to cephalosporin group antibiotics,1
+condition,prophylaxis of omphalitis (infection of the umbilical cord) in newborn,1
+condition,intended patient population,1
+condition,prophylaxis of omphalitis in newborn,1
+condition,vitamin d3 deficiency,1
+condition,effective calcium and phosphate absorption,1
+condition,nutrient for a growing infant,1
+condition,immunity boost up,1
+condition,diseases associated with hypercalcaemia,1
+condition,hypersensitivity to vitamin d3 (or medicines of the same class) and any of the excipients,1
+condition,vitamin d3 toxicity,1
+condition,overdose in infants,1
+condition,strong bones and teeth formation,1
+condition,infant nutrition,1
+condition,diseases associated with hypercalcemia,1
+condition,hypersensitivity to vitamin d3 and its other ingredients,1
+condition,evidence of vitamin d3 toxicity,1
+condition,overdose in nursing infants,1
+condition,single infection or mixed infections,1
+condition,infections of the urinary tract,1
+condition,peritionitis,1
+condition,infections in patients in intensive care unit with specific problems such as infected burns,1
+condition,acute exacerbation of cystic fibrosis,1
+condition,uncomplicated and complicated urethritis,1
+condition,history of hypersensitivity to ciprofloxacin or to other quinolones,1
+condition,single infection and mixed infections,1
+condition,bacteremia,1
+condition,infections in intensive care unit patients with specific problems like infected burns,1
+condition,acute and complicated bronchitis,1
+condition,complications of cystic fibrosis,1
+condition,complicated and uncomplicated urinary tract infections,1
+condition,abscess,1
+condition,hypersensitivity to ciprofloxacin and other quinolones,1
+condition,multi-drug resistant plasmodium falciporum infection,1
+condition,sensitive to clindamycin or any of the ingredients,1
+condition,multi-drug resistant plasmodium falciparum infection,1
+condition,hypersensitivity to clindamycin or any of the ingredients,1
+condition,"vaginal itching, burning and discharge associated with recurrent vaginal yeast infections (vaginal candidiasis)",1
+condition,viginitis due to candida species,1
+condition,mycotic infections complicated by other microorganisms sensitive to the drug,1
+condition,vaginal itching,1
+condition,recurrent vaginal infections (mainly vaginal candida),1
+condition,vaginitis caused by fungus,1
+condition,vaginal inflammation caused by any fungus sensitive to clotrimazole,1
+condition,hypersensitivity to clotrimazole,1
+condition,bad effects,1
+condition,vitamin b12 deficiency,1
+condition,malignancy,1
+condition,liver or kidney disease,1
+condition,gastric bypass surgery,1
+condition,total or partial gastrectomy,1
+condition,gluten enteropathy or sprue,1
+condition,leber's disease,1
+condition,tobacco amblyopia,1
+condition,contact dermatitis,1
+condition,perennial or seasonal allergic rhinitis,1
+condition,congenital (erythroid) hypoplastic anemia (diamond-blackfan anemia),1
+condition,idiopathic thrombocytopenic purpura in adults,1
+condition,leukemias,1
+condition,lymphomas,1
+condition,ocular inflammatory conditions,1
+condition,fulminating or disseminated pulmonary tuberculosis,1
+condition,juvenile rheumatoid arthritis,1
+condition,adrenocortical hyperfunction,1
+condition,trichinosis,1
+condition,gastric and duodenal ulcers,1
+condition,"viral infections, e.g. varicella and herpes genitalis infections",1
+condition,viral infections of the eye,1
+condition,breast-feed,1
+condition,various types of rhinitis,1
+condition,congenital (erythroid) hypoplastic anemia,1
+condition,idiopathic thrombocytopenic purpura,1
+condition,leukemia,1
+condition,craniotomy,1
+condition,head injury,1
+condition,inflammatory diseases of the eye,1
+condition,adrenocortical hyperfunction diagnosis,1
+condition,trichinosis with neurologic or myocardial involvement,1
+condition,gastric and duodenal ulcer,1
+condition,"viral infections, e.g. varicella, herpes genitalis or viral infections of the eye",1
+condition,anxiety reactions,1
+condition,anxiety states,1
+condition,acute alcohol withdrawal,1
+condition,"intermittent, stereotypic episodes of frequent seizure activity",1
+condition,pulmonary insufficiency,1
+condition,hypersensitivity to bezodiazepine,1
+condition,alcohol withdrawal symptoms,1
+condition,muscle spasms,1
+condition,seizures in epileptic patients,1
+condition,respiratory hypersensitivity,1
+condition,reduced pulmonary function,1
+condition,rheumatism,1
+condition,chronic involutive,1
+condition,polyarthritis,1
+condition,ankylosing spondylarthritis,1
+condition,spondylarthroses,1
+condition,peri-articular rheumatic disorders,1
+condition,bruises,1
+condition,dislocations,1
+condition,fractures,1
+condition,soft tissue injuries,1
+condition,surgical interventions,1
+condition,primary dysmenorrhoea,1
+condition,episiotomy,1
+condition,adnexitis,1
+condition,parametritis,1
+condition,mastitis,1
+condition,"pre-operative pain, inflammation, and swelling",1
+condition,"post-operative and post-traumatic pain, inflammation, and swelling",1
+condition,"urogenital tract operation pain, inflammation, and swelling",1
+condition,renal and biliary colic,1
+condition,hypersensitivity to diclofenac or other nsaids,1
+condition,asthmatic patient with attacks precipitated by acetylsalicylic acid or prostaglandin synthetase inhibitor,1
+condition,occlusive airtight dressings,1
+condition,undesirable effects on infant,1
+condition,inflammatory and degenerative rheumatism,1
+condition,chronic complex bone inflammation,1
+condition,bone inflammation,1
+condition,vertebral dislocation,1
+condition,bruise,1
+condition,dislocation,1
+condition,bone injury,1
+condition,deep soft tissue wound,1
+condition,severe surgical wound and injury pain,1
+condition,painful menstruation,1
+condition,uterine inflammation,1
+condition,genital tract inflammation,1
+condition,breast inflammation and swelling,1
+condition,ent pain and inflammation,1
+condition,pre-operative anti-inflammatory and swelling treatment,1
+condition,"post-operative and traumatic pain, inflammation and swelling",1
+condition,urinary and genital tract pain and swelling,1
+condition,post-operative pain and inflammation,1
+condition,kidney and biliary tract pain,1
+condition,hypersensitivity to diclofenac sodium,1
+condition,"hypersensitivity to diclofenac, gel base, acetylsalicylic acid or nsaids",1
+condition,closed and airtight dressing,1
+condition,harm to neonate,1
+condition,widens cervix for delivery,1
+condition,hypersensitivity to this drug or to any ingredient in the formulation,1
+condition,patients in whom oxytocic drugs are contraindicated,1
+condition,where prolonged contractions of the uterus are considered inappropriate,1
+condition,history of cesarean section,1
+condition,major uterine surgery,1
+condition,major degree of cephalopelvic disproportion,1
+condition,history of difficult labor,1
+condition,traumatic delivery,1
+condition,grand multiparae with six or more previous term pregnancies,1
+condition,overdistention of the uterus,1
+condition,multiple pregnancy,1
+condition,polyhydromnias,1
+condition,ruptured amniotic membranes,1
+condition,suspected chorioamnionitis,1
+condition,unexplained vaginal bleeding during the pregnancy,1
+condition,fetal malpresentation,1
+condition,"gynecological, obstetrical or medical conditions that preclude vaginal delivery",1
+condition,pregnancy is complicated by an abnormal position of the placenta or umbilical cord,1
+condition,breast feeding mothers,1
+condition,widens cervix for easy delivery,1
+condition,hypersensitivity to this drug or formulation ingredients,1
+condition,patients in whom oxytocic drugs are contraindicated or prolonged uterine contractions are inappropriate,1
+condition,history of cesarean section or uterine surgery,1
+condition,cephalopelvic disproportion,1
+condition,history of difficult labor and/or traumatic delivery,1
+condition,grand multipara with six or more previous term pregnancies,1
+condition,"uterine overdistension (multiple pregnancy, polyhydramnios)",1
+condition,ruptured amniotic membrane or suspected chorioamnionitis,1
+condition,unexplained vaginal bleeding during pregnancy,1
+condition,fetal abnormality,1
+condition,"gynecological, obstetrical or medical conditions precluding vaginal delivery",1
+condition,pregnancy complicated by abnormal position of placenta or umbilical cord,1
+condition,lympho-granuloma venereum,1
+condition,psittacosis,1
+condition,non gonococcal urethritis,1
+condition,uncomplicated urethral and endocervical or rectal infections,1
+condition,tularemia,1
+condition,staining and effect on bone growth in foetus,1
+condition,lymphogranuloma,1
+condition,venereum psittacosis,1
+condition,non-gonococcal urethritis,1
+condition,acute pelvic disease,1
+condition,uncomplicated urethral and endocervical or rectal infection,1
+condition,tularemia cellulitis,1
+condition,risk to fetal bone growth,1
+condition,oral contraceptive,1
+condition,moderate acne vulgaris,1
+condition,premenstrual dysphoric disorder (pmdd),1
+condition,clotting of blood in the vein,1
+condition,feel something hard in your breast,1
+condition,diabetes with vascular involvement,1
+condition,excessive bleeding for which no reason has yet been ascertained,1
+condition,presence or a history of venous or arterial thromboembolic events,1
+condition,history of migraine with focal neurological symptoms,1
+condition,pancreatitis or a history thereof if associated with severe hypertriglyceridaemia,1
+condition,presence or history of liver tumours,1
+condition,undiagnosed vagina! bleeding,1
+condition,hypersensitivity to any of the components,1
+condition,contraceptive,1
+condition,moderate acne,1
+condition,premenstrual dysphoric disorder,1
+condition,vein blood clotting disease,1
+condition,liver disease or jaundice,1
+condition,lump in breast,1
+condition,diabetes with vascular complication,1
+condition,unexplained excessive bleeding,1
+condition,venous or arterial thromboembolic events,1
+condition,pancreatitis or hypertriglyceridemia history,1
+condition,renal insufficiency or acute renal failure,1
+condition,liver tumor or history thereof,1
+condition,irregular cycles,1
+condition,luteal support as part of an assisted reproductive technology (art),1
+condition,to counteract the effects of unopposed oestrogen on the endometrium in hormone replacement therapy,1
+condition,hypersensitivity to the active substance or to any of the excipients,1
+condition,if used to prevent endometrial hyperplasia,1
+condition,thrombophlebitis or thromboembolic disorders,1
+condition,"cerebrovascular or coronary artery disease, or a past history of these conditions",1
+condition,history of cholestatic jaundice or pruritus of pregnancy,1
+condition,sickle cell anaemia,1
+condition,benign or malignant liver tumours,1
+condition,irregular menstrual cycles,1
+condition,luteal support in art,1
+condition,counteract estrogen effect in endometrium in hrt,1
+condition,hypersensitivity to active or excipient ingredients,1
+condition,prevent endometrial hyperplasia,1
+condition,thrombophlebitis or thromboembolic disorder,1
+condition,cerebrovascular or coronary artery disease,1
+condition,cholestatic jaundice or pruritus of pregnancy,1
+condition,sickle cell anemia,1
+condition,benign or malignant liver tumors,1
+condition,essential hypertension,1
+condition,renovascular hypertension,1
+condition,mild to moderate heart failure,1
+condition,hypersensitivity to the product or components,1
+condition,history of angioneurotic oedema relating to ace inhibitor,1
+condition,fetotoxic in rabbits during middle and late pregnancy,1
+condition,thrombus formation in the extra-corporal circulation during haemodialysis,1
+condition,venous thromboembolic disease,1
+condition,venous thromboembolic disease in medical patients bedridden due to acute illness,1
+condition,active major bleeding,1
+condition,conditions with high risk of uncontrolled hemorrhage,1
+condition,pregnant women with mechanical prosthetic heart valves,1
+condition,prevention of thrombus formation in extracorporeal circulation during hemodialysis,1
+condition,prevention of venous thromboembolic disease,1
+condition,bedridden acute ill patients,1
+condition,major clotting disorder,1
+condition,biological condition causing bleeding,1
+condition,hemorrhagic stroke,1
+condition,cutaneous or systemic allergic reaction,1
+condition,active management of the third stage of labour,1
+condition,treatment and prophylaxis of postpartum haemorrhage,1
+condition,excessive uterine bleeding,1
+condition,postpartum and post-abortion bleeding,1
+condition,1st and 2nd stage of labour,1
+condition,preeclampsia,1
+condition,eclampsia,1
+condition,threatened spontaneous abortion,1
+condition,foetal abnormalities,1
+condition,tonsilitis,1
+condition,laryngitis,1
+condition,secondary infections in colds and influenza,1
+condition,boils and carbuncles,1
+condition,pustular acne,1
+condition,paromychia,1
+condition,staphylococcal enterocolitis,1
+condition,pre and post-operative,1
+condition,burns,1
+condition,diptheria,1
+condition,hypersensitivity to erythromycin,1
+condition,teratogenicity or toxicity,1
+condition,pregnant patients and lactating mothers,1
+condition,colds and influenza,1
+condition,boils and pimples,1
+condition,gastric and gallbladder infection,1
+condition,diphtheria,1
+condition,fetal deformity or toxicity,1
+condition,prevent pregnancy,1
+condition,disorder affecting the blood circulation,1
+condition,first sign of a heart attack (such as angina pectoris or chest pain),1
+condition,first sign of a stroke (such as transient ischaemic attack or small reversible stroke),1
+condition,diabetes mellitus with blood vessel damage,1
+condition,jaundice (yellowing of the skin),1
+condition,cancer of the breast,1
+condition,cancer of the genital organs,1
+condition,benign or malignant tumour in the liver,1
+condition,pregnant or think you might be pregnant,1
+condition,allergic to any of the ingredients,1
+condition,"pregnant, or who think they may be pregnant",1
+condition,contraception,1
+condition,blood circulation disorder,1
+condition,early signs of heart disease (such as angina pectoris or chest pain),1
+condition,stroke (such as transient ischaemic attack or small reversible stroke),1
+condition,diabetes with blood vessel damage,1
+condition,cancer of genital organs,1
+condition,benign or malignant liver tumor,1
+condition,pregnant women or women who wish to conceive,1
+condition,temporary contraceptive method,1
+condition,anemia due to excessive blood loss during menstruation,1
+condition,irregular menstruation cycle,1
+condition,reduce milk production,1
+condition,increased hypersensitivity to any of its components,1
+condition,hypersensitivity to any of its components,1
+condition,pernicious anaemia,1
+condition,anaemia other than those due to iron deficiency,1
+condition,haemachromatosis,1
+condition,haemosiderosis,1
+condition,repeated blood transfusion,1
+condition,anaemia not produced by iron deficiency,1
+condition,repeated blood transfusions,1
+condition,anaemias not produced by iron deficiency,1
+condition,fungal urinary tract infections,1
+condition,disseminated candidiasis,1
+condition,prophylaxis for fungal infection in neutropenic cancer patients,1
+condition,coccidioidomycosis,1
+condition,histoplasmosis,1
+condition,known hypersensitivity to fluconazole,1
+condition,known hypersensitivity to related triazole compounds,1
+condition,adverse fetal efects,1
+condition,women of child bearing potential,1
+condition,hypersensitivity to fluconazole,1
+condition,anemias of infancy,1
+condition,patients who have shown previous intolerance to the drug,1
+condition,intolerance to folic acid or any component of this formulation,1
+condition,folic acid deficiencies,1
+condition,zinc deficiencies,1
+condition,hypersensitivity to zinc,1
+condition,untreated cobalamine deficiency,1
+condition,zinc and folic acid deficiency diseases,1
+condition,hypersensitivity to zinc and folic acid,1
+condition,atrial fibrillation with embolization,1
+condition,acute and chronic consumptive coagulopathies (disseminated intravascular coagulation),1
+condition,clotting in arterial and cardiac surgery,1
+condition,peripheral arterial embolism,1
+condition,anticoagulant use in blood transfusions,1
+condition,extracorporeal circulation,1
+condition,dialysis procedures,1
+condition,maintenance of catheter patency,1
+condition,whom suitable blood coagulation tests cannot be performed at appropriate intervals,1
+condition,uncontrollable active bleeding state,1
+condition,foetal harm,1
+condition,affect reproduction capacity,1
+condition,recurrence of hepatitis b virus infection after liver transplantation,1
+condition,hepatitis b in accidental exposure in non-immunised subjects,1
+condition,hepatitis b in haemodialysed patients,1
+condition,hepatitis b in the newborn of a hepatitis b virus carrier-mother,1
+condition,hepatitis b in subjects who did not show an immune response after vaccination,1
+condition,allergic (hypersensitive) to human immunoglobulins or to any of the other ingredients,1
+condition,deficiency of immunoglobulin a (iga),1
+condition,breast-feeding mothers,1
+condition,harmful effects on fertility,1
+condition,pregnancy/delivery of an rh-positive baby,1
+condition,abortion/threatened abortion,1
+condition,antepartum fetal-maternal hemorrhage,1
+condition,transfusion of rh incompatible blood or blood products,1
+condition,prevention of rh immunization in any rh-negative person after incompatible transfusion,1
+condition,splenectomised or rhesus-negative patients,1
+condition,adverse effects on the foetus (teratogenic or embryocidal or other),1
+condition,prophylaxis of tetanus following injury,1
+condition,treatment of tetanus,1
+condition,known hypersensitivity to human immunoglobulins,1
+condition,patients with bleeding disorders,1
+condition,history of immunoglobulin a (iga) deficiency,1
+condition,severe anaphylactic reactions to plasma products,1
+condition,primary dysmenorrhea,1
+condition,dental and period pain,1
+condition,muscular pain,1
+condition,known hypersensitivity to ibuprofen or any other components,1
+condition,"history of gastrointestinal bleeding or perforation, related to previous nsaids therapy",1
+condition,active or history of recurrent peptic ulcer/haemorrhage,1
+condition,severe hepatic failure,1
+condition,severe heart failure (nyha class iv),1
+condition,significant dehydration,1
+condition,cerebrovascular or other active bleeding,1
+condition,first and second trimester of pregnancy,1
+condition,affect the breastfed infant adversely,1
+condition,gouty arthritis,1
+condition,juvenile polyarthritis,1
+condition,synovitis,1
+condition,soft tissue injury,1
+condition,dental and muscle inflammation and pain,1
+condition,hypersensitive to ibuprofen,1
+condition,active or severe peptic ulcer,1
+condition,adverse effects on the growing fetus,1
+condition,"acute non-articular rheumatism (bursitis, synovitis, tendinitis)",1
+condition,history of these disorders,1
+condition,previously hypersensitive patients,1
+condition,"acute non-articular rheumatism (bursitis, synovitis, and tendinitis)",1
+condition,these diseases,1
+condition,hypersensitivity to this drug,1
+condition,type 1 diabetes,1
+condition,type 2 diabetes,1
+condition,hyperosmolar non-ketotic syndrome,1
+condition,periods of stress such as severe infections,1
+condition,major surgery in diabetic patients,1
+condition,gestational diabetes,1
+condition,hypersensitivity to human insulin or any of the excipients,1
+condition,malformations,1
+condition,death in utero,1
+condition,rapid iron supply,1
+condition,intolerance to oral iron therapy,1
+condition,non-compliance to oral iron therapy,1
+condition,iron deficiency anaemia in patients undergoing surgical procedures,1
+condition,iron deficiency anaemia in patients donating blood,1
+condition,iron deficiency anaemia in postpartum patients,1
+condition,evidence of iron overload,1
+condition,known hypersensitivity to iron sucrose or any of its inactive components,1
+condition,anaemia not caused by iron deficiency,1
+condition,"history of allergic disorders including asthma, eczema and anaphylaxis",1
+condition,infections,1
+condition,clinical need for rapid iron supply,1
+condition,intolerance to oral iron,1
+condition,iron deficiency anemia in surgical patients,1
+condition,iron deficiency anemia in blood donors,1
+condition,iron deficiency anemia in postpartum patients,1
+condition,hypersensitivity to iron sucrose or its inactive components,1
+condition,anemia not caused by iron deficiency,1
+condition,history of anaphylaxis,1
+condition,hypersensitivity to the medicine,1
+condition,obstructive lung disorders,1
+condition,anesthesia when hypotensive technique is indicated,1
+condition,hypersensitivity or allergy to the medicine,1
+condition,other obstructive lung disorders,1
+condition,serious adverse reactions,1
+condition,hypersensitivity to the drug or its components,1
+condition,partial-onset seizures with or without secondary generalization with epilepsy,1
+condition,myoclonic seizures with juvenile myoclonic epilepsy,1
+condition,primary generalized tonic-clonic seizures with idiopathic generalised epilepsy,1
+condition,hypersensitivity to the active substance or other pyrrolidone derivatives or to any of the excipients,1
+condition,women of childbearing potential not using contraception,1
+condition,partial-onset seizures with or without secondary generalization,1
+condition,"hypersensitivity to active substance, pyrrolidone derivatives, or any excipients",1
+condition,women of childbearing potential taking contraceptives,1
+condition,sexual intercourse where either yourself or your partner did not use a contraceptive method,1
+condition,forgotten to take consecutive 3 contraceptive pills,1
+condition,"partner's condom has broken, slipped, or been improperly removed, or if he has forgotten to use it",1
+condition,fear that your intrauterine device has been expelled,1
+condition,vaginal diaphragm or your contraceptive cap has moved or if you have removed it too early,1
+condition,method of coitus interruptus has failed,1
+condition,sexual intercourse during the period when you are supposed to be fertile while using the rhythm method,1
+condition,hypersensitivity to levonorgestrel or any of the excipients,1
+condition,pre-existing pregnancy,1
+condition,malformation of a fetus,1
+condition,unprotected intercourse without contraceptive method,1
+condition,forgetting to take contraceptive pills for 3 consecutive days,1
+condition,condom not used properly or condom torn,1
+condition,intrauterine device displaced,1
+condition,vaginal diaphragm or contraceptive cap removed,1
+condition,coitus interruptus failure,1
+condition,intercourse during rhythm method,1
+condition,sensitivity to levonorgestrel or other ingredients,1
+condition,adverse effects on fetal development,1
+condition,hypothyroidism of any aetiology,1
+condition,suppression of thyroid stimulating hormone levels,1
+condition,suppression of the goitrogenic effects of other drugs,1
+condition,hypothyroidism except transient hypothyroidism in subacute thyroiditis,1
+condition,suppression of tsh levels,1
+condition,suppression of goitrogenic effects of drugs like lithium,1
+condition,cardiovascular insufficiency,1
+condition,first 3 months of pregnancy,1
+condition,cardiovascular abnormality,1
+condition,kidney failure,1
+condition,cardiovascular abnormality or malformation,1
+condition,delay the progression of renal disease,1
+condition,hypersensitive to any component of this product,1
+condition,delay progression of kidney disease,1
+condition,hypersensitivity to losartan potassium or any of its ingredients,1
+condition,risk to newborn,1
+condition,whipworms,1
+condition,"known hypersensitivity to mebendazole, or to any component of the formulation",1
+condition,tapeworms,1
+condition,hypersensitivity to mebendazole or any component of the formulation,1
+condition,recurrent and/or metastatic endometrial carcinoma,1
+condition,recurrent and/or metastatic renal carcinoma,1
+condition,hormonally-dependant recurrent breast cancer,1
+condition,malignancy of breast,1
+condition,hypersensitivity to medroxyprogesterone acetate or any component,1
+condition,metastatic endometrial cancer,1
+condition,metastatic urinary tract cancer,1
+condition,hormone-dependent breast cancer in post-menopausal women,1
+condition,hypersensitivity to medroxyprogesterone acetate or components,1
+condition,hypersensitivity to the active substance or excipients,1
+condition,acute metabolic acidosis,1
+condition,cardiac failure,1
+condition,respiratory failure,1
+condition,hypersensitivity to the active substance or any excipient,1
+condition,metabolic acidosis,1
+condition,cardiac or respiratory failure,1
+condition,advanced stage non-hodgkin’s lymphomas,1
+condition,"severe, recalcitrant, disabling psoriasis",1
+condition,significant anemia,1
+condition,advanced non-hodgkin's lymphoma,1
+condition,severe psoriasis,1
+condition,liver disorders previously associated with methyldopa therapy,1
+condition,hypersensitivity to any component of these products,1
+condition,liver dysfunction previously associated with methyldopa therapy,1
+condition,hypersensitivity to any component of methyldopa,1
+condition,acute and recurrent diabetic gastroparesis,1
+condition,"symptomatic, documented gastroesophageal reflux",1
+condition,acute and recurrent diabetic gastric stasis,1
+condition,vomiting associated with emetogenic cancer chemotherapy,1
+condition,postoperative nausea and vomiting,1
+condition,small bowel intubation,1
+condition,delayed emptying interfering with radiological examination of the stomach and/or small intestine,1
+condition,history of tardive dyskinesia (td),1
+condition,dystonic reaction to metoclopramide,1
+condition,"gastrointestinal hemorrhage, mechanical obstruction, or perforation",1
+condition,pheochromocytoma,1
+condition,other catecholamine-releasing paragangliomas,1
+condition,hypersensitivity to metoclopramide,1
+condition,significant harm to the fetus,1
+condition,extra-intestinal disease (amoebiasis),1
+condition,anaerobically infected pressure sores,1
+condition,extra-intestinal amoebiasis,1
+condition,pressure sores,1
+condition,pregnancy beyond 49 days of amenorrhoea,1
+condition,pregnancy beyond 63 days of amenorrhoea,1
+condition,pregnancy beyond 49 days,1
+condition,pregnancy beyond 63 days,1
+condition,improving the nutritional status of women throughout the pregnancy,1
+condition,improving the nutritional status of women in the postnatal period for lactating mothers,1
+condition,improving the nutritional status of women in the postnatal period for non-lactating mothers,1
+condition,improving the nutritional status of women prior to conception,1
+condition,significant impairment of renal function,1
+condition,nursing infants under one month of age,1
+condition,pregnant mothers,1
+condition,infants under 1 month,1
+condition,acute diarrhea,1
+condition,fluid loss,1
+condition,lack of intake,1
+condition,stimulation of uterine contractions,1
+condition,secondary haemorrhage,1
+condition,cephalo-pelvic disproportion,1
+condition,abnormal position of the child or abnormal position of the skull,1
+condition,overdistention of the inferior segment of the uterus,1
+condition,severe toxaemia,1
+condition,hypertonic uterine dysfunction,1
+condition,foetal distress,1
+condition,cord presentation and prolapse,1
+condition,total placenta previa,1
+condition,vasa praevia,1
+condition,uterine contractions,1
+condition,secondary hemorrhage,1
+condition,sedatives,1
+condition,pre-anesthetics,1
+condition,cortical local seizures,1
+condition,acute convulsive episodes,1
+condition,eclampsia meningitis,1
+condition,toxic reactions to strychnine,1
+condition,toxic reactions to local anesthetics,1
+condition,latent porphyria,1
+condition,sedative,1
+condition,pre-anesthesia,1
+condition,tonic-clonic seizures,1
+condition,cortical seizures,1
+condition,toxic reactions,1
+condition,local anesthesia,1
+condition,haemorrhagic disease in the newborn,1
+condition,bleeding due to vitamin k deficiency,1
+condition,hemorrhagic conditions in newborns,1
+condition,vitamin k deficiency bleeding,1
+condition,vitamin k deficiency bleeding (vkdb) in newborn babies,1
+condition,vitamin k deficiency bleeding in newborns,1
+condition,severe nausea and vomiting,1
+condition,generalized non-psychotic anxiety,1
+condition,children <2 years of age,1
+condition,children <10 kg,1
+condition,nausea and vomiting,1
+condition,generalized anxiety,1
+condition,children under 10 kg,1
+condition,post-menopausal hormone replacement therapy,1
+condition,oocyte donation programme,1
+condition,cancers of uterus and genital organs,1
+condition,breast cancers,1
+condition,history of stroke,1
+condition,blood clots,1
+condition,miscarriage,1
+condition,tissue left in the uterus,1
+condition,post-menopausal hrt,1
+condition,oocyte donation,1
+condition,uterine and genital cancers,1
+condition,history of stroke or blood clots,1
+condition,malignancy of the breast or genital organs,1
+condition,progesterone-dependent neoplasia,1
+condition,active thrombophlebitis,1
+condition,thromboembolic disorders,1
+condition,history of hormone associated thrombophlebitis,1
+condition,embryo implantation,1
+condition,effects on nursing infant,1
+condition,breast or genital cancer,1
+condition,liver dysfunction or disease,1
+condition,progesterone-dependent tumor,1
+condition,active thrombophlebitis or thromboembolic disorder,1
+condition,known missed abortion,1
+condition,severe hepatic disease,1
+condition,nausea and dizziness during pregnancy,1
+condition,other conditions associated with airways obstruction,1
+condition,other conditions associated with airway obstruction,1
+condition,neural tube defects (anencephaly and spina bifida),1
+condition,neural tube complications like anencephaly and spina bifida,1
+condition,"respiratory tract infections, including acute and chronic bronchitis (treatment and prophylaxis)",1
+condition,lung abscess,1
+condition,lobar and broncho-pneumonia,1
+condition,pneumocystis carinii pneumonitis,1
+condition,"genito-urinary tract infections, including urethritis",1
+condition,acute and chronic cystitis,1
+condition,"gastro-intestinal tract infections, caused by salmonella typhi and salmonella paratyphi",1
+condition,chronic carrier state of salmonella typhi and paratyphi,1
+condition,acute and chronic osteomyelitis,1
+condition,acute brucellosis,1
+condition,skin infections including pyoderma,1
+condition,bacillary dysentery,1
+condition,nocardiosis,1
+condition,mycetoma,1
+condition,hypersensitivity to trimethoprim or sulphonamides,1
+condition,documented megaloblastic anaemia due to folate deficiency,1
+condition,marked liver parenchymal damage,1
+condition,blood dyscrasia,1
+condition,glucose 6-phosphate dehydrogenase deficiency,1
+condition,nursing period,1
+condition,kernicterus,1
+condition,prevention and reversal of bronchospasm in patients 12 years of age and older with asthma,1
+condition,reversible bronchospasm associated with bronchitis,1
+condition,reversible bronchospasm associated with emphysema,1
+condition,teratogenic effects,1
+condition,effect on the infant,1
+condition,infections caused by borrelia recurrentis (relapsing fever),1
+condition,calymmatobacterium granulomatis (granuloma inguinale),1
+condition,"chlamydia species (psittacosis, lymphogranuloma venereum, trachoma, inclusion conjunctivitis)",1
+condition,francilsella tularensis (tularaemia),1
+condition,haemophilus ducreyi (chancroid),1
+condition,"leptospira (meningitis, jaundice)",1
+condition,mycoplasma pneumoniae (non-gonococcal urethritis),1
+condition,pseudomonas mallei (glanders and melioidosis),1
+condition,"rickettsiae (typhus fever, q-fever, rocky mountain spotted fever)",1
+condition,vibrio species (cholera),1
+condition,infections due to brucella species (brucellosis),1
+condition,plagues,1
+condition,severe acne vulgaris,1
+condition,acute intestinal amoebiasis,1
+condition,pneumoniae,1
+condition,gas gangrene,1
+condition,dysentery,1
+condition,eradicating h. pylori in the treatment of gastric and duodenal ulcer,1
+condition,history of hypersensitivity to tetracycline,1
+condition,overt renal insufficiency,1
+condition,children under 12 years of age,1
+condition,embryotoxic effect,1
+condition,enamel hypoplasia,1
+condition,females who are pregnant,1
+condition,embryo-fetal harm,1
+condition,hemophtoes,1
+condition,digestive hemorrhages,1
+condition,"hemorrhagic syndromes in leukaemia, cirrhosis and hemophilia",1
+condition,operations of any type and nature,1
+condition,"pulmonary, cardiovascular and abdominal surgery",1
+condition,post-operative and traumatic shock,1
+condition,"prostatic, vesical and renal surgery",1
+condition,hematurias,1
+condition,post-partum and puerperium hemorrhages,1
+condition,hemorrhagic metrophathies,1
+condition,functional menometrorrhagias,1
+condition,idiopathic or iud (lntra uterine device) induced menorrhagias,1
+condition,"primitive hyperfibrinolysis (abruptio placentae, premature placenta detachment)",1
+condition,cervical conization,1
+condition,tonsillectomy,1
+condition,specialist surgery generally,1
+condition,epistaxis,1
+condition,maxillofacial operations,1
+condition,tooth extractions,1
+condition,inhibit the growth of ovarian tumors,1
+condition,regression of ascites secondary to carcinoma,1
+condition,bleeding during surgical interventions,1
+condition,known individual hypersensitivity,1
+condition,endocavitary hemorrhages,1
+condition,serious kidney failure,1
+condition,digestive hemorrhage,1
+condition,hemorrhagic syndromes in leukaemia,1
+condition,cirrhosis and hemophilia,1
+condition,internal hemorrhage,1
+condition,severe kidney disease,1
+condition,illness due to vitamin a deficiency in ophthalmology such as night blindness,1
+condition,acne vulgaris,1
+condition,hypervitaminosis of vitamin a,1
+condition,sensitivity,1
+condition,fetal abnormalities,1
+condition,malformations of the central nervous system,1
+condition,malformations of the eye,1
+condition,malformations of the palate,1
+condition,malformations of the urogenital tract,1
+condition,night blindness,1
+condition,thromboembolic complications associated with atrial fibrillation,1
+condition,thromboembolic complications associated with cardiac valve replacement,1
+condition,death after myocardial infarction,1
+condition,thromboembolic events such as stroke or systemic embolization after myocardial infarction,1
+condition,venous thrombosis,1
+condition,transient ischaemic attacks,1
+condition,"actual or potential hemorrhagic conditions, eg. peptic ulcer",1
+condition,severe hepatic or renal disease,1
+condition,bacterial endocarditis,1
+condition,within 24 hours following surgery or labor,1
+condition,fatal hemorrhage to the fetus,1
+condition,change in prothrombin times,1
+condition,thromboembolic complications due to atrial fibrillation,1
+condition,thromboembolic complications due to cardiac valve replacement,1
+condition,thromboembolic events such as stroke after myocardial infarction,1
+condition,systemic embolization,1
+condition,hemorrhagic conditions like peptic ulcer,1
+condition,severe liver or kidney disease,1
+condition,pregnant or potentially pregnant women,1
+condition,hypersensitive to any component,1
+condition,hypersensitivity to zinc or any of its components,1
+condition,high-risk patients,1
+condition,patients most at risk,1
+condition,ergotism,1
+condition,absolute neutrophil count <750/mm3,1
+condition,children below 12 years of age,1
+condition,fatigue,1
+condition,absolute neutrophil count (anc) of <750/mm3,1
+condition,pediatric patients below the age of 12 years,1
+condition,compromised uteri,1
+condition,ergot alkaloids,1
+condition,hypersensitivity to ergot alkaloids,1
+condition,pregnancy induced hypertension,1
+condition,physiologic lactation,1
+condition,skin irritation,1
+condition,generalized allergic reactions,1
+condition,reduction in blood pressure,1
+condition,loss of patellar reflex,1
+condition,weakness,1
+condition,sensation of warmth,1
+condition,flushing of skin,1
+condition,double vision,1
+condition,slurred speech,1
+condition,cerebrovascular disorder,1
+condition,history of active tuberculosis,1
+condition,family history of glaucoma,1
+condition,previous corticosteroid-induced myopathy,1
+condition,hypothrombinaemia,1
+condition,milk-alkali syndrome,1
+condition,hypercalcaemia-associated diseases,1
+condition,malignancies,1
+condition,outflow tract obstruction,1
+condition,blood disorders,1
+condition,skin reactions,1
+condition,elderly people,1
+condition,history of heart disease,1
+condition,history of kidney disease,1
+condition,history of psychotic illness,1
+condition,raised pressure in the eye,1
+condition,history of blood disorders,1
+condition,hyponatraemia,1
+condition,tracheal obstruction,1
+condition,infants with seizure disorders,1
+condition,intestinal disease,1
+condition,penicillin-sensitive patients,1
+condition,antibiotic-associated diarrhoea,1
+condition,renal complications,1
+condition,children under 12,1
+condition,active or latent peptic ulcers,1
+condition,diverticulitis,1
+condition,intestinal anastomoses,1
+condition,nonspecific ulcerative colitis,1
+condition,osteoporosis risk,1
+condition,acute myopathy,1
+condition,psychic derangements,1
+condition,alcohol abuse,1
+condition,history of drug or alcohol abuse,1
+condition,older patients,1
+condition,oral administration,1
+condition,serious toxicity,1
+condition,convulsions,1
+condition,peptic ulceration,1
+condition,advanced age,1
+condition,mouth,1
+condition,tooth development period,1
+condition,children under 8,1
+condition,permanent discoloration of teeth,1
+condition,tooth development,1
+condition,childhood to the age of 8 years,1
+condition,cerebrovascular accident,1
+condition,postmenopause,1
+condition,menstrual irregularities,1
+condition,cerebrovascular injury,1
+condition,smoking,1
+condition,dyslipidemia,1
+condition,marked increase in blood pressure,1
+condition,increase in blood pressure,1
+condition,acute liver disease,1
+condition,hemodialysis patients,1
+condition,intramuscular route,1
+condition,impaired hemostasis,1
+condition,history of peptic ulcer,1
+condition,recent ischemic stroke,1
+condition,uncontrolled severe arterial hypertension,1
+condition,diabetic retinopathy,1
+condition,recent neuro- or ophthalmologic surgery,1
+condition,theophylline toxicity,1
+condition,post-gastrectomy,1
+condition,iron storage disease,1
+condition,iron absorption disease,1
+condition,haemoglobinopathies,1
+condition,proarrhythmic patients,1
+condition,hepatic necrosis,1
+condition,exfoliative cutaneous reactions,1
+condition,stevens johnson syndrome,1
+condition,history of gastrointestinal bleeding,1
+condition,history of ulcer,1
+condition,sle,1
+condition,psychiatric problems,1
+condition,allergic cutaneous reactions,1
+condition,severe haemorrhagic diarrhoea,1
+condition,pediatric patients 1 to 24 months,1
+condition,pediatric patients 10 to 17 years,1
+condition,severely impaired hepatic function,1
+condition,suicidal behaviour,1
+condition,elderly patients with compromised renal function,1
+condition,history of ectopic pregnancy,1
+condition,fetal and neonatal morbidity,1
+condition,fetal and neonatal death,1
+condition,fetal morbidity,1
+condition,neonatal morbidity,1
+condition,fetal death,1
+condition,neonatal death,1
+condition,intravascularly volume-depleted,1
+condition,renal impaired patient,1
+condition,mild renal impairment,1
+condition,moderate to severe renal impairment,1
+condition,increased blood urea,1
+condition,increased serum creatinine,1
+condition,bilateral renal artery stenosis,1
+condition,bacterial superinfection,1
+condition,mycotic superinfection,1
+condition,mycotic superinfections,1
+condition,bacterial superinfections,1
+condition,prolongation of bleeding time,1
+condition,prolongation of prothrombin time,1
+condition,allergic skin reactions,1
+condition,moderate or severe renal impairment,1
+condition,decreased estrogen,1
+condition,decreased plasma/urinary gonadotropins,1
+condition,fluid retention,1
+condition,history of clinical depression,1
+condition,diabetic patient,1
+condition,decreased oestrogen,1
+condition,decreased plasma/urinary gonadotrophins,1
+condition,impairment of renal function,1
+condition,intravenous urography,1
+condition,intravenous angiography,1
+condition,serious infections,1
+condition,decreased renal function,1
+condition,geriatric patients,1
+condition,choreoathetotic movements in severe bilateral cerebrovascular disease,1
+condition,severe bilateral cerebrovascular disease,1
+condition,darkened urine,1
+condition,darken urine,1
+condition,haemodialysis,1
+condition,hypertensive disease,1
+condition,neural tube defect,1
+condition,diabetic patients,1
+condition,hypersensitivity to other 5-ht3 receptor antagonists,1
+condition,nasogastric suction,1
+condition,abdominal surgery,1
+condition,chemotherapy-induced nausea and vomiting,1
+condition,pediatric patients 4 years of age or younger,1
+condition,patients over the age of 65,1
+condition,maternal sinus bradycardia,1
+condition,asthma attacks,1
+condition,attacks of asthma,1
+condition,hepatic injury,1
+condition,severe hepatotoxicity,1
+condition,chronic malnutrition,1
+condition,severe hypovolemia,1
+condition,creatinine clearance < 30 ml/min,1
+condition,paracetamol allergy,1
+condition,severe active liver disease,1
+condition,insulin users,1
+condition,severe liver failure,1
+condition,severely impaired liver function,1
+condition,elderly patient,1
+condition,elevated cpk,1
+condition,liver problem,1
+condition,children under 10,1
+condition,markedly elevated cpk levels,1
+condition,renal dysfunction,1
+condition,chronic alcoholic liver disease,1
+drug_or_class,phenytoin,40
+drug_or_class,alcohol,22
+drug_or_class,carbamazepine,20
+drug_or_class,rifampicin,19
+drug_or_class,digoxin,17
+drug_or_class,warfarin,17
+drug_or_class,phenobarbital,14
+drug_or_class,cimetidine,14
+drug_or_class,barbiturates,14
+drug_or_class,diuretics,13
+drug_or_class,probenecid,13
+drug_or_class,primidone,13
+drug_or_class,drugs,13
+drug_or_class,theophylline,12
+drug_or_class,oral contraceptives,12
+drug_or_class,tetracycline,12
+drug_or_class,tetracyclines,11
+drug_or_class,lithium,11
+drug_or_class,cyclosporin,10
+drug_or_class,antacids,10
+drug_or_class,anticoagulants,10
+drug_or_class,anticonvulsants,10
+drug_or_class,nsaids,10
+drug_or_class,calcium channel blockers,9
+drug_or_class,tricyclic antidepressants,8
+drug_or_class,cns depressants,8
+drug_or_class,erythromycin,8
+drug_or_class,indomethacin,8
+drug_or_class,cardiac glycosides,7
+drug_or_class,digitalis glycosides,7
+drug_or_class,salicylates,7
+drug_or_class,oral anticoagulants,7
+drug_or_class,magnesium antacids,7
+drug_or_class,penicillin,6
+drug_or_class,milk,6
+drug_or_class,beta-blockers,6
+drug_or_class,fluconazole,6
+drug_or_class,calcium,6
+drug_or_class,methyldopa,6
+drug_or_class,griseofulvin,6
+drug_or_class,magnesium trisilicate antacids,6
+drug_or_class,methotrexate,6
+drug_or_class,ace inhibitors,6
+drug_or_class,any other drug,6
+drug_or_class,penicillins,5
+drug_or_class,penicillamine,5
+drug_or_class,neuromuscular blocking agents,5
+drug_or_class,phenobarbitone,5
+drug_or_class,thiazide diuretics,5
+drug_or_class,ketoconazole,5
+drug_or_class,corticosteroids,5
+drug_or_class,acetylsalicylic acid,5
+drug_or_class,sulfinpyrazone,5
+drug_or_class,antihypertensive drugs,5
+drug_or_class,chloramphenicol,5
+drug_or_class,live vaccines,4
+drug_or_class,thiazides,4
+drug_or_class,glucocorticoids,4
+drug_or_class,sedatives,4
+drug_or_class,hypnotics,4
+drug_or_class,azole antifungals,4
+drug_or_class,grapefruit juice,4
+drug_or_class,halothane,4
+drug_or_class,anticoagulant therapy,4
+drug_or_class,cholestyramine,4
+drug_or_class,aluminum antacids,4
+drug_or_class,sucralfate,4
+drug_or_class,iron,4
+drug_or_class,zinc,4
+drug_or_class,ampicillin,4
+drug_or_class,dexamethasone,4
+drug_or_class,protease inhibitors,4
+drug_or_class,potassium supplements,4
+drug_or_class,phenylbutazone,4
+drug_or_class,nsaid,4
+drug_or_class,triamterene,4
+drug_or_class,amiloride,4
+drug_or_class,allopurinol,4
+drug_or_class,quinidine,4
+drug_or_class,aliskiren,3
+drug_or_class,monoamine oxidase (mao) inhibitors,3
+drug_or_class,monoamine oxidase inhibitors,3
+drug_or_class,aspirin,3
+drug_or_class,steroids,3
+drug_or_class,opioids,3
+drug_or_class,antihistamines,3
+drug_or_class,thyroid hormones,3
+drug_or_class,ergotamine,3
+drug_or_class,rifabutin,3
+drug_or_class,aminoglutethimide,3
+drug_or_class,ephedrine,3
+drug_or_class,colestipol,3
+drug_or_class,digitalis,3
+drug_or_class,omeprazole,3
+drug_or_class,isoniazid,3
+drug_or_class,topiramate,3
+drug_or_class,propranolol,3
+drug_or_class,platelet inhibitors,3
+drug_or_class,dipyridamole,3
+drug_or_class,antacid,3
+drug_or_class,hydrochlorothiazide,3
+drug_or_class,rifampin,3
+drug_or_class,valproic acid,3
+drug_or_class,metronidazole,3
+drug_or_class,acetazolamide,3
+drug_or_class,trimethoprim,3
+drug_or_class,folic acid,3
+drug_or_class,disulfiram,3
+drug_or_class,itraconazole,3
+drug_or_class,cyp3a4 substrates,3
+drug_or_class,antipsychotics,3
+drug_or_class,amiodarone,3
+drug_or_class,monoamine oxidase inhibitors (within 14 days),2
+drug_or_class,ergot derivatives,2
+drug_or_class,methylprednisolone,2
+drug_or_class,β-blocking agents,2
+drug_or_class,non-selective β-blockers,2
+drug_or_class,other sympathomimetics,2
+drug_or_class,xanthine derivatives,2
+drug_or_class,methoxy-fluorane,2
+drug_or_class,"antacids containing calcium, aluminium or magnesium",2
+drug_or_class,"calcium, magnesium, iron and particularly aluminium salts",2
+drug_or_class,concurrent anticoagulants,2
+drug_or_class,other potentially hepatotoxic drugs,2
+drug_or_class,drugs which slow cardiac conduction,2
+drug_or_class,hormonal contraceptive agents,2
+drug_or_class,drugs which cause peripheral neuropathy,2
+drug_or_class,standard chemotherapeutic agents including dexamethasone,2
+drug_or_class,thrombolytic drugs like streptokinase & urokinase,2
+drug_or_class,estrogen containing drugs,2
+drug_or_class,quinolone drug,2
+drug_or_class,non-prescription products,2
+drug_or_class,vitamin k,2
+drug_or_class,tri/tetracyclic antidepressants,2
+drug_or_class,sertraline,2
+drug_or_class,antidiabetic agent or insulin,2
+drug_or_class,oral hypoglycaemic agents (oha),2
+drug_or_class,monoamine oxidase inhibitors (maoi),2
+drug_or_class,non-selective beta-blocking agents,2
+drug_or_class,angiotensin converting enzyme (ace) inhibitors,2
+drug_or_class,beta-sympathomimetics,2
+drug_or_class,growth hormone,2
+drug_or_class,danazol,2
+drug_or_class,octreotide/lanreotide,2
+drug_or_class,antihypertensive therapy,2
+drug_or_class,anticholinergic agents,2
+drug_or_class,other medicinal products,2
+drug_or_class,medicines to lower blood pressure,2
+drug_or_class,antipsychotic medicines,2
+drug_or_class,domperidone,2
+drug_or_class,pergolide,2
+drug_or_class,metoclopramide,2
+drug_or_class,bromocriptine,2
+drug_or_class,lisuride,2
+drug_or_class,dihydroergotamine,2
+drug_or_class,ergometrine,2
+drug_or_class,methysergide,2
+drug_or_class,potent cyp 3a4 inhibitors,2
+drug_or_class,macrolide antibiotics,2
+drug_or_class,hiv protease inhibitors,2
+drug_or_class,reverse transcriptase inhibitors,2
+drug_or_class,less potent cyp 3a4 inhibitors,2
+drug_or_class,saquinavir,2
+drug_or_class,nefazodone,2
+drug_or_class,fluoxetine,2
+drug_or_class,fluvoxamine,2
+drug_or_class,zileuton,2
+drug_or_class,clotrimazole,2
+drug_or_class,aminoglycosides antibiotics,2
+drug_or_class,other vaginal preparations,2
+drug_or_class,other vaginal therapy,2
+drug_or_class,coumarin anticoagulant drugs,2
+drug_or_class,heparin,2
+drug_or_class,hepatic cytochrome-p450-3a4 system inducers,2
+drug_or_class,concomitant vaginal products,2
+drug_or_class,tetracycline preparations,2
+drug_or_class,vitamin d therapy,2
+drug_or_class,cytochrome p450 mediated drugs,2
+drug_or_class,labetalol,2
+drug_or_class,betamethasone,2
+drug_or_class,tocolytic activity drugs,2
+drug_or_class,beta-mimetics,2
+drug_or_class,class i antiarrhythmic agents,2
+drug_or_class,calcium antagonists of the verapamil type,2
+drug_or_class,prostaglandin synthetase inhibitors,2
+drug_or_class,beta-adrenergic blocking agents,2
+drug_or_class,hormonal contraceptives,2
+drug_or_class,oxytocic medications,2
+drug_or_class,dairy products,2
+drug_or_class,aluminium antacids,2
+drug_or_class,antibiotics,2
+drug_or_class,aminosalicylic acid,2
+drug_or_class,biguanides,2
+drug_or_class,colchicine,2
+drug_or_class,k salts,2
+drug_or_class,neuroleptics,2
+drug_or_class,sedative antihistamines,2
+drug_or_class,calcium antacids,2
+drug_or_class,iron preparations,2
+drug_or_class,bismuth salicylate,2
+drug_or_class,modafinil,2
+drug_or_class,ritonavir,2
+drug_or_class,calcium antagonists,2
+drug_or_class,adrenergic-blocking drugs,2
+drug_or_class,potassium losing diuretic,2
+drug_or_class,potassium-containing salt substitutes,2
+drug_or_class,high flux membranes,2
+drug_or_class,ticlopidine,2
+drug_or_class,prostaglandins,2
+drug_or_class,oxytocin,2
+drug_or_class,cyp3a4 inhibitors,2
+drug_or_class,enzyme inducers,2
+drug_or_class,caffeine,2
+drug_or_class,dairy foods,2
+drug_or_class,phytic acid,2
+drug_or_class,tea,2
+drug_or_class,dicumarol,2
+drug_or_class,warfarin sodium,2
+drug_or_class,dextran,2
+drug_or_class,ibuprofen,2
+drug_or_class,hydroxychloroquine,2
+drug_or_class,nicotine,2
+drug_or_class,tacrolimus,2
+drug_or_class,diflunisal,2
+drug_or_class,sulfonylureas,2
+drug_or_class,vitamin a,2
+drug_or_class,vitamin a derivatives,2
+drug_or_class,microdosed progesterone,2
+drug_or_class,topical keratolytic anti-acne agents,2
+drug_or_class,topical exfoliative anti-acne agents,2
+drug_or_class,oxidising agents,2
+drug_or_class,benzoyl peroxide,2
+drug_or_class,aggressive chemical dermabrasion,2
+drug_or_class,cutaneous laser treatment,2
+drug_or_class,wax depilation,2
+drug_or_class,valproate,2
+drug_or_class,lopinavir/ritonavir,2
+drug_or_class,atazanavir/ritonavir,2
+drug_or_class,lamotrigine,2
+drug_or_class,gabapentin,2
+drug_or_class,osmotic laxative macrogol,2
+drug_or_class,food,2
+drug_or_class,anticonvulsant agents,2
+drug_or_class,piroxicam,2
+drug_or_class,enalapril,2
+drug_or_class,captopril,2
+drug_or_class,ssri,2
+drug_or_class,urea,2
+drug_or_class,xanthine preparations,2
+drug_or_class,sodium bicarbonate,2
+drug_or_class,alkalinizing agents,2
+drug_or_class,spironolactone,2
+drug_or_class,potassium-sparing diuretics,2
+drug_or_class,phenindione,2
+drug_or_class,oral typhoid vaccines,2
+drug_or_class,chloroquine,2
+drug_or_class,bacteriostatic antibacterials,2
+drug_or_class,furosemide,2
+drug_or_class,nifedipine,2
+drug_or_class,cationic drugs,2
+drug_or_class,morphine,2
+drug_or_class,procainamide,2
+drug_or_class,quinine,2
+drug_or_class,vancomycin,2
+drug_or_class,phenothiazines,2
+drug_or_class,thyroid products,2
+drug_or_class,estrogens,2
+drug_or_class,nicotinic acid,2
+drug_or_class,sympathomimetics,2
+drug_or_class,insulin,2
+drug_or_class,insulin secretagogue,2
+drug_or_class,sulfonamides,2
+drug_or_class,azathioprine,2
+drug_or_class,retinoids,2
+drug_or_class,sulfasalazine,2
+drug_or_class,cisplatin,2
+drug_or_class,mercaptopurine,2
+drug_or_class,folic acid derivatives,2
+drug_or_class,trimethoprim/sulfamethoxazole,2
+drug_or_class,leucovorin calcium,2
+drug_or_class,anesthetics,2
+drug_or_class,ferrous sulfate,2
+drug_or_class,ferrous gluconate,2
+drug_or_class,drugs known to cause td/eps/nms,2
+drug_or_class,5-fluorouracil,2
+drug_or_class,busulfan,2
+drug_or_class,st john's wort,2
+drug_or_class,misoprostol,2
+drug_or_class,cardiac drugs,2
+drug_or_class,pulmonary drugs,2
+drug_or_class,cns drugs,2
+drug_or_class,anti-bacterials,2
+drug_or_class,anti-epileptics,2
+drug_or_class,muscle relaxants,2
+drug_or_class,tubocurarine,2
+drug_or_class,antiulcerants,2
+drug_or_class,uricosuric drugs,2
+drug_or_class,oral hypoglycaemic agents,2
+drug_or_class,sulphonamides,2
+drug_or_class,oral steroid contraceptives,2
+drug_or_class,other paracetamol-containing products,2
+drug_or_class,reserpine,2
+drug_or_class,disopyramide,2
+drug_or_class,clonidine,2
+drug_or_class,allergens,2
+drug_or_class,epinephrine,2
+drug_or_class,cyclosporine,2
+drug_or_class,fibric acid derivatives,2
+drug_or_class,niacin,2
+drug_or_class,apomorphine,1
+drug_or_class,monoamine-oxidase inhibitor antidepressant (maoi),1
+drug_or_class,monoamine oxidase antidepressant,1
+drug_or_class,other thiourea antithyroid agents,1
+drug_or_class,magnesium trisillicate,1
+drug_or_class,antacid containing carbonate,1
+drug_or_class,ergot alkaloids,1
+drug_or_class,terfenadine,1
+drug_or_class,"opioids, antihistamines, antipsychotics, anti-anxiety agents, or other cns depressants (including alcohol)",1
+drug_or_class,erythropoietic agents or therapies containing estrogen,1
+drug_or_class,erythropoietic agents,1
+drug_or_class,solutions containing penicillins,1
+drug_or_class,oxytocic agents,1
+drug_or_class,medications known to lower blood pressure,1
+drug_or_class,nephrotoxic drugs,1
+drug_or_class,ototoxic drugs,1
+drug_or_class,ethacrynic acid,1
+drug_or_class,frusemide,1
+drug_or_class,beta-lactam antibiotics,1
+drug_or_class,central nervous system depressants,1
+drug_or_class,anticholinesterases,1
+drug_or_class,non-steroidal anti-inflammatory agents,1
+drug_or_class,calcium-channel blockers,1
+drug_or_class,calcitriol,1
+drug_or_class,estrogen,1
+drug_or_class,progesterone,1
+drug_or_class,iodine,1
+drug_or_class,digitoxin,1
+drug_or_class,orlistat,1
+drug_or_class,mineral oil,1
+drug_or_class,laxatives,1
+drug_or_class,paraffin oil,1
+drug_or_class,actinomycin,1
+drug_or_class,imidazole antifungal agents,1
+drug_or_class,yogurt,1
+drug_or_class,antidiabetic drugs,1
+drug_or_class,antidiabetics,1
+drug_or_class,neuromuscular blocking drugs,1
+drug_or_class,general anesthetics,1
+drug_or_class,narcotic analgesics,1
+drug_or_class,antidepressants,1
+drug_or_class,antidiabetic agents,1
+drug_or_class,quinolone antimicrobials,1
+drug_or_class,quinolones,1
+drug_or_class,systemic nsaids,1
+drug_or_class,oral contraceptive,1
+drug_or_class,oral iron,1
+drug_or_class,oral iron preparations,1
+drug_or_class,ketorolac tromethamine,1
+drug_or_class,agents which affect hemostasis,1
+drug_or_class,ketorolac,1
+drug_or_class,clopidogrel,1
+drug_or_class,dextran 40,1
+drug_or_class,thrombolytics,1
+drug_or_class,antiplatelet aggregation agents,1
+drug_or_class,glycoprotein iib/iiia antagonists,1
+drug_or_class,co-trimoxazole,1
+drug_or_class,magnesium trisilicate-containing antacid,1
+drug_or_class,oral sulphonyl ureas,1
+drug_or_class,chlorpropamide,1
+drug_or_class,glibenclamide,1
+drug_or_class,glipizide,1
+drug_or_class,tolbutamide,1
+drug_or_class,combined oral contraceptive,1
+drug_or_class,other nsaids,1
+drug_or_class,anti-platelet agents,1
+drug_or_class,aminoglycosides,1
+drug_or_class,mifepristone,1
+drug_or_class,quinolone,1
+drug_or_class,zidovudine,1
+drug_or_class,voriconazole,1
+drug_or_class,estrogen containing oral contraceptives,1
+drug_or_class,estrogen-containing oral contraceptives,1
+drug_or_class,anti-epileptic drugs,1
+drug_or_class,antiepileptic medicinal products,1
+drug_or_class,calcium channel blocking agents,1
+drug_or_class,selective serotonin reuptake inhibitors,1
+drug_or_class,potassium sparing diuretics,1
+drug_or_class,potassium containing compounds,1
+drug_or_class,angiotensin receptor antagonists,1
+drug_or_class,salt substitutes containing potassium,1
+drug_or_class,ace-inhibitor,1
+drug_or_class,angiotensin receptor antagonist,1
+drug_or_class,anti-inflammatory drug,1
+drug_or_class,thiazide diuretic,1
+drug_or_class,oral estrogen-progesterone contraceptives,1
+drug_or_class,combined oral estrogen/progesterone contraceptives,1
+drug_or_class,isosorbide,1
+drug_or_class,calcium channel blocking drugs,1
+drug_or_class,sulphonylurea,1
+drug_or_class,broad spectrum antibiotics,1
+drug_or_class,nonabsorbable broad spectrum antibiotics,1
+drug_or_class,oral anticoagulant therapy,1
+drug_or_class,anti-arrhythmics,1
+drug_or_class,anti-arrythmics,1
+drug_or_class,β-blockers,1
+drug_or_class,cytochrome p-450 inducers,1
+drug_or_class,cytochrome p-450 inhibitors,1
+drug_or_class,vasoconstrictor,1
+drug_or_class,cyclopropane anesthesia,1
+drug_or_class,sodium valproate,1
+drug_or_class,sodium valporate,1
+drug_or_class,sedative drugs,1
+drug_or_class,ethanol,1
+drug_or_class,paracetamol,1
+drug_or_class,acyclovir,1
+drug_or_class,antineoplastics,1
+drug_or_class,benzodiazeines,1
+drug_or_class,ciprofloxacin,1
+drug_or_class,cyp2c9 inducers,1
+drug_or_class,cyp2c19 inducers,1
+drug_or_class,vigabatrin,1
+drug_or_class,capecitabine,1
+drug_or_class,cyp2c9 inhibitors,1
+drug_or_class,cyp2c19 inhibitors,1
+drug_or_class,delavirdine,1
+drug_or_class,methylphenidate,1
+drug_or_class,trazodone,1
+drug_or_class,antiarrhythmics,1
+drug_or_class,doxycycline,1
+drug_or_class,oestrogens,1
+drug_or_class,hmg-coa reductase inhibitors,1
+drug_or_class,methadone,1
+drug_or_class,tcas,1
+drug_or_class,clozapine,1
+drug_or_class,ciclosporin,1
+drug_or_class,cyp2b6 substrates,1
+drug_or_class,bupropion,1
+drug_or_class,selegiline,1
+drug_or_class,cyp2c8 substrates,1
+drug_or_class,cyp2c9 substrates,1
+drug_or_class,celecoxib,1
+drug_or_class,cyp2c19 substrates,1
+drug_or_class,citalopram,1
+drug_or_class,benzodiazepines,1
+drug_or_class,levodopa,1
+drug_or_class,neuromuscular-blocking agents,1
+drug_or_class,dopamine,1
+drug_or_class,coumarin anticoagulants,1
+drug_or_class,coumarin-type anticoagulants,1
+drug_or_class,catecholamine depleting drugs,1
+drug_or_class,prostaglandin synthase inhibitors,1
+drug_or_class,catecholamine-depleting drugs,1
+drug_or_class,prostaglandin synthase inhibiting drugs,1
+drug_or_class,antiparkinson's drugs,1
+drug_or_class,barbiturate,1
+drug_or_class,antiparkinson's drug,1
+drug_or_class,propanolol,1
+drug_or_class,hypoglycemic drugs,1

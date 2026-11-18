@@ -1,0 +1,1478 @@
+﻿kind,input,n_claims,query_used,match,cui,umls_name,code1,code2,semtype,needs_review
+drug,10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula,15,,none,,,,,,no query
+drug,amoxicillin-clavulanic-acid,43,amoxicillin+clavulanate,components,C0002645;C0110038,amoxicillin;clavulanate,723;48203,,,combination: check components
+drug,cholecalciferol-vitamin-d3,74,cholecalciferol,exact,C0008318,cholecalciferol,2418,A11CC05,Organic Chemical; Pharmacologic Substance; Vitamin,
+drug,ethinyl-estradiol-levonorgestrel-ferrous-fumarate,41,ethinyl estradiol+levonorgestrel+ferrous fumarate,components,C0015011;C0023566;C0060276,ethinyl estradiol;levonorgestrel;ferrous fumarate,4124;6373;24941,,,combination: check components
+drug,ferrous-ascorbate-folic-acid-zinc-sulfate,27,ferrous ascorbate+folic acid+zinc sulfate,components,C0015888;C0016410;C0078794,ferrous ascorbate;folic acid;zinc sulfate,4356;4511;39954,,,combination: check components
+drug,folic-acid-zinc-sulfate-monohydrate,14,folic acid+zinc sulfate,components,C0016410;C0078794,folic acid;zinc sulfate,4511;39954,,,combination: check components
+drug,hepatitis-b-immuneglobulin,25,hepatitis B immune globulin,exact,C0062525,hepatitis B immune globulin,26744,J06BB04,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Immunologic Factor",
+drug,human-anti-d-immunoglobulins,16,Rho(D) immune globulin,exact,C0073188,Rho(D) immune globulin,35465,J06BB01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Immunologic Factor",
+drug,human-tetanus-immunoglobulin,19,tetanus immune globulin,exact,C4048265,tetanus immune globulin,1727875,J06BB02,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Immunologic Factor",
+drug,insulin-human-rdna,48,insulin human,close,C0795635,"insulin, regular, human",253182,A10AB01;A10AC01;A10AE01;A10AD01;A10AF01,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Hormone",inexact
+drug,levonorgestrel-for-emergency-contraception,53,levonorgestrel,exact,C0023566,levonorgestrel,6373,G03AC03;G03AD01,Organic Chemical; Pharmacologic Substance; Hormone,
+drug,multivitamins-multiminerals-a-z-prenatal-preparation,8,prenatal vitamins [words],close,C2343949,Prenatal Vitamins with Minerals and Folic Acid Greater than 0.8 MG Oral Tablet,,,Clinical Drug,inexact
+drug,oral-rehydration-salt-glucose-based,16,oral rehydration salts [words],close,C3653405,Oral rehydration salt formulations,,A07CA,Pharmacologic Substance,inexact
+drug_or_class,alcohol,22,ethanol,exact,C0001962,ethanol,D000431,V03AZ01;D08AX08;V03AB16,Organic Chemical; Pharmacologic Substance,
+drug_or_class,barbiturates,14,barbiturates,close,C0220791,barbituric acid salt,,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,oral contraceptives,12,"contraceptives, oral",exact,C0009905,"Contraceptives, Oral",D003276,,Pharmacologic Substance,
+drug_or_class,anticoagulants,10,anticoagulants,exact,C0003280,Anticoagulants,D000925,,Pharmacologic Substance,
+drug_or_class,anticonvulsants,10,anticonvulsants,close,C5890179,Anticonvulsant,,,Pharmacologic Substance,inexact
+drug_or_class,nsaids,10,"anti-inflammatory agents, non-steroidal",exact,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",D000894,,Pharmacologic Substance,
+drug_or_class,tricyclic antidepressants,8,"antidepressive agents, tricyclic",close,C0003290,Tricyclic Antidepressive Agents,D000929,,Pharmacologic Substance,inexact
+drug_or_class,cns depressants,8,central nervous system depressants,exact,C0007681,Central Nervous System Depressants,D002492,,Pharmacologic Substance,
+drug_or_class,oral anticoagulants,7,anticoagulants,exact,C0003280,Anticoagulants,D000925,,Pharmacologic Substance,
+drug_or_class,magnesium antacids,7,magnesium hydroxide,exact,C0024476,magnesium hydroxide,D008276,G04BX01;A02AA04,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,penicillin,6,penicillins,exact,C0030842,penicillins,D010406,J01C,Organic Chemical; Antibiotic,
+drug_or_class,milk,6,milk,close,C0349374,Cow's milk,D008892,,Food,inexact
+drug_or_class,beta-blockers,6,adrenergic beta-antagonists,exact,C0001645,Adrenergic beta-Antagonists,D000319,C07;C07A,Pharmacologic Substance,
+drug_or_class,magnesium trisilicate antacids,6,magnesium trisilicate,exact,C0065533,magnesium trisilicate,C001671,,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,ace inhibitors,6,angiotensin-converting enzyme inhibitors,close,C4541021,Angiotensin-converting enzyme inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,penicillins,5,penicillins,exact,C0030842,penicillins,D010406,J01C,Organic Chemical; Antibiotic,
+drug_or_class,neuromuscular blocking agents,5,neuromuscular blocking agents,exact,C0027866,Neuromuscular Blocking Agents,D009466,,Pharmacologic Substance,
+drug_or_class,phenobarbitone,5,phenobarbital,exact,C0031412,phenobarbital,D010634,N03AA02,Organic Chemical; Pharmacologic Substance,
+drug_or_class,thiazide diuretics,5,thiazides,exact,C0541746,Thiazides,D049971,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antihypertensive drugs,5,antihypertensive agents,exact,C0003364,Antihypertensive Agents,D000959,C02,Pharmacologic Substance,
+drug_or_class,live vaccines,4,"vaccines, attenuated",exact,C0042211,"Vaccines, Attenuated",D014613,,Pharmacologic Substance; Immunologic Factor,
+drug_or_class,thiazides,4,thiazides,exact,C0541746,Thiazides,D049971,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,sedatives,4,hypnotics and sedatives,exact,C0020592,Hypnotics and Sedatives,D006993,N05C,Pharmacologic Substance,
+drug_or_class,hypnotics,4,hypnotics and sedatives,exact,C0020592,Hypnotics and Sedatives,D006993,N05C,Pharmacologic Substance,
+drug_or_class,azole antifungals,4,azoles,exact,C0004504,Azoles,D001393,,Organic Chemical,
+drug_or_class,anticoagulant therapy,4,anticoagulants,exact,C0003280,Anticoagulants,D000925,,Pharmacologic Substance,
+drug_or_class,cholestyramine,4,cholestyramine,close,C0008402,cholestyramine resin,D002792,C10AC01,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,aluminum antacids,4,aluminum hydroxide,exact,C0002371,aluminum hydroxide,D000536,A02AB01,Pharmacologic Substance; Inorganic Chemical,
+drug_or_class,nsaid,4,"anti-inflammatory agents, non-steroidal",exact,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",D000894,,Pharmacologic Substance,
+drug_or_class,monoamine oxidase (mao) inhibitors,3,monoamine oxidase inhibitors,close,C4521320,Monoamine oxidase inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,monoamine oxidase inhibitors,3,monoamine oxidase inhibitors,close,C4521320,Monoamine oxidase inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,steroids,3,steroids,exact,C0038317,Steroids,D013256,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,antihistamines,3,histamine antagonists,exact,C0019590,Histamine Antagonists,D006633,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,digitalis,3,digitalis,close,C0304520,Digitalis preparation,,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,platelet inhibitors,3,platelet aggregation inhibitors,close,C4722254,Platelet aggregation inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,cyp3a4 substrates,3,cyp3a4 substrates,close,C4744447,CYP3A4 Substrate,,,Biologically Active Substance,inexact
+drug_or_class,monoamine oxidase inhibitors (within 14 days),2,monoamine oxidase inhibitors,close,C4521320,Monoamine oxidase inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,ergot derivatives,2,ergot alkaloids,close,C3541393,"Ergot alkaloids, antimigraine",,N02CA,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,non-selective β-blockers,2,adrenergic beta-antagonists,exact,C0001645,Adrenergic beta-Antagonists,D000319,C07;C07A,Pharmacologic Substance,
+drug_or_class,other sympathomimetics,2,sympathomimetics,exact,C0039052,Sympathomimetics,D013566,R01BA,Pharmacologic Substance,
+drug_or_class,methoxy-fluorane,2,methoxy-fluorane,none,,,,,,no match
+drug_or_class,"antacids containing calcium, aluminium or magnesium",2,antacids,exact,C0003138,Antacids,D000863,A02A,Pharmacologic Substance,
+drug_or_class,"calcium, magnesium, iron and particularly aluminium salts",2,calcium,close,C3540037,CALCIUM SUPPLEMENTS,,A12AA;A12A,Pharmacologic Substance; Vitamin,inexact
+drug_or_class,concurrent anticoagulants,2,anticoagulants,exact,C0003280,Anticoagulants,D000925,,Pharmacologic Substance,
+drug_or_class,other potentially hepatotoxic drugs,2,potentially hepatotoxic drugs,none,,,,,,no match
+drug_or_class,drugs which slow cardiac conduction,2,drugs which slow cardiac conduction,none,,,,,,no match
+drug_or_class,hormonal contraceptive agents,2,"contraceptive agents, hormonal",exact,C5197716,"Contraceptive Agents, Hormonal",D000080066,,Pharmacologic Substance,
+drug_or_class,drugs which cause peripheral neuropathy,2,drugs which cause peripheral neuropathy,none,,,,,,no match
+drug_or_class,standard chemotherapeutic agents including dexamethasone,2,chemotherapeutic agents,close,C0729502,Chemotherapeutic agent,,,Pharmacologic Substance,inexact
+drug_or_class,thrombolytic drugs like streptokinase & urokinase,2,thrombolytic drugs,close,C0016018,Fibrinolytic Agents,D005343,,Pharmacologic Substance,inexact
+drug_or_class,estrogen containing drugs,2,estrogens,close,C3537250,"ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",,G03C,Organic Chemical; Pharmacologic Substance; Hormone,inexact
+drug_or_class,quinolone drug,2,quinolones,close,C0034423,quinoline,C037219,,"Organic Chemical; Indicator, Reagent, or Diagnostic Aid",inexact
+drug_or_class,tri/tetracyclic antidepressants,2,"antidepressive agents, tricyclic",close,C0003290,Tricyclic Antidepressive Agents,D000929,,Pharmacologic Substance,inexact
+drug_or_class,antidiabetic agent or insulin,2,hypoglycemic agents,exact,C0020616,Hypoglycemic Agents,D007004,,Pharmacologic Substance,
+drug_or_class,oral hypoglycaemic agents (oha),2,hypoglycemic agents,exact,C0020616,Hypoglycemic Agents,D007004,,Pharmacologic Substance,
+drug_or_class,monoamine oxidase inhibitors (maoi),2,monoamine oxidase inhibitors,close,C4521320,Monoamine oxidase inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,angiotensin converting enzyme (ace) inhibitors,2,angiotensin-converting enzyme inhibitors,close,C4541021,Angiotensin-converting enzyme inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,beta-sympathomimetics,2,adrenergic beta-agonists,exact,C0001644,Adrenergic beta-Agonists,D000318,,Pharmacologic Substance,
+drug_or_class,growth hormone,2,somatotropin,close,C3714500,Human Growth Hormone,D019382,,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Hormone",inexact
+drug_or_class,octreotide/lanreotide,2,octreotide,exact,C0028833,octreotide,D015282,H01CB02,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Hormone",
+drug_or_class,antihypertensive therapy,2,antihypertensive agents,exact,C0003364,Antihypertensive Agents,D000959,C02,Pharmacologic Substance,
+drug_or_class,medicines to lower blood pressure,2,medicines to lower blood pressure,none,,,,,,no match
+drug_or_class,antipsychotic medicines,2,antipsychotic agents,exact,C0040615,Antipsychotic Agents,D014150,N05A,Pharmacologic Substance,
+drug_or_class,potent cyp 3a4 inhibitors,2,cyp 3a4 inhibitors,none,,,,,,no match
+drug_or_class,macrolide antibiotics,2,macrolides,exact,C0282563,Macrolides,D018942,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,hiv protease inhibitors,2,hiv protease inhibitors,exact,C0162714,HIV Protease Inhibitors,D017320,,Pharmacologic Substance,
+drug_or_class,reverse transcriptase inhibitors,2,reverse transcriptase inhibitors,close,C4521921,Reverse transcriptase inhibitor (disposition),,,Qualitative Concept,inexact
+drug_or_class,less potent cyp 3a4 inhibitors,2,less cyp 3a4 inhibitors,none,,,,,,no match
+drug_or_class,aminoglycosides antibiotics,2,aminoglycosides antibiotics,close,C0003233,"Antibiotics, Aminoglycoside",,J01G,Organic Chemical; Antibiotic,inexact
+drug_or_class,other vaginal preparations,2,vaginal preparations [words],close,C0694944,"SCREENING CYTOPATHOLOGY, CERVICAL OR VAGINAL (ANY REPORTING SYSTEM), COLLECTED IN PRESERVATIVE FLUID, AUTOMATED THIN LAYER PREPARATION, WITH SCREENING BY AUTOMATED SYSTEM, UNDER PHYSICIAN SUPERVISION",,,Laboratory Procedure,inexact
+drug_or_class,other vaginal therapy,2,vaginal therapy [words],close,C5567445,Vaginal laser therapy,,,Therapeutic or Preventive Procedure,inexact
+drug_or_class,coumarin anticoagulant drugs,2,coumarin anticoagulant drugs,none,,,,,,no match
+drug_or_class,hepatic cytochrome-p450-3a4 system inducers,2,hepatic cytochrome-p450-3a4 system inducers,none,,,,,,no match
+drug_or_class,concomitant vaginal products,2,concomitant vaginal products,none,,,,,,no match
+drug_or_class,tetracycline preparations,2,tetracycline preparations,none,,,,,,no match
+drug_or_class,vitamin d therapy,2,vitamin d therapy [words],close,C0420176,Vitamin D supplement therapy,,,Therapeutic or Preventive Procedure,inexact
+drug_or_class,cytochrome p450 mediated drugs,2,cytochrome p450 mediated drugs,none,,,,,,no match
+drug_or_class,tocolytic activity drugs,2,tocolytic activity drugs,none,,,,,,no match
+drug_or_class,beta-mimetics,2,beta-mimetics,none,,,,,,no match
+drug_or_class,class i antiarrhythmic agents,2,class i antiarrhythmic agents,close,C0360692,Class I antiarrhythmic agent,,,Pharmacologic Substance,inexact
+drug_or_class,calcium antagonists of the verapamil type,2,calcium antagonists of the verapamil type,none,,,,,,no match
+drug_or_class,prostaglandin synthetase inhibitors,2,prostaglandin synthetase inhibitors,none,,,,,,no match
+drug_or_class,hormonal contraceptives,2,hormonal contraceptives [words],close,C0009907,"Contraceptives, Oral, Hormonal",D003278,,Pharmacologic Substance,inexact
+drug_or_class,oxytocic medications,2,oxytocic medications,none,,,,,,no match
+drug_or_class,dairy products,2,dairy products,exact,C0010947,Dairy Products,D003611,,Food,
+drug_or_class,aluminium antacids,2,aluminium antacids [words],close,C3653990,antacids containing aluminium compounds,,A02AB,Pharmacologic Substance,inexact
+drug_or_class,k salts,2,k salts [words],close,C0060082,Fast Black K Salt,C056237,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,neuroleptics,2,neuroleptics,close,C0040615,Antipsychotic Agents,D014150,N05A,Pharmacologic Substance,inexact
+drug_or_class,sedative antihistamines,2,sedative antihistamines,none,,,,,,no match
+drug_or_class,calcium antacids,2,calcium antacids,close,C0304542,Calcium antacid,,,Pharmacologic Substance; Inorganic Chemical,inexact
+drug_or_class,bismuth salicylate,2,bismuth salicylate,exact,C0106552,Bismuth Salicylate,C496893,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,calcium antagonists,2,calcium antagonists [words],close,C3849987,"Calcium Antagonists, Exogenous",D002121,,Pharmacologic Substance,inexact
+drug_or_class,adrenergic-blocking drugs,2,adrenergic-blocking drugs [words],close,C0569321,Adrenergic neurone blocking drug poisoning,,,Injury or Poisoning,inexact
+drug_or_class,potassium losing diuretic,2,potassium losing diuretic,none,,,,,,no match
+drug_or_class,potassium-containing salt substitutes,2,potassium-containing salt substitutes,none,,,,,,no match
+drug_or_class,high flux membranes,2,high flux membranes,none,,,,,,no match
+drug_or_class,cyp3a4 inhibitors,2,cyp3a4 inhibitors,close,C3850053,Cytochrome P-450 CYP3A4 Inhibitors,D065692,,Pharmacologic Substance,inexact
+drug_or_class,enzyme inducers,2,enzyme inducers [words],close,C3850052,Cytochrome P-450 Enzyme Inducers,D065693,,Pharmacologic Substance,inexact
+drug_or_class,dairy foods,2,dairy foods,close,C1955475,Dairy food,,,Food,inexact
+drug_or_class,tea,2,tea,close,C4724036,Thoracic Epidural Analgesia,,,Therapeutic or Preventive Procedure,inexact
+drug_or_class,vitamin a derivatives,2,vitamin a derivatives [words],close,C0042874,vitamin E,D014810,A11HA03,Organic Chemical; Pharmacologic Substance; Vitamin,inexact
+drug_or_class,microdosed progesterone,2,microdosed progesterone,none,,,,,,no match
+drug_or_class,topical keratolytic anti-acne agents,2,topical keratolytic anti-acne agents,none,,,,,,no match
+drug_or_class,topical exfoliative anti-acne agents,2,topical exfoliative anti-acne agents,none,,,,,,no match
+drug_or_class,oxidising agents,2,oxidising agents,close,C6024594,Oxidizing agent (disposition),,,Qualitative Concept,inexact
+drug_or_class,aggressive chemical dermabrasion,2,aggressive chemical dermabrasion,none,,,,,,no match
+drug_or_class,cutaneous laser treatment,2,cutaneous laser treatment,none,,,,,,no match
+drug_or_class,wax depilation,2,wax depilation,none,,,,,,no match
+drug_or_class,osmotic laxative macrogol,2,osmotic laxative macrogol [words],close,C2698843,Macrogol 3350-Based Iso-Osmotic Laxative,,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,anticonvulsant agents,2,anticonvulsant agents,close,C0003286,Anticonvulsants,D000927,,Pharmacologic Substance,inexact
+drug_or_class,ssri,2,ssri,close,C0360105,Selective Serotonin Reuptake Inhibitors,D017367,N06AB,Pharmacologic Substance,inexact
+drug_or_class,xanthine preparations,2,xanthine preparations,none,,,,,,no match
+drug_or_class,alkalinizing agents,2,alkalinizing agents,close,C0003138,Antacids,D000863,A02A,Pharmacologic Substance,inexact
+drug_or_class,potassium-sparing diuretics,2,potassium-sparing diuretics,close,C0304490,Potassium Sparing Diuretics,D062865,,Pharmacologic Substance,inexact
+drug_or_class,oral typhoid vaccines,2,oral typhoid vaccines [words],close,C0359940,Typhoid live oral vaccine,,,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Immunologic Factor",inexact
+drug_or_class,bacteriostatic antibacterials,2,bacteriostatic antibacterials,none,,,,,,no match
+drug_or_class,cationic drugs,2,cationic drugs,none,,,,,,no match
+drug_or_class,phenothiazines,2,phenothiazines,close,C0031434,phenothiazine,C031637,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,thyroid products,2,thyroid products [words],close,C4755008,Thyroid hormone only product,,,Pharmacologic Substance,inexact
+drug_or_class,insulin,2,insulin,close,C4721402,"INS protein, human",,,"Amino Acid, Peptide, or Protein; Hormone",inexact
+drug_or_class,insulin secretagogue,2,insulin secretagogue,close,C5690720,Insulin Secretagogues,D000092005,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,retinoids,2,retinoids,exact,C0035339,Retinoids,D012176,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,drugs known to cause td/eps/nms,2,drugs known to cause td/eps/nms,none,,,,,,no match
+drug_or_class,5-fluorouracil,2,5-fluorouracil,close,C0016360,fluorouracil,D005472,L01BC02,"Nucleic Acid, Nucleoside, or Nucleotide; Pharmacologic Substance",inexact
+drug_or_class,cardiac drugs,2,cardiac drugs [words],close,C3654025,CARDIAC THERAPY DRUGS,,C01,Pharmacologic Substance,inexact
+drug_or_class,pulmonary drugs,2,pulmonary drugs [words],close,C0340544,Pulmonary arterial hypertension induced by drug,,,Disease or Syndrome,inexact
+drug_or_class,cns drugs,2,cns drugs [words],close,C0237472,CNS Depressant Drugs Antagonists,,,Pharmacologic Substance,inexact
+drug_or_class,anti-bacterials,2,anti-bacterials [words],close,C0279516,Anti-Bacterial Agents,D000900,,Antibiotic,inexact
+drug_or_class,anti-epileptics,2,anti-epileptics [words],close,C3537002,Anti-epileptic Agent [EPC],,,Pharmacologic Substance,inexact
+drug_or_class,antiulcerants,2,antiulcerants,none,,,,,,no match
+drug_or_class,uricosuric drugs,2,uricosuric drugs,none,,,,,,no match
+drug_or_class,oral hypoglycaemic agents,2,hypoglycemic agents,exact,C0020616,Hypoglycemic Agents,D007004,,Pharmacologic Substance,
+drug_or_class,oral steroid contraceptives,2,oral steroid contraceptives,none,,,,,,no match
+drug_or_class,other paracetamol-containing products,2,paracetamol-containing products,close,C0000970,acetaminophen,D000082,N02BE01,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,fibric acid derivatives,2,fibric acid derivatives,close,C2936462,Fibric Acids,D058607,,Organic Chemical,inexact
+drug_or_class,monoamine-oxidase inhibitor antidepressant (maoi),1,monoamine-oxidase inhibitor antidepressant [words],close,C0274669,poisoning by Monoamine-oxidase-inhibitor antidepressants,,,Injury or Poisoning,inexact
+drug_or_class,monoamine oxidase antidepressant,1,monoamine oxidase antidepressant [words],close,C0274669,poisoning by Monoamine-oxidase-inhibitor antidepressants,,,Injury or Poisoning,inexact
+drug_or_class,other thiourea antithyroid agents,1,thiourea antithyroid agents,none,,,,,,no match
+drug_or_class,magnesium trisillicate,1,magnesium trisillicate [words],close,C0065533,magnesium trisilicate,C001671,,Pharmacologic Substance; Inorganic Chemical,inexact
+drug_or_class,antacid containing carbonate,1,antacid,close,C0003138,Antacids,D000863,A02A,Pharmacologic Substance,inexact
+drug_or_class,"opioids, antihistamines, antipsychotics, anti-anxiety agents, or other cns depressants (including alcohol)",1,opioids,exact,C0242402,Opioids,D000701,,Organic Chemical; Pharmacologic Substance; Hazardous or Poisonous Substance,
+drug_or_class,erythropoietic agents or therapies containing estrogen,1,erythropoietic agents or therapies containing estrogen,none,,,,,,no match
+drug_or_class,erythropoietic agents,1,erythropoietic agents,none,,,,,,no match
+drug_or_class,solutions containing penicillins,1,solutions,close,C1880396,Dosage Form for Solution,,,Biomedical or Dental Material,inexact
+drug_or_class,oxytocic agents,1,oxytocic agents,close,C0030094,Oxytocics,D010120,,Pharmacologic Substance,inexact
+drug_or_class,medications known to lower blood pressure,1,medications known to lower blood pressure,none,,,,,,no match
+drug_or_class,nephrotoxic drugs,1,nephrotoxic drugs,none,,,,,,no match
+drug_or_class,ototoxic drugs,1,ototoxic drugs [words],close,C0553861,Drug ototoxicity - deafness,,,Injury or Poisoning,inexact
+drug_or_class,frusemide,1,frusemide,close,C0016860,furosemide,D005665,C03CA01,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,beta-lactam antibiotics,1,beta-lactam antibiotics,close,C5781289,beta Lactam Antibiotics,D000097902,,Pharmacologic Substance,inexact
+drug_or_class,central nervous system depressants,1,central nervous system depressants,exact,C0007681,Central Nervous System Depressants,D002492,,Pharmacologic Substance,
+drug_or_class,non-steroidal anti-inflammatory agents,1,non-steroidal anti-inflammatory agents,close,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",D000894,,Pharmacologic Substance,inexact
+drug_or_class,laxatives,1,laxatives,exact,C0282090,Laxatives,D054368,,Pharmacologic Substance,
+drug_or_class,paraffin oil,1,paraffin oil,close,C0070062,paraffin oils,C015418,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,actinomycin,1,actinomycin,exact,C0001259,Actinomycin,D003609,L01DA,"Amino Acid, Peptide, or Protein; Antibiotic",
+drug_or_class,imidazole antifungal agents,1,imidazole antifungal agents,none,,,,,,no match
+drug_or_class,yogurt,1,yogurt,exact,C0043419,Yogurt,D015014,,Food,
+drug_or_class,antidiabetic drugs,1,antidiabetic drugs,close,C0935929,Antidiabetics,D007004,,Pharmacologic Substance,inexact
+drug_or_class,antidiabetics,1,antidiabetics,exact,C0935929,Antidiabetics,D007004,,Pharmacologic Substance,
+drug_or_class,neuromuscular blocking drugs,1,neuromuscular blocking drugs,none,,,,,,no match
+drug_or_class,narcotic analgesics,1,narcotic analgesics,exact,C0027409,Narcotic Analgesics,D009294,,Pharmacologic Substance,
+drug_or_class,antidiabetic agents,1,antidiabetic agents,close,C0935929,Antidiabetics,D007004,,Pharmacologic Substance,inexact
+drug_or_class,quinolone antimicrobials,1,quinolone antimicrobials,none,,,,,,no match
+drug_or_class,quinolones,1,quinolones,close,C0034423,quinoline,C037219,,"Organic Chemical; Indicator, Reagent, or Diagnostic Aid",inexact
+drug_or_class,systemic nsaids,1,systemic nsaids,none,,,,,,no match
+drug_or_class,oral contraceptive,1,oral contraceptive,close,C0009905,"Contraceptives, Oral",D003276,,Pharmacologic Substance,inexact
+drug_or_class,oral iron,1,oral iron [words],close,C3653420,"Iron trivalent, oral antianemic preparations",,B03AB,Pharmacologic Substance,inexact
+drug_or_class,oral iron preparations,1,oral iron preparations [words],close,C3653420,"Iron trivalent, oral antianemic preparations",,B03AB,Pharmacologic Substance,inexact
+drug_or_class,agents which affect hemostasis,1,agents which affect hemostasis,none,,,,,,no match
+drug_or_class,thrombolytics,1,thrombolytics,close,C0520997,"Thrombolysis, function",,,Organ or Tissue Function,inexact
+drug_or_class,antiplatelet aggregation agents,1,antiplatelet aggregation agents,none,,,,,,no match
+drug_or_class,glycoprotein iib/iiia antagonists,1,glycoprotein iib/iiia antagonists,close,C3640054,Glycoprotein IIb/IIIa Antagonist,,,Chemical Viewed Functionally,inexact
+drug_or_class,co-trimoxazole,1,co-trimoxazole,close,C0041044,Trimethoprim-Sulfamethoxazole Combination,D015662,J01EE01,Pharmacologic Substance,inexact
+drug_or_class,magnesium trisilicate-containing antacid,1,magnesium trisilicate-containing antacid,none,,,,,,no match
+drug_or_class,oral sulphonyl ureas,1,oral sulphonyl ureas,none,,,,,,no match
+drug_or_class,combined oral contraceptive,1,combined oral contraceptive,close,C0009906,Combined Oral Contraceptives,D003277,,Pharmacologic Substance,inexact
+drug_or_class,other nsaids,1,"anti-inflammatory agents, non-steroidal",exact,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",D000894,,Pharmacologic Substance,
+drug_or_class,anti-platelet agents,1,anti-platelet agents,none,,,,,,no match
+drug_or_class,aminoglycosides,1,aminoglycosides,exact,C0002556,Aminoglycosides,D000617,,Organic Chemical; Pharmacologic Substance,
+drug_or_class,quinolone,1,quinolone,close,C0034423,quinoline,C037219,,"Organic Chemical; Indicator, Reagent, or Diagnostic Aid",inexact
+drug_or_class,estrogen containing oral contraceptives,1,estrogen,close,C3537250,"ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",,G03C,Organic Chemical; Pharmacologic Substance; Hormone,inexact
+drug_or_class,estrogen-containing oral contraceptives,1,estrogen-containing oral contraceptives,none,,,,,,no match
+drug_or_class,anti-epileptic drugs,1,anti-epileptic drugs [words],close,C2724388,Patient queried and counseled about anti-epileptic drug (AED) side effects (EPI),,,Therapeutic or Preventive Procedure,inexact
+drug_or_class,antiepileptic medicinal products,1,antiepileptic medicinal products,none,,,,,,no match
+drug_or_class,calcium channel blocking agents,1,calcium channel blocking agents [words],close,C3653608,Beta blocking agents and calcium channel blockers,,C07FB,Pharmacologic Substance,inexact
+drug_or_class,potassium sparing diuretics,1,potassium sparing diuretics,exact,C0304490,Potassium Sparing Diuretics,D062865,,Pharmacologic Substance,
+drug_or_class,potassium containing compounds,1,potassium,close,C0304475,Potassium supplement,,A12BA;A12B,Pharmacologic Substance; Inorganic Chemical,inexact
+drug_or_class,angiotensin receptor antagonists,1,angiotensin receptor antagonists,exact,C0815017,Angiotensin Receptor Antagonists,D057911,,Pharmacologic Substance,
+drug_or_class,salt substitutes containing potassium,1,salt substitutes,close,C6024838,SALT SUBSTITUTE,,,Inorganic Chemical,inexact
+drug_or_class,ace-inhibitor,1,ace-inhibitor,close,C0003015,Angiotensin-Converting Enzyme Inhibitors,D000806,,Pharmacologic Substance,inexact
+drug_or_class,angiotensin receptor antagonist,1,angiotensin receptor antagonist,close,C0815017,Angiotensin Receptor Antagonists,D057911,,Pharmacologic Substance,inexact
+drug_or_class,anti-inflammatory drug,1,anti-inflammatory drug [words],close,C3536840,Nonsteroidal Anti-inflammatory Drug [EPC],,,Pharmacologic Substance,inexact
+drug_or_class,thiazide diuretic,1,thiazide diuretic,close,C0012802,Thiazide Diuretics,D049993,,Pharmacologic Substance,inexact
+drug_or_class,oral estrogen-progesterone contraceptives,1,oral estrogen-progesterone contraceptives,none,,,,,,no match
+drug_or_class,combined oral estrogen/progesterone contraceptives,1,combined oral estrogen/progesterone contraceptives,none,,,,,,no match
+drug_or_class,calcium channel blocking drugs,1,calcium channel blocking drugs,close,C0006684,Calcium Channel Blockers,D002121,C08,Pharmacologic Substance,inexact
+drug_or_class,broad spectrum antibiotics,1,broad spectrum antibiotics,none,,,,,,no match
+drug_or_class,nonabsorbable broad spectrum antibiotics,1,nonabsorbable broad spectrum antibiotics,none,,,,,,no match
+drug_or_class,oral anticoagulant therapy,1,oral anticoagulant therapy,none,,,,,,no match
+drug_or_class,anti-arrhythmics,1,anti-arrhythmics,close,C0003195,Anti-Arrhythmia Agents,D000889,,Pharmacologic Substance,inexact
+drug_or_class,anti-arrythmics,1,anti-arrythmic,close,C0003195,Anti-Arrhythmia Agents,D000889,,Pharmacologic Substance,inexact
+drug_or_class,β-blockers,1,β-blockers,close,C4538223,Beta adrenergic receptor antagonist (disposition),,,Qualitative Concept,inexact
+drug_or_class,cytochrome p-450 inducers,1,cytochrome p-450 inducers,close,C3850052,Cytochrome P-450 Enzyme Inducers,D065693,,Pharmacologic Substance,inexact
+drug_or_class,cytochrome p-450 inhibitors,1,cytochrome p-450 inhibitors,close,C3850070,Cytochrome P-450 Enzyme Inhibitors,D065607,,Pharmacologic Substance,inexact
+drug_or_class,vasoconstrictor,1,vasoconstrictor,close,C0042397,Vasoconstrictor Agents,D014662,,Pharmacologic Substance,inexact
+drug_or_class,cyclopropane anesthesia,1,cyclopropane anesthesia,none,,,,,,no match
+drug_or_class,sodium valporate,1,sodium valporate,none,,,,,,no match
+drug_or_class,sedative drugs,1,sedative drugs [words],close,C1301777,Sedation reversal using a specific sedative drug reversal agent,,,Therapeutic or Preventive Procedure,inexact
+drug_or_class,antineoplastics,1,antineoplastics,close,C0003392,Antineoplastic Agents,D000970,L01,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,benzodiazeines,1,benzodiazeines,none,,,,,,no match
+drug_or_class,cyp2c9 inducers,1,cyp2c9 inducers,close,C3850046,Cytochrome P-450 CYP2C9 Inducers,D065698,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,cyp2c19 inducers,1,cyp2c19 inducers,close,C3850047,Cytochrome P-450 CYP2C19 Inducers,D065697,,Pharmacologic Substance,inexact
+drug_or_class,cyp2c9 inhibitors,1,cyp2c9 inhibitors,close,C3850060,Cytochrome P-450 CYP2C9 Inhibitors,D065688,,Pharmacologic Substance,inexact
+drug_or_class,cyp2c19 inhibitors,1,cyp2c19 inhibitors,close,C3850059,Cytochrome P-450 CYP2C19 Inhibitors,D065689,,Pharmacologic Substance,inexact
+drug_or_class,antiarrhythmics,1,antiarrhythmics [words],close,C3653784,"Antiarrhythmics, class III",,C01BD,Pharmacologic Substance,inexact
+drug_or_class,tcas,1,tcas [words],close,C3852096,TCA 11a,C000589078,,Organic Chemical,inexact
+drug_or_class,cyp2b6 substrates,1,cyp2b6 substrates,none,,,,,,no match
+drug_or_class,cyp2c8 substrates,1,cyp2c8 substrates,none,,,,,,no match
+drug_or_class,cyp2c9 substrates,1,cyp2c9 substrates,close,C3899735,CYP2C9 Substrate,,,Substance,inexact
+drug_or_class,cyp2c19 substrates,1,cyp2c19 substrates,close,C3899736,CYP2C19 Substrate,,,Substance,inexact
+drug_or_class,benzodiazepines,1,benzodiazepines,close,C4048284,Benzodiazepine,D001569,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,neuromuscular-blocking agents,1,neuromuscular-blocking agents,close,C0027866,Neuromuscular Blocking Agents,D009466,,Pharmacologic Substance,inexact
+drug_or_class,coumarin anticoagulants,1,coumarin anticoagulants,close,C0010206,coumarin,C030123,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,coumarin-type anticoagulants,1,coumarin-type anticoagulants,none,,,,,,no match
+drug_or_class,catecholamine depleting drugs,1,catecholamine depleting drugs,none,,,,,,no match
+drug_or_class,prostaglandin synthase inhibitors,1,prostaglandin synthase inhibitors,close,C6074923,Prostaglandin Synthase Inhibitor,,,Chemical Viewed Functionally,inexact
+drug_or_class,catecholamine-depleting drugs,1,catecholamine-depleting drugs,none,,,,,,no match
+drug_or_class,prostaglandin synthase inhibiting drugs,1,prostaglandin synthase inhibiting drugs,none,,,,,,no match
+drug_or_class,antiparkinson's drugs,1,antiparkinson's drugs,close,C0003405,Antiparkinson Agents,D000978,N04,Pharmacologic Substance,inexact
+drug_or_class,barbiturate,1,barbiturate,close,C0220791,barbituric acid salt,,,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,antiparkinson's drug,1,antiparkinson's drug,close,C0003405,Antiparkinson Agents,D000978,N04,Pharmacologic Substance,inexact
+drug_or_class,propanolol,1,propanolol,close,C0033497,propranolol,D011433,C07AA05,Organic Chemical; Pharmacologic Substance,inexact
+drug_or_class,hypoglycemic drugs,1,hypoglycemic drugs,close,C0020616,Hypoglycemic Agents,D007004,,Pharmacologic Substance,inexact
+condition,pregnancy,215,,forced,C0032961,Pregnancy,D011247,289908002,Organism Function,check forced name
+condition,lactation,80,,forced,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,check forced name
+condition,breastfeeding,17,,forced,C0006147,Breast Feeding,D001942,169741004,Organism Function,check forced name
+condition,nursing mothers,15,lactation,exact,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,
+condition,women of childbearing potential,10,women of childbearing age,none,,,,,,no match
+condition,bone and joint infections,10,bone,close,C0262950,Skeletal bone,D001842,272673000,"Body Part, Organ, or Organ Component",inexact
+condition,depression,10,depressive disorder,exact,C0011581,Depressive disorder,D003866,35489007,Mental or Behavioral Dysfunction,
+condition,nursing mother,9,lactation,exact,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,
+condition,breast feeding,9,,forced,C0006147,Breast Feeding,D001942,169741004,Organism Function,check forced name
+condition,severe hepatic impairment,9,liver failure,exact,C0085605,Liver Failure,D017093,59927004,Disease or Syndrome,
+condition,skin and soft tissue infections,8,skin,exact,C1123023,Skin,D012867,39937001,Body System,
+condition,undiagnosed vaginal bleeding,8,vaginal bleeding,close,C2979982,Vaginal Hemorrhage,D014592,289530006,Pathologic Function,inexact
+condition,pediatric patients,8,child,close,C0680063,Offspring,,160499008,Family Group,inexact
+condition,neonates,7,,forced,C0021289,"Infant, Newborn",D007231,133933007,Age Group,check forced name
+condition,nursing woman,7,lactation,exact,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,
+condition,children,6,,forced,C0008059,Child,D002648,67822003;410601007,Age Group,check forced name
+condition,severe renal insufficiency,6,renal insufficiency,exact,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,
+condition,known hypersensitivity,6,hypersensitivity,exact,C0020517,Hypersensitivity,D006967,421961002,Pathologic Function,
+condition,hepatic disease,6,liver diseases,exact,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,
+condition,fetal harm,5,fetal diseases,exact,C0015929,Fetal Diseases,D005315,70591005,Disease or Syndrome,
+condition,severe hypertension,5,hypertension,close,C0020538,Hypertensive disease,D006973,38341003,Disease or Syndrome,inexact
+condition,severe renal impairment,5,renal insufficiency,exact,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,
+condition,vitamin & mineral deficiency,4,vitamin & mineral deficiency,none,,,,,,no match
+condition,increased demand of nutrients,4,increased demand of nutrients,none,,,,,,no match
+condition,genito-urinary tract infections,4,genito-urinary tract infections,none,,,,,,no match
+condition,breast-feeding,4,,forced,C0006147,Breast Feeding,D001942,169741004,Organism Function,check forced name
+condition,active peptic ulcer,4,peptic ulcer,exact,C0030920,Peptic Ulcer,D010437,13200003,Disease or Syndrome,
+condition,stop breast milk production,4,stop breast milk production,none,,,,,,no match
+condition,skin and skin structure infections,4,skin,exact,C1123023,Skin,D012867,39937001,Body System,
+condition,acute bacterial otitis media,4,bacterial otitis media,exact,C1698510,Bacterial otitis media,,703469002,Disease or Syndrome,
+condition,severe liver disease,4,liver disease,close,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,inexact
+condition,unexplained vaginal bleeding,4,vaginal bleeding,close,C2979982,Vaginal Hemorrhage,D014592,289530006,Pathologic Function,inexact
+condition,prophylaxis of iron deficiency,4,prophylaxis of iron deficiency,none,,,,,,no match
+condition,non-dialysis dependent-chronic kidney disease,4,non-dialysis dependent-chronic kidney disease,none,,,,,,no match
+condition,luteal support,4,luteal support,none,,,,,,no match
+condition,retinal thrombosis,4,retinal thrombosis [words],close,C1527411,Thrombosis of retinal vein,D012170,46085004,Disease or Syndrome,inexact
+condition,dialysis,4,dialysis,close,C4723631,Dialysis Method of Administration,,1231460007,Functional Concept,inexact
+condition,infants,4,,forced,C0021270,Infant,D007223,133931009,Age Group,check forced name
+condition,premenarcheal use,4,premenarcheal use,none,,,,,,no match
+condition,symptomatic hypotension,4,symptomatic hypotension,none,,,,,,no match
+condition,major surgery,4,major surgery [words],close,C4545223,Major surgery care management,,737567002,Health Care Activity,inexact
+condition,fetal harm (animal studies),3,fetal diseases,exact,C0015929,Fetal Diseases,D005315,70591005,Disease or Syndrome,
+condition,children under two years,3,children under two years,none,,,,,,no match
+condition,hypersensitivity to any of the ingredients,3,hypersensitivity to any of ingredients,none,,,,,,no match
+condition,roundworm,3,roundworm [words],close,C4505467,Raccoon Roundworm Encephalitis,D017191,,Disease or Syndrome,inexact
+condition,mild to moderate pain,3,to pain,close,C0030193,Pain,D010146,22253000,Sign or Symptom,inexact
+condition,severe bradycardia,3,bradycardia,exact,C0428977,Bradycardia,D001919,48867003,Finding,
+condition,hypersensitivity to any component,3,hypersensitivity to any component,none,,,,,,no match
+condition,active liver disease,3,liver disease,close,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,inexact
+condition,primary generalized tonic-clonic seizures,3,primary generalized tonic-clonic seizures,none,,,,,,no match
+condition,acute and chronic bronchitis,3,and chronic bronchitis,close,C0008677,"Bronchitis, Chronic",D029481,63480004,Disease or Syndrome,inexact
+condition,impairment of fertility,3,impairment of fertility [words],close,C3495483,Amish Brittle Hair Brain Syndrome,D054463,403796005,Disease or Syndrome,inexact
+condition,known hypersensitivity to any of the components,3,hypersensitivity to any of components,none,,,,,,no match
+condition,ill effects,3,ill effects [words],close,C1384955,Effects of high altitude,,87284002,Injury or Poisoning,inexact
+condition,hypersensitivity to any ingredient,3,hypersensitivity to any ingredient,none,,,,,,no match
+condition,severe headache,3,headache,exact,C0018681,Headache,D006261,25064002,Sign or Symptom,
+condition,severe heart failure,3,heart failure,exact,C0018801,Heart failure,D006333,84114007,Disease or Syndrome,
+condition,severe thrombocytopenia,3,thrombocytopenia,exact,C0040034,Thrombocytopenia,D013921,302215000,Disease or Syndrome,
+condition,human pregnancy,3,human pregnancy [words],close,C5400997,"Pregnancy-Specific Beta-1-Glycoprotein 1, Human",C000731149,,"Amino Acid, Peptide, or Protein",inexact
+condition,severe renal failure,3,renal failure,close,C0035078,Kidney Failure,D051437,42399005,Disease or Syndrome,inexact
+condition,nursing,3,lactation,exact,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,
+condition,severe anemia,3,anemia,exact,C0002871,Anemia,D000740,271737000,Disease or Syndrome,
+condition,active hepatic disease,3,liver diseases,exact,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,
+condition,severe hepatic dysfunction,3,hepatic dysfunction [words],close,C0017551,Gilbert Disease,D005878,27503000,Disease or Syndrome,inexact
+condition,nephrotoxicity,3,nephrotoxicity [words],close,C5980646,Chronic lithium nephrotoxicity (disorder),,1367961003,Injury or Poisoning,inexact
+condition,elderly patients,3,elderly patients,none,,,,,,no match
+condition,irregular heartbeat,2,irregular heartbeat,none,,,,,,no match
+condition,constipation (laxative use),2,constipation,exact,C0009806,Constipation,D003248,14760008,Sign or Symptom,
+condition,gastric and duodenal ulcer prophylaxis in nsaid users at high risk,2,gastric and duodenal ulcer prophylaxis in nsaid users at high risk,none,,,,,,no match
+condition,nsaid-induced gastric and duodenal damage,2,nsaid-induced gastric and duodenal damage,none,,,,,,no match
+condition,gastric and duodenal ulcers without nsaid therapy,2,gastric and duodenal ulcers without nsaid therapy,none,,,,,,no match
+condition,postpartum haemorrhage (prevention and treatment),2,postpartum hemorrhage,exact,C0032797,Postpartum Hemorrhage,D006473,47821001,Pathologic Function,
+condition,severe acne resistant to standard therapy,2,acne resistant to standard therapy,none,,,,,,no match
+condition,excessively elevated blood lipids,2,excessively elevated blood lipids,none,,,,,,no match
+condition,severe foetal malformation,2,fetal malformation,close,C5243499,Fetal Malformations,D000013,,Congenital Abnormality,inexact
+condition,seizures during neurosurgery (prevention and treatment),2,seizures,exact,C0036572,Seizures,D012640,91175000,Sign or Symptom,
+condition,hypersensitivity to phenytoin and hydantoins,2,hypersensitivity to phenytoin and hydantoins,none,,,,,,no match
+condition,skin and skin structure infection,2,skin,exact,C1123023,Skin,D012867,39937001,Body System,
+condition,bone and soft tissue infections,2,bone,close,C0262950,Skeletal bone,D001842,272673000,"Body Part, Organ, or Organ Component",inexact
+condition,burns complicated by sepsis,2,burns complicated by sepsis,none,,,,,,no match
+condition,nausea and vomiting from emetogenic cancer chemotherapy (prevention),2,nausea,exact,C0027497,Nausea,D009325,422587007,Sign or Symptom,
+condition,radiotherapy-induced nausea and vomiting (prevention),2,radiotherapy-induced nausea and vomiting,none,,,,,,no match
+condition,allergic conditions of respiratory tract and skin,2,allergic conditions of respiratory tract and skin,none,,,,,,no match
+condition,pre-operative sedation in surgery and obstetrics (adjunct),2,pre-operative sedation in surgery and obstetrics,none,,,,,,no match
+condition,sedation in children,2,sedation in children,none,,,,,,no match
+condition,coma or cns depression,2,coma,close,C0009421,Comatose,D003128,371632003,Disease or Syndrome,inexact
+condition,neonates and premature infants,2,neonates,close,C0021289,"Infant, Newborn",D007231,133933007,Age Group,inexact
+condition,two weeks before delivery,2,two weeks before delivery,none,,,,,,no match
+condition,neonatal irritability and excitement,2,neonatal irritability and excitement,none,,,,,,no match
+condition,"prolonged neurological disturbances in the infant (high doses, late pregnancy)",2,prolonged neurological disturbances in infant,none,,,,,,no match
+condition,"lower respiratory tract infections (bronchitis, pneumonia)",2,lower respiratory tract infections,close,C0149725,Lower respiratory tract infection,,50417007,Disease or Syndrome,inexact
+condition,"upper respiratory tract infections (sinusitis, pharyngitis/tonsillitis)",2,upper respiratory tract infections,close,C0041912,Upper Respiratory Infections,D012141,54150009,Disease or Syndrome,inexact
+condition,hypersensitivity to azithromycin or other macrolides,2,hypersensitivity to azithromycin or other macrolides,none,,,,,,no match
+condition,hepatic diseases,2,hepatic diseases [words],close,C0019156,Hepatic Veno-Occlusive Disease,D006504,65617004,Disease or Syndrome,inexact
+condition,uterine atony after elective caesarean under epidural or spinal anaesthesia (prevention),2,uterine atony after elective caesarean under epidural or spinal anesthesia,none,,,,,,no match
+condition,postpartum haemorrhage after elective caesarean under epidural or spinal anaesthesia (prevention),2,postpartum hemorrhage after elective caesarean under epidural or spinal anesthesia,none,,,,,,no match
+condition,sensitization reactions to drug or foreign proteins,2,sensitization reactions to drug or foreign proteins,none,,,,,,no match
+condition,hydatid,2,hydatid [words],close,C0343999,Polycystic hydatid,,240817009,Disease or Syndrome,inexact
+condition,children weighing less than 10 kg,2,children weighing less than 10 kg,none,,,,,,no match
+condition,"renal, hepatic or cardiac failure",2,"renal, hepatic or cardiac failure",none,,,,,,no match
+condition,penicillin hypersensitivity,2,penicillin hypersensitivity,none,,,,,,no match
+condition,cross-sensitivity with other beta-lactam antibiotics,2,cross-sensitivity with other beta-lactam antibiotics,none,,,,,,no match
+condition,history of co-amoxiclav or penicillin-associated cholestatic jaundice,2,co-amoxiclav,close,C0054066,amoxicillin / clavulanate,D019980,734844004,Pharmacologic Substance,inexact
+condition,"ear, nose and throat infections",2,"ear, nose and throat infections",none,,,,,,no match
+condition,penicillin hypersensitive patients,2,penicillin hypersensitive patients,none,,,,,,no match
+condition,prophylaxis against arterial occlusive events,2,prophylaxis against arterial occlusive events,none,,,,,,no match
+condition,chronic disease accompanied by pain and inflammation,2,chronic disease accompanied by pain and inflammation,none,,,,,,no match
+condition,children less than 12 years,2,children less than 12 years,none,,,,,,no match
+condition,bleeding due to haemophilia,2,bleeding,close,C0019080,Hemorrhage,D006470,50960005;131148009,Pathologic Function,inexact
+condition,other ulceration,2,other ulceration [words],close,C2708052,"Other ulcers, wounds and skin problems",,,Disease or Syndrome,inexact
+condition,complications during delivery,2,complications,close,C2362589,Complication (attribute),,263718001,Idea or Concept,inexact
+condition,heart block greater than first degree,2,heart block greater than first degree,none,,,,,,no match
+condition,overt cardiac failure,2,overt cardiac failure,none,,,,,,no match
+condition,elevated cholesterol and triglycerides in mixed dyslipidemia,2,elevated cholesterol,close,C0020443,Hypercholesterolemia,D006937,13644009,Disease or Syndrome,inexact
+condition,cardiac ischaemic events in coronary artery disease,2,cardiac ischemic events in coronary artery disease,none,,,,,,no match
+condition,hypercholesterolemia associated with or exacerbated by diabetes mellitus or renal transplantation,2,hypercholesterolemia,exact,C0020443,Hypercholesterolemia,D006937,13644009,Disease or Syndrome,
+condition,unexplained persistent elevations of serum transaminases,2,persistent elevations of serum transaminases,none,,,,,,no match
+condition,history of serious adverse reaction to prior administration of hmg-coa reductase inhibitors,2,adverse reaction to administration of hmg-coa reductase inhibitors,none,,,,,,no match
+condition,toxicity to reproduction,2,toxicity to reproduction [words],close,C2699046,Reproductive and Developmental Toxicity: Embryofetal Development,,,Regulation or Law,inexact
+condition,"women who are pregnant, trying to become pregnant or suspect they are pregnant",2,"are pregnant, trying to become pregnant or suspect they are pregnant",none,,,,,,no match
+condition,first three months of pregnancy,2,first three months of pregnancy,none,,,,,,no match
+condition,inflammatory and allergic disorders,2,inflammatory and allergic disorders [words],close,C0344179,Non-allergic anaphylaxis caused by non steroidal anti-inflammatory drug,,241948007,Pathologic Function,inexact
+condition,"ear, eye, nose and oral ulceration",2,"ear, eye, nose and oral ulceration",none,,,,,,no match
+condition,mental illness associated with child-birth (puerperal psychosis),2,mental illness,close,C0004936,Mental disorders,D001523,74732009,Mental or Behavioral Dysfunction,inexact
+condition,severe hypoglycemic tetany,2,hypoglycemic tetany,none,,,,,,no match
+condition,extreme hypercalcemia,2,extreme hypercalcemia,none,,,,,,no match
+condition,mild-to-moderate hypertension,2,to- hypertension,close,C0020538,Hypertensive disease,D006973,38341003,Disease or Syndrome,inexact
+condition,preparation of patients for thyroidectomy,2,preparation of patients for thyroidectomy,none,,,,,,no match
+condition,radio-active ablative therapy,2,radio- ablative therapy,none,,,,,,no match
+condition,inadvertent or spontaneous rupture of membranes,2,inadvertent or spontaneous rupture of membranes,none,,,,,,no match
+condition,perioperative prophylaxis,2,perioperative prophylaxis,none,,,,,,no match
+condition,prevention of postoperative infections,2,prevention of postoperative infections,none,,,,,,no match
+condition,pharyngitis/tonsillitis,2,pharyngitis/tonsillitis,none,,,,,,no match
+condition,acute bacterial maxillary sinusitis,2,bacterial maxillary sinusitis,none,,,,,,no match
+condition,acute bacterial exacerbation of chronic bronchitis,2,bacterial exacerbation of chronic bronchitis,none,,,,,,no match
+condition,skin and skin-structure infections,2,skin,exact,C1123023,Skin,D012867,39937001,Body System,
+condition,early lyme disease (erythema migrans),2,early lyme disease,none,,,,,,no match
+condition,infections caused by organisms resistant to other antibiotics,2,infections caused by organisms resistant to other antibiotics,none,,,,,,no match
+condition,infections in immunosuppressed patients with haematological or solid tumors,2,infections in immunosuppressed patients with hematological or solid tumors,none,,,,,,no match
+condition,infected ulcers,2,infected ulcers [words],close,C0406519,Infected ulcer of skin,,2622007,Disease or Syndrome,inexact
+condition,infected burns,2,infected burns [words],close,C6091560,Friction burn of testis with infection,,1389437004,Injury or Poisoning,inexact
+condition,"urethral, rectal and pharyngeal gonorrhoea",2,urethral,close,C4521294,Urethral (intended site),,738988002,Spatial Concept,inexact
+condition,impairment of peri/post natal development,2,impairment of peri/post natal development,none,,,,,,no match
+condition,septicemia and endocarditis,2,septicemia,exact,C0036690,Septicemia,D018805,,Disease or Syndrome,
+condition,risk to the fetus,2,risk to fetus [words],close,C4760604,Trisomy 21 risk cutoff in Fetus,,,Finding,inexact
+condition,drug hypersensitivity reactions,2,drug hypersensitivity reactions,none,,,,,,no match
+condition,bullous dermatitis herpetiformis,2,bullous dermatitis herpetiformis,none,,,,,,no match
+condition,exfoliative erythroderma,2,exfoliative erythroderma,none,,,,,,no match
+condition,severe erythema multiforme (stevens-johnson syndrome),2,erythema multiforme,exact,C0014742,Erythema Multiforme,D004892,36715001,Disease or Syndrome,
+condition,primary or secondary adrenocortical insufficiency,2,primary,exact,C0205225,Primary,,63161005,Qualitative Concept,
+condition,hypercalcemia associated with cancer,2,hypercalcemia,exact,C0020437,Hypercalcemia,D006934,66931009,Disease or Syndrome,
+condition,nonsuppurative thyroiditis,2,nonsuppurative thyroiditis [words],close,C0271818,Chronic nonsuppurative thyroiditis,,90441002,Disease or Syndrome,inexact
+condition,acute exacerbations of multiple sclerosis,2,exacerbations of multiple sclerosis,close,C0581392,Exacerbation of multiple sclerosis,,192929006,Disease or Syndrome,inexact
+condition,symptomatic sarcoidosis,2,symptomatic sarcoidosis,none,,,,,,no match
+condition,acute gouty arthritis,2,gouty arthritis,close,C0003868,"Arthritis, Gouty",D015210,170733007;48440001,Disease or Syndrome,inexact
+condition,systemic and ophthalmic fungal infections,2,systemic,exact,C0205373,Systemic,,31099001,Functional Concept,
+condition,hypersensitivity to corticosteroids,2,hypersensitivity to corticosteroids,none,,,,,,no match
+condition,mild to moderate anxiety,2,to anxiety,close,C0003467,Anxiety,D001007,48694002,Mental or Behavioral Dysfunction,inexact
+condition,aggressiveness,2,aggressiveness [words],close,C1853195,"Prostate Cancer, Hereditary, 7",C565201,,Neoplastic Process,inexact
+condition,premedication for surgical procedures,2,premedication for surgical procedures,none,,,,,,no match
+condition,abortion at 12 to 20 weeks,2,abortion at 12 to 20 weeks,none,,,,,,no match
+condition,clean out vagina after miscarriage,2,clean out vagina after miscarriage,none,,,,,,no match
+condition,suspected or clinically evident pre-existing fetal distress,2,or clinically evident fetal distress,none,,,,,,no match
+condition,"pregnancy, labor or delivery",2,pregnancy,close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,acute intestinal amebiasis,2,intestinal amebiasis,close,C6072056,"Dysentery, Amebic",D004404,387754006,Disease or Syndrome,inexact
+condition,hypersensitivity to tetracyclines,2,hypersensitivity to tetracyclines,none,,,,,,no match
+condition,children under 8 years,2,children under 8 years,none,,,,,,no match
+condition,lactating mothers,2,lactation,exact,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,
+condition,pregnant and lactating mothers,2,pregnant,close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,known or suspected pregnancy,2,or pregnancy [words],close,C0032961,Pregnancy,D011247,289908002,Organism Function,inexact
+condition,pregnancy occurs during use,2,pregnancy occurs during use,none,,,,,,no match
+condition,reduce quantity and change composition of breast milk,2,reduce quantity and change composition of breast milk,none,,,,,,no match
+condition,habitual miscarriage,2,habitual miscarriage,none,,,,,,no match
+condition,infertility due to luteal insufficiency,2,infertility,exact,C0021359,Infertility,D007246,8619003,Finding,
+condition,known or suspected progestogen dependent neoplasms,2,or progestogen dependent neoplasms,none,,,,,,no match
+condition,hepatic disease or dysfunction,2,hepatic disease or dysfunction,none,,,,,,no match
+condition,history of herpes in pregnancy,2,herpes in pregnancy,exact,C0587068,Herpes in pregnancy,,274116002,Disease or Syndrome,
+condition,harmful effect during pregnancy,2,harmful effect during pregnancy,none,,,,,,no match
+condition,"hypersensitivity to enoxaparin sodium, heparin or lmw heparins",2,"hypersensitivity to enoxaparin sodium, heparin or lmw heparins",none,,,,,,no match
+condition,established trachoma,2,established trachoma,none,,,,,,no match
+condition,increased body iron content,2,increased body iron content,none,,,,,,no match
+condition,megaloblastic anaemia of pregnancy,2,megaloblastic anemia of pregnancy [words],close,C0271948,Megaloblastic anemia due to pregnancy,,91217009,Disease or Syndrome,inexact
+condition,iron and folic acid deficiency,2,iron,exact,C0302583,iron,D007501,3829006;30729008,"Pharmacologic Substance; Biologically Active Substance; Element, Ion, or Isotope",
+condition,oropharyngeal candidiasis,2,oropharyngeal candidiasis,none,,,,,,no match
+condition,esophageal candidiasis,2,esophageal candidiasis,none,,,,,,no match
+condition,other tinea,2,other tinea,none,,,,,,no match
+condition,invasive candidal infections,2,invasive candidal infections,none,,,,,,no match
+condition,cryptococcal infections (including meningitis),2,cryptococcal infections,none,,,,,,no match
+condition,prevention of cryptococcal meningitis,2,prevention of cryptococcal meningitis,none,,,,,,no match
+condition,prevention of fungal infections in immunocompromised patients,2,prevention of fungal infections in immunocompromised patients,none,,,,,,no match
+condition,cryptococcal infection,2,cryptococcal infection,none,,,,,,no match
+condition,superficial candidiasis,2,superficial candidiasis,none,,,,,,no match
+condition,anemias of nutritional origins,2,anemias of nutritional origins,none,,,,,,no match
+condition,anemias of childhood,2,anemias of childhood,none,,,,,,no match
+condition,harmful effects on the course of pregnancy,2,harmful effects on course of pregnancy,none,,,,,,no match
+condition,harmful effects on the fetus,2,harmful effects on fetus,none,,,,,,no match
+condition,harmful effects on the neonate,2,harmful effects on neonate,none,,,,,,no match
+condition,lactating women,2,lactation,exact,C0022925,Lactation,D007774,63158009,Organ or Tissue Function,
+condition,osteoarthritis (degenerative joint disease),2,osteoarthritis,close,C0029408,Degenerative polyarthritis,D010003,225655006;396275006,Disease or Syndrome,inexact
+condition,active ulcerative colitis,2,ulcerative colitis,exact,C0009324,Ulcerative Colitis,D003093,64766004,Disease or Syndrome,
+condition,active inflammatory bowel disease,2,inflammatory bowel disease,close,C0021390,Inflammatory Bowel Diseases,D015212,24526004,Disease or Syndrome,inexact
+condition,hemodialysis dependent-chronic kidney disease,2,hemodialysis dependent-chronic kidney disease,none,,,,,,no match
+condition,peritoneal dialysis dependent-chronic kidney disease,2,peritoneal dialysis dependent-chronic kidney disease,none,,,,,,no match
+condition,hypertension in pregnancy,2,hypertension in pregnancy [words],close,C0852036,Pregnancy associated hypertension,D046110,48194001,Disease or Syndrome,inexact
+condition,hypertension after stroke,2,hypertension after stroke,none,,,,,,no match
+condition,hypertension with angina,2,hypertension with angina,none,,,,,,no match
+condition,hypertension following acute myocardial infarction,2,hypertension following myocardial infarction,none,,,,,,no match
+condition,second or third degree heart block,2,second,close,C0205436,Second - ordinal,,81170007,Quantitative Concept,inexact
+condition,infranodal a-v block,2,infranodal a-v block,none,,,,,,no match
+condition,uncontrolled heart failure,2,heart failure,exact,C0018801,Heart failure,D006333,84114007,Disease or Syndrome,
+condition,severe and prolonged hypotension,2,and prolonged hypotension,none,,,,,,no match
+condition,pregnant women with hypertension,2,pregnant women with hypertension,none,,,,,,no match
+condition,partial-onset seizures,2,partial-onset seizures,none,,,,,,no match
+condition,generalized seizures of lennox-gastaut syndrome,2,generalized seizures of lennox-gastaut syndrome,none,,,,,,no match
+condition,partial-onset seizures with or without secondary generalization in newly diagnosed epilepsy,2,partial-onset seizures with or without secondary generalization in newly diagnosed epilepsy,none,,,,,,no match
+condition,impact on fertility,2,impact on fertility,none,,,,,,no match
+condition,prevent fertilization in case of unprotected intercourse,2,prevent fertilization in case of unprotected intercourse,none,,,,,,no match
+condition,diagnostic aid,2,diagnostic aid [words],close,C3543412,"DOG1 (Indicator, Reagent, or Diagnostic Aid)",,,"Indicator, Reagent, or Diagnostic Aid",inexact
+condition,untreated subclinical or overt thyrotoxicosis,2,untreated subclinical or overt thyrotoxicosis,none,,,,,,no match
+condition,uncorrected adrenal failure,2,uncorrected adrenal failure,none,,,,,,no match
+condition,untreated hypothyroidism,2,untreated hypothyroidism,none,,,,,,no match
+condition,roundworms,2,roundworms [words],close,C0003950,Ascariasis,D001196,2435008,Disease or Syndrome,inexact
+condition,severe liver dysfunction,2,liver dysfunction,exact,C0086565,Liver Dysfunction,D008107,75183008,Finding,
+condition,severe infection,2,infection,exact,C3714514,Infection,D007239,,Pathologic Function,
+condition,epidermoid cancers of the head and neck,2,epidermoid cancers of head and neck,none,,,,,,no match
+condition,advanced mycosis fungoides,2,advanced mycosis fungoides,none,,,,,,no match
+condition,"severe, active rheumatoid arthritis",2,rheumatoid arthritis,exact,C0003873,Rheumatoid Arthritis,D001172,69896004,Disease or Syndrome,
+condition,active polyarticular-course juvenile rheumatoid arthritis,2,polyarticular-course juvenile rheumatoid arthritis,none,,,,,,no match
+condition,other chronic liver disease,2,other chronic liver disease,none,,,,,,no match
+condition,immunodeficiency syndromes,2,immunodeficiency syndromes [words],close,C0001175,Acquired Immunodeficiency Syndrome,D000163,62479008,Disease or Syndrome,inexact
+condition,hypersensitivity to methotrexate,2,hypersensitivity to methotrexate,none,,,,,,no match
+condition,active cirrhosis,2,cirrhosis,exact,C1623038,Cirrhosis,,,Disease or Syndrome,
+condition,post-operative infections due to anaerobic bacteria,2,post-operative infections due to anaerobic bacteria,none,,,,,,no match
+condition,post-operative wound infections caused by anaerobes,2,post-operative wound infections caused by anaerobes,none,,,,,,no match
+condition,symptomless cyst passers (amoebiasis),2,symptomless cyst passers,none,,,,,,no match
+condition,anaerobically infected leg ulcers,2,anaerobically infected leg ulcers,none,,,,,,no match
+condition,acute dental infections due to anaerobic organisms,2,dental infections,close,C0877046,Tooth Infection,,427898007,Disease or Syndrome,inexact
+condition,antibiotic associated pseudomembranus colitis,2,antibiotic associated pseudomembranus colitis,none,,,,,,no match
+condition,hypersensitivity to metronidazole or other nitroimidazole derivatives,2,hypersensitivity to metronidazole or other nitroimidazole derivatives,none,,,,,,no match
+condition,surgical termination of intra-uterine pregnancy,2,surgical termination of intra-uterine pregnancy,none,,,,,,no match
+condition,softening and dilatation of the cervix uteri,2,softening,exact,C0870079,Softening,,,Phenomenon or Process,
+condition,preparation for the action of prostaglandin analogues,2,preparation for action of prostaglandin analogues,none,,,,,,no match
+condition,labour induction for the expulsion of a dead fetus,2,labor induction for expulsion of a dead fetus,none,,,,,,no match
+condition,doubt as to the existence or age of the pregnancy,2,doubt as to existence or age of pregnancy,none,,,,,,no match
+condition,extra-uterine pregnancy,2,extra-uterine pregnancy,none,,,,,,no match
+condition,chronic adrenal failure,2,chronic adrenal failure,none,,,,,,no match
+condition,allergy to mifepristone or any component,2,allergy to mifepristone,exact,C0571161,Allergy to mifepristone,,294245000,Disease or Syndrome,
+condition,severe asthma uncontrolled by corticosteroid therapy,2,asthma by corticosteroid therapy,none,,,,,,no match
+condition,breast-feeding women,2,breast-feeding women,none,,,,,,no match
+condition,advanced aortic stenosis,2,advanced aortic stenosis,none,,,,,,no match
+condition,gl obstruction,2,gl obstruction,none,,,,,,no match
+condition,pregnant patients at 38-42 weeks,2,pregnant patients at 38-42 weeks,none,,,,,,no match
+condition,severe impairment of renal function,2,impairment of renal function [words],close,C0403361,Renal function impairment with growth failure,,197671004,Disease or Syndrome,inexact
+condition,bodyache,2,bodyache,none,,,,,,no match
+condition,colic pain,2,colic pain,none,,,,,,no match
+condition,postpartum pain,2,postpartum pain [words],close,C3840216,Postpartum episiotomy pain,,72771000119107,Sign or Symptom,inexact
+condition,post vaccination pain,2,post vaccination pain,none,,,,,,no match
+condition,osteoarthritic pain,2,osteoarthritic pain,none,,,,,,no match
+condition,phenobarbital sensitivity,2,phenobarbital sensitivity,none,,,,,,no match
+condition,fetal damage,2,fetal damage [words],close,C2063214,Fetal damage from maternal toxoplasmosis,,609436009,Pathologic Function,inexact
+condition,severe hypoprothrombinemia,2,hypoprothrombinemia,close,C4722227,Factor II deficiency (disorder),D007020,73975000,Disease or Syndrome,inexact
+condition,pregnancy_lactation,2,pregnancy_lactation,none,,,,,,no match
+condition,psychotic illness,2,psychotic illness [words],close,C0425062,Family history of psychotic illness,,266969002,Finding,inexact
+condition,acute mania,2,mania,close,C0338831,Manic,D000087122,231494001,Mental or Behavioral Dysfunction,inexact
+condition,severe cns depression,2,cns depression [words],close,C0007681,Central Nervous System Depressants,D002492,,Pharmacologic Substance,inexact
+condition,children under 2 years,2,children under 2 years,none,,,,,,no match
+condition,cycle control,2,cycle control [words],close,C1155872,Cell Cycle Control,D059447,,Cell Function,inexact
+condition,benign mastopathy,2,benign mastopathy,none,,,,,,no match
+condition,hepatic dysfunction,2,hepatic dysfunction [words],close,C0017551,Gilbert Disease,D005878,27503000,Disease or Syndrome,inexact
+condition,undiagnosed uterine bleeding,2,uterine bleeding,close,C0042134,Uterine hemorrhage,D014592,,Pathologic Function,inexact
+condition,cerebral apoplexy,2,cerebral apoplexy,none,,,,,,no match
+condition,luteal phase support,2,luteal phase support,none,,,,,,no match
+condition,progesterone sensitive malignant tumors,2,progesterone sensitive malignant tumors,none,,,,,,no match
+condition,active arterial or venous thromboembolism,2,arterial,exact,C0221464,Arterial,,,Spatial Concept,
+condition,severe thrombophlebitis,2,thrombophlebitis,exact,C0040046,Thrombophlebitis,D013924,64156001,Pathologic Function,
+condition,graves' disease with hyperthyroidism,2,graves' disease with hyperthyroidism,none,,,,,,no match
+condition,fetal goiter,2,fetal goiter,none,,,,,,no match
+condition,absence seizures (petit mal),2,absence seizures,exact,C4316903,Absence Seizures,D012640,,Disease or Syndrome,
+condition,generalized tonic-clonic seizures (grand mal),2,generalized tonic-clonic seizures,close,C5703382,Generalized onset tonic-clonic epileptic seizure,,1217209006,Finding,inexact
+condition,mixed seizures that include absence attack,2,mixed seizures that include absence attack,none,,,,,,no match
+condition,prophylaxis of febrile convulsion,2,prophylaxis of febrile convulsion,none,,,,,,no match
+condition,prophylaxis of post-traumatic epilepsy,2,prophylaxis of post-traumatic epilepsy,none,,,,,,no match
+condition,permanent tooth discoloration,2,permanent tooth discoloration,none,,,,,,no match
+condition,newly diagnosed multiple myeloma (mm),2,newly diagnosed multiple myeloma,none,,,,,,no match
+condition,cutaneous manifestations of moderate to severe erythema nodosum leprosum (enl),2,cutaneous manifestations of to erythema nodosum leprosum,none,,,,,,no match
+condition,prevention and suppression of the cutaneous manifestations of enl recurrence,2,prevention,close,C0199176,Prophylactic treatment,,169443000;360271000,Therapeutic or Preventive Procedure,inexact
+condition,accidents during thrombolytic therapy and transfusion,2,accidents,close,C1690974,Accidental event (event),,418019003,Event,inexact
+condition,arterial and venous thrombosis,2,arterial,exact,C0221464,Arterial,,,Spatial Concept,
+condition,antifibrinolytic effect,2,antifibrinolytic effect,none,,,,,,no match
+condition,"changes in skin, hair and nails",2,"changes in skin, hair and nails",none,,,,,,no match
+condition,women who are or may become pregnant,2,are or may become pregnant,none,,,,,,no match
+condition,recurrent myocardial infarction,2,recurrent myocardial infarction,none,,,,,,no match
+condition,uncontrolled hypertension,2,hypertension,close,C0020538,Hypertensive disease,D006973,38341003,Disease or Syndrome,inexact
+condition,zinc losing conditions,2,zinc losing conditions,none,,,,,,no match
+condition,more severe renal impairment,2,more renal impairment,none,,,,,,no match
+condition,diabetic patients receiving sulphonylurea drug,2,diabetic patients receiving sulphonylurea drug,none,,,,,,no match
+condition,myocardial insufficiency,2,myocardial insufficiency,none,,,,,,no match
+condition,hypertophic cardiomyopathy,2,hypertophic cardiomyopathy,none,,,,,,no match
+condition,systemic allergic reactions to immunoglobulin,2,systemic allergic reactions to immunoglobulin,none,,,,,,no match
+condition,severe and life-threatening birth defects,2,and life-threatening birth defects,none,,,,,,no match
+condition,females of reproductive potential,2,females of reproductive [words],close,C0700038,Female Reproductive System,D005836,413344004,Body System,inexact
+condition,serious renal insufficiency or anuric syndromes,2,renal insufficiency,exact,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,
+condition,less serious renal dysfunctions,2,less renal dysfunctions,none,,,,,,no match
+condition,cardiopathic and hepatopathic subjects,2,cardiopathic and hepatopathic subjects,none,,,,,,no match
+condition,elderly subject,2,elderly subject,none,,,,,,no match
+condition,acute illness,2,illness,close,C0221423,Illness (finding),,39104002,Sign or Symptom,inexact
+condition,deficient renal function,2,deficient renal function,none,,,,,,no match
+condition,hypothyroidism due to a decrease in pituitary gland function,2,hypothyroidism,exact,C0020676,Hypothyroidism,D007037,40930008,Disease or Syndrome,
+condition,severe and long-existing hypothyroidism,2,and long-existing hypothyroidism,none,,,,,,no match
+condition,occlusive vascular disorders,2,occlusive vascular disorders [words],close,C0035326,Retinal vascular occlusion,,73757007,Disease or Syndrome,inexact
+condition,severe coronary artery disease,2,coronary artery disease,exact,C1956346,Coronary Artery Disease,D003324,414024009,Disease or Syndrome,
+condition,pyloro-duodenal obstruction,2,pyloro-duodenal obstruction,none,,,,,,no match
+condition,blood vessel administration,2,blood vessel administration,none,,,,,,no match
+condition,hbsag carrier,2,hbsag carrier,none,,,,,,no match
+condition,puerperal psychosis,2,puerperal psychosis,none,,,,,,no match
+condition,fibrotic reactions,2,fibrotic reactions,none,,,,,,no match
+condition,hypersensitive,2,hypersensitive [words],close,C0520946,Emotional hypersensitivity,,421369008,Finding,inexact
+condition,increased intraocular pressure,2,increased intraocular pressure [words],close,C0200197,Provocative test for increased intraocular pressure for glaucoma,,48696000,Diagnostic Procedure,inexact
+condition,stenosing peptic ulcer,2,stenosing peptic ulcer,none,,,,,,no match
+condition,pyloroduodenal obstruction,2,pyloroduodenal obstruction,none,,,,,,no match
+condition,obliterative vascular disease,2,obliterative vascular disease,none,,,,,,no match
+condition,protein c or protein s deficiency,2,protein c,exact,C0033621,protein C,D011486,391874000;25525005,"Amino Acid, Peptide, or Protein; Pharmacologic Substance; Biologically Active Substance",
+condition,arterial or venous thromboembolism,2,arterial,exact,C0221464,Arterial,,,Spatial Concept,
+condition,impaired liver function,2,impaired liver function [words],close,C1827288,At increased risk for impaired liver function,,425060007,Finding,inexact
+condition,elderly with renal failure,2,elderly with renal failure,none,,,,,,no match
+condition,impaired function of the liver,2,impaired function of liver [words],close,C1827288,At increased risk for impaired liver function,,425060007,Finding,inexact
+condition,impaired function of the kidneys,2,impaired function of kidneys,none,,,,,,no match
+condition,gestational age 24-27 weeks,2,gestational age 24-27 weeks,none,,,,,,no match
+condition,uterine relaxation,2,uterine relaxation,none,,,,,,no match
+condition,inadequate uterus contraction postpartum,2,inadequate uterus contraction postpartum,none,,,,,,no match
+condition,severe hepatocellular injury,2,hepatocellular injury,none,,,,,,no match
+condition,severe hepatic reactions,2,hepatic reactions,none,,,,,,no match
+condition,mixed seizures,2,mixed seizures,none,,,,,,no match
+condition,impaired hepatic function,2,impaired hepatic function,none,,,,,,no match
+condition,potent diuretics,2,potent diuretics,none,,,,,,no match
+condition,hypersensitive to penicillin,2,hypersensitive to penicillin,none,,,,,,no match
+condition,hypertonus,2,hypertonus [words],close,C0269842,Hypertonic uterine dysfunction,,34981006,Pathologic Function,inexact
+condition,sustained uterine contractility,2,sustained uterine contractility,none,,,,,,no match
+condition,hypertonic uterine contractility,2,hypertonic uterine contractility,none,,,,,,no match
+condition,leber optic nerve atrophy,2,leber optic nerve atrophy,none,,,,,,no match
+condition,"family history of thrombosis, heart attack or stroke",2,"family thrombosis, heart attack or stroke",none,,,,,,no match
+condition,high cholesterol or triglycerides,2,high cholesterol,close,C0020443,Hypercholesterolemia,D006937,13644009,Disease or Syndrome,inexact
+condition,liver or gallbladder disease,2,liver,exact,C0023884,Liver,D008099,10200004,"Body Part, Organ, or Organ Component",
+condition,crohn's disease or ulcerative colitis,2,crohn's disease,close,C0010346,Crohn Disease,D003424,34000006,Disease or Syndrome,inexact
+condition,salicylate intoxication,2,salicylate intoxication,none,,,,,,no match
+condition,abrupt withdrawal,2,abrupt withdrawal,none,,,,,,no match
+condition,mucus membranes,2,mucus membranes [words],close,C1532469,Ulcerated mucosa of colon,,415767003,Disease or Syndrome,inexact
+condition,last half of pregnancy,2,last half of pregnancy,none,,,,,,no match
+condition,circulatory disorder,2,circulatory disorder [words],close,C0728936,Disorder of circulatory system,,,Disease or Syndrome,inexact
+condition,tissue iron overload,2,tissue iron overload,none,,,,,,no match
+condition,outflow obstruction,2,outflow obstruction [words],close,C0600039,Urinary outflow obstruction,,252028009,Anatomical Abnormality,inexact
+condition,ischaemia of extremities,2,ischemia of extremities [words],close,C4047824,Ischemia of left lower extremity,,15712481000119108,Pathologic Function,inexact
+condition,breech and abnormal foetal presentation,2,breech and abnormal fetal presentation,none,,,,,,no match
+condition,respiratory impairment,2,respiratory impairment [words],close,C1999000,Ineffective breathing pattern,,20573003,Finding,inexact
+condition,cardiac impairment,2,cardiac impairment [words],close,C3875159,At increased risk of impaired cardiac function,,704298009,Finding,inexact
+condition,postpartum non-breastfeeding,2,postpartum non-breastfeeding,none,,,,,,no match
+condition,uncontrolled dyslipidemia,2,dyslipidemia,close,C0242339,Dyslipidemias,D050171,370992007,Disease or Syndrome,inexact
+condition,irregular bleeding,2,irregular bleeding [words],close,C0025874,Metrorrhagia,D008796,237130006;64996003,Pathologic Function,inexact
+condition,red cell aplasia,2,red cell aplasia [words],close,C0034902,Pure Red-Cell Aplasia,D012010,50715003,Disease or Syndrome,inexact
+condition,tetracycline in pregnancy,2,tetracycline in pregnancy,none,,,,,,no match
+condition,folate dependent tumours,2,folate dependent tumors,none,,,,,,no match
+condition,undiagnosed megaloblastic anaemia,2,megaloblastic anemia,close,C0002888,"Anemia, Megaloblastic",D000749,53165003,Disease or Syndrome,inexact
+condition,vitamin b12 deficiency states,2,vitamin b12 deficiency states,none,,,,,,no match
+condition,subacute combined degeneration of the cord,2,subacute combined degeneration of cord [words],close,C0221065,Subacute Combined Degeneration,D052879,60576007,Disease or Syndrome,inexact
+condition,rhesus-positive individuals,2,rhesus-positive individuals,none,,,,,,no match
+condition,postpartum usage,2,postpartum usage,none,,,,,,no match
+condition,gangrene of the extremities,2,gangrene of extremities,none,,,,,,no match
+condition,neuraxial anaesthesia,2,neuraxial anesthesia [words],close,C3697782,Failed neuraxial anesthesia,,698827008,Finding,inexact
+condition,disease states with increased danger of haemorrhage,2,disease states with increased danger of hemorrhage,none,,,,,,no match
+condition,ulcerative lesions of stomach or small intestine,2,ulcerative lesions of stomach or small intestine,none,,,,,,no match
+condition,liver disease with impaired hemostasis,2,liver disease with impaired hemostasis,none,,,,,,no match
+condition,oedema with sodium retention,2,edema with sodium retention,none,,,,,,no match
+condition,paediatric patients,2,child,close,C0680063,Offspring,,160499008,Family Group,inexact
+condition,changes in ocular function,2,changes in ocular function,none,,,,,,no match
+condition,aggressive tendencies,2,aggressive tendencies,none,,,,,,no match
+condition,decreased night vision,2,decreased night vision,none,,,,,,no match
+condition,calcification of tendons and ligaments,2,calcification of tendons,close,C0405583,Calcium deposits in tendon,,404225005;404224009,Disease or Syndrome,inexact
+condition,blood dyscrasias,2,blood dyscrasias [words],close,C0393844,Neuropathy in blood dyscrasias,,230584000,Disease or Syndrome,inexact
+condition,unexpected infection,2,unexpected infection,none,,,,,,no match
+condition,suicidal behavior and ideation,2,suicidal behavior,exact,C1760428,Suicidal behavior,,425104003,Finding,
+condition,decreased blood cell counts,2,decreased blood cell counts [words],close,C0750394,White blood cell count decreased,,419188005,Finding,inexact
+condition,children under 6 years,2,children under 6 years,none,,,,,,no match
+condition,mild to moderate hepatic impairment,2,to hepatic impairment,close,C0948807,Hepatic impairment,,,Disease or Syndrome,inexact
+condition,regular intake,2,regular intake,none,,,,,,no match
+condition,regular contraception,2,regular contraception,none,,,,,,no match
+condition,severe digestive disease,2,digestive disease [words],close,C1271778,Digestive system disease screening,,391277002,Health Care Activity,inexact
+condition,protracted sweating,2,protracted sweating,none,,,,,,no match
+condition,decreased tolerance to lithium,2,decreased tolerance to lithium,none,,,,,,no match
+condition,reduced fetal renal function,2,reduced fetal renal function,none,,,,,,no match
+condition,intravascular volume depletion,2,intravascular volume depletion,none,,,,,,no match
+condition,cirrhotic patients,2,cirrhotic patients,none,,,,,,no match
+condition,history of β-lactam allergy,2,β-lactam allergy,none,,,,,,no match
+condition,decreased plasma/urinary steroids,2,decreased plasma/urinary steroids,none,,,,,,no match
+condition,decreased cortisol,2,decreased cortisol [words],close,C1836623,Decreased circulating cortisol level,,,Finding,inexact
+condition,decreased pregnanediol,2,decreased pregnanediol [words],close,C1295650,Pregnanediol level below reference range,,131073007,Finding,inexact
+condition,decreased progesterone,2,decreased progesterone [words],close,C1295635,Progesterone level below reference range,,131053002,Finding,inexact
+condition,decreased testosterone,2,decreased testosterone [words],close,C1295654,Testosterone level below reference range,,131078003,Finding,inexact
+condition,decreased lh,2,decreased lh,none,,,,,,no match
+condition,decreased fsh,2,decreased fsh [words],close,C0271556,Non-pregnancy related A-G syndrome,,64678009,Disease or Syndrome,inexact
+condition,decreased sex hormone-binding globulin,2,decreased sex hormone-binding globulin,none,,,,,,no match
+condition,unexpected vaginal bleeding,2,unexpected vaginal bleeding,none,,,,,,no match
+condition,metformin accumulation,2,metformin accumulation,none,,,,,,no match
+condition,low vitamin b12,2,low vitamin b12 [words],close,C0427410,Serum vitamin B12 below reference range,,165645009,Finding,inexact
+condition,children with type 2 diabetes,2,children with type 2 diabetes,none,,,,,,no match
+condition,prepubescent children,2,prepubescent children,none,,,,,,no match
+condition,children 10 to 12 years,2,children 10 to 12 years,none,,,,,,no match
+condition,gfr < 30 ml/min,2,gfr < 30 ml/min,none,,,,,,no match
+condition,conditions that alter renal function,2,conditions that alter renal function,none,,,,,,no match
+condition,intrathecal therapy,2,intrathecal therapy,none,,,,,,no match
+condition,high dose methotrexate therapy,2,high dose methotrexate therapy,none,,,,,,no match
+condition,history of liver dysfunction,2,liver dysfunction,exact,C0086565,Liver Dysfunction,D008107,75183008,Finding,
+condition,history of clinical edema,2,clinical edema [words],close,C0730284,Clinically significant macular edema,,312911008,Disease or Syndrome,inexact
+condition,history of weight gain,2,weight gain,exact,C0043094,Weight Gain,D015430,816159004;262286000,Finding,
+condition,progressing edema,2,progressing edema [words],close,C1850056,"Progressive encephalopathy with edema, hypsarrhythmia, and optic atrophy-like syndrome",,770678005,Disease or Syndrome,inexact
+condition,signs of heart failure,2,signs of heart failure,none,,,,,,no match
+condition,recurrence of hypertension,2,recurrence of hypertension,none,,,,,,no match
+condition,involuntary choreoathetotic movements,2,involuntary choreoathetotic movements,none,,,,,,no match
+condition,psychotic reactions,2,psychotic reactions [words],close,C0520694,Qi-gong psychotic reaction,,27803006,Mental or Behavioral Dysfunction,inexact
+condition,disulfiram-like reaction,2,disulfiram-like reaction,none,,,,,,no match
+condition,central neuropathy,2,central neuropathy [words],close,C1836727,"Peripheral Demyelinating Neuropathy, Central Dysmyelination, Waardenburg Syndrome, and Hirschsprung Disease",C563789,765325002,Disease or Syndrome,inexact
+condition,heavy smoking,2,heavy smoking [words],close,C5444653,Heaviness of Smoking Index,,,Intellectual Product,inexact
+condition,women over 35 who smoke 10 or more cigarettes per day,2,over 35 who smoke 10 or more cigarettes per day,none,,,,,,no match
+condition,childbearing potential,2,childbearing [words],close,C0011201,Delayed Childbearing,D043762,,Individual Behavior,inexact
+condition,acute fetal distress,2,fetal distress,exact,C0015930,Fetal Distress,D005316,130955003,Pathologic Function,
+condition,children under 18 years,2,children under 18 years,none,,,,,,no match
+condition,depressed renal function,2,depressed renal function,none,,,,,,no match
+condition,severe continuing diarrhea,2,continuing diarrhea,none,,,,,,no match
+condition,critical fluid losses,2,critical fluid losses,none,,,,,,no match
+condition,severe hypotension,2,hypotension,exact,C0020649,Hypotension,D007022,45007003,Finding,
+condition,poor cardiac reserve,2,poor cardiac reserve,none,,,,,,no match
+condition,ischaemic pain,2,ischemic pain [words],close,C0002962,Angina Pectoris,D000787,194828000;225566008,Sign or Symptom,inexact
+condition,acute pulmonary reactions,2,pulmonary reactions [words],close,C0398667,Pulmonary transfusion reaction,,234517008,Disease or Syndrome,inexact
+condition,sub-acute pulmonary reactions,2,sub- pulmonary reactions,none,,,,,,no match
+condition,chronic pulmonary reactions,2,chronic pulmonary reactions,none,,,,,,no match
+condition,uterine sensitivity,2,uterine sensitivity [words],close,C1450507,"Sostdc1 protein, mouse",C483887,,"Amino Acid, Peptide, or Protein; Biologically Active Substance",inexact
+condition,scars of the cervix uteri,2,scars of cervix uteri,none,,,,,,no match
+condition,uncontrolled blood pressure,2,blood pressure,exact,C0005823,Blood Pressure,D001794,75367002,Organism Function,
+condition,nasal allergy,2,nasal allergy [words],close,C0027431,Nasal Provocation Tests,D009299,165010000,Diagnostic Procedure,inexact
+condition,non-cirrhotic alcoholic liver disease,2,non-cirrhotic alcoholic liver disease,none,,,,,,no match
+condition,physical dependence,2,physical dependence [words],close,C1268609,Physical functional dependency,,129676008,Finding,inexact
+condition,mentally depressed patients,2,mentally depressed patients [words],close,C4264776,"Did you live with anyone who was depressed, mentally ill, or suicidal:Find:Pt:^Patient:Ord",,,Clinical Attribute,inexact
+condition,suicidal tendencies,2,suicidal tendencies,none,,,,,,no match
+condition,history of drug abuse,2,drug abuse,close,C6073643,Drugs of Abuse,D013287,,Pharmacologic Substance; Hazardous or Poisonous Substance,inexact
+condition,hepatic damage,2,hepatic damage,none,,,,,,no match
+condition,severe anaphylactic reaction,2,anaphylactic reaction,close,C4316895,Anaphylactic shock,D000707,735173007,Pathologic Function,inexact
+condition,patients already on a beta blocker,2,already on a beta blocker,none,,,,,,no match
+condition,peripheral arterial circulatory disorders,2,peripheral arterial circulatory disorders,none,,,,,,no match
+condition,elderly with hypertension and angina pectoris,2,elderly with hypertension and angina pectoris,none,,,,,,no match
+condition,elderly with acute myocardial infarction,2,elderly with myocardial infarction,none,,,,,,no match
+condition,driving or using machinery,2,driving,close,C6074833,Driving (qualifier value),,1388348000,Activity,inexact
+condition,extreme drowsiness,2,extreme drowsiness,none,,,,,,no match
+condition,prolonged sun exposure,2,prolonged sun exposure,none,,,,,,no match
+condition,seizures in eclampsia,1,seizures in eclampsia [words],close,C6061946,Acute symptomatic epileptic seizure due to eclampsia,,1363497003,Disease or Syndrome,inexact
+condition,seizures in acute uraemia,1,seizures in uremia [words],close,C6061980,Acute symptomatic epileptic seizure due to uremia,,1366037002,Disease or Syndrome,inexact
+condition,seizures in hypothyroidism,1,seizures in hypothyroidism,none,,,,,,no match
+condition,severe myocardial damage,1,myocardial damage,none,,,,,,no match
+condition,significantly decreased kidney function,1,decreased kidney function,close,C0232807,Decreased renal function,,76114004,Finding,inexact
+condition,uterine atony after delivery of placenta,1,uterine atony after delivery of placenta,none,,,,,,no match
+condition,subinvolution of the uterus,1,subinvolution of uterus [words],close,C0156370,Chronic subinvolution of uterus,,198315005,Disease or Syndrome,inexact
+condition,uterine haemorrhage in second stage of labour after anterior shoulder,1,uterine hemorrhage in second stage of labor after anterior shoulder,none,,,,,,no match
+condition,adverse effects in the breast-feeding infant,1,adverse effects in breast-feeding infant,none,,,,,,no match
+condition,reduced breast milk yield,1,reduced breast milk yield,none,,,,,,no match
+condition,fetal ototoxicity,1,fetal ototoxicity,none,,,,,,no match
+condition,post-operative nausea and vomiting (prevention and treatment),1,post-operative nausea and vomiting,none,,,,,,no match
+condition,non-gonococcal urethritis and cervicitis due to chlamydia trachomatis,1,non-gonococcal urethritis and cervicitis due to chlamydia trachomatis,none,,,,,,no match
+condition,"before delivery of the infant, including induction of labour",1,"before delivery of infant, including induction of labor",none,,,,,,no match
+condition,hypersensitivity to oxytocin or carbetocin,1,hypersensitivity to oxytocin or carbetocin,none,,,,,,no match
+condition,"cardiovascular disease (coronary artery disease, valvular heart disease, cardiomyopathy, heart failure)",1,cardiovascular disease,close,C0007222,Cardiovascular Diseases,D002318,49601007,Disease or Syndrome,inexact
+condition,significant safety concern in the breastfed infant,1,safety concern in breastfed infant,none,,,,,,no match
+condition,"seizures (prevention and control), cause not named",1,seizures,exact,C0036572,Seizures,D012640,91175000,Sign or Symptom,
+condition,kidney function,1,kidney function [words],close,C0022662,Kidney Function Tests,D007677,,Laboratory Procedure,inexact
+condition,uncomplicated genital infection due to chlamydia trachomatis,1,uncomplicated genital infection due to chlamydia trachomatis,none,,,,,,no match
+condition,post-operative nausea and vomiting (prevention),1,post-operative nausea and vomiting,none,,,,,,no match
+condition,untoward effect,1,untoward effect,none,,,,,,no match
+condition,effect on fetal organ development,1,effect on fetal organ development,none,,,,,,no match
+condition,infections due to susceptible ß-lactamase negative strains of microorganisms,1,infections,close,C3714514,Infection,D007239,,Pathologic Function,inexact
+condition,h. pylori infection and duodenal ulcer disease,1,h. pylori infection and duodenal ulcer disease,none,,,,,,no match
+condition,infections caused by susceptible ß-lactamase negative strains of bacteria,1,infections caused by susceptible ß-lactamase negative strains of bacteria,none,,,,,,no match
+condition,h. pylori infection and duodenal ulcer,1,h. pylori infection and duodenal ulcer,none,,,,,,no match
+condition,infections of the genitourinary tract including gonorrhea,1,infections of genitourinary tract including gonorrhea,none,,,,,,no match
+condition,hypersensitivity to ampicillin and other penicillins,1,hypersensitivity to ampicillin and other penicillins,none,,,,,,no match
+condition,fetal risk,1,fetal risk [words],close,C5817452,At increased risk for fetal disorder,,1269549007,Finding,inexact
+condition,problems in the unborn child,1,problems in unborn child,none,,,,,,no match
+condition,harm to the unborn child,1,harm to unborn child,none,,,,,,no match
+condition,hypersensitivity to the atenolol or any of the drug product's components,1,hypersensitivity to atenolol,exact,C5817298,Hypersensitivity to atenolol,,1269396003,Pathologic Function,
+condition,clinically significant bradycardia,1,clinically bradycardia,none,,,,,,no match
+condition,"premature infants, or infants with impaired renal function",1,"premature infants,",close,C4048294,Preterm Infant,D007234,,Age Group,inexact
+condition,hypersensitivity to the atenolol or any of its components,1,hypersensitivity to atenolol,exact,C5817298,Hypersensitivity to atenolol,,1269396003,Pathologic Function,
+condition,premature infants or infants with impaired kidney function,1,premature infants,close,C4048294,Preterm Infant,D007234,,Age Group,inexact
+condition,elevated total cholesterol and ldl cholesterol in familial hypercholesterolemia,1,elevated total cholesterol and ldl cholesterol in familial hypercholesterolemia,none,,,,,,no match
+condition,elevated serum triglyceride levels in hypertriglyceridaemia,1,elevated serum triglyceride levels in hypertriglyceridemia,none,,,,,,no match
+condition,reduce the fetal levels of mevalonate,1,reduce fetal levels of mevalonate,none,,,,,,no match
+condition,total cholesterol and ldl cholesterol in familial hypercholesterolemia,1,total cholesterol,exact,C0543421,Total cholesterol,,,Laboratory or Test Result,
+condition,elevated serum triglyceride in hypertriglyceridaemia,1,elevated serum triglyceride in hypertriglyceridemia,none,,,,,,no match
+condition,reduce fetal levels of mevalonate,1,reduce fetal levels of mevalonate,none,,,,,,no match
+condition,delay imminent pre-term birth,1,delay imminent pre-term birth,none,,,,,,no match
+condition,gestational age below 24 or over 33 completed weeks,1,gestational age below 24 or over 33 completed weeks,none,,,,,,no match
+condition,premature rupture of the membranes >30 weeks of gestation,1,premature rupture of membranes >30 weeks of gestation,none,,,,,,no match
+condition,antepartum uterine haemorrhage requiring immediate delivery,1,antepartum uterine hemorrhage requiring immediate delivery,none,,,,,,no match
+condition,eclampsia and severe pre-eclampsia requiring delivery,1,eclampsia,exact,C0013537,Eclampsia,D004461,15938005,Disease or Syndrome,
+condition,intrauterine foetal death,1,intrauterine fetal death [words],close,C4511985,Past pregnancy history of intrauterine fetal death,,16216731000119106,Finding,inexact
+condition,suspected intrauterine infection,1,intrauterine infection [words],close,C3532572,Infection associated with intrauterine contraceptive device,,473076002,Finding,inexact
+condition,continuation of pregnancy is hazardous,1,continuation of pregnancy is hazardous,none,,,,,,no match
+condition,syphilis: early syphilis (primary and secondary),1,syphilis: early syphilis [words],close,C0153139,Early symptomatic syphilis,,186846005,Disease or Syndrome,inexact
+condition,poststreptococcal glomerulonephritis,1,poststreptococcal glomerulonephritis,none,,,,,,no match
+condition,patient hypersensitive to penicillin,1,hypersensitive to penicillin,none,,,,,,no match
+condition,hypersensitivity to any component of the tablets,1,hypersensitivity to any component of tablets,none,,,,,,no match
+condition,conditions caused by hormonal disturbance,1,conditions caused by hormonal disturbance,none,,,,,,no match
+condition,"serious mental disease, particularly psychotic disorders",1,mental disease,close,C0004936,Mental disorders,D001523,74732009,Mental or Behavioral Dysfunction,inexact
+condition,conditions caused by high levels of prolactin due to hormonal disturbance,1,conditions caused by high levels of prolactin due to hormonal disturbance,none,,,,,,no match
+condition,"serious mental disease, especially mental disorders",1,mental disease,close,C0004936,Mental disorders,D001523,74732009,Mental or Behavioral Dysfunction,inexact
+condition,high blood pressure in pregnancy (pregnancy toxemia),1,high blood pressure in pregnancy [words],close,C2964329,PhenX measure - high blood pressure during pregnancy,,,Finding,inexact
+condition,calcium depletion,1,calcium depletion,none,,,,,,no match
+condition,pregnancy and lactation,1,pregnancy,close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,hyperidity,1,hyperidity,none,,,,,,no match
+condition,acid indigestion,1,acid indigestion [words],close,C4050007,Have Acid Indigestion or Heartburn,,,Intellectual Product,inexact
+condition,sour stomach,1,sour stomach,none,,,,,,no match
+condition,calcium gluconate deficiency states,1,calcium gluconate deficiency states,none,,,,,,no match
+condition,severe hypercalciuria,1,hypercalciuria,exact,C0020438,Hypercalciuria,D053565,71938000,Finding,
+condition,adverse effects on the fetus,1,adverse effects on fetus,none,,,,,,no match
+condition,hypersensitivity to captopril,1,hypersensitivity to captopril [words],close,C3662118,Captopril pseudoallergy,,609538008,Disease or Syndrome,inexact
+condition,women of child-bearing potential,1,of child-bearing [words],close,C1960468,Female of child bearing age,,427504007,Finding,inexact
+condition,partial and secondary generalized tonic-clonic seizures,1,partial,exact,C0728938,Partial,,255609007,Quantitative Concept,
+condition,prophylaxis of bipolar disorder,1,prophylaxis of bipolar disorder,none,,,,,,no match
+condition,allergic to one or any of its ingredients,1,allergic to one or any of its ingredients,none,,,,,,no match
+condition,partial and secondary generalized tonic clonic seizures,1,partial,exact,C0728938,Partial,,255609007,Quantitative Concept,
+condition,primary generalized tonic clonic seizures,1,primary generalized tonic clonic seizures,none,,,,,,no match
+condition,bipolar disorder prophylaxis,1,bipolar disorder prophylaxis,none,,,,,,no match
+condition,hypersensitive patients,1,hypersensitive patients,none,,,,,,no match
+condition,hypersensitivity to carbimazole,1,hypersensitivity to carbimazole,none,,,,,,no match
+condition,adversely affects the foetus,1,adversely affects fetus,none,,,,,,no match
+condition,foetal or neonatal hypothyroidism and goitre,1,fetal,exact,C0521457,Fetal,,,Functional Concept,
+condition,terminating pregnancy between the 13th and 20th weeks of gestation,1,terminating pregnancy between 13th and 20th weeks of gestation,none,,,,,,no match
+condition,failure of expulsion of the fetus,1,failure of expulsion of fetus,none,,,,,,no match
+condition,requirement of a repeat intrauterine instillation of drug for expulsion of the fetus,1,requirement of a repeat intrauterine instillation of drug for expulsion of fetus,none,,,,,,no match
+condition,hypersensitivity to carboprost,1,hypersensitivity to carboprost,none,,,,,,no match
+condition,teratogenic,1,teratogenic [words],close,C3825603,Teratogenic agents knowledge,,,Finding,inexact
+condition,embryotoxic,1,embryotoxic,none,,,,,,no match
+condition,put the embryo or fetus at risk,1,put embryo or fetus at risk,none,,,,,,no match
+condition,termination of pregnancy between the 13th and 20th weeks of gestation,1,termination of pregnancy between 13th and 20th weeks of gestation,none,,,,,,no match
+condition,failure of fetus expulsion,1,failure of fetus expulsion,none,,,,,,no match
+condition,requirement of repeated intrauterine drug administration for fetus expulsion,1,requirement of repeated intrauterine drug administration for fetus expulsion,none,,,,,,no match
+condition,allergy to the cephalosporin group of antibiotics,1,allergy to cephalosporin group of antibiotics,none,,,,,,no match
+condition,hypersensitivity to cephalosporin antibiotics,1,hypersensitivity to cephalosporin antibiotics,none,,,,,,no match
+condition,uncomplicated urinary tract infection,1,uncomplicated urinary tract infection,none,,,,,,no match
+condition,pharyngitis and tonsillitis,1,pharyngitis,exact,C0031350,Pharyngitis,D010612,405737000,Disease or Syndrome,
+condition,acute bronchitis and acute exacerbation of chronic bronchitis,1,bronchitis,exact,C0006277,Bronchitis,D001991,32398004,Disease or Syndrome,
+condition,uncomplicated gonorrhea,1,uncomplicated gonorrhea,none,,,,,,no match
+condition,hypersensitivity to cefixime or any other cephalosporin antibiotic,1,hypersensitivity to cefixime or any other cephalosporin antibiotic,none,,,,,,no match
+condition,perioperative prophylaxis of infections associated with surgery,1,perioperative prophylaxis of infections associated with surgery,none,,,,,,no match
+condition,history of hypersensitivity to cephalosporin antibiotics,1,hypersensitivity to cephalosporin antibiotics,none,,,,,,no match
+condition,perioperative and postoperative prophylaxis,1,perioperative,exact,C1518988,perioperative,,,Temporal Concept,
+condition,patients hypersensitive to cephalosporin antibiotics,1,hypersensitive to cephalosporin antibiotics,none,,,,,,no match
+condition,infections caused by sensitive bacteria,1,infections caused by sensitive bacteria,none,,,,,,no match
+condition,lower respiratory tract infections including pneumoniae,1,lower respiratory tract infections including pneumoniae,none,,,,,,no match
+condition,secondary bacterial infections of acute bronchitis,1,secondary bacterial infections of bronchitis,none,,,,,,no match
+condition,known allergy to cephalosporins,1,allergy to cephalosporins,close,C0571444,Allergy to cephalosporin (finding),,294532003,Pathologic Function,inexact
+condition,treatment of infections caused by sensitive bacteria,1,treatment of infections caused by sensitive bacteria,none,,,,,,no match
+condition,lower respiratory tract infection including pneumonia,1,lower respiratory tract infection including pneumonia,none,,,,,,no match
+condition,secondary bacterial infection of acute bronchitis,1,secondary bacterial infection of bronchitis,none,,,,,,no match
+condition,patients with known hypersensitivity to cephalosporin group antibiotics,1,hypersensitivity to cephalosporin group antibiotics,none,,,,,,no match
+condition,prophylaxis of omphalitis (infection of the umbilical cord) in newborn,1,prophylaxis of omphalitis in newborn,none,,,,,,no match
+condition,intended patient population,1,intended patient population,none,,,,,,no match
+condition,prophylaxis of omphalitis in newborn,1,prophylaxis of omphalitis in newborn,none,,,,,,no match
+condition,effective calcium and phosphate absorption,1,effective calcium and phosphate absorption,none,,,,,,no match
+condition,nutrient for a growing infant,1,nutrient for a growing infant,none,,,,,,no match
+condition,immunity boost up,1,immunity boost up,none,,,,,,no match
+condition,diseases associated with hypercalcaemia,1,diseases,close,C0012634,Disease,D004194,64572001,Disease or Syndrome,inexact
+condition,hypersensitivity to vitamin d3 (or medicines of the same class) and any of the excipients,1,hypersensitivity to vitamin d3 and any of excipients,none,,,,,,no match
+condition,vitamin d3 toxicity,1,vitamin d3 toxicity,none,,,,,,no match
+condition,overdose in infants,1,overdose in infants,none,,,,,,no match
+condition,strong bones and teeth formation,1,strong bones and teeth formation,none,,,,,,no match
+condition,diseases associated with hypercalcemia,1,diseases,close,C0012634,Disease,D004194,64572001,Disease or Syndrome,inexact
+condition,hypersensitivity to vitamin d3 and its other ingredients,1,hypersensitivity to vitamin d3 and its other ingredients,none,,,,,,no match
+condition,evidence of vitamin d3 toxicity,1,evidence of vitamin d3 toxicity,none,,,,,,no match
+condition,overdose in nursing infants,1,overdose in nursing infants,none,,,,,,no match
+condition,single infection or mixed infections,1,single infection or mixed infections,none,,,,,,no match
+condition,peritionitis,1,peritionitis,none,,,,,,no match
+condition,infections in patients in intensive care unit with specific problems such as infected burns,1,infections,close,C3714514,Infection,D007239,,Pathologic Function,inexact
+condition,acute exacerbation of cystic fibrosis,1,exacerbation of cystic fibrosis,none,,,,,,no match
+condition,uncomplicated and complicated urethritis,1,uncomplicated,exact,C0443334,Uncomplicated,,263914008,Qualitative Concept,
+condition,history of hypersensitivity to ciprofloxacin or to other quinolones,1,hypersensitivity to ciprofloxacin or to other quinolones,none,,,,,,no match
+condition,single infection and mixed infections,1,single infection and mixed infections,none,,,,,,no match
+condition,infections in intensive care unit patients with specific problems like infected burns,1,infections in intensive care unit patients with specific problems like infected burns,none,,,,,,no match
+condition,acute and complicated bronchitis,1,and complicated bronchitis,none,,,,,,no match
+condition,complications of cystic fibrosis,1,complications of cystic fibrosis,none,,,,,,no match
+condition,complicated and uncomplicated urinary tract infections,1,complicated,exact,C0231242,Complicated,,255302009,Functional Concept,
+condition,hypersensitivity to ciprofloxacin and other quinolones,1,hypersensitivity to ciprofloxacin and other quinolones,none,,,,,,no match
+condition,multi-drug resistant plasmodium falciporum infection,1,multi-drug resistant plasmodium falciporum infection,none,,,,,,no match
+condition,sensitive to clindamycin or any of the ingredients,1,sensitive to clindamycin or any of ingredients,none,,,,,,no match
+condition,multi-drug resistant plasmodium falciparum infection,1,multi-drug resistant plasmodium falciparum infection,none,,,,,,no match
+condition,hypersensitivity to clindamycin or any of the ingredients,1,hypersensitivity to clindamycin or any of ingredients,none,,,,,,no match
+condition,"vaginal itching, burning and discharge associated with recurrent vaginal yeast infections (vaginal candidiasis)",1,"vaginal itching, burning and discharge associated with recurrent vaginal yeast infections",none,,,,,,no match
+condition,viginitis due to candida species,1,viginitis due to candida species,none,,,,,,no match
+condition,mycotic infections complicated by other microorganisms sensitive to the drug,1,mycotic infections complicated by other microorganisms sensitive to drug,none,,,,,,no match
+condition,vaginal itching,1,vaginal itching,none,,,,,,no match
+condition,recurrent vaginal infections (mainly vaginal candida),1,recurrent vaginal infections,none,,,,,,no match
+condition,vaginitis caused by fungus,1,vaginitis caused by fungus,none,,,,,,no match
+condition,vaginal inflammation caused by any fungus sensitive to clotrimazole,1,vaginal inflammation caused by any fungus sensitive to clotrimazole,none,,,,,,no match
+condition,hypersensitivity to clotrimazole,1,hypersensitivity to clotrimazole,none,,,,,,no match
+condition,bad effects,1,bad effects,none,,,,,,no match
+condition,liver or kidney disease,1,liver,exact,C0023884,Liver,D008099,10200004,"Body Part, Organ, or Organ Component",
+condition,gastric bypass surgery,1,gastric bypass surgery,none,,,,,,no match
+condition,total or partial gastrectomy,1,total,exact,C0439810,Total,,255619001,Qualitative Concept,
+condition,gluten enteropathy or sprue,1,gluten enteropathy,close,C0007570,Celiac Disease,D002446,396331005,Disease or Syndrome,inexact
+condition,perennial or seasonal allergic rhinitis,1,perennial or seasonal allergic rhinitis [words],close,C0339812,Perennial allergic rhinitis with seasonal variation,,232353008,Disease or Syndrome,inexact
+condition,congenital (erythroid) hypoplastic anemia (diamond-blackfan anemia),1,congenital hypoplastic anemia,close,C1260899,"Anemia, Diamond-Blackfan",D029503,88854002,Disease or Syndrome,inexact
+condition,idiopathic thrombocytopenic purpura in adults,1,idiopathic thrombocytopenic purpura in adults,none,,,,,,no match
+condition,ocular inflammatory conditions,1,ocular inflammatory conditions,none,,,,,,no match
+condition,fulminating or disseminated pulmonary tuberculosis,1,fulminating or disseminated pulmonary tuberculosis,none,,,,,,no match
+condition,gastric and duodenal ulcers,1,gastric and duodenal ulcers [words],close,C0267258,Combined gastric AND duodenal ulcer,,79806007,Disease or Syndrome,inexact
+condition,"viral infections, e.g. varicella and herpes genitalis infections",1,viral infections,close,C0042769,Virus Diseases,D014777,34014006,Disease or Syndrome,inexact
+condition,breast-feed,1,breast-feed [words],close,C5574392,Declined to breast-feed,,552001000124100,Finding,inexact
+condition,various types of rhinitis,1,various types of rhinitis,none,,,,,,no match
+condition,inflammatory diseases of the eye,1,inflammatory diseases of eye,none,,,,,,no match
+condition,adrenocortical hyperfunction diagnosis,1,adrenocortical hyperfunction diagnosis,none,,,,,,no match
+condition,trichinosis with neurologic or myocardial involvement,1,trichinosis with neurologic or myocardial involvement,none,,,,,,no match
+condition,gastric and duodenal ulcer,1,gastric and duodenal ulcer [words],close,C0267258,Combined gastric AND duodenal ulcer,,79806007,Disease or Syndrome,inexact
+condition,"viral infections, e.g. varicella, herpes genitalis or viral infections of the eye",1,viral infections,close,C0042769,Virus Diseases,D014777,34014006,Disease or Syndrome,inexact
+condition,acute alcohol withdrawal,1,alcohol withdrawal,close,C0236663,Alcohol withdrawal syndrome,,191480000,Disease or Syndrome,inexact
+condition,"intermittent, stereotypic episodes of frequent seizure activity",1,intermittent,exact,C0205267,Intermittent,,7087005,Temporal Concept,
+condition,hypersensitivity to bezodiazepine,1,hypersensitivity to bezodiazepine,none,,,,,,no match
+condition,alcohol withdrawal symptoms,1,alcohol withdrawal symptoms,none,,,,,,no match
+condition,seizures in epileptic patients,1,seizures in epileptic patients,none,,,,,,no match
+condition,reduced pulmonary function,1,reduced pulmonary function,none,,,,,,no match
+condition,chronic involutive,1,chronic involutive,none,,,,,,no match
+condition,spondylarthroses,1,spondylarthroses,none,,,,,,no match
+condition,peri-articular rheumatic disorders,1,peri-articular rheumatic disorders,none,,,,,,no match
+condition,surgical interventions,1,surgical interventions [words],close,C2598127,"Major Procedures (Diagnostic, Surgical, and Therapeutic Interventions)",,,Therapeutic or Preventive Procedure,inexact
+condition,"pre-operative pain, inflammation, and swelling",1,"pre-operative pain, inflammation, and swelling",none,,,,,,no match
+condition,"post-operative and post-traumatic pain, inflammation, and swelling",1,"post-operative and post-traumatic pain, inflammation, and swelling",none,,,,,,no match
+condition,"urogenital tract operation pain, inflammation, and swelling",1,"urogenital tract operation pain, inflammation, and swelling",none,,,,,,no match
+condition,renal and biliary colic,1,renal and biliary colic,none,,,,,,no match
+condition,hypersensitivity to diclofenac or other nsaids,1,hypersensitivity to diclofenac or other nsaids,none,,,,,,no match
+condition,asthmatic patient with attacks precipitated by acetylsalicylic acid or prostaglandin synthetase inhibitor,1,asthmatic patient with attacks precipitated by acetylsalicylic acid or prostaglandin synthetase inhibitor,none,,,,,,no match
+condition,occlusive airtight dressings,1,occlusive airtight dressings,none,,,,,,no match
+condition,undesirable effects on infant,1,undesirable effects on infant,none,,,,,,no match
+condition,inflammatory and degenerative rheumatism,1,inflammatory and degenerative rheumatism,none,,,,,,no match
+condition,chronic complex bone inflammation,1,chronic complex bone inflammation,none,,,,,,no match
+condition,vertebral dislocation,1,vertebral dislocation [words],close,C0370813,"Open treatment and/or reduction of vertebral fracture(s) and/or dislocation(s), posterior approach, 1 fractured vertebra or dislocated segment; lumbar",,,Therapeutic or Preventive Procedure,inexact
+condition,deep soft tissue wound,1,deep soft tissue wound,none,,,,,,no match
+condition,severe surgical wound and injury pain,1,surgical wound,exact,C0332803,Surgical wound,D000072836,112633009,Injury or Poisoning,
+condition,uterine inflammation,1,uterine inflammation [words],close,C0275957,Tuberculosis of uterine cervix,,62819009,Disease or Syndrome,inexact
+condition,genital tract inflammation,1,genital tract inflammation,none,,,,,,no match
+condition,breast inflammation and swelling,1,breast inflammation and swelling,none,,,,,,no match
+condition,ent pain and inflammation,1,ent pain and inflammation,none,,,,,,no match
+condition,pre-operative anti-inflammatory and swelling treatment,1,pre-operative anti-inflammatory and swelling treatment,none,,,,,,no match
+condition,"post-operative and traumatic pain, inflammation and swelling",1,"post-operative and traumatic pain, inflammation and swelling",none,,,,,,no match
+condition,urinary and genital tract pain and swelling,1,urinary,exact,C1524119,urinary,,,Qualitative Concept,
+condition,post-operative pain and inflammation,1,post-operative pain,close,C0030201,Postoperative Pain,D010149,213299007,Sign or Symptom,inexact
+condition,kidney and biliary tract pain,1,kidney,exact,C0022646,Kidney,D007668,64033007,"Body Part, Organ, or Organ Component",
+condition,hypersensitivity to diclofenac sodium,1,hypersensitivity to diclofenac sodium,none,,,,,,no match
+condition,"hypersensitivity to diclofenac, gel base, acetylsalicylic acid or nsaids",1,"hypersensitivity to diclofenac, gel base, acetylsalicylic acid or nsaids",none,,,,,,no match
+condition,closed and airtight dressing,1,closed,close,C3810854,Close,,,Finding,inexact
+condition,harm to neonate,1,harm to neonate,none,,,,,,no match
+condition,widens cervix for delivery,1,widens cervix for delivery,none,,,,,,no match
+condition,hypersensitivity to this drug or to any ingredient in the formulation,1,hypersensitivity to this drug or to any ingredient in formulation,none,,,,,,no match
+condition,patients in whom oxytocic drugs are contraindicated,1,in whom oxytocic drugs are contraindicated,none,,,,,,no match
+condition,where prolonged contractions of the uterus are considered inappropriate,1,where prolonged contractions of uterus are considered inappropriate,none,,,,,,no match
+condition,major uterine surgery,1,major uterine surgery,none,,,,,,no match
+condition,major degree of cephalopelvic disproportion,1,major degree of cephalopelvic disproportion,none,,,,,,no match
+condition,history of difficult labor,1,difficult labor,close,C0013418,Dystocia,D004420,289261003;45757002,Pathologic Function,inexact
+condition,traumatic delivery,1,traumatic delivery [words],close,C0269858,Traumatic lesion during delivery,,64229006,Injury or Poisoning,inexact
+condition,grand multiparae with six or more previous term pregnancies,1,grand multiparae with six or more term pregnancies,none,,,,,,no match
+condition,overdistention of the uterus,1,overdistention of uterus,none,,,,,,no match
+condition,polyhydromnias,1,polyhydromnias,none,,,,,,no match
+condition,ruptured amniotic membranes,1,ruptured amniotic membranes [words],close,C0404339,Hindwater rupture of amniotic membrane,,177131001,Therapeutic or Preventive Procedure,inexact
+condition,suspected chorioamnionitis,1,chorioamnionitis,exact,C0008495,Chorioamnionitis,D002821,11612004,Disease or Syndrome,
+condition,unexplained vaginal bleeding during the pregnancy,1,vaginal bleeding during pregnancy,exact,C3163625,vaginal bleeding during pregnancy,,16320551000119109,Pathologic Function,
+condition,"gynecological, obstetrical or medical conditions that preclude vaginal delivery",1,"gynecological, obstetrical or medical conditions that preclude vaginal delivery",none,,,,,,no match
+condition,pregnancy is complicated by an abnormal position of the placenta or umbilical cord,1,pregnancy is complicated by an abnormal position of placenta or umbilical cord,none,,,,,,no match
+condition,breast feeding mothers,1,breast feeding mothers [words],close,C3661896,Mother of subject refuses to breast-feed,,552011000124102,Finding,inexact
+condition,widens cervix for easy delivery,1,widens cervix for easy delivery,none,,,,,,no match
+condition,hypersensitivity to this drug or formulation ingredients,1,hypersensitivity to this drug or formulation ingredients,none,,,,,,no match
+condition,patients in whom oxytocic drugs are contraindicated or prolonged uterine contractions are inappropriate,1,in whom oxytocic drugs are contraindicated or prolonged uterine contractions are inappropriate,none,,,,,,no match
+condition,history of cesarean section or uterine surgery,1,cesarean section,exact,C0007876,Cesarean section,D002585,11466000,Therapeutic or Preventive Procedure,
+condition,history of difficult labor and/or traumatic delivery,1,difficult labor and/or traumatic delivery,none,,,,,,no match
+condition,grand multipara with six or more previous term pregnancies,1,grand multipara with six or more term pregnancies,none,,,,,,no match
+condition,"uterine overdistension (multiple pregnancy, polyhydramnios)",1,uterine overdistension,none,,,,,,no match
+condition,ruptured amniotic membrane or suspected chorioamnionitis,1,ruptured amniotic membrane or chorioamnionitis,none,,,,,,no match
+condition,unexplained vaginal bleeding during pregnancy,1,vaginal bleeding during pregnancy,exact,C3163625,vaginal bleeding during pregnancy,,16320551000119109,Pathologic Function,
+condition,fetal abnormality,1,fetal abnormality [words],close,C0456059,Fetal growth abnormality,,276604007,Finding,inexact
+condition,"gynecological, obstetrical or medical conditions precluding vaginal delivery",1,"gynecological, obstetrical or medical conditions precluding vaginal delivery",none,,,,,,no match
+condition,pregnancy complicated by abnormal position of placenta or umbilical cord,1,pregnancy complicated by abnormal position of placenta or umbilical cord,none,,,,,,no match
+condition,lympho-granuloma venereum,1,lympho-granuloma venereum,none,,,,,,no match
+condition,non gonococcal urethritis,1,non gonococcal urethritis [words],close,C1112709,non-gonococcal urethritis (NGU),,84619001,Disease or Syndrome,inexact
+condition,uncomplicated urethral and endocervical or rectal infections,1,uncomplicated urethral and endocervical or rectal infections,none,,,,,,no match
+condition,staining and effect on bone growth in foetus,1,staining,close,C0487602,Staining method,D013194,127790008,Laboratory Procedure,inexact
+condition,lymphogranuloma,1,lymphogranuloma [words],close,C0024286,Lymphogranuloma Venereum,D008219,186946009,Disease or Syndrome,inexact
+condition,venereum psittacosis,1,venereum psittacosis [words],close,C1277892,Psittacosis LGV antibody level,,315182002,Laboratory Procedure,inexact
+condition,non-gonococcal urethritis,1,non-gonococcal urethritis [words],close,C1112709,non-gonococcal urethritis (NGU),,84619001,Disease or Syndrome,inexact
+condition,acute pelvic disease,1,pelvic disease [words],close,C0242172,Pelvic Inflammatory Disease,D000292,198130006,Disease or Syndrome,inexact
+condition,uncomplicated urethral and endocervical or rectal infection,1,uncomplicated urethral and endocervical or rectal infection,none,,,,,,no match
+condition,tularemia cellulitis,1,tularemia cellulitis,none,,,,,,no match
+condition,risk to fetal bone growth,1,risk to fetal bone growth,none,,,,,,no match
+condition,moderate acne vulgaris,1,acne vulgaris,exact,C0001144,Acne Vulgaris,D000152,88616000,Disease or Syndrome,
+condition,premenstrual dysphoric disorder (pmdd),1,premenstrual dysphoric disorder,exact,C0520676,Premenstrual Dysphoric Disorder,D065446,596004,Mental or Behavioral Dysfunction,
+condition,clotting of blood in the vein,1,clotting of blood in vein,none,,,,,,no match
+condition,feel something hard in your breast,1,feel something hard in your breast,none,,,,,,no match
+condition,diabetes with vascular involvement,1,diabetes with vascular involvement,none,,,,,,no match
+condition,excessive bleeding for which no reason has yet been ascertained,1,excessive bleeding for which no reason has yet been ascertained,none,,,,,,no match
+condition,presence or a history of venous or arterial thromboembolic events,1,presence,close,C3854307,Presence (property),,705057003,Qualitative Concept,inexact
+condition,history of migraine with focal neurological symptoms,1,migraine with focal neurological symptoms,none,,,,,,no match
+condition,pancreatitis or a history thereof if associated with severe hypertriglyceridaemia,1,pancreatitis,exact,C0030305,Pancreatitis,D010195,75694006,Disease or Syndrome,
+condition,presence or history of liver tumours,1,presence,close,C3854307,Presence (property),,705057003,Qualitative Concept,inexact
+condition,undiagnosed vagina! bleeding,1,vagina! bleeding,close,C2979982,Vaginal Hemorrhage,D014592,289530006,Pathologic Function,inexact
+condition,hypersensitivity to any of the components,1,hypersensitivity to any of components,none,,,,,,no match
+condition,moderate acne,1,acne,exact,C0702166,Acne,D000152,11381005,Disease or Syndrome,
+condition,vein blood clotting disease,1,vein blood clotting disease,none,,,,,,no match
+condition,liver disease or jaundice,1,liver disease,close,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,inexact
+condition,diabetes with vascular complication,1,diabetes with vascular complication [words],close,C0011875,Diabetic Angiopathies,D003925,,Disease or Syndrome,inexact
+condition,unexplained excessive bleeding,1,excessive bleeding [words],close,C5924180,Excessive bleeding due to blood coagulation disorder,,1335815005,Pathologic Function,inexact
+condition,venous or arterial thromboembolic events,1,venous,exact,C0348013,Venous,,,Spatial Concept,
+condition,pancreatitis or hypertriglyceridemia history,1,pancreatitis,exact,C0030305,Pancreatitis,D010195,75694006,Disease or Syndrome,
+condition,renal insufficiency or acute renal failure,1,renal insufficiency,exact,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,
+condition,liver tumor or history thereof,1,liver tumor,close,C0023903,Liver neoplasms,D008113,126851005,Neoplastic Process,inexact
+condition,irregular cycles,1,irregular cycles [words],close,C0156404,Irregular Menstruation,D008599,80182007,Finding,inexact
+condition,luteal support as part of an assisted reproductive technology (art),1,luteal support as part of an assisted reproductive technology,none,,,,,,no match
+condition,to counteract the effects of unopposed oestrogen on the endometrium in hormone replacement therapy,1,to counteract effects of unopposed estrogen on endometrium in hormone replacement therapy,none,,,,,,no match
+condition,hypersensitivity to the active substance or to any of the excipients,1,hypersensitivity to substance or to any of excipients,none,,,,,,no match
+condition,if used to prevent endometrial hyperplasia,1,if used to prevent endometrial hyperplasia,none,,,,,,no match
+condition,thrombophlebitis or thromboembolic disorders,1,thrombophlebitis,exact,C0040046,Thrombophlebitis,D013924,64156001,Pathologic Function,
+condition,"cerebrovascular or coronary artery disease, or a past history of these conditions",1,"cerebrovascular or coronary artery disease, or a past these conditions",none,,,,,,no match
+condition,history of cholestatic jaundice or pruritus of pregnancy,1,cholestatic jaundice,close,C0022354,"Jaundice, Obstructive",D041781,59848001;44018007,Disease or Syndrome,inexact
+condition,benign or malignant liver tumours,1,benign,exact,C0205183,Benign,,30807003,Qualitative Concept,
+condition,luteal support in art,1,luteal support in art,none,,,,,,no match
+condition,counteract estrogen effect in endometrium in hrt,1,counteract estrogen effect in endometrium in hrt,none,,,,,,no match
+condition,hypersensitivity to active or excipient ingredients,1,hypersensitivity to,close,C0020517,Hypersensitivity,D006967,421961002,Pathologic Function,inexact
+condition,prevent endometrial hyperplasia,1,prevent endometrial hyperplasia,none,,,,,,no match
+condition,thrombophlebitis or thromboembolic disorder,1,thrombophlebitis,exact,C0040046,Thrombophlebitis,D013924,64156001,Pathologic Function,
+condition,cerebrovascular or coronary artery disease,1,cerebrovascular or coronary artery disease,none,,,,,,no match
+condition,cholestatic jaundice or pruritus of pregnancy,1,cholestatic jaundice,close,C0022354,"Jaundice, Obstructive",D041781,59848001;44018007,Disease or Syndrome,inexact
+condition,benign or malignant liver tumors,1,benign,exact,C0205183,Benign,,30807003,Qualitative Concept,
+condition,mild to moderate heart failure,1,to heart failure,close,C0018801,Heart failure,D006333,84114007,Disease or Syndrome,inexact
+condition,hypersensitivity to the product or components,1,hypersensitivity to product or components,none,,,,,,no match
+condition,history of angioneurotic oedema relating to ace inhibitor,1,angioneurotic edema relating to ace inhibitor,none,,,,,,no match
+condition,fetotoxic in rabbits during middle and late pregnancy,1,fetotoxic in rabbits during middle and late pregnancy,none,,,,,,no match
+condition,thrombus formation in the extra-corporal circulation during haemodialysis,1,thrombus formation in extra-corporal circulation during hemodialysis,none,,,,,,no match
+condition,venous thromboembolic disease in medical patients bedridden due to acute illness,1,venous thromboembolic disease in medical patients bedridden due to illness,none,,,,,,no match
+condition,active major bleeding,1,major bleeding,none,,,,,,no match
+condition,conditions with high risk of uncontrolled hemorrhage,1,conditions with high risk of hemorrhage,none,,,,,,no match
+condition,pregnant women with mechanical prosthetic heart valves,1,pregnant women with mechanical prosthetic heart valves,none,,,,,,no match
+condition,prevention of thrombus formation in extracorporeal circulation during hemodialysis,1,prevention of thrombus formation in extracorporeal circulation during hemodialysis,none,,,,,,no match
+condition,prevention of venous thromboembolic disease,1,prevention of venous thromboembolic disease,none,,,,,,no match
+condition,bedridden acute ill patients,1,bedridden ill patients,none,,,,,,no match
+condition,major clotting disorder,1,major clotting disorder,none,,,,,,no match
+condition,biological condition causing bleeding,1,biological condition causing bleeding,none,,,,,,no match
+condition,cutaneous or systemic allergic reaction,1,cutaneous,close,C4521174,Cutaneous (intended site),,738904002,Spatial Concept,inexact
+condition,active management of the third stage of labour,1,management of third stage of labor,none,,,,,,no match
+condition,treatment and prophylaxis of postpartum haemorrhage,1,treatment,close,C0087111,Therapeutic procedure,D013812,277132007;276239002,Therapeutic or Preventive Procedure,inexact
+condition,excessive uterine bleeding,1,excessive uterine bleeding,none,,,,,,no match
+condition,postpartum and post-abortion bleeding,1,postpartum,close,C0086839,Postpartum Period,D049590,255410009;86569001,Temporal Concept,inexact
+condition,1st and 2nd stage of labour,1,1st and 2nd stage of labor,none,,,,,,no match
+condition,threatened spontaneous abortion,1,threatened spontaneous abortion,none,,,,,,no match
+condition,foetal abnormalities,1,fetal abnormalities [words],close,C1978523,"Maternal screen for fetal abnormalities such as Open Neural Tube Defects, Trisomy 21 or Trisomy 18 panel",,,Laboratory Procedure,inexact
+condition,tonsilitis,1,tonsilitis,none,,,,,,no match
+condition,secondary infections in colds and influenza,1,secondary infections in colds and influenza,none,,,,,,no match
+condition,boils and carbuncles,1,boils,close,C0242301,furuncle,D005667,416675009;59843005,Disease or Syndrome,inexact
+condition,paromychia,1,paromychia,none,,,,,,no match
+condition,pre and post-operative,1,pre and post-operative,none,,,,,,no match
+condition,teratogenicity or toxicity,1,teratogenicity,close,C0232910,Teratogenesis,D064793,58694006,Pathologic Function,inexact
+condition,pregnant patients and lactating mothers,1,pregnant patients and lactating mothers,none,,,,,,no match
+condition,colds and influenza,1,colds,close,C0234192,Cold Sensation,,397625009;84162001,Organism Function,inexact
+condition,boils and pimples,1,boils,close,C0242301,furuncle,D005667,416675009;59843005,Disease or Syndrome,inexact
+condition,gastric and gallbladder infection,1,gastric and gallbladder infection,none,,,,,,no match
+condition,fetal deformity or toxicity,1,fetal deformity or toxicity,none,,,,,,no match
+condition,prevent pregnancy,1,prevent pregnancy [words],close,C1998750,Prevention of unwanted pregnancy,,710973002,Health Care Activity,inexact
+condition,disorder affecting the blood circulation,1,disorder affecting blood circulation,none,,,,,,no match
+condition,first sign of a heart attack (such as angina pectoris or chest pain),1,first sign of a heart attack,none,,,,,,no match
+condition,first sign of a stroke (such as transient ischaemic attack or small reversible stroke),1,first sign of a stroke,none,,,,,,no match
+condition,diabetes mellitus with blood vessel damage,1,diabetes mellitus with blood vessel damage,none,,,,,,no match
+condition,jaundice (yellowing of the skin),1,jaundice,close,C0022346,Icterus,D007565,18165001,Finding,inexact
+condition,cancer of the genital organs,1,cancer of genital organs [words],close,C0346994,Metastatic malignant neoplasm to female genital organ,,94298004,Neoplastic Process,inexact
+condition,benign or malignant tumour in the liver,1,benign,exact,C0205183,Benign,,30807003,Qualitative Concept,
+condition,pregnant or think you might be pregnant,1,pregnant,close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,allergic to any of the ingredients,1,allergic to any of ingredients,none,,,,,,no match
+condition,"pregnant, or who think they may be pregnant",1,"pregnant,",close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,blood circulation disorder,1,blood circulation disorder,none,,,,,,no match
+condition,early signs of heart disease (such as angina pectoris or chest pain),1,early signs of heart disease,none,,,,,,no match
+condition,stroke (such as transient ischaemic attack or small reversible stroke),1,stroke,close,C0038454,Cerebrovascular accident,D020521,230690007,Disease or Syndrome,inexact
+condition,diabetes with blood vessel damage,1,diabetes with blood vessel damage,none,,,,,,no match
+condition,cancer of genital organs,1,cancer of genital organs [words],close,C0346994,Metastatic malignant neoplasm to female genital organ,,94298004,Neoplastic Process,inexact
+condition,benign or malignant liver tumor,1,benign,exact,C0205183,Benign,,30807003,Qualitative Concept,
+condition,pregnant women or women who wish to conceive,1,pregnant women,close,C0033011,Pregnant Woman,D037841,,Population Group,inexact
+condition,temporary contraceptive method,1,temporary contraceptive method,none,,,,,,no match
+condition,anemia due to excessive blood loss during menstruation,1,anemia,exact,C0002871,Anemia,D000740,271737000,Disease or Syndrome,
+condition,irregular menstruation cycle,1,irregular menstruation cycle [words],close,C5230215,Excessive menstruation with irregular cycle,,788919002,Pathologic Function,inexact
+condition,reduce milk production,1,reduce milk production,none,,,,,,no match
+condition,increased hypersensitivity to any of its components,1,increased hypersensitivity to any of its components,none,,,,,,no match
+condition,hypersensitivity to any of its components,1,hypersensitivity to any of its components,none,,,,,,no match
+condition,anaemia other than those due to iron deficiency,1,anemia other than those due to iron deficiency,none,,,,,,no match
+condition,repeated blood transfusion,1,repeated blood transfusion [words],close,C4076065,Hemochromatosis following repeated red blood cell transfusion,,143101000119101,Disease or Syndrome,inexact
+condition,anaemia not produced by iron deficiency,1,anemia not produced by iron deficiency,none,,,,,,no match
+condition,repeated blood transfusions,1,repeated blood transfusions [words],close,C4076065,Hemochromatosis following repeated red blood cell transfusion,,143101000119101,Disease or Syndrome,inexact
+condition,anaemias not produced by iron deficiency,1,anemias not produced by iron deficiency,none,,,,,,no match
+condition,fungal urinary tract infections,1,fungal urinary tract infections,none,,,,,,no match
+condition,prophylaxis for fungal infection in neutropenic cancer patients,1,prophylaxis for fungal infection in neutropenic cancer patients,none,,,,,,no match
+condition,known hypersensitivity to fluconazole,1,hypersensitivity to fluconazole,none,,,,,,no match
+condition,known hypersensitivity to related triazole compounds,1,hypersensitivity to related triazole compounds,none,,,,,,no match
+condition,adverse fetal efects,1,adverse fetal efects,none,,,,,,no match
+condition,women of child bearing potential,1,of child bearing [words],close,C1960468,Female of child bearing age,,427504007,Finding,inexact
+condition,hypersensitivity to fluconazole,1,hypersensitivity to fluconazole,none,,,,,,no match
+condition,anemias of infancy,1,anemias of infancy [words],close,C0475725,Physiological anemia of infancy,,276578004,Disease or Syndrome,inexact
+condition,patients who have shown previous intolerance to the drug,1,shown intolerance to drug,none,,,,,,no match
+condition,intolerance to folic acid or any component of this formulation,1,intolerance to folic acid or any component of this formulation,none,,,,,,no match
+condition,hypersensitivity to zinc,1,hypersensitivity to zinc,none,,,,,,no match
+condition,untreated cobalamine deficiency,1,untreated cobalamine deficiency,none,,,,,,no match
+condition,zinc and folic acid deficiency diseases,1,zinc,exact,C0043481,zinc,D015032,86739005;764877006,"Pharmacologic Substance; Biologically Active Substance; Element, Ion, or Isotope",
+condition,hypersensitivity to zinc and folic acid,1,hypersensitivity to zinc and folic acid,none,,,,,,no match
+condition,atrial fibrillation with embolization,1,atrial fibrillation with embolization,none,,,,,,no match
+condition,acute and chronic consumptive coagulopathies (disseminated intravascular coagulation),1,and chronic consumptive coagulopathies,none,,,,,,no match
+condition,clotting in arterial and cardiac surgery,1,clotting in arterial and cardiac surgery,none,,,,,,no match
+condition,anticoagulant use in blood transfusions,1,anticoagulant use in blood transfusions,none,,,,,,no match
+condition,maintenance of catheter patency,1,maintenance of catheter patency,none,,,,,,no match
+condition,whom suitable blood coagulation tests cannot be performed at appropriate intervals,1,whom suitable blood coagulation tests cannot be performed at appropriate intervals,none,,,,,,no match
+condition,uncontrollable active bleeding state,1,uncontrollable bleeding state,none,,,,,,no match
+condition,foetal harm,1,fetal diseases,exact,C0015929,Fetal Diseases,D005315,70591005,Disease or Syndrome,
+condition,affect reproduction capacity,1,affect reproduction capacity,none,,,,,,no match
+condition,recurrence of hepatitis b virus infection after liver transplantation,1,recurrence of hepatitis b virus infection after liver transplantation,none,,,,,,no match
+condition,hepatitis b in accidental exposure in non-immunised subjects,1,hepatitis b in accidental exposure in non-immunised subjects,none,,,,,,no match
+condition,hepatitis b in haemodialysed patients,1,hepatitis b in hemodialysed patients,none,,,,,,no match
+condition,hepatitis b in the newborn of a hepatitis b virus carrier-mother,1,hepatitis b in newborn of a hepatitis b virus carrier-mother,none,,,,,,no match
+condition,hepatitis b in subjects who did not show an immune response after vaccination,1,hepatitis b in subjects who did not show an immune response after vaccination,none,,,,,,no match
+condition,allergic (hypersensitive) to human immunoglobulins or to any of the other ingredients,1,allergic to human immunoglobulins or to any of other ingredients,none,,,,,,no match
+condition,deficiency of immunoglobulin a (iga),1,deficiency of immunoglobulin a,close,C0162538,Immunoglobulin A deficiency (disorder),D017098,29260007,Disease or Syndrome,inexact
+condition,breast-feeding mothers,1,breast-feeding mothers [words],close,C3661896,Mother of subject refuses to breast-feed,,552011000124102,Finding,inexact
+condition,harmful effects on fertility,1,harmful effects on fertility,none,,,,,,no match
+condition,pregnancy/delivery of an rh-positive baby,1,pregnancy/delivery of an rh-positive baby,none,,,,,,no match
+condition,abortion/threatened abortion,1,abortion/threatened abortion [words],close,C0000821,Threatened abortion,D000033,54048003,Pathologic Function,inexact
+condition,antepartum fetal-maternal hemorrhage,1,antepartum fetal-maternal hemorrhage [words],close,C1531966,Fetal disorder due to maternal antepartum hemorrhage,,414247004,Disease or Syndrome,inexact
+condition,transfusion of rh incompatible blood or blood products,1,transfusion of rh incompatible blood or blood products,none,,,,,,no match
+condition,prevention of rh immunization in any rh-negative person after incompatible transfusion,1,prevention of rh immunization in any rh-negative person after incompatible transfusion,none,,,,,,no match
+condition,splenectomised or rhesus-negative patients,1,splenectomised or rhesus-negative patients,none,,,,,,no match
+condition,adverse effects on the foetus (teratogenic or embryocidal or other),1,adverse effects on fetus,none,,,,,,no match
+condition,prophylaxis of tetanus following injury,1,prophylaxis of tetanus following injury,none,,,,,,no match
+condition,treatment of tetanus,1,treatment of tetanus,none,,,,,,no match
+condition,known hypersensitivity to human immunoglobulins,1,hypersensitivity to human immunoglobulins,none,,,,,,no match
+condition,patients with bleeding disorders,1,bleeding disorders,close,C1458140,Bleeding tendency,,248250000,Pathologic Function,inexact
+condition,history of immunoglobulin a (iga) deficiency,1,immunoglobulin a deficiency,close,C0162538,Immunoglobulin A deficiency (disorder),D017098,29260007,Disease or Syndrome,inexact
+condition,severe anaphylactic reactions to plasma products,1,anaphylactic reactions to plasma products,none,,,,,,no match
+condition,dental and period pain,1,dental,close,C4522313,Dental (intended site),,738906000,Functional Concept,inexact
+condition,muscular pain,1,muscular pain [words],close,C4521331,"Documentation of medical reason(s) for not on a statin (e.g., pregnancy, in vitro fertilization, clomiphene rx, esrd, cirrhosis, muscular pain and disease during the measurement period or prior year)",,,Health Care Activity,inexact
+condition,known hypersensitivity to ibuprofen or any other components,1,hypersensitivity to ibuprofen or any other components,none,,,,,,no match
+condition,"history of gastrointestinal bleeding or perforation, related to previous nsaids therapy",1,gastrointestinal bleeding,close,C0017181,Gastrointestinal Hemorrhage,D006471,74474003,Pathologic Function,inexact
+condition,active or history of recurrent peptic ulcer/haemorrhage,1,or recurrent peptic ulcer/hemorrhage,none,,,,,,no match
+condition,severe hepatic failure,1,hepatic failure,close,C0085605,Liver Failure,D017093,59927004,Disease or Syndrome,inexact
+condition,severe heart failure (nyha class iv),1,heart failure,exact,C0018801,Heart failure,D006333,84114007,Disease or Syndrome,
+condition,significant dehydration,1,dehydration,exact,C0011175,Dehydration,D003681,34095006,Disease or Syndrome,
+condition,cerebrovascular or other active bleeding,1,cerebrovascular or other bleeding,none,,,,,,no match
+condition,first and second trimester of pregnancy,1,first,close,C0205435,First (number),,255216001,Quantitative Concept,inexact
+condition,affect the breastfed infant adversely,1,affect breastfed infant adversely,none,,,,,,no match
+condition,dental and muscle inflammation and pain,1,dental,close,C4522313,Dental (intended site),,738906000,Functional Concept,inexact
+condition,hypersensitive to ibuprofen,1,hypersensitive to ibuprofen,none,,,,,,no match
+condition,active or severe peptic ulcer,1,or peptic ulcer [words],close,C0030920,Peptic Ulcer,D010437,13200003,Disease or Syndrome,inexact
+condition,adverse effects on the growing fetus,1,adverse effects on growing fetus,none,,,,,,no match
+condition,"acute non-articular rheumatism (bursitis, synovitis, tendinitis)",1,non-articular rheumatism,close,C0553642,Soft tissue rheumatism,,279062009;396333008,Disease or Syndrome,inexact
+condition,history of these disorders,1,these disorders,none,,,,,,no match
+condition,previously hypersensitive patients,1,previously hypersensitive patients,none,,,,,,no match
+condition,"acute non-articular rheumatism (bursitis, synovitis, and tendinitis)",1,non-articular rheumatism,close,C0553642,Soft tissue rheumatism,,279062009;396333008,Disease or Syndrome,inexact
+condition,these diseases,1,these diseases,none,,,,,,no match
+condition,hypersensitivity to this drug,1,hypersensitivity to this drug,none,,,,,,no match
+condition,hyperosmolar non-ketotic syndrome,1,hyperosmolar non-ketotic syndrome,none,,,,,,no match
+condition,periods of stress such as severe infections,1,periods of stress such as infections,none,,,,,,no match
+condition,major surgery in diabetic patients,1,major surgery in diabetic patients,none,,,,,,no match
+condition,hypersensitivity to human insulin or any of the excipients,1,hypersensitivity to human insulin or any of excipients,none,,,,,,no match
+condition,malformations,1,malformations,close,C0243070,Aspects of congenital malformations,,,Functional Concept,inexact
+condition,death in utero,1,death in utero [words],close,C0233340,Undelivered in utero fetal death,,59291004,Pathologic Function,inexact
+condition,rapid iron supply,1,rapid iron supply,none,,,,,,no match
+condition,intolerance to oral iron therapy,1,intolerance to oral iron therapy,none,,,,,,no match
+condition,non-compliance to oral iron therapy,1,non-compliance to oral iron therapy,none,,,,,,no match
+condition,iron deficiency anaemia in patients undergoing surgical procedures,1,iron deficiency anemia,exact,C0162316,Iron deficiency anemia,D018798,87522002,Disease or Syndrome,
+condition,iron deficiency anaemia in patients donating blood,1,iron deficiency anemia,exact,C0162316,Iron deficiency anemia,D018798,87522002,Disease or Syndrome,
+condition,iron deficiency anaemia in postpartum patients,1,iron deficiency anemia in postpartum patients,none,,,,,,no match
+condition,evidence of iron overload,1,evidence of iron overload,none,,,,,,no match
+condition,known hypersensitivity to iron sucrose or any of its inactive components,1,hypersensitivity to iron sucrose or any of its inactive components,none,,,,,,no match
+condition,anaemia not caused by iron deficiency,1,anemia not caused by iron deficiency,none,,,,,,no match
+condition,"history of allergic disorders including asthma, eczema and anaphylaxis",1,"allergic disorders including asthma, eczema and anaphylaxis",none,,,,,,no match
+condition,clinical need for rapid iron supply,1,clinical need for rapid iron supply,none,,,,,,no match
+condition,intolerance to oral iron,1,intolerance to oral iron,none,,,,,,no match
+condition,iron deficiency anemia in surgical patients,1,iron deficiency anemia in surgical patients,none,,,,,,no match
+condition,iron deficiency anemia in blood donors,1,iron deficiency anemia in blood donors,none,,,,,,no match
+condition,iron deficiency anemia in postpartum patients,1,iron deficiency anemia in postpartum patients,none,,,,,,no match
+condition,hypersensitivity to iron sucrose or its inactive components,1,hypersensitivity to iron sucrose or its inactive components,none,,,,,,no match
+condition,anemia not caused by iron deficiency,1,anemia not caused by iron deficiency,none,,,,,,no match
+condition,hypersensitivity to the medicine,1,hypersensitivity to medicine,none,,,,,,no match
+condition,obstructive lung disorders,1,obstructive lung disorders [words],close,C3532707,Chronic obstructive lung disorder medication review,,473223004,Health Care Activity,inexact
+condition,anesthesia when hypotensive technique is indicated,1,anesthesia when hypotensive technique is indicated,none,,,,,,no match
+condition,hypersensitivity or allergy to the medicine,1,hypersensitivity,exact,C0020517,Hypersensitivity,D006967,421961002,Pathologic Function,
+condition,other obstructive lung disorders,1,other obstructive lung disorders,none,,,,,,no match
+condition,serious adverse reactions,1,adverse reactions,exact,C0559546,Adverse reactions,,281647001,Pathologic Function,
+condition,hypersensitivity to the drug or its components,1,hypersensitivity to drug,close,C0013182,Drug Allergy,D004342,416098002;416093006,Pathologic Function,inexact
+condition,partial-onset seizures with or without secondary generalization with epilepsy,1,partial-onset seizures with or without secondary generalization with epilepsy,none,,,,,,no match
+condition,myoclonic seizures with juvenile myoclonic epilepsy,1,myoclonic seizures with juvenile myoclonic epilepsy,none,,,,,,no match
+condition,primary generalized tonic-clonic seizures with idiopathic generalised epilepsy,1,primary generalized tonic-clonic seizures with idiopathic generalised epilepsy,none,,,,,,no match
+condition,hypersensitivity to the active substance or other pyrrolidone derivatives or to any of the excipients,1,hypersensitivity to substance or other pyrrolidone derivatives or to any of excipients,none,,,,,,no match
+condition,women of childbearing potential not using contraception,1,of childbearing not using contraception,none,,,,,,no match
+condition,partial-onset seizures with or without secondary generalization,1,partial-onset seizures with or without secondary generalization,none,,,,,,no match
+condition,"hypersensitivity to active substance, pyrrolidone derivatives, or any excipients",1,"hypersensitivity to substance, pyrrolidone derivatives, or any excipients",none,,,,,,no match
+condition,women of childbearing potential taking contraceptives,1,of childbearing taking contraceptives,none,,,,,,no match
+condition,sexual intercourse where either yourself or your partner did not use a contraceptive method,1,sexual intercourse where either yourself or your partner did not use a contraceptive method,none,,,,,,no match
+condition,forgotten to take consecutive 3 contraceptive pills,1,forgotten to take consecutive 3 contraceptive pills,none,,,,,,no match
+condition,"partner's condom has broken, slipped, or been improperly removed, or if he has forgotten to use it",1,"partner's condom has broken, slipped, or been improperly removed, or if he has forgotten to use it",none,,,,,,no match
+condition,fear that your intrauterine device has been expelled,1,fear that your intrauterine device has been expelled,none,,,,,,no match
+condition,vaginal diaphragm or your contraceptive cap has moved or if you have removed it too early,1,vaginal diaphragm,close,C0042241,Vaginal contraceptive diaphragm (device),D003274,20359006;469119008,Medical Device,inexact
+condition,method of coitus interruptus has failed,1,method of coitus interruptus has failed,none,,,,,,no match
+condition,sexual intercourse during the period when you are supposed to be fertile while using the rhythm method,1,sexual intercourse,close,C0009253,Coitus,D003075,258139002,Organism Function,inexact
+condition,hypersensitivity to levonorgestrel or any of the excipients,1,hypersensitivity to levonorgestrel or any of excipients,none,,,,,,no match
+condition,pre-existing pregnancy,1,pregnancy,close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,malformation of a fetus,1,malformation of a fetus [words],close,C4543690,Fetal malformation of central nervous system,,9721000119107,Congenital Abnormality,inexact
+condition,unprotected intercourse without contraceptive method,1,unprotected intercourse without contraceptive method,none,,,,,,no match
+condition,forgetting to take contraceptive pills for 3 consecutive days,1,forgetting to take contraceptive pills for 3 consecutive days,none,,,,,,no match
+condition,condom not used properly or condom torn,1,condom not used properly or condom torn,none,,,,,,no match
+condition,intrauterine device displaced,1,intrauterine device displaced [words],close,C0404098,Removal of displaced intrauterine contraceptive device,,176839005,Therapeutic or Preventive Procedure,inexact
+condition,vaginal diaphragm or contraceptive cap removed,1,vaginal diaphragm,close,C0042241,Vaginal contraceptive diaphragm (device),D003274,20359006;469119008,Medical Device,inexact
+condition,coitus interruptus failure,1,coitus interruptus failure,none,,,,,,no match
+condition,intercourse during rhythm method,1,intercourse,close,C0009253,Coitus,D003075,258139002,Organism Function,inexact
+condition,sensitivity to levonorgestrel or other ingredients,1,sensitivity to levonorgestrel or other ingredients,none,,,,,,no match
+condition,adverse effects on fetal development,1,adverse effects on fetal development,none,,,,,,no match
+condition,hypothyroidism of any aetiology,1,hypothyroidism of any aetiology,none,,,,,,no match
+condition,suppression of thyroid stimulating hormone levels,1,suppression of thyroid stimulating hormone levels,none,,,,,,no match
+condition,suppression of the goitrogenic effects of other drugs,1,suppression of goitrogenic effects of other drugs,none,,,,,,no match
+condition,hypothyroidism except transient hypothyroidism in subacute thyroiditis,1,hypothyroidism except transient hypothyroidism in subacute thyroiditis,none,,,,,,no match
+condition,suppression of tsh levels,1,suppression of tsh levels,none,,,,,,no match
+condition,suppression of goitrogenic effects of drugs like lithium,1,suppression of goitrogenic effects of drugs like lithium,none,,,,,,no match
+condition,cardiovascular insufficiency,1,cardiovascular insufficiency,none,,,,,,no match
+condition,first 3 months of pregnancy,1,first 3 months of pregnancy,none,,,,,,no match
+condition,cardiovascular abnormality or malformation,1,cardiovascular abnormality,close,C0243050,Cardiovascular Abnormalities,D018376,,Congenital Abnormality,inexact
+condition,delay the progression of renal disease,1,delay progression of renal disease,none,,,,,,no match
+condition,hypersensitive to any component of this product,1,hypersensitive to any component of this product,none,,,,,,no match
+condition,delay progression of kidney disease,1,delay progression of kidney disease,none,,,,,,no match
+condition,hypersensitivity to losartan potassium or any of its ingredients,1,hypersensitivity to losartan potassium or any of its ingredients,none,,,,,,no match
+condition,risk to newborn,1,risk to newborn,none,,,,,,no match
+condition,"known hypersensitivity to mebendazole, or to any component of the formulation",1,"hypersensitivity to mebendazole, or to any component of formulation",none,,,,,,no match
+condition,hypersensitivity to mebendazole or any component of the formulation,1,hypersensitivity to mebendazole or any component of formulation,none,,,,,,no match
+condition,recurrent and/or metastatic endometrial carcinoma,1,recurrent and/or metastatic endometrial carcinoma,none,,,,,,no match
+condition,recurrent and/or metastatic renal carcinoma,1,recurrent and/or metastatic renal carcinoma,none,,,,,,no match
+condition,hormonally-dependant recurrent breast cancer,1,hormonally-dependant recurrent breast cancer,none,,,,,,no match
+condition,malignancy of breast,1,malignancy of breast [words],close,C0006142,Malignant neoplasm of breast,D001943,254837009,Neoplastic Process,inexact
+condition,hypersensitivity to medroxyprogesterone acetate or any component,1,hypersensitivity to medroxyprogesterone acetate or any component,none,,,,,,no match
+condition,metastatic endometrial cancer,1,metastatic endometrial cancer,none,,,,,,no match
+condition,hormone-dependent breast cancer in post-menopausal women,1,hormone-dependent breast cancer in post-menopausal women,none,,,,,,no match
+condition,hypersensitivity to medroxyprogesterone acetate or components,1,hypersensitivity to medroxyprogesterone acetate or components,none,,,,,,no match
+condition,hypersensitivity to the active substance or excipients,1,hypersensitivity to substance or excipients,none,,,,,,no match
+condition,hypersensitivity to the active substance or any excipient,1,hypersensitivity to substance or any excipient,none,,,,,,no match
+condition,cardiac or respiratory failure,1,cardiac or respiratory failure,none,,,,,,no match
+condition,advanced stage non-hodgkin’s lymphomas,1,advanced stage non-hodgkin’s lymphomas,none,,,,,,no match
+condition,"severe, recalcitrant, disabling psoriasis",1,"recalcitrant, disabling psoriasis",none,,,,,,no match
+condition,significant anemia,1,anemia,exact,C0002871,Anemia,D000740,271737000,Disease or Syndrome,
+condition,advanced non-hodgkin's lymphoma,1,advanced non-hodgkin's lymphoma,none,,,,,,no match
+condition,severe psoriasis,1,psoriasis,exact,C0033860,Psoriasis,D011565,9014002,Disease or Syndrome,
+condition,liver disorders previously associated with methyldopa therapy,1,liver disorders previously associated with methyldopa therapy,none,,,,,,no match
+condition,hypersensitivity to any component of these products,1,hypersensitivity to any component of these products,none,,,,,,no match
+condition,liver dysfunction previously associated with methyldopa therapy,1,liver dysfunction previously associated with methyldopa therapy,none,,,,,,no match
+condition,hypersensitivity to any component of methyldopa,1,hypersensitivity to any component of methyldopa,none,,,,,,no match
+condition,acute and recurrent diabetic gastroparesis,1,and recurrent diabetic gastroparesis,none,,,,,,no match
+condition,"symptomatic, documented gastroesophageal reflux",1,symptomatic,exact,C0231220,Symptomatic,,264931009,Functional Concept,
+condition,acute and recurrent diabetic gastric stasis,1,and recurrent diabetic gastric stasis,none,,,,,,no match
+condition,vomiting associated with emetogenic cancer chemotherapy,1,vomiting,exact,C0042963,Vomiting,D014839,422400008;249497008;300359004,Sign or Symptom,
+condition,small bowel intubation,1,small bowel intubation [words],close,C4039629,Fluoroscopy guided intubation of small bowel,,710579009,Therapeutic or Preventive Procedure,inexact
+condition,delayed emptying interfering with radiological examination of the stomach and/or small intestine,1,delayed emptying interfering with radiological examination of stomach and/or small intestine,none,,,,,,no match
+condition,history of tardive dyskinesia (td),1,tardive dyskinesia,close,C3714760,Drug-induced tardive dyskinesia,,102449007,Disease or Syndrome,inexact
+condition,dystonic reaction to metoclopramide,1,dystonic reaction to metoclopramide,none,,,,,,no match
+condition,"gastrointestinal hemorrhage, mechanical obstruction, or perforation",1,gastrointestinal hemorrhage,exact,C0017181,Gastrointestinal Hemorrhage,D006471,74474003,Pathologic Function,
+condition,other catecholamine-releasing paragangliomas,1,other catecholamine-releasing paragangliomas,none,,,,,,no match
+condition,hypersensitivity to metoclopramide,1,hypersensitivity to metoclopramide,none,,,,,,no match
+condition,significant harm to the fetus,1,harm to fetus,none,,,,,,no match
+condition,extra-intestinal disease (amoebiasis),1,extra-intestinal disease,none,,,,,,no match
+condition,anaerobically infected pressure sores,1,anaerobically infected pressure sores,none,,,,,,no match
+condition,extra-intestinal amoebiasis,1,extra-intestinal amoebiasis,none,,,,,,no match
+condition,pregnancy beyond 49 days of amenorrhoea,1,pregnancy beyond 49 days of amenorrhoea,none,,,,,,no match
+condition,pregnancy beyond 63 days of amenorrhoea,1,pregnancy beyond 63 days of amenorrhoea,none,,,,,,no match
+condition,pregnancy beyond 49 days,1,pregnancy beyond 49 days,none,,,,,,no match
+condition,pregnancy beyond 63 days,1,pregnancy beyond 63 days,none,,,,,,no match
+condition,improving the nutritional status of women throughout the pregnancy,1,improving nutritional status of women throughout pregnancy,none,,,,,,no match
+condition,improving the nutritional status of women in the postnatal period for lactating mothers,1,improving nutritional status of women in postnatal period for lactating mothers,none,,,,,,no match
+condition,improving the nutritional status of women in the postnatal period for non-lactating mothers,1,improving nutritional status of women in postnatal period for non-lactating mothers,none,,,,,,no match
+condition,improving the nutritional status of women prior to conception,1,improving nutritional status of women to conception,none,,,,,,no match
+condition,significant impairment of renal function,1,impairment of renal function [words],close,C0403361,Renal function impairment with growth failure,,197671004,Disease or Syndrome,inexact
+condition,nursing infants under one month of age,1,nursing infants under one month of age,none,,,,,,no match
+condition,pregnant mothers,1,pregnant mothers,none,,,,,,no match
+condition,infants under 1 month,1,infants under 1 month,none,,,,,,no match
+condition,lack of intake,1,lack of intake,none,,,,,,no match
+condition,stimulation of uterine contractions,1,stimulation of uterine contractions,none,,,,,,no match
+condition,cephalo-pelvic disproportion,1,cephalo-pelvic disproportion,none,,,,,,no match
+condition,abnormal position of the child or abnormal position of the skull,1,abnormal position of child or abnormal position of skull,none,,,,,,no match
+condition,overdistention of the inferior segment of the uterus,1,overdistention of inferior segment of uterus,none,,,,,,no match
+condition,severe toxaemia,1,toxemia,close,C0040524,Septic Toxemia,D014115,,Disease or Syndrome,inexact
+condition,cord presentation and prolapse,1,cord presentation,close,C0233302,Funic presentation,,46200004;237305004,Finding,inexact
+condition,pre-anesthetics,1,pre-anesthetics [words],close,C0474221,Pre-anesthetic assessment,,182770003,Health Care Activity,inexact
+condition,cortical local seizures,1,cortical local seizures,none,,,,,,no match
+condition,acute convulsive episodes,1,convulsive episodes,none,,,,,,no match
+condition,eclampsia meningitis,1,eclampsia meningitis,none,,,,,,no match
+condition,toxic reactions to strychnine,1,toxic reactions to strychnine,none,,,,,,no match
+condition,toxic reactions to local anesthetics,1,toxic reactions to local anesthetics [words],close,C0495276,Toxic reaction to local anesthetic during labor and delivery,,200075005,Injury or Poisoning,inexact
+condition,latent porphyria,1,latent porphyria,none,,,,,,no match
+condition,pre-anesthesia,1,pre-anesthesia,none,,,,,,no match
+condition,cortical seizures,1,cortical seizures [words],close,C5567650,"Progressive microcephaly, seizures, cortical blindness, developmental delay syndrome",,1172900005,Disease or Syndrome,inexact
+condition,toxic reactions,1,toxic reactions [words],close,C0261663,Scorpion sting causing poisoning and toxic reactions,,,Injury or Poisoning,inexact
+condition,bleeding due to vitamin k deficiency,1,bleeding,close,C0019080,Hemorrhage,D006470,50960005;131148009,Pathologic Function,inexact
+condition,hemorrhagic conditions in newborns,1,hemorrhagic conditions in newborns,none,,,,,,no match
+condition,vitamin k deficiency bleeding (vkdb) in newborn babies,1,vitamin k deficiency bleeding in newborn babies,none,,,,,,no match
+condition,vitamin k deficiency bleeding in newborns,1,vitamin k deficiency bleeding in newborns [words],close,C4305455,Late onset diffuse bleeding diathesis secondary to vitamin K deficient hemorrhagic disease of fetus and newborn,,717937006,Disease or Syndrome,inexact
+condition,severe nausea and vomiting,1,nausea and vomiting,exact,C0027498,Nausea and vomiting,,16932000,Sign or Symptom,
+condition,generalized non-psychotic anxiety,1,generalized non-psychotic anxiety,none,,,,,,no match
+condition,children <2 years of age,1,children <2 years of age,none,,,,,,no match
+condition,children <10 kg,1,children <10 kg,none,,,,,,no match
+condition,children under 10 kg,1,children under 10 kg,none,,,,,,no match
+condition,oocyte donation programme,1,oocyte donation programme,none,,,,,,no match
+condition,cancers of uterus and genital organs,1,cancers of uterus,close,C0153567,Uterine Cancer,D014594,371973000,Neoplastic Process,inexact
+condition,tissue left in the uterus,1,tissue left in uterus,none,,,,,,no match
+condition,post-menopausal hrt,1,post-menopausal hrt,none,,,,,,no match
+condition,uterine and genital cancers,1,uterine and genital cancers,none,,,,,,no match
+condition,history of stroke or blood clots,1,stroke,close,C0038454,Cerebrovascular accident,D020521,230690007,Disease or Syndrome,inexact
+condition,malignancy of the breast or genital organs,1,malignancy of breast or genital organs,none,,,,,,no match
+condition,progesterone-dependent neoplasia,1,progesterone-dependent neoplasia,none,,,,,,no match
+condition,active thrombophlebitis,1,thrombophlebitis,exact,C0040046,Thrombophlebitis,D013924,64156001,Pathologic Function,
+condition,history of hormone associated thrombophlebitis,1,hormone associated thrombophlebitis,none,,,,,,no match
+condition,effects on nursing infant,1,effects on nursing infant,none,,,,,,no match
+condition,breast or genital cancer,1,breast,exact,C0006141,Breast,D001940,76752008,"Body Part, Organ, or Organ Component",
+condition,liver dysfunction or disease,1,liver dysfunction,exact,C0086565,Liver Dysfunction,D008107,75183008,Finding,
+condition,progesterone-dependent tumor,1,progesterone-dependent tumor,none,,,,,,no match
+condition,active thrombophlebitis or thromboembolic disorder,1,thrombophlebitis,exact,C0040046,Thrombophlebitis,D013924,64156001,Pathologic Function,
+condition,known missed abortion,1,missed abortion,exact,C0000814,Missed abortion,D000030,16607004,Disease or Syndrome,
+condition,severe hepatic disease,1,liver diseases,exact,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,
+condition,nausea and dizziness during pregnancy,1,nausea,exact,C0027497,Nausea,D009325,422587007,Sign or Symptom,
+condition,other conditions associated with airways obstruction,1,other conditions associated with airways obstruction,none,,,,,,no match
+condition,other conditions associated with airway obstruction,1,other conditions associated with airway obstruction,none,,,,,,no match
+condition,neural tube defects (anencephaly and spina bifida),1,neural tube defects,exact,C0027794,Neural Tube Defects,D009436,253098009,Congenital Abnormality,
+condition,neural tube complications like anencephaly and spina bifida,1,neural tube complications like anencephaly and spina bifida,none,,,,,,no match
+condition,"respiratory tract infections, including acute and chronic bronchitis (treatment and prophylaxis)",1,respiratory tract infections,exact,C0035243,Respiratory Tract Infections,D012141,275498002,Disease or Syndrome,
+condition,lobar and broncho-pneumonia,1,lobar,exact,C1522010,Lobar,,,Qualitative Concept,
+condition,pneumocystis carinii pneumonitis,1,pneumocystis carinii pneumonitis,none,,,,,,no match
+condition,"genito-urinary tract infections, including urethritis",1,"genito-urinary tract infections, including urethritis",none,,,,,,no match
+condition,"gastro-intestinal tract infections, caused by salmonella typhi and salmonella paratyphi",1,"gastro-intestinal tract infections, caused by salmonella typhi and salmonella paratyphi",none,,,,,,no match
+condition,chronic carrier state of salmonella typhi and paratyphi,1,chronic carrier state of salmonella typhi and paratyphi,none,,,,,,no match
+condition,acute and chronic osteomyelitis,1,and chronic osteomyelitis,close,C0008707,Chronic osteomyelitis,,40970001,Disease or Syndrome,inexact
+condition,acute brucellosis,1,brucellosis,exact,C0006309,Brucellosis,D002006,75702008,Disease or Syndrome,
+condition,skin infections including pyoderma,1,skin infections including pyoderma,none,,,,,,no match
+condition,hypersensitivity to trimethoprim or sulphonamides,1,hypersensitivity to trimethoprim or sulphonamides,none,,,,,,no match
+condition,documented megaloblastic anaemia due to folate deficiency,1,megaloblastic anemia due to folate deficiency,exact,C0151482,Megaloblastic anemia due to folate deficiency,,85649008,Disease or Syndrome,
+condition,marked liver parenchymal damage,1,liver parenchymal damage,none,,,,,,no match
+condition,blood dyscrasia,1,blood dyscrasia [words],close,C0341982,Blood dyscrasia puerperal,,237338008,Pathologic Function,inexact
+condition,nursing period,1,nursing period,none,,,,,,no match
+condition,prevention and reversal of bronchospasm in patients 12 years of age and older with asthma,1,prevention,close,C0199176,Prophylactic treatment,,169443000;360271000,Therapeutic or Preventive Procedure,inexact
+condition,reversible bronchospasm associated with bronchitis,1,reversible bronchospasm associated with bronchitis,none,,,,,,no match
+condition,reversible bronchospasm associated with emphysema,1,reversible bronchospasm associated with emphysema,none,,,,,,no match
+condition,effect on the infant,1,effect on infant,none,,,,,,no match
+condition,infections caused by borrelia recurrentis (relapsing fever),1,infections caused by borrelia recurrentis,none,,,,,,no match
+condition,calymmatobacterium granulomatis (granuloma inguinale),1,calymmatobacterium granulomatis,exact,C0006792,Calymmatobacterium granulomatis,D002157,417443008,Bacterium,
+condition,"chlamydia species (psittacosis, lymphogranuloma venereum, trachoma, inclusion conjunctivitis)",1,chlamydia species,exact,C1295935,Chlamydia species,,,Bacterium,
+condition,francilsella tularensis (tularaemia),1,francilsella tularensis,none,,,,,,no match
+condition,haemophilus ducreyi (chancroid),1,hemophilus ducreyi,exact,C0018481,Hemophilus ducreyi,D006191,64889004,Bacterium,
+condition,"leptospira (meningitis, jaundice)",1,leptospira,exact,C0023358,Leptospira,D007919,26764003,Bacterium,
+condition,mycoplasma pneumoniae (non-gonococcal urethritis),1,mycoplasma pneumoniae,close,C0032302,Mycoplasma pneumonia,D011019,46970008,Disease or Syndrome,inexact
+condition,pseudomonas mallei (glanders and melioidosis),1,pseudomonas mallei,close,C0033818,Burkholderia mallei,D042726,113674000,Bacterium,inexact
+condition,"rickettsiae (typhus fever, q-fever, rocky mountain spotted fever)",1,rickettsiae,close,C0035583,Rickettsia,D012281,62065006,Bacterium,inexact
+condition,vibrio species (cholera),1,vibrio species,close,C0042628,Vibrio,D014733,34872001,Bacterium,inexact
+condition,infections due to brucella species (brucellosis),1,infections,close,C3714514,Infection,D007239,,Pathologic Function,inexact
+condition,severe acne vulgaris,1,acne vulgaris,exact,C0001144,Acne Vulgaris,D000152,88616000,Disease or Syndrome,
+condition,acute intestinal amoebiasis,1,intestinal amoebiasis,close,C6072056,"Dysentery, Amebic",D004404,387754006,Disease or Syndrome,inexact
+condition,eradicating h. pylori in the treatment of gastric and duodenal ulcer,1,eradicating h. pylori in treatment of gastric and duodenal ulcer,none,,,,,,no match
+condition,history of hypersensitivity to tetracycline,1,hypersensitivity to tetracycline,none,,,,,,no match
+condition,overt renal insufficiency,1,overt renal insufficiency,none,,,,,,no match
+condition,children under 12 years of age,1,children under 12 years of age,none,,,,,,no match
+condition,embryotoxic effect,1,embryotoxic effect,none,,,,,,no match
+condition,females who are pregnant,1,females who are pregnant,none,,,,,,no match
+condition,embryo-fetal harm,1,embryo-fetal harm,none,,,,,,no match
+condition,hemophtoes,1,hemophtoes,none,,,,,,no match
+condition,digestive hemorrhages,1,digestive hemorrhages [words],close,C3899377,Hemorrhage of digestive system,,788951001,Pathologic Function,inexact
+condition,"hemorrhagic syndromes in leukaemia, cirrhosis and hemophilia",1,"hemorrhagic syndromes in leukemia, cirrhosis and hemophilia",none,,,,,,no match
+condition,operations of any type and nature,1,operations of any type and nature,none,,,,,,no match
+condition,"pulmonary, cardiovascular and abdominal surgery",1,pulmonary,close,C4522268,Pulmonary (intended site),,738985004,Finding,inexact
+condition,post-operative and traumatic shock,1,post-operative and traumatic shock,none,,,,,,no match
+condition,"prostatic, vesical and renal surgery",1,prostatic,exact,C1522721,Prostatic,,,Spatial Concept,
+condition,post-partum and puerperium hemorrhages,1,post-partum and puerperium hemorrhages,none,,,,,,no match
+condition,hemorrhagic metrophathies,1,hemorrhagic metrophathies,none,,,,,,no match
+condition,functional menometrorrhagias,1,functional menometrorrhagias,none,,,,,,no match
+condition,idiopathic or iud (lntra uterine device) induced menorrhagias,1,idiopathic,close,C0332240,Unknown (origin) (qualifier value),,54690008,Functional Concept,inexact
+condition,"primitive hyperfibrinolysis (abruptio placentae, premature placenta detachment)",1,primitive hyperfibrinolysis,none,,,,,,no match
+condition,cervical conization,1,cervical conization [words],close,C4040937,History of cervical conization,,108941000119102,Finding,inexact
+condition,specialist surgery generally,1,specialist surgery generally,none,,,,,,no match
+condition,maxillofacial operations,1,maxillofacial operations,none,,,,,,no match
+condition,inhibit the growth of ovarian tumors,1,inhibit growth of ovarian tumors,none,,,,,,no match
+condition,regression of ascites secondary to carcinoma,1,regression of ascites secondary to carcinoma,none,,,,,,no match
+condition,bleeding during surgical interventions,1,bleeding,close,C0019080,Hemorrhage,D006470,50960005;131148009,Pathologic Function,inexact
+condition,known individual hypersensitivity,1,individual hypersensitivity,none,,,,,,no match
+condition,endocavitary hemorrhages,1,endocavitary hemorrhages,none,,,,,,no match
+condition,serious kidney failure,1,kidney failure,exact,C0035078,Kidney Failure,D051437,42399005,Disease or Syndrome,
+condition,digestive hemorrhage,1,digestive hemorrhage [words],close,C3899377,Hemorrhage of digestive system,,788951001,Pathologic Function,inexact
+condition,hemorrhagic syndromes in leukaemia,1,hemorrhagic syndromes in leukemia,none,,,,,,no match
+condition,cirrhosis and hemophilia,1,cirrhosis,exact,C1623038,Cirrhosis,,,Disease or Syndrome,
+condition,internal hemorrhage,1,internal hemorrhage [words],close,C0265086,Internal capsule hemorrhage,,52201006,Pathologic Function,inexact
+condition,severe kidney disease,1,kidney disease,close,C0022658,Kidney Diseases,D007674,90708001,Disease or Syndrome,inexact
+condition,illness due to vitamin a deficiency in ophthalmology such as night blindness,1,illness,close,C0221423,Illness (finding),,39104002,Sign or Symptom,inexact
+condition,hypervitaminosis of vitamin a,1,hypervitaminosis of vitamin a [words],close,C0268661,Multiple vitamin excess disease,,17091000,Disease or Syndrome,inexact
+condition,fetal abnormalities,1,fetal abnormalities [words],close,C1978523,"Maternal screen for fetal abnormalities such as Open Neural Tube Defects, Trisomy 21 or Trisomy 18 panel",,,Laboratory Procedure,inexact
+condition,malformations of the central nervous system,1,malformations of central nervous system [words],close,C0752155,Central Nervous System Vascular Malformations,D020785,253193002,Anatomical Abnormality,inexact
+condition,malformations of the eye,1,malformations of eye [words],close,C3502469,"Brain Anomalies, Retardation, Ectodermal Dysplasia, Skeletal Malformations, Hirschsprung Disease, Ear-Eye Anomalies, Cleft Palate-Cryptorchidism, And Kidney Dysplasia-Hypoplasia",C564519,717945001,Disease or Syndrome,inexact
+condition,malformations of the palate,1,malformations of palate [words],close,C0478025,"Congenital malformations of palate, NEC in SNOMED CT",,,Congenital Abnormality,inexact
+condition,malformations of the urogenital tract,1,malformations of urogenital tract,none,,,,,,no match
+condition,thromboembolic complications associated with atrial fibrillation,1,thromboembolic complications associated with atrial fibrillation,none,,,,,,no match
+condition,thromboembolic complications associated with cardiac valve replacement,1,thromboembolic complications associated with cardiac valve replacement,none,,,,,,no match
+condition,death after myocardial infarction,1,death after myocardial infarction,none,,,,,,no match
+condition,thromboembolic events such as stroke or systemic embolization after myocardial infarction,1,thromboembolic events such as stroke or systemic embolization after myocardial infarction,none,,,,,,no match
+condition,"actual or potential hemorrhagic conditions, eg. peptic ulcer",1,actual,exact,C0237400,Actual,,,Qualitative Concept,
+condition,severe hepatic or renal disease,1,hepatic,exact,C0205054,Hepatic,,32381004,Body Location or Region,
+condition,within 24 hours following surgery or labor,1,within 24 hours following surgery or labor,none,,,,,,no match
+condition,fatal hemorrhage to the fetus,1,fatal hemorrhage to fetus,none,,,,,,no match
+condition,change in prothrombin times,1,change in prothrombin times,none,,,,,,no match
+condition,thromboembolic complications due to atrial fibrillation,1,thromboembolic complications due to atrial fibrillation,none,,,,,,no match
+condition,thromboembolic complications due to cardiac valve replacement,1,thromboembolic complications due to cardiac valve replacement,none,,,,,,no match
+condition,thromboembolic events such as stroke after myocardial infarction,1,thromboembolic events such as stroke after myocardial infarction,none,,,,,,no match
+condition,systemic embolization,1,systemic embolization [words],close,C6064547,Embolization of portal-systemic shunt,,1382088008,Therapeutic or Preventive Procedure,inexact
+condition,hemorrhagic conditions like peptic ulcer,1,hemorrhagic conditions like peptic ulcer,none,,,,,,no match
+condition,severe liver or kidney disease,1,liver,exact,C0023884,Liver,D008099,10200004,"Body Part, Organ, or Organ Component",
+condition,pregnant or potentially pregnant women,1,pregnant,close,C0549206,Patient currently pregnant,,77386006,Finding,inexact
+condition,hypersensitive to any component,1,hypersensitive to any component,none,,,,,,no match
+condition,hypersensitivity to zinc or any of its components,1,hypersensitivity to zinc or any of its components,none,,,,,,no match
+condition,high-risk patients,1,high-risk patients [words],close,C0993881,GLAUCOMA SCREENING FOR HIGH RISK PATIENTS FURNISHED BY AN OPTOMETRIST OR OPHTHALMOLOGIST,,,Therapeutic or Preventive Procedure,inexact
+condition,patients most at risk,1,most at risk,none,,,,,,no match
+condition,absolute neutrophil count <750/mm3,1,absolute neutrophil count <750/mm3,none,,,,,,no match
+condition,children below 12 years of age,1,children below 12 years of age,none,,,,,,no match
+condition,absolute neutrophil count (anc) of <750/mm3,1,absolute neutrophil count of <750/mm3,none,,,,,,no match
+condition,pediatric patients below the age of 12 years,1,pediatric patients below age of 12 years,none,,,,,,no match
+condition,compromised uteri,1,compromised uteri,none,,,,,,no match
+condition,hypersensitivity to ergot alkaloids,1,hypersensitivity to ergot alkaloids,none,,,,,,no match
+condition,physiologic lactation,1,physiologic lactation,none,,,,,,no match
+condition,generalized allergic reactions,1,generalized allergic reactions,none,,,,,,no match
+condition,reduction in blood pressure,1,reduction in blood pressure [words],close,C5818794,Level of reduction in systolic blood pressure on standing,,1087991000000109,Finding,inexact
+condition,loss of patellar reflex,1,loss of patellar reflex,none,,,,,,no match
+condition,flushing of skin,1,flushing of skin,none,,,,,,no match
+condition,history of active tuberculosis,1,tuberculosis,exact,C0041296,Tuberculosis,D014376,56717001;373576009;371569005,Disease or Syndrome,
+condition,previous corticosteroid-induced myopathy,1,corticosteroid-induced myopathy,none,,,,,,no match
+condition,hypothrombinaemia,1,hypothrombinemia,none,,,,,,no match
+condition,hypercalcaemia-associated diseases,1,hypercalcemia-associated diseases,none,,,,,,no match
+condition,outflow tract obstruction,1,outflow tract obstruction [words],close,C3163720,Obstruction of pulmonary outflow tract,,449120006,Finding,inexact
+condition,blood disorders,1,blood disorders [words],close,C0005779,Blood Coagulation Disorders,D001778,64779008;362970003,Disease or Syndrome,inexact
+condition,elderly people,1,elderly people,none,,,,,,no match
+condition,history of heart disease,1,heart disease,close,C0018799,Heart Diseases,D006331,56265001,Disease or Syndrome,inexact
+condition,history of psychotic illness,1,psychotic illness [words],close,C0425062,Family history of psychotic illness,,266969002,Finding,inexact
+condition,raised pressure in the eye,1,raised pressure in eye [words],close,C6091904,Intraocular pressure of left eye above reference range,,1396116004,Finding,inexact
+condition,infants with seizure disorders,1,infants with seizure disorders,none,,,,,,no match
+condition,penicillin-sensitive patients,1,penicillin-sensitive patients,none,,,,,,no match
+condition,renal complications,1,renal complications [words],close,C0274419,Complication of renal dialysis,,33603003,Pathologic Function,inexact
+condition,children under 12,1,children under 12,none,,,,,,no match
+condition,active or latent peptic ulcers,1,or latent peptic ulcers,none,,,,,,no match
+condition,intestinal anastomoses,1,intestinal anastomoses,none,,,,,,no match
+condition,nonspecific ulcerative colitis,1,nonspecific ulcerative colitis,none,,,,,,no match
+condition,osteoporosis risk,1,osteoporosis risk [words],close,C5769089,Osteoporosis risk assessment,,1255540002,Health Care Activity,inexact
+condition,acute myopathy,1,myopathy,exact,C0026848,Myopathy,D009135,129565002,Disease or Syndrome,
+condition,psychic derangements,1,psychic derangements,none,,,,,,no match
+condition,history of drug or alcohol abuse,1,drug,close,C0013227,Pharmaceutical Preparations,D004364,763158003;373873005;410942007,Pharmacologic Substance,inexact
+condition,older patients,1,older patients [words],close,C5203727,Patients 81 years and older with a diagnosis of frailty,,,Finding,inexact
+condition,serious toxicity,1,toxicity,close,C0040539,Toxicity aspects,,,Qualitative Concept,inexact
+condition,tooth development period,1,tooth development period,none,,,,,,no match
+condition,children under 8,1,children under 8,none,,,,,,no match
+condition,permanent discoloration of teeth,1,permanent discoloration of teeth,none,,,,,,no match
+condition,tooth development,1,tooth development [words],close,C1559292,"Tooth Development, CTCAE",,,Finding,inexact
+condition,childhood to the age of 8 years,1,childhood to age of 8 years,none,,,,,,no match
+condition,cerebrovascular injury,1,cerebrovascular injury,none,,,,,,no match
+condition,marked increase in blood pressure,1,increase in blood pressure,exact,C0497247,Increase in blood pressure,,24184005,Finding,
+condition,acute liver disease,1,liver disease,close,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,inexact
+condition,hemodialysis patients,1,hemodialysis patients [words],close,C5551773,Intermittent hemodialysis panel:-:Pt:^Patient:-,,,Clinical Attribute,inexact
+condition,intramuscular route,1,intramuscular route,close,C1556154,Intramuscular Route of Administration,,78421000,Functional Concept,inexact
+condition,impaired hemostasis,1,impaired hemostasis,none,,,,,,no match
+condition,recent ischemic stroke,1,recent ischemic stroke,none,,,,,,no match
+condition,uncontrolled severe arterial hypertension,1,arterial hypertension [words],close,C2973725,Pulmonary arterial hypertension,D000081029,11399002,Disease or Syndrome,inexact
+condition,recent neuro- or ophthalmologic surgery,1,recent neuro- or ophthalmologic surgery,none,,,,,,no match
+condition,post-gastrectomy,1,post-gastrectomy [words],close,C5546754,Post gastrectomy iron deficiency anemia,,1148853004,Disease or Syndrome,inexact
+condition,iron absorption disease,1,iron absorption disease,none,,,,,,no match
+condition,proarrhythmic patients,1,proarrhythmic patients,none,,,,,,no match
+condition,exfoliative cutaneous reactions,1,exfoliative cutaneous reactions,none,,,,,,no match
+condition,history of ulcer,1,ulcer,exact,C0041582,Ulcer,D014456,56208002;429040005;255321001,Disease or Syndrome,
+condition,sle,1,sle [words],close,C1570687,"sle protein, Drosophila",C501829,,"Amino Acid, Peptide, or Protein; Biologically Active Substance",inexact
+condition,allergic cutaneous reactions,1,allergic cutaneous reactions,none,,,,,,no match
+condition,severe haemorrhagic diarrhoea,1,hemorrhagic diarrhea,exact,C0151594,Hemorrhagic diarrhea,,95545007,Disease or Syndrome,
+condition,pediatric patients 1 to 24 months,1,pediatric patients 1 to 24 months,none,,,,,,no match
+condition,pediatric patients 10 to 17 years,1,pediatric patients 10 to 17 years,none,,,,,,no match
+condition,severely impaired hepatic function,1,severely impaired hepatic function,none,,,,,,no match
+condition,elderly patients with compromised renal function,1,elderly patients with compromised renal function,none,,,,,,no match
+condition,fetal and neonatal morbidity,1,fetal,exact,C0521457,Fetal,,,Functional Concept,
+condition,fetal and neonatal death,1,fetal,exact,C0521457,Fetal,,,Functional Concept,
+condition,fetal morbidity,1,fetal morbidity,none,,,,,,no match
+condition,neonatal morbidity,1,neonatal morbidity,none,,,,,,no match
+condition,intravascularly volume-depleted,1,intravascularly volume-depleted,none,,,,,,no match
+condition,renal impaired patient,1,renal impaired patient,none,,,,,,no match
+condition,mild renal impairment,1,renal insufficiency,exact,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,
+condition,moderate to severe renal impairment,1,to renal impairment,close,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,inexact
+condition,increased serum creatinine,1,increased serum creatinine,none,,,,,,no match
+condition,bacterial superinfection,1,bacterial superinfection,none,,,,,,no match
+condition,mycotic superinfection,1,mycotic superinfection,none,,,,,,no match
+condition,mycotic superinfections,1,mycotic superinfections,none,,,,,,no match
+condition,bacterial superinfections,1,bacterial superinfections,none,,,,,,no match
+condition,prolongation of bleeding time,1,prolongation of bleeding time [words],close,C1264026,Blood coagulation disorder with prolonged bleeding time,,123789000,Disease or Syndrome,inexact
+condition,prolongation of prothrombin time,1,prolongation of prothrombin time,none,,,,,,no match
+condition,allergic skin reactions,1,allergic skin reactions [words],close,C5192382,Allergic reaction due to allergy skin test,,129571000119102,Pathologic Function,inexact
+condition,moderate or severe renal impairment,1,or renal impairment [words],close,C1565489,Renal Insufficiency,D051437,236423003;723188008,Disease or Syndrome,inexact
+condition,decreased estrogen,1,decreased estrogen [words],close,C1291748,Decreased estrogen level,,110368006,Finding,inexact
+condition,decreased plasma/urinary gonadotropins,1,decreased plasma/urinary gonadotropins,none,,,,,,no match
+condition,fluid retention,1,fluid retention [words],close,C0268000,Body fluid retention,,43498006,Pathologic Function,inexact
+condition,history of clinical depression,1,clinical depression,exact,C2362914,Clinical depression,,,Mental or Behavioral Dysfunction,
+condition,diabetic patient,1,diabetic patient [words],close,C1319533,Patient held diabetic record issued,,408405001,Finding,inexact
+condition,decreased oestrogen,1,decreased estrogen [words],close,C1291748,Decreased estrogen level,,110368006,Finding,inexact
+condition,decreased plasma/urinary gonadotrophins,1,decreased plasma/urinary gonadotrophins,none,,,,,,no match
+condition,impairment of renal function,1,impairment of renal function [words],close,C0403361,Renal function impairment with growth failure,,197671004,Disease or Syndrome,inexact
+condition,intravenous angiography,1,intravenous angiography [words],close,C1548870,Intravenous Digital Angiography - Consent Type,,,Health Care Activity,inexact
+condition,serious infections,1,infections,close,C3714514,Infection,D007239,,Pathologic Function,inexact
+condition,geriatric patients,1,geriatric patients [words],close,C1954094,Geriatric depression scale (GDS) panel:-:Pt:^Patient:-,,,Clinical Attribute,inexact
+condition,choreoathetotic movements in severe bilateral cerebrovascular disease,1,choreoathetotic movements in bilateral cerebrovascular disease,none,,,,,,no match
+condition,severe bilateral cerebrovascular disease,1,bilateral cerebrovascular disease,none,,,,,,no match
+condition,darkened urine,1,darkened urine,none,,,,,,no match
+condition,darken urine,1,darken urine,none,,,,,,no match
+condition,diabetic patients,1,diabetic patients [words],close,C5890098,Likelihood that a new diabetic medicine that led to blood sugar control in 8% more patients than the old diabetic medicine was due to chance alone,,,Finding,inexact
+condition,hypersensitivity to other 5-ht3 receptor antagonists,1,hypersensitivity to other 5-ht3 receptor antagonists,none,,,,,,no match
+condition,nasogastric suction,1,nasogastric suction [words],close,C0455026,Nasogastric tube aspiration,,6853008,Therapeutic or Preventive Procedure,inexact
+condition,abdominal surgery,1,abdominal surgery [words],close,C0455612,H/O: major abdominal surgery,,161617006,Finding,inexact
+condition,pediatric patients 4 years of age or younger,1,pediatric patients 4 years of age or younger,none,,,,,,no match
+condition,patients over the age of 65,1,over age of 65,none,,,,,,no match
+condition,maternal sinus bradycardia,1,maternal sinus bradycardia,none,,,,,,no match
+condition,severe hepatotoxicity,1,hepatotoxicity,close,C0348754,Toxic liver disease,D056486,197354009,Disease or Syndrome,inexact
+condition,chronic malnutrition,1,chronic malnutrition [words],close,C3714283,Chronic disease-related malnutrition,,441971000124107,Disease or Syndrome,inexact
+condition,severe hypovolemia,1,hypovolemia,exact,C0546884,Hypovolemia,D020896,816082000,Finding,
+condition,creatinine clearance < 30 ml/min,1,creatinine clearance < 30 ml/min,none,,,,,,no match
+condition,severe active liver disease,1,liver disease,close,C0023895,Liver diseases,D008107,235856003,Disease or Syndrome,inexact
+condition,insulin users,1,insulin users,none,,,,,,no match
+condition,severe liver failure,1,liver failure,exact,C0085605,Liver Failure,D017093,59927004,Disease or Syndrome,
+condition,severely impaired liver function,1,severely impaired liver function,none,,,,,,no match
+condition,elderly patient,1,elderly patient,none,,,,,,no match
+condition,elevated cpk,1,elevated cpk,none,,,,,,no match
+condition,children under 10,1,children under 10,none,,,,,,no match
+condition,markedly elevated cpk levels,1,markedly elevated cpk levels,none,,,,,,no match

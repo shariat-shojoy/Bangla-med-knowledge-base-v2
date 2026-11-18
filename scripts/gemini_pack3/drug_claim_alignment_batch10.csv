@@ -1,0 +1,22 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+zinc-sulfate-monohydrate,G09-265,G09-271,,,high,
+sodium-valproate,P01-016,P01-005,,,high,
+promethazine-hydrochloride,P02-039,,ট্রাইসাইক্লিক এন্টিডিপ্রেসেন্ট,,high,
+promethazine-hydrochloride,P02-040,,সিডেটিভ,,high,
+promethazine-hydrochloride,P02-041,,নিদ্রাকারক ওষুধ,,high,
+promethazine-hydrochloride,P02-051,,,,high,
+promethazine-hydrochloride,,B045,,,high,
+promethazine-hydrochloride,,B044,,Promethazine is excreted in breastmilk.,medium,English states that promethazine is excreted in breastmilk without specifying that the amount is negligible
+ferrous-ascorbate-folic-acid-zinc-sulfate,P04-313,,বৃক্কীয় অকার্যকর রোগীদের মধ্যে শরীরে জিংক জমে যাওয়ার ঝুঁকি থাকতে পারে।,,high,
+isotretinoin-oral,P05-208,,আত্মহত্যার ঘটনা,,high,
+isotretinoin-oral,P05-219,,,,high,
+isotretinoin-oral,P05-224,,কেরাটাইটিস,,high,
+isotretinoin-oral,P05-234,,"যেসব রোগী তীব্র (রক্তযুক্ত) ডায়রিয়ায় আক্রান্ত হবেন, তাদের অবিলম্বে আইসোট্রেটিনয়েন বন্ধ করতে হবে।",,high,Distinct from P05-187 (inflammatory bowel disease in the preceding sentence)
+isotretinoin-oral,P05-235,,"ডায়াবেটিস, স্থূলতা (obesity), অ্যালকোহল আসক্তি বা লিপিড মেটাবলিজম ডিসঅর্ডারে আক্রান্ত রোগীদের আইসোট্রেটিনয়েন চিকিৎসা চলাকালীন রক্তে লিপিড এবং/অথবা গ্লুকোজের মাত্রা আরও ঘন ঘন পরীক্ষা করার প্রয়োজন হতে পারে।",,high,
+isotretinoin-oral,,P05-187,,Isotretinoin has been associated with inflammatory bowel disease (including regional ileitis) in patients without a prior history of intestinal disorders.,high,
+methyldopa,P07-032,P07-015,,,high,
+methyldopa,,P07-017,,There are no well-controlled clinical trials in pediatric patients. Information on dosing in pediatric patients is supported by evidence from published literature regarding the treatment of hypertension in pediatric patients.,high,
+nifedipine,P07-199,P07-180,,,high,
+10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula,,P07-163,,,high,
+phenytoin-sodium,,P07-330,,,high,English reports hyperglycemia from inhibitory effects on insulin release but does not state caution in insulin users
+phenytoin-sodium,,P07-328,,Dose should be discontinued if skin rashes appears.,high,English states dose should be discontinued whereas Bangla states dose should be reduced

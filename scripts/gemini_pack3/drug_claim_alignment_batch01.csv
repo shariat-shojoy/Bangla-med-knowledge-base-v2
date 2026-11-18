@@ -1,0 +1,51 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+magnesium-sulfate,E005,B005,,,medium,B005 states seizures generally (cause not named) and could also match E006 or E007; matched to E005 as the primary seizure indication
+magnesium-sulfate,E006,,,,high,Bangla states general seizure prevention/control (matched to E005) without mentioning acute uremia
+magnesium-sulfate,E007,,,,high,Bangla states general seizure prevention/control (matched to E005) without mentioning hypothyroidism
+magnesium-sulfate,E011,B009,,,medium,Bangla omits 'severe damage' and states only myocardium
+magnesium-sulfate,E012,B010,,,medium,Bangla omits 'significantly decreased' and states kidney function
+magnesium-sulfate,P02-204,P02-194,,,high,
+magnesium-sulfate,P02-211,,,,high,
+magnesium-sulfate,P02-213,,,,high,
+magnesium-sulfate,P02-214,,,,high,
+magnesium-sulfate,P02-215,,,,high,P02-201 in Bangla concerns monitoring/use in muscle weakness rather than overdosage-induced weakness
+magnesium-sulfate,P02-216,,,,high,
+magnesium-sulfate,P02-217,,,,high,
+magnesium-sulfate,P02-218,,,,high,
+magnesium-sulfate,P02-219,,,,high,
+magnesium-sulfate,P02-220,,,,high,
+magnesium-sulfate,P02-221,,,,high,
+magnesium-sulfate,,P02-201,,,high,
+misoprostol,E025,,,,high,
+azithromycin-dihydrate,E107,B050,,,high,
+azithromycin-dihydrate,P01-033,,খাদ্য অথবা এন্টাসিডের উপস্থিতিতে এজিথ্রোমাইসিনের শোষণ কমে যায়।,,high,
+azithromycin-dihydrate,P01-043,,,,high,
+azithromycin-dihydrate,P01-044,,,,high,
+azithromycin-dihydrate,P01-045,,,,high,
+azithromycin-dihydrate,,B051,,,high,
+azithromycin-dihydrate,,P01-031,,,high,
+azithromycin-dihydrate,,P01-024,,"Because of the theoretical possibility of ergotism, azithromycin and ergot derivatives should not be co-administered.",high,
+albendazole,G01-019,,গোলকৃমি,,medium,Parallel bullet slot in Bangla indications corresponding to Strongyloides
+amoxicillin-clavulanic-acid,G01-057,G01-070,,,high,
+amoxicillin-clavulanic-acid,G01-058,G01-071,,,high,
+aspirin,G01-125,G01-141,,,high,
+atenolol,G01-155,,এক্ষেত্রে দুগ্ধ গ্রহণকারী শিশুর মারাত্মক ব্রাডিকার্ডিয়া (স্বাভাবিকের চেয়ে কম হৃদস্পন্দন) হওয়ার তথ্য পাওয়া গেছে।,,high,
+atenolol,,P07-437,,Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; this should be done under hospital supervision as marked falls in blood pressure can occur.,high,
+atorvastatin-calcium,G01-181,G01-201,,,high,
+atorvastatin-calcium,P08-032,,যাদের যকৃতের রোগ আছে অথবা যারা অতিরিক্ত পরিমাণে এলকোহল সেবন করে তাদের ক্ষেত্রে সতর্কতার সাথে এটরভাসটাটিন ব্যবহার করতে হবে।,,high,
+atorvastatin-calcium,P08-033,P08-016,,,high,
+atorvastatin-calcium,P08-035,,,,high,
+atorvastatin-calcium,P08-037,P08-018,,,medium,P08-018 could also match P08-032 (precautions); matched to P08-037 because both are in special_populations under hepatic insufficiency
+atorvastatin-calcium,,P08-007,,,high,
+atorvastatin-calcium,,P08-008,,,high,
+atorvastatin-calcium,,P08-019,,,high,
+cabergoline,G02-003,G02-014,,,high,
+cabergoline,P02-107,P02-088,,,high,
+cabergoline,P02-114,,,,high,Distinct from toxaemia of pregnancy in contraindications (G02-018); omitted from Bangla precautions
+cabergoline,P02-115,,,,high,
+cabergoline,P02-116,,,,high,
+cabergoline,P02-117,,,,high,
+cabergoline,P02-118,,,,high,
+cabergoline,,G02-018,,"High blood pressure in
+pregnancy associated with swelling and protein in the urine (toxaemia of pregnancy)",high,
+calcium-gluconate,G02-059,G02-074,,,high,

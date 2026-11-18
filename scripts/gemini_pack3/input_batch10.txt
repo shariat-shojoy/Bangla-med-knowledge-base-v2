@@ -1,0 +1,221 @@
+### drug=zinc-sulfate-monohydrate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G09-265 | USE_IN | hypersensitive to any component | contraindicated | contraindications | "It is contraindicated in those who are hypersensitive to any component of the ingredient of this preparation."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G09-271 | USE_IN | hypersensitivity to zinc or any of its components | contraindicated | contraindications | "জিংক বা এটির কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এটি ব্যবহার করা যাবে না।"
+## ENGLISH SECTION TEXT: contraindications
+It is contraindicated in those who are hypersensitive to any component of the ingredient of this preparation.
+## BANGLA SECTION TEXT: contraindications
+জিংক বা এটির কোন উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে এটি ব্যবহার করা যাবে না।
+
+### drug=sodium-valproate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+P01-016 | USE_IN | patients most at risk | caution | precautions | "Liver functions should be monitored before therapy and during first 6 months especially in patients most at risk,"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P01-005 | USE_IN | high-risk patients | caution | precautions | "সোডিয়াম ভেলপ্রোয়েট সেবনের পূর্বে এবং সেবনকালে প্রথম ৬ মাসের মধ্যে ঝুঁকিপূর্ণ রোগীদের ক্ষেত্রে লিভার ফাংশন মনিটর করতে হবে।"
+## ENGLISH SECTION TEXT: precautions
+Liver functions should be monitored before therapy and during first 6 months especially in patients most at risk, No undue potential for bleeding before starting and before major surgery must be ensured, Care should be taken in renal impairment, pregnancy, breast-feeding and systemic lupus erythematosus. Sodium Valproate is partially eliminated in the urine as a ketone metabolite, which may lead to a false interpretation of the urine ketone test. Sudden withdrawal of therapy should be avoided. Sodium Valproate should not be used during pregnancy and in women of childbearing potential.
+## BANGLA SECTION TEXT: precautions
+সোডিয়াম ভেলপ্রোয়েট সেবনের পূর্বে এবং সেবনকালে প্রথম ৬ মাসের মধ্যে ঝুঁকিপূর্ণ রোগীদের ক্ষেত্রে লিভার ফাংশন মনিটর করতে হবে। সোডিয়াম ভেলপ্রোয়েট সেবনের পূর্বে কিংবা বড় ধরনের অস্ত্রোপাচারের আগে যাতে কোন রক্তপাত না হয় তা নিশ্চিত করতে হবে। কিডনীর সমস্যাজনিত রোগী, গর্ভবর্তী এবং স্তন্যদানকারী মা এবং সিটেমিক লুপাস এরিথোমেটোসাস রোগীর ক্ষেত্রে বিশেষ ব্যবস্থা নিতে হবে। সোডিয়াম ভালপ্রোয়েট মুত্রের সাথে আংশিক ভাবে কিটোন মেটাবোলাইট হিসেবে নিঃসৃত হয় যা ইউরিন কিটোন টেস্টে ভুল তথ্য দিতে পারে। আকস্মিক ভাবে ওষুধ সেবন বন্ধ করা উচিত নয়। গর্ভাবস্থায় এবং গর্ভধারণে ইচ্ছুক মহিলাদের ক্ষেত্রে সোডিয়াম ভেলপ্রোয়েট ব্যবহার করা উচিত নয়।
+
+### drug=promethazine-hydrochloride
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+P02-039 | INTERACTS_WITH | tricyclic antidepressants | - | interaction | "tricyclic antidepressant"
+P02-040 | INTERACTS_WITH | sedatives | - | interaction | "sedative"
+P02-041 | INTERACTS_WITH | hypnotics | - | interaction | "hypnotic"
+P02-051 | USE_IN | renal insufficiency | caution | precautions | "Use with care in patients with renal insufciency"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+B045 | USE_IN | lactation | not recommended | pregnancy_lactation | "ব্যবহারের সুপারিশ করা হয় না"
+B044 | TRANSFERS_TO | breast milk (amount negligible) | - | pregnancy_lactation | "বুকের দুধে এর নিঃসরণের পরিমাণ খুবই নগণ্য"
+## ENGLISH SECTION TEXT: interaction
+Promethazine Hydrochloride may enhance the action of any anticholinergic agent, tricyclic antidepressant, sedative or hypnotic, Alcohol should be avoided during drug treatment.
+Phenergan may interfere with immunologic urine pregnancy tests to produce false-positive or false-negative results.
+Phenergan should be discontinued at least 72 hours before the start of skin tests using allergen extracts as it may inhibit the cutaneous histamine response thus producing false-negative results.
+## BANGLA SECTION TEXT: interaction
+প্রোমিথাজিন যেকোন এ্যান্টিকোলিনার্জিক এজেন্ট, ট্রাইসাইক্লিক এন্টিডিপ্রেসেন্ট, সিডেটিভ অথবা নিদ্রাকারক ওষুধের ক্রিয়া বৃদ্ধি করতে পারে। ওষুধ দিয়ে চিকিৎসার সময় এ্যালকোহল পান করা থেকে বিরত থাকা উচিত।
+প্রোমিথাজিন প্রস্রাবের মাধ্যমে ইউমিনােলজিক গর্ভধারণ পরীক্ষা বাধাগ্রস্থ করে ভুল ফলাফল দিতে পারে। ত্বকের এ্যালার্জেন আহরণের পরীক্ষা শুরুর কমপক্ষে ৭২ ঘন্টা পূর্বে ফেনারগান গ্রহণ বন্ধ রাখা উচিত। যেহেতু এটি ত্বকের নিচে হিস্টামিনের কার্যকারিতাকে বাধা দেয় তাই ভুল ফলাফল পাওয়া যায়।
+গাড়ি চালানাে এবং অন্যান্য ঝুঁকিপূর্ণ কাজের সময় ফেনারগান গাড়ি চালনা এবং অপারেটিং মেশিনের দক্ষতাকে যথেষ্ট প্রভাবিত করে। প্রথমবার ফেনারগান গ্রহণকারী রােগীদের কিছু দিন গাড়ি ও মেশিনারীজ নিয়ন্ত্রিত ভাবে চালানাে উচিত যতদিন না এটা প্রতিষ্ঠিত হয় যে তাদের কেন্দ্রীয় স্নায়ুতন্ত্র ওষুধের প্রভাবে অতিসংবেদনশীল নয় এবং রােগী অস্থিতিবােধ, বিভ্রান্তি অথবা ঝিমুনিভাব দ্বার আক্রান্ত নয়।
+## ENGLISH SECTION TEXT: precautions
+The use of promethazine should be avoided in children and adolescents with signs and symptoms suggestive of Reye’s syndrome.
+Promethazine may thicken or dry lung secretions and impair expectoration. It should therefore be used with caution in patients with asthma, bronchitis or bronchiectasis.
+Use with care in patients with severe coronary artery disease.
+Use with care in patients with narrow angle glaucoma.
+Use with care in patients with epilepsy.
+Use with care in patients with hepatic insufciency.
+Use with care in patients with renal insufciency.
+Caution should be exercised in patients with bladder neck obstruction.
+Caution should be exercised in patients with pyloro-duodenal obstruction.
+## BANGLA SECTION TEXT: precautions
+শিশু এবং কিশােরদের রেন্স সিনড্রোম এর লক্ষণ ও উপসর্গ থাকলে প্রােমিথাজিন ব্যবহার থেকে বিরত থাকা উচিত।
+প্রোমিথাজিন ফুসফুসের নিঃস্বরণ ঘন বা শুকনাে কারতে পারে এবং শ্লেম্মা-নির্গমন ব্যাহত করতে পারে। এজন্য হাঁপানি, ব্রঙ্কাইটিস বা ব্রঙ্কাইটিসিস আক্রান্ত রােগীদের সতর্কতার সাথে ব্যবহার করা উচিত।
+গুরুতর করােনারি ধমনী রােগের রােগীদের ক্ষেত্রে যত্ন সহ ব্যবহার করুন।
+ন্যারাে অ্যাঙ্গেল গ্লুকোমা রােগীদের ক্ষেত্রে যত্ন সহ ব্যবহার করুন।
+মৃগী রােগীদের ক্ষেত্রে যত্ন সহ ব্যবহার করুন।
+হেপাটিক অক্ষমতার রােগীদের ক্ষেত্রে যত্ন সহ ব্যবহার করুন।
+মূত্রাশয়ের প্রান্তে বাধা আছে এমন রােগীদের ক্ষেত্রে সাবধানতা অবলম্বন করা উচিত।
+পাইলােরাে য়ােনােল বাধা আছে এমন রােগীদের ক্ষেত্রে সাবধানতা অবলম্বন করা উচিত।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+There is epidemiological evidence for the safety of promethazine in pregnancy and animal studies have shown no hazard, nevertheless, it should not be used in pregnancy unless the physician considers it essential. The use of Phenergan is not recommended in the two weeks prior to delivery in view of the risk of irritability and excitement in the neonate. When promethazine has been given in high doses during late pregnancy, promethazine has caused prolonged neurological disturbances in the infant. Promethazine should be used in pregnancy only if the potential benefts to the patient are weighed against the possible risk to the fetus. Promethazine is excreted in breastmilk. There are risks of neonatal irritability and excitement.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থায় ইপিডেমিওলজিক্যঅল তথ্য প্রমাণ এবং প্রানীকূলের উপর করা স্টাডিতে প্রােমিথাজিনের ব্যবহারে ক্ষতিকারক কিছু পাওয়া না গেলেও গর্ভাবস্থায় এটি ব্যবহার করা উচিত নয় যদি না চিকিৎসক এটি অত্যাবশ্যকীয় মনে করেন। নবজাতকের বিরক্তি এবং উত্তেজনার প্রবনতার সম্ভাব্য ঝুঁকির কথা বিবেচনা করে প্রসবের দুই সপ্তাহ পূর্বে প্রোমিথাজিন এর ব্যবহার নির্দেশিত নয়। প্রােমিথাজিন যদি গর্ভাবস্থার শেষের দিকে উচ্চ মাত্রায় দেওয়া হয়, তখন প্রােমিথাজিন শিশুর মধ্যে দীর্ঘস্থায়ী স্নায়ুবিক ব্যাঘাতের সৃষ্টি করে। গর্ভাবস্থায় প্রােমিথাজিন ব্যবহার করা উচিত যদি রােগীর সম্ভাব্য সুবিধাগুলি ভ্রুণের সম্ভাব্য ঝুঁকির তুলনায় অধিক করা হয়। প্রাপ্ত তথ্য অনুযায়ী বুকের দুধে এর নিঃসরণের পরিমাণ খুবই নগণ্য। তবুও নবজাতকের বিরক্তি এবং উত্তেজনার প্রবনতার সম্ভাব্য ঝুঁকি আছে। প্রোমিথাজিন বুকের দুধে নিঃসৃত হয়। নবজাতকের বিরক্তিভাব ও উত্তেজনার ঝুঁকি রয়েছে। প্রোমিথাজিন স্তন্যপান করানাের ক্ষেত্রে ব্যবহারের সুপারিশ করা হয় না।
+
+### drug=ferrous-ascorbate-folic-acid-zinc-sulfate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+P04-313 | USE_IN | renal failure | - | interaction | "In patients with renal failure, a risk of zinc accumulation may exist"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+(none)
+## ENGLISH SECTION TEXT: interaction
+Iron chelates with tetracycline. Since oral iron products interfere with absorption of oral tetracycline antibiotics, this product should not be taken within two hours of each other. Occasional gastrointestinal discomfort may be minimized by taking with meals. Absorption of iron may be impaired by concurrent administrations of penicillamine and antacid. In patients with renal failure, a risk of zinc accumulation may exist.
+## BANGLA SECTION TEXT: interaction
+টেট্রাসাইক্লাইন এবং আয়রন একত্রে চিলেট ফর্ম করে। যেহেতু মুখে সেবনযোগ্য আয়রন ওরাল টেট্রাসাইক্লিন অ্যান্টিবায়োটিক এর শোষণে বাঁধা সৃস্টি করে, তাই এই দুটি ঔষধ একত্রে দুই ঘন্টার মধ্যে নেওয়া উচিৎ নয়। মাঝে মাঝে খাবার গ্রহণের মাধ্যমে গ্যাস্ট্রোইনটেস্টাইনাল অস্বস্তি হ্রাস করা যেতে পারে। পেনিসিলামাইন এবং অ্যান্টাসিড একযোগে গ্রহণের ফলে আয়রনের শোষণ ক্ষতিগ্রস্থ হতে পারে। বৃক্কীয় অকার্যকর রোগীদের মধ্যে শরীরে জিংক জমে যাওয়ার ঝুঁকি থাকতে পারে।
+
+### drug=isotretinoin-oral
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+P05-208 | CAUSES | suicide | - | precautions | "and suicide"
+P05-219 | CAUSES | allergic cutaneous reactions | - | precautions | "Allergic cutaneous reactions are reported infrequently"
+P05-224 | CAUSES | keratitis | - | precautions | "keratitis"
+P05-234 | USE_IN | severe haemorrhagic diarrhoea (stop rule) | avoid | precautions | "Isotretinoin has been associated with inflammatory bowel disease … Patients experiencing severe (hemorrhagic) diarrhoea should discontinue Isotretinoin immediat"
+P05-235 | USE_IN | diabetes | caution | precautions | "In patients with diabetes … more frequent checks of serum values for lipids and/or blood glucose may be necessary"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P05-187 | USE_IN | inflammatory bowel disease | avoid | precautions | "পরিপাকতন্ত্রের কোনো সমস্যা ছিল না এমন রোগীদের ক্ষেত্রেও আইসোট্রেটিনয়েন ব্যবহারের ফলে ইনফ্ল্যামেটরি বাওয়েল ডিজিজ (যেমন: রিজিওনাল আইলিটিস) হওয়ার সম্পর্ক পাওয়া"
+## ENGLISH SECTION TEXT: precautions
+Contraception
+: Female patients must be provided with comprehensive information on pregnancy prevention and should be referred for contraceptive advice if they are not using effective contraception. As a minimum requirement, female patients at potential risk of pregnancy must use at least one effective method of contraception. Preferably the patient should use two complementary forms of contraception including a barrier method. Contraception should be continued for at least 1 month after stopping treatment with Isotretinoin, even in patients with amenorrhea.
+Pregnancy testing
+: According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25mIU/mL are recommended to be performed in the first 3 days of the menstrual cycle, as follows.
+Prior to starting therapy
+: In order to exclude the possibility of pregnancy prior to starting contraception, it is recommended that an initial medically supervised pregnancy test should be performed and its date and result recorded. In patients without regular menses, the timing of this pregnancy test should reflect the sexual activity of the patient and should be undertaken approximately 3 weeks after the patient last had unprotected sexual intercourse. The prescriber should educate the patient about contraception. A medically supervised pregnancy test should also be performed during the consultation when Isotretinoin is prescribed or in the 3 days prior to the visit to the prescriber, and should have been delayed until the patient had been using effective contraception for at least 1 month. This test should ensure the patient is not pregnant when she starts treatment with Isotretinoin.
+Follow-up visits
+: Follow-up visits should be arranged at 28 day intervals. The need for repeated medically supervised pregnancy tests every month should be determined according to local practice including consideration of the patient’s sexual activity and recent menstrual history (abnormal menses, missed periods or amenorrhea). Where indicated, follow-up pregnancy tests should be performed on the day of the prescribing visit or in the 3 days prior to the visit to the prescriber.
+End of treatment
+: Five weeks after stopping treatment, women should undergo a final pregnancy test to exclude pregnancy.
+Prescribing and dispensing restrictions
+: Prescriptions of Isotretinoin for women of childbearing potential should be limited to 30 days of treatment and continuation of treatment requires a new prescription. Ideally, pregnancy testing, issuing a prescription and dispensing of Isotretinoin should occur on the same day. Dispensing of Isotretinoin should occur within a maximum of 7 days of the prescription.
+Male patients
+: The available data suggest that the level of maternal exposure from the semen of the patients receiving Isotretinoin, is not of a sufficient magnitude to be associated with the teratogenic effects of Isotretinoin. Male patients should be reminded that they must not share their medication with anyone, particularly not females.
+Additional precautions
+: Patients should be instructed never to give this medicinal product to another person, and to return any unused capsules to their pharmacist at the end of treatment. Patients should not donate blood during therapy and for 1 month following discontinuation of Isotretinoin because of the potential risk to the foetus of a pregnant transfusion recipient.
+Psychiatric disorders
+: Depression, depression aggravated, anxiety, aggressive tendencies, mood alterations, psychotic symptoms, and very rarely, suicidal ideation, suicide attempts and suicide have been reported in patients treated with Isotretinoin. Particular care needs to be taken in patients with a history of depression and all patients should be monitored for signs of depression and referred for appropriate treatment if necessary. However, discontinuation of Isotretinoin may be insufficient to alleviate symptoms and therefore further psychiatric or psychological evaluation may be necessary.
+Skin and subcutaneous tissues disorders
+: Acute exacerbation of acne is occasionally seen during the initial period but this subsides with continued treatment, usually within 7-10 days, and usually does not require dose adjustment. Exposure to intense sunlight or to UV rays should be avoided. Where necessary a sun-protection product with a high protection factor of at least SPF 15 should be used. Aggressive chemical dermabrasion and cutaneous laser treatment should be avoided in patients on Isotretinoin for a period of 5-6 months after the end of the treatment because of the risk of hypertrophic scarring in atypical areas and more rarely post inflammatory hyper or hypopigmentation in treated areas. Wax depilation should be avoided in patients on Isotretinoin for at least a period of 6 months after treatment because of the risk of epidermal stripping. Concurrent administration of Isotretinoin with topical keratolytic or exfoliative anti-acne agents should be avoided as local irritation may increase. Patients should be advised to use a skin moisturising ointment or cream and a lip balm from the start of treatment as Isotretinoin is likely to cause dryness of the skin and lips. There have been post-marketing reports of severe skin reactions (e.g. erythema multiforme (EM), Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) associated with Isotretinoin use. As these events may be difficult to distinguish from other skin reactions that may occur, patients should be advised of the signs and symptoms and monitored closely for severe skin reactions. If a severe skin reaction is suspected, Isotretinoin treatment should be discontinued. Allergic reactions: Anaphylactic reactions have been rarely reported, in some cases after previous topical exposure to retinoids. Allergic cutaneous reactions are reported infrequently. Serious cases of allergic vasculitis, often with purpura (bruises and red patches) of the extremities and extracutaneous involvement have been reported. Severe allergic reactions necessitate interruption of therapy and careful monitoring.
+Eye disorders
+: Dry eyes, corneal opacities, decreased night vision and keratitis usually resolve after discontinuation of therapy. Dry eyes can be helped by the application of a lubricating eye ointment or by the application of tear replacement therapy. Intolerance to contact lenses may occur which may necessitate the patient to wear glasses during treatment. Decreased night vision has also been reported and the onset in some patients was sudden. Withdrawal of Isotretinoin may be necessary.
+Musculo-skeletal and connective tissue disorders
+: Myalgia, arthralgia and increased serum creatine phosphokinase values have been reported in patients receiving Isotretinoin, particularly in those undertaking vigorous physical activity. Bone changes including premature epiphyseal closure, hyperostosis, and calcification of tendons and ligaments have occurred after several years of administration at very high doses for treating disorders of keratinisation. The dose levels, duration of treatment and total cumulative dose in these patients generally far exceeded those recommended for the treatment of acne.
+Benign intracranial hypertension
+: Cases of benign intracranial hypertension have been reported, some of which involved concomitant use of tetracyclines. Signs and symptoms of benign intracranial hypertension include headache, nausea and vomiting, visual disturbances and papilloedema. Patients who develop benign intracranial hypertension should discontinue Isotretinoin immediately.
+Hepatobiliary disorders
+: Liver enzymes should be checked before treatment, 1 month after the start of treatment, and subsequently at 3 monthly intervals unless more frequent monitoring is clinically indicated. Transient and reversible increases in liver transaminases have been reported. In many cases these changes have been within the normal range and values have returned to baseline levels during treatment. However, in the event of persistent clinically relevant elevation of transaminase levels, reduction of the dose or discontinuation of treatment should be considered.
+Renal insufficiency
+: Renal insufficiency and renal failure do not affect the pharmacokinetics of Isotretinoin. Therefore, Isotretinoin can be given to patients with renal insufficiency. However, it is recommended that patients are started on a low dose and titrated up to the maximum tolerated dose.
+Lipid Metabolism
+: Serum lipids (fasting values) should be checked before treatment, 1 month after the start of treatment, and subsequently at 3 monthly intervals unless more frequent monitoring is clinically indicated. Elevated serum lipid values usually return to normal on reduction of the dose or discontinuation of treatment and may also respond to dietary measures. Isotretinoin has been associated with an increase in plasma triglyceride levels. Isotretinoin should be discontinued if hypertriglyceridaemia cannot be controlled at an acceptable level or if symptoms of pancreatitis occur. Levels in excess of 800mg/dL or 9mmol/L are sometimes associated with acute pancreatitis, which may be fatal.
+Gastrointestinal disorders
+: Isotretinoin has been associated with inflammatory bowel disease (including regional ileitis) in patients without a prior history of intestinal disorders. Patients experiencing severe (hemorrhagic) diarrhoea should discontinue Isotretinoin immediately.
+High Risk Patients
+: In patients with diabetes, obesity, alcoholism or a lipid metabolism disorder undergoing treatment with Isotretinoin, more frequent checks of serum values for lipids and/or blood glucose may be necessary. Elevated fasting blood sugars have been reported, and new cases of diabetes have been diagnosed during Isotretinoin therapy.
+## BANGLA SECTION TEXT: precautions
+জন্মনিয়ন্ত্রণ
+: নারী রোগীদের গর্ভাবস্থা প্রতিরোধের বিষয়ে বিস্তারিত তথ্য সরবরাহ করতে হবে এবং যদি তারা কার্যকর জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার না করেন তবে তাদের জন্মনিয়ন্ত্রণ পরামর্শের জন্য পাঠাতে হবে। নূন্যতম শর্ত হিসেবে, গর্ভধারণের ঝুঁকিতে থাকা নারী রোগীদের অবশ্যই অন্তত একটি কার্যকর জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করতে হবে। পছন্দসইভাবে রোগীকে দুটি পরিপূরক জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করা উচিত যার একটি ব্যারিয়ার মেথড (যেমন: কনডম) হতে হবে। আইসোট্রেটিনয়েন চিকিৎসা বন্ধ করার পর অন্তত ১ মাস পর্যন্ত জন্মনিয়ন্ত্রণ পদ্ধতি চালু রাখতে হবে, এমনকি রোগীর ঋতুস্রাব বন্ধ থাকলেও।
+গর্ভধারণ পরীক্ষা
+: স্থানীয় নিয়ম অনুযায়ী, মাসিক চক্রের প্রথম ৩ দিনের মধ্যে ন্যূনতম 25 mIU/mL সংবেদনশীলতাসম্পন্ন চিকিৎসকের তত্ত্বাবধানে গর্ভধারণ পরীক্ষা করার পরামর্শ দেওয়া হয়।
+চিকিৎসা শুরু করার আগে
+: জন্মনিয়ন্ত্রণ শুরু করার আগে গর্ভাবস্থার সম্ভাবনা নাকচ করার জন্য চিকিৎসকের তত্ত্বাবধানে একটি প্রাথমিক গর্ভধারণ পরীক্ষা করা এবং এর তারিখ ও ফলাফল রেকর্ড করে রাখা উচিত। যেসব রোগীর মাসিক নিয়মিত নয়, তাদের ক্ষেত্রে এই পরীক্ষার সময়টি রোগীর যৌন সক্রিয়তার ওপর নির্ভর করবে এবং সর্বশেষ অসুরক্ষিত যৌন মিলনের প্রায় ৩ সপ্তাহ পর পরীক্ষাটি করা উচিত। চিকিৎসক রোগীকে জন্মনিয়ন্ত্রণ সম্পর্কে শিক্ষা দেবেন। আইসোট্রেটিনয়েন প্রেসক্রিপশন করার সময় বা চিকিৎসকের কাছে যাওয়ার ৩ দিন আগে চিকিৎসকের তত্ত্বাবধানে একটি গর্ভধারণ পরীক্ষা করা উচিত, এবং এই পরীক্ষাটি রোগী অন্তত ১ মাস ধরে কার্যকর জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করার পর করা উচিত। এই পরীক্ষাটি নিশ্চিত করবে যে রোগী যখন আইসোট্রেটিনয়েন শুরু করছেন তখন তিনি গর্ভবতী নন।
+ফলো-আপ ভিজিট
+: প্রতি ২৮ দিন পর পর ফলো-আপ ভিজিটের ব্যবস্থা করতে হবে। প্রতি মাসে চিকিৎসকের তত্ত্বাবধানে পুনরায় গর্ভধারণ পরীক্ষা করার প্রয়োজনীয়তা স্থানীয় নিয়ম এবং রোগীর যৌন সক্রিয়তা ও সাম্প্রতিক মাসিকের ইতিহাসের ওপর ভিত্তি করে নির্ধারণ করা হবে। নির্দেশিত ক্ষেত্রে, চিকিৎসকের ভিজিটের দিন বা ভিজিটের ৩ দিন আগে ফলো-আপ গর্ভধারণ পরীক্ষা করা উচিত।
+চিকিৎসা সমাপ্তি
+: চিকিৎসা বন্ধ করার ৫ সপ্তাহ পর, নারীদের গর্ভাবস্থা সম্পূর্ণ নিশ্চিতভাবে নাকচ করার জন্য একটি চূড়ান্ত গর্ভধারণ পরীক্ষা করা উচিত।
+প্রেসক্রিপশন এবং ওষুধ বিতরণের সীমাবদ্ধতা: গর্ভধারণের ক্ষমতাসম্পন্ন নারীদের জন্য আইসোট্রেটিনয়েনের প্রেসক্রিপশন ৩০ দিনের চিকিৎসার মধ্যে সীমাবদ্ধ রাখা উচিত এবং চিকিৎসা চালিয়ে যাওয়ার জন্য নতুন প্রেসক্রিপশনের প্রয়োজন হবে। আদর্শগতভাবে, গর্ভধারণ পরীক্ষা, প্রেসক্রিপশন তৈরি এবং ওষুধ বিতরণ একই দিনে হওয়া উচিত। প্রেসক্রিপশন করার সর্বোচ্চ ৭ দিনের মধ্যে আইসোট্রেটিনয়েন ফার্মেসি থেকে সংগ্রহ করতে হবে।
+পুরুষ রোগী
+: প্রাপ্ত তথ্য অনুযায়ী, আইসোট্রেটিনয়েন গ্রহণকারী পুরুষ রোগীদের বীর্যের মাধ্যমে নারী সঙ্গীর শরীরে এই ওষুধের প্রবেশের মাত্রা এতই নগণ্য যে তা গর্ভস্থ শিশুর বিকলাঙ্গতার ঝুঁকির কারণ হয় না। তবে পুরুষ রোগীদের মনে করিয়ে দিতে হবে যে তারা যেন তাদের ওষুধ অন্য কারো সাথে, বিশেষ করে কোনো নারীর সাথে শেয়ার না করেন।
+অতিরিক্ত সতর্কতা
+: রোগীদের নির্দেশ দিতে হবে যেন তারা এই ওষুধটি কখনো অন্য কোনো ব্যক্তিকে না দেন এবং চিকিৎসা শেষে অব্যবহৃত ক্যাপসুলগুলো ফার্মাসিস্টের কাছে ফেরত দেন। আইসোট্রেটিনয়েন থেরাপি চলাকালীন এবং চিকিৎসা বন্ধের ১ মাস পর পর্যন্ত রোগীরা রক্তদান করতে পারবেন না, কারণ এই রক্ত যদি কোনো গর্ভবতী নারী গ্রহণ করেন তবে তার গর্ভস্থ শিশুর ক্ষতির ঝুঁকি থাকে।
+মানসিক ব্যাধি
+: আইসোট্রেটিনয়েন ব্যবহারকারী রোগীদের ক্ষেত্রে বিষণ্নতা, তীব্র বিষণ্নতা, উদ্বেগ, আক্রমণাত্মক মনোভাব, মেজাজের পরিবর্তন, সাইকোটিক লক্ষণ এবং খুব বিরল ক্ষেত্রে আত্মহত্যার চিন্তা, আত্মহত্যার চেষ্টা ও আত্মহত্যার ঘটনা রিপোর্ট করা হয়েছে। যাদের আগে থেকেই বিষণ্নতার ইতিহাস রয়েছে তাদের ক্ষেত্রে বিশেষ যত্ন নেওয়া প্রয়োজন এবং সমস্ত রোগীদের বিষণ্নতার লক্ষণের জন্য পর্যবেক্ষণ করা উচিত এবং প্রয়োজনে উপযুক্ত চিকিৎসার জন্য পাঠানো উচিত। তবে আইসোট্রেটিনয়েন বন্ধ করাই লক্ষণগুলো দূর করার জন্য যথেষ্ট নাও হতে পারে, তাই পরবর্তী মানসিক বা মনস্তাত্ত্বিক মূল্যায়নের প্রয়োজন হতে পারে।
+ত্বক ও সাবকিউটেনিয়াস টিস্যুর সমস্যা
+: চিকিৎসার প্রাথমিক সময়ে সাময়িকভাবে ব্রণ কিছুটা বেড়ে যেতে পারে, তবে চিকিৎসা চালিয়ে গেলে সাধারণত ৭-১০ দিনের মধ্যে তা কমে যায় এবং এর জন্য ডোজ পরিবর্তনের প্রয়োজন হয় না। তীব্র সূর্যালোক বা অতিবেগুনী রশ্মির (UV rays) সংস্পর্শ এড়িয়ে চলতে হবে। প্রয়োজনে অন্তত SPF 15 যুক্ত একটি ভালো সানস্ক্রিন ব্যবহার করতে হবে। আইসোট্রেটিনয়েন চিকিৎসা চলাকালীন এবং চিকিৎসা শেষ হওয়ার পর ৫-৬ মাস পর্যন্ত ত্বকের অ্যাগ্রেসিভ কেমিক্যাল ডার্মাব্রেশন এবং লেজার ট্রিটমেন্ট এড়িয়ে চলতে হবে, কারণ এতে ত্বকে অস্বাভাবিক দাগ (hypertrophic scarring) বা ত্বকের রঙের পরিবর্তন হতে পারে। চিকিৎসা চলাকালীন এবং চিকিৎসা শেষে অন্তত ৬ মাস পর্যন্ত ওয়াক্সিং (Wax depilation) এড়িয়ে চলতে হবে, কারণ এতে ত্বকের চামড়া উঠে যাওয়ার ঝুঁকি থাকে। ত্বকে ব্যবহারের কেরাটোলাইটিক বা এক্সফোলিয়েটিভ ব্রণরোধী ওষুধের সাথে একই সময়ে আইসোট্রেটিনয়েন ব্যবহার এড়ানো উচিত, কারণ এতে ত্বকের স্থানীয় জ্বালাপোড়া বাড়তে পারে। আইসোট্রেটিনয়েন ব্যবহারের কারণে ত্বক ও ঠোঁট শুষ্ক হয়ে যাওয়ার সম্ভাবনা থাকায় রোগীদের চিকিৎসা শুরুর প্রথম থেকেই স্কিন ময়েশ্চারাইজার ক্রিম বা অয়েন্টমেন্ট এবং লিপবাম ব্যবহারের পরামর্শ দিতে হবে। বাজারজাতকরণের পর আইসোট্রেটিনয়েন ব্যবহারের ফলে কিছু মারাত্মক ত্বকের প্রতিক্রিয়া (যেমন: এরিথেমা মাল্টিফর্ম (EM), স্টিভেন্স-জনসন সিন্ড্রোম (SJS) এবং টক্সিক এপিডার্মাল নেক্রোলাইসিস (TEN)) দেখা দেওয়ার রিপোর্ট পাওয়া গেছে। যেহেতু এই প্রতিক্রিয়াগুলো অন্যান্য সাধারণ ত্বকের সমস্যা থেকে আলাদা করা কঠিন হতে পারে, তাই রোগীদের এই লক্ষণগুলো সম্পর্কে জানাতে হবে এবং নিবিড় পর্যবেক্ষণে রাখতে হবে। মারাত্মক ত্বকের প্রতিক্রিয়া সন্দেহ হলে আইসোট্রেটিনয়েন বন্ধ করতে হবে।
+অ্যালার্জিক প্রতিক্রিয়া
+: খুব বিরল ক্ষেত্রে অ্যানাফিল্যাকটিক প্রতিক্রিয়া রিপোর্ট করা হয়েছে, কিছু ক্ষেত্রে পূর্বে ত্বকে রেটিনয়েড ব্যবহারের কারণেও এটি হতে পারে। গুরুতর অ্যালার্জিক ভাসকুলাইটিসের ক্ষেত্রে হাত-পায়ে লালচে দাগ বা কালশিটে (purpura) পড়তে পারে। তীব্র অ্যালার্জিক প্রতিক্রিয়া দেখা দিলে চিকিৎসা বন্ধ করা এবং নিবিড় পর্যবেক্ষণ করা জরুরি।
+চোখের সমস্যা
+: চোখ শুষ্ক হওয়া, কর্নিয়ার অস্বচ্ছতা, রাতে দেখার ক্ষমতা কমে যাওয়া এবং কেরাটাইটিস সাধারণত চিকিৎসা বন্ধের পর ঠিক হয়ে যায়। চোখ শুষ্ক হওয়ার সমস্যায় লুব্রিকেটিং আই অয়েন্টমেন্ট বা কৃত্রিম চোখের জল (tear replacement therapy) ব্যবহার করা যেতে পারে। কন্টাক্ট লেন্স ব্যবহারে অসুবিধা হতে পারে, যার ফলে চিকিৎসা চলাকালীন রোগীকে চশমা পরার প্রয়োজন হতে পারে। রাতে দেখার ক্ষমতা হঠাৎ কমে যাওয়ার রিপোর্টও রয়েছে, এমন ক্ষেত্রে আইসোট্রেটিনয়েন ব্যবহার বন্ধ করার প্রয়োজন হতে পারে।
+পেশী ও কঙ্কালতন্ত্রের সমস্যা
+: আইসোট্রেটিনয়েন গ্রহণকারী রোগীদের ক্ষেত্রে, বিশেষ করে যারা কঠোর শারীরিক পরিশ্রম বা ব্যায়াম করেন, তাদের পেশী ব্যথা (myalgia), জয়েন্ট বা গাঁটে ব্যথা (arthralgia) এবং রক্তে ক্রিয়েটিন ফসফোকাইনেজ (CPK)-এর মাত্রা বৃদ্ধি পেতে পারে। কেরাটিনাইজেশনের চিকিৎসার জন্য বহু বছর ধরে অত্যন্ত উচ্চ মাত্রায় আইসোট্রেটিনয়েন ব্যবহারের ফলে হাড়ের পরিবর্তন (যেমন: এপিফাইসিয়াল প্রিম্যাচিউর ক্লোজার, হাইপারওস্টোসিস এবং লিগামেন্ট ও টেন্ডনে ক্যালসিয়াম জমা হওয়া) দেখা গেছে। এই রোগীদের ক্ষেত্রে ডোজের মাত্রা এবং চিকিৎসার সময়কাল ব্রণের জন্য নির্দেশিত ডোজের চেয়ে অনেক বেশি ছিল।
+বেনাইন ইন্ট্রাক্রেনিয়াল হাইপারটেনশন
+: মস্তিষ্কে চাপ বৃদ্ধির কিছু ঘটনা রিপোর্ট করা হয়েছে, যার মধ্যে কয়েকটিতে একই সাথে টেট্রাসাইক্লিন জাতীয় ওষুধের ব্যবহার ছিল। এর লক্ষণগুলোর মধ্যে রয়েছে মাথাব্যথা, বমি বমি ভাব ও বমি, দৃষ্টিশক্তির সমস্যা এবং প্যাপিলইডিমা। যেসব রোগীর এই সমস্যা দেখা দেবে, তাদের অবিলম্বে আইসোট্রেটিনয়েন ব্যবহার বন্ধ করতে হবে।
+লিভারের সমস্যা
+: চিকিৎসা শুরু করার আগে, চিকিৎসা শুরুর ১ মাস পরে এবং পরবর্তীতে প্রতি ৩ মাস পর পর লিভারের এনজাইম পরীক্ষা করা উচিত, যদি না চিকিৎসাগতভাবে আরও ঘন ঘন পরীক্ষার প্রয়োজন হয়। লিভারের ট্রান্সঅ্যামাইনেজ এনজাইম সাময়িকভাবে এবং রিভার্সিবলভাবে বৃদ্ধি পেতে পারে। অনেক ক্ষেত্রে এই পরিবর্তনগুলো স্বাভাবিক সীমার মধ্যেই থাকে এবং চিকিৎসা চলাকালীন সময়েই আবার স্বাভাবিক অবস্থায় ফিরে আসে। তবে লিভারের এনজাইমের মাত্রা যদি ক্রমাগতভাবে এবং উল্লেখযোগ্যভাবে বেশি থাকে, তবে ডোজ কমানো বা চিকিৎসা বন্ধ করার বিষয়টি বিবেচনা করতে হবে।
+কিডনি বিকলতা
+: কিডনির কার্যকারিতা হ্রাস বা কিডনি বিকলতা আইসোট্রেটিনয়েনের ফার্মাকোকিনেটিক্সকে প্রভাবিত করে না। তাই কিডনি বিকলতার রোগীদের আইসোট্রেটিনয়েন দেওয়া যেতে পারে। তবে এক্ষেত্রে রোগীকে কম ডোজ দিয়ে শুরু করা এবং ধীরে ধীরে সহ্যক্ষমতার সর্বোচ্চ ডোজ পর্যন্ত বাড়ানোর পরামর্শ দেওয়া হয়।
+লিপিড মেটাবলিজম বা চর্বির বিপাক
+: চিকিৎসা শুরু করার আগে, চিকিৎসা শুরুর ১ মাস পরে এবং পরবর্তীতে প্রতি ৩ মাস পর পর খালি পেটে রক্তে লিপিড বা চর্বির মাত্রা (Serum lipids) পরীক্ষা করা উচিত। রক্তে লিপিডের মাত্রা বৃদ্ধি পেলে সাধারণত ডোজ কমালে বা চিকিৎসা বন্ধ করলে এবং খাদ্যাভ্যাস পরিবর্তন করলে তা আবার স্বাভাবিক অবস্থায় ফিরে আসে। আইসোট্রেটিনয়েন ব্যবহারের ফলে প্লাজমা ট্রাইগ্লিসারাইডের মাত্রা বৃদ্ধি পাওয়ার সম্ভাবনা থাকে। যদি ট্রাইগ্লিসারাইডের মাত্রা গ্রহণযোগ্য পর্যায়ে নিয়ন্ত্রণে রাখা না যায় বা প্যানক্রিয়াটাইটিসের লক্ষণ দেখা দেয়, তবে আইসোট্রেটিনয়েন বন্ধ করতে হবে। রক্তে ট্রাইগ্লিসারাইডের মাত্রা 800 mg/dL বা 9 mmol/L-এর বেশি হলে তীব্র প্যানক্রিয়াটাইটিস হতে পারে, যা মারাত্মক বা প্রাণঘাতী হতে পারে।
+পরিপাকতন্ত্রের সমস্যা
+: পূর্বে পরিপাকতন্ত্রের কোনো সমস্যা ছিল না এমন রোগীদের ক্ষেত্রেও আইসোট্রেটিনয়েন ব্যবহারের ফলে ইনফ্ল্যামেটরি বাওয়েল ডিজিজ (যেমন: রিজিওনাল আইলিটিস) হওয়ার সম্পর্ক পাওয়া গেছে। যেসব রোগী তীব্র (রক্তযুক্ত) ডায়রিয়ায় আক্রান্ত হবেন, তাদের অবিলম্বে আইসোট্রেটিনয়েন বন্ধ করতে হবে।
+উচ্চ ঝুঁকিপূর্ণ রোগী
+: ডায়াবেটিস, স্থূলতা (obesity), অ্যালকোহল আসক্তি বা লিপিড মেটাবলিজম ডিসঅর্ডারে আক্রান্ত রোগীদের আইসোট্রেটিনয়েন চিকিৎসা চলাকালীন রক্তে লিপিড এবং/অথবা গ্লুকোজের মাত্রা আরও ঘন ঘন পরীক্ষা করার প্রয়োজন হতে পারে। চিকিৎসা চলাকালীন খালি পেটে রক্তের শর্করা (fasting blood sugar) বৃদ্ধি পাওয়ার এবং নতুন করে ডায়াবেটিস সনাক্ত হওয়ার রিপোর্ট রয়েছে।
+
+### drug=methyldopa
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+P07-032 | USE_IN | severe bilateral cerebrovascular disease | avoid | precautions | "Rarely involuntary choreoathetotic movements have been observed during therapy with Methyldopa in patients with severe bilateral cerebrovascular disease. If the"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P07-017 | USE_IN | children | no data | special_populations | "শিশুদের জন্য সেধরনের কোন সুনিয়ন্ত্রিত ক্লিনিক্যাল পরীক্ষা নেই। শিশুদের জন্য মাত্রা, উচ্চ রক্তচাপ নিয়ন্ত্রণের জন্য প্রকাশিত তথ্যের ভিত্তিতে নির্দেশিত"
+P07-015 | USE_IN | choreoathetotic movements in severe bilateral cerebrovascula | avoid | precautions | "তীব্র বাইলেটারাল সেরিব্রোভাস্কুলার রোগের ক্ষেত্রে কখনও কখনও অনিয়ন্ত্রিত কোরিওএ্যাথেটোটিক মুভমেন্ট লক্ষ্য করা যায়। এসব ক্ষেত্রে মিথাইলডোপা বন্ধ করে দেয়া উচিত"
+## ENGLISH SECTION TEXT: precautions
+Methyldopa should be used with caution in patients with a history of previous liver disease or dysfunction. Some patients taking Methyldopa experience clinical edema or weight gain, which may be controlled by use of a diuretic. Methyldopa should not be continued if edema progresses or signs of heart failure appear. Hypertension has recurred occasionally after dialysis in patients given Methyldopa because the drug is removed by this procedure. Rarely involuntary choreoathetotic movements have been observed during therapy with Methyldopa in patients with severe bilateral cerebrovascular disease. If these movements occur, stop therapy
+## BANGLA SECTION TEXT: precautions
+যাদের লিভারের রোগ অথবা অক্ষমতার ইতিহাস আছে। মিথাইলডোপা গ্রহণকালীন যাদের ইডিমা অথবা ওজন বৃদ্ধির ইতিহাস আছে যা ডাইইউরেটিকস দ্বারা নিয়ন্ত্রিত হয়েছে। যাদের ক্ষেত্রে ইডিমা বর্ধনশীল অথবা হার্ট ফেইলিওরের উপসর্গ দেখা দেয় তাদের ক্ষেত্রে মিথাইলডোপা ব্যবহার করা ঠিক নয়। ডায়ালাইসিস করার পর রোগীদের কখনও কখনও উচ্চ রক্তচাপ হতে পারে কেননা মিথাইলডোপা প্রধানত এই প্রক্রিয়াতেই নিঃসৃত হয়। তীব্র বাইলেটারাল সেরিব্রোভাস্কুলার রোগের ক্ষেত্রে কখনও কখনও অনিয়ন্ত্রিত কোরিওএ্যাথেটোটিক মুভমেন্ট লক্ষ্য করা যায়। এসব ক্ষেত্রে মিথাইলডোপা বন্ধ করে দেয়া উচিত।
+## ENGLISH SECTION TEXT: special_populations
+Pediatric Use
+: There are no well-controlled clinical trials in pediatric patients. Information on dosing in pediatric patients is supported by evidence from published literature regarding the treatment of hypertension in pediatric patients.
+## BANGLA SECTION TEXT: special_populations
+শিশুদের ক্ষেত্রে
+: শিশুদের জন্য সেধরনের কোন সুনিয়ন্ত্রিত ক্লিনিক্যাল পরীক্ষা নেই। শিশুদের জন্য মাত্রা, উচ্চ রক্তচাপ নিয়ন্ত্রণের জন্য প্রকাশিত তথ্যের ভিত্তিতে নির্দেশিত।
+
+### drug=nifedipine
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+P07-199 | INTERACTS_WITH | β-blockers | - | interaction | "β-blockers"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P07-180 | INTERACTS_WITH | beta-blockers | - | interaction | "বিটা-ব্লকার্স (β-blockers)"
+## ENGLISH SECTION TEXT: interaction
+ACE inhibitors: Enhanced hypotensive effect.
+Anti-arrythmics: Plasma concentration of quinidine is reduced.
+Anti-bacterials: Rifampicin possibly increases metabolism of Nifedipine.
+Anti-epileptics: Plasma concentration of phenytoin increases.
+Antipsychotics: Enhanced hypotensive effect.
+β-blockers: Occasionally severe hypotension and heart failure may occur.
+Cyclosporin: Plasma concentration of Nifedipine possibly increases.
+Muscle relaxants: Effect of muscle relaxants e.g. tubocurarine increases.
+Antiulcerants: Metabolism of Nifedipine increased.
+## BANGLA SECTION TEXT: interaction
+অন্যান্য কিছু ঔষধের সাথে এটি সেবন করলে বিক্রিয়া হতে পারে:
+ACE ইনহিবিটরস: রক্তচাপ অতিরিক্ত কমিয়ে দিতে পারে।
+অ্যান্টি-অ্যারিথমিকস: কুইনিডিন-এর কার্যকারিতা কমিয়ে দিতে পারে।
+অ্যান্টি-ব্যাকটেরিয়াল: রিফাম্পিসিন সম্ভবত নিফেডিপিনের বিপাক বাড়িয়ে দেয়।
+অ্যান্টি-এপিলিপটিক্স (মৃগীরোগের ঔষধ): ফেনাইটোইন-এর মাত্রা বাড়িয়ে দিতে পারে।
+অ্যান্টিসাইকোটিকস: রক্তচাপ অতিরিক্ত কমিয়ে দিতে পারে।
+বিটা-ব্লকার্স (β-blockers): মাঝেমধ্যে মারাত্মক নিম্ন রক্তচাপ এবং হার্ট ফেইলিউর হতে পারে।
+সাইক্লোস্পোরিন: নিফেডিপিনের কার্যকারিতা বাড়িয়ে দিতে পারে।
+পেশী শিথিলকারী ঔষধ: যেমন টিউবোকুরারিন এর কার্যকারিতা বৃদ্ধি পায়।
+অ্যান্টিআলসারেন্টস (আলসারের ঔষধ): নিফেডিপিনের বিপাক বৃদ্ধি পেতে পারে।
+
+### drug=10-vitamin-6-mineral-pregnancy-and-breast-feeding-formula
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+(none)
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P07-163 | USE_IN | neural tube defect | caution | precautions | "আপনার যদি নিউরাল টিউব ডিফেক্ট যুক্ত সন্তান হয়ে থাকে তবে চিকিৎসকের পরামর্শ গ্রহণ করুন"
+## ENGLISH SECTION TEXT: precautions
+To be dispensed only on the prescription of a registered physician. Store below 30°C and dry place, protect from light. Keep out of reach of children.
+## BANGLA SECTION TEXT: precautions
+ফলিক এসিড এর উল্লিখিত মাত্রা অতিক্রম করবেন না। আপনার যদি নিউরাল টিউব ডিফেক্ট যুক্ত সন্তান হয়ে থাকে তবে চিকিৎসকের পরামর্শ গ্রহণ করুন।
+
+### drug=phenytoin-sodium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+(none)
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P07-330 | USE_IN | insulin users | caution | precautions | "এই ক্ষেত্রে ইনসুলিন ব্যবহারকারী রোগীদের সতর্কতার সহিত ফেনিটোইন ব্যবহার করা উচিত"
+P07-328 | USE_IN | skin rashes | avoid | precautions | "চামড়ায় ফুসকুড়ি হলে মাত্রা কমানো উচিত"
+## ENGLISH SECTION TEXT: precautions
+In prolonged treatment periodic checking of the blood is advisable. Dose should be discontinued if skin rashes appears. Hyperglycemia resulting from the drug inhibitory effects on insulin release has been reported. It should be used with caution in pregnancy and in nursing mother.
+## BANGLA SECTION TEXT: precautions
+ফেনিটোইন দিয়ে দীর্ঘদিনের চিকিৎসার ক্ষেত্রে রক্তে ইহার মাত্রা মাঝে মাঝে পরীক্ষা করা উচিত। চামড়ায় ফুসকুড়ি হলে মাত্রা কমানো উচিত। ফেনিটোইনের ইনসুলিনের উপর ইনহিবিটরী ইফেক্টের দরুন রক্তে গ্লুকোজের পরিমান বৃদ্ধির রিপোর্ট পাওয়া গিয়েছে এই ক্ষেত্রে ইনসুলিন ব্যবহারকারী রোগীদের সতর্কতার সহিত ফেনিটোইন ব্যবহার করা উচিত। গর্ভবর্তী এবং দুগ্ধদানরত মায়েদের ক্ষেত্রে সাবধানতার সহিত ব্যবহার করা উচিত।
+

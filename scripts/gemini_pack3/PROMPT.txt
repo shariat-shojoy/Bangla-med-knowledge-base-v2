@@ -1,0 +1,14 @@
+You are aligning drug-safety claims from the English and Bangla versions of the same drug label (MedEx). Use ONLY the texts given; add no medical knowledge.
+For each drug block you get: (1) English claims with no Bangla match yet, (2) Bangla claims with no English match yet, (3) the English and Bangla section texts they came from.
+Claim line format: id | relation | object | strength | section | "evidence span".
+
+TASK A - for EVERY English claim in list (1): decide whether the Bangla claims in list (2) contain the same item (same condition/population/drug and the same relation), even if the wording or label differs.
+  - If yes, give that Bangla claim id.
+  - If no Bangla claim matches, look in the BANGLA SECTION TEXT. If the Bangla text does state this item, copy the EXACT Bangla words (copy-paste, no changes) into bn_evidence_span. If the Bangla text does not mention it, set bn_evidence_span to null.
+TASK B - for EVERY Bangla claim in list (2) that you did not match in task A: look in the ENGLISH SECTION TEXT. If the English states this item, copy the EXACT English words into en_evidence_span, else null.
+Do NOT judge strength or correctness; only whether the same item is stated.
+
+Output JSON Lines only, one object per line, no commentary, no code fences, saved with extension .jsonl:
+{"drug": "<slug>", "en_id": "<id or null>", "bn_id": "<id or null>", "bn_evidence_span": "<exact Bangla words or null>", "en_evidence_span": "<exact English words or null>", "confidence": "high|medium|low", "note": ""}
+Rules: every English claim id appears exactly once as en_id; every Bangla claim id not matched in task A appears exactly once as bn_id with en_id null. Different items must not be matched just because they are in the same sentence. If a Bangla claim could match two English claims, choose the closer one and say so in note.
+Check before you finish: the number of lines must be at least the number of English claims in the input.

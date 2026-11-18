@@ -1,0 +1,320 @@
+### drug=drospirenone-ethinyl-estradiol-002-mg
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-189 | INDICATED_FOR | moderate acne vulgaris | - | indications | "Treatment of moderate acne vulgaris"
+G04-193 | USE_IN | clotting of blood in the vein | avoid | contraindications | "clotting of blood in the vein"
+G04-195 | USE_IN | jaundice | avoid | contraindications | "jaundice"
+G04-197 | USE_IN | migraine | avoid | contraindications | "migraine"
+P04-109 | USE_IN | migraine | caution | precautions | "migraine"
+G04-198 | USE_IN | feel something hard in your breast | avoid | contraindications | "feel something hard in your breast"
+G04-199 | USE_IN | diabetes with vascular involvement | avoid | contraindications | "diabetes with vascular involvement"
+G04-200 | USE_IN | excessive bleeding for which no reason has yet been ascertai | avoid | contraindications | "excessive bleeding for which no reason has yet been ascertained"
+G04-201 | USE_IN | presence or a history of venous or arterial thromboembolic e | avoid | contraindications | "presence or a history of venous or arterial thromboembolic events"
+G04-206 | USE_IN | presence or history of liver tumours | avoid | contraindications | "Presence or history of liver tumours"
+G04-202 | USE_IN | history of migraine with focal neurological symptoms | avoid | contraindications | "History of migraine with focal neurological symptoms"
+G04-205 | USE_IN | acute renal failure | avoid | contraindications | "acute renal failure"
+P04-099 | CAUSES | menstrual irregularities | - | interaction | "menstrual irregularities"
+P04-104 | USE_IN | cerebrovascular injury | caution | precautions | "cerebrovascular injury"
+P04-105 | USE_IN | smoking | caution | precautions | "smoking"
+P04-106 | USE_IN | obesity | caution | precautions | "obesity"
+P04-108 | USE_IN | dyslipidemia | caution | precautions | "dyslipidemia"
+P04-110 | USE_IN | atrial fibrillation | caution | precautions | "atrial fibrillation"
+P04-112 | USE_IN | elderly | not recommended | special_populations | "This is not indicated after menopause"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P04-081 | USE_IN | cerebrovascular accident | caution | precautions | "সেরেব্রোভাস্কুলার অ্যাকসিডেন্ট"
+G04-226 | USE_IN | venous or arterial thromboembolic events | avoid | contraindications | "ধমনী বা শিরাতে থ্রম্বোইম্বোলিক ইভেন্ট"
+G04-215 | INDICATED_FOR | moderate acne | - | indications | "মাঝারি ধরনের ব্রণের চিকিৎসায়"
+G04-229 | USE_IN | liver tumor or history thereof | avoid | contraindications | "লিভার টিউমার বা এর ইতিহাস"
+G04-222 | USE_IN | severe headache | avoid | contraindications | "তীব্র মাথা ব্যথা"
+G04-224 | USE_IN | diabetes with vascular complication | avoid | contraindications | "ডায়াবেটিস এর সাথে ধমনীর জটিলতা"
+P04-083 | USE_IN | postmenopause | not recommended | special_populations | "এই ট্যাবলেট ম্যানোপজের পর নির্দেশিত নয়"
+G04-223 | USE_IN | lump in breast | avoid | contraindications | "স্তনের ভেতর গোটা বা শক্ত কিছু অনুভব করা"
+G04-225 | USE_IN | unexplained excessive bleeding | avoid | contraindications | "অত্যধিক রক্তস্রাব যার কারণ নির্ণয় হয়নি"
+G04-219 | USE_IN | vein blood clotting disease | avoid | contraindications | "ধমনীতে রক্ত জমাট বাঁধা রোগ"
+## ENGLISH SECTION TEXT: contraindications
+This tablet should not be used:
+Known or suspected pregnancy
+If you have heart disease, clotting of blood in the vein
+If you suffer from liver disease or jaundice
+If you suffer from high blood pressure, migraine, feel something hard in your breast, diabetes with vascular involvement, experience excessive bleeding for which no reason has yet been ascertained
+The presence or a history of venous or arterial thromboembolic events (e.g. deep venous thrombosis, pulmonary embolism, myocardial infarction or of a cerebrovascular accident)
+History of migraine with focal neurological symptoms
+Pancreatitis or a history thereof if associated with severe hypertriglyceridaemia
+Severe renal insufficiency or acute renal failure
+Presence or history of liver tumours (benign or malignant)
+Undiagnosed vagina! bleeding
+Hypersensitivity to any of the components of this preparation.
+## BANGLA SECTION TEXT: contraindications
+এই ট্যাবলেট ব্যাবহার করা উচিত নয়:
+জানা অথবা সম্ভাব্য গর্ভাবস্থা
+যদি আপনার হৃদরোগ, ধমনীতে রক্ত জমাট বাঁধা রোগ থাকে
+যদি আপনি লিভারের কোন অসুখ অথবা জন্ডিসে আক্রান্ত হয়ে থাকেন
+যদি আপনি উচ্চ রক্তচাপ, তীব্র মাথা ব্যথা, স্তনের ভেতর গোটা বা শক্ত কিছু অনুভব করা, ডায়াবেটিস এর সাথে ধমনীর জটিলতা, অত্যধিক রক্তস্রাব যার কারণ নির্ণয় হয়নি এসব অসুবিধা প্রত্যক্ষ করেন
+যদি আপনার ধমনী বা শিরাতে থ্রম্বোইম্বোলিক ইভেন্ট (যেমন- ডীপ ভেনাস থ্রম্বোসিস, পালমোনারী ইম্বোলিজম, মায়োকার্ডিয়াল ইনফ্রাকশন এবং সেরেব্রোভাস্কুলার অ্যাকসিডেন্ট) থাকে
+যদি আপনার প্যানক্রিয়াটাইটিস বা হাইপার ট্রাইগ্লিসারেডেমিয়া এর ইতিহাস থাকে
+রেনাল ইনসাফিসিয়েন্সি বা অ্যাকিউট রেনাল ফেইলিওর এর ক্ষেত্রে
+যদি আপনার লিভার টিউমার বা এর ইতিহাস থাকে
+যোনীপথে অনির্ণেয় রক্তক্ষরণ
+এই ট্যাবলেট এর যে কোন উপাদানের প্রতি অতি সংবেদনশীলতা
+## ENGLISH SECTION TEXT: indications
+This combination tablet is indicated for:
+As an oral contraceptive
+Treatment of moderate acne vulgaris
+Treatment of premenstrual dysphoric disorder (PMDD)
+## BANGLA SECTION TEXT: indications
+এই ট্যাবলেটি নিম্নোক্ত উপসর্গে নির্দেশিত-
+গর্ভনিরোধক হিসেবে
+মাঝারি ধরনের ব্রণের চিকিৎসায় এবং
+প্রিমিন্সট্রুয়াল ডিসফোরিক ডিসঅর্ডার এর চিকিৎসায়
+## ENGLISH SECTION TEXT: interaction
+Interactions between ethinylestradiol and other drugs may lead to decreased or increased ethinylestradiol concentrations, respectively. Decreased ethinylestradiol serum concentrations may cause an increased incidence of breakthrough bleeding and menstrual irregularities and may possibly reduce efficacy of the oral contraceptive. Example of substances that may decrease serum ethinylestradiol concentrations include rifampicin, phenytoin, primidone, rifabutin, dexamethasone, griseofulvin, topiramate, some protease inhibitors, modafinil, ritonavir and barbiturates. Certain antibiotics including ampicillin, other penicillins and tetracyclines may reduce the efficacy of oral contraceptives. During concomitant use of this tablet & other drugs that may lead to decreased ethinylestradiol serum concentrations, it is recommended that a non hormonal back-up method of contraception to be used in addition to the regular intake of this tablet.
+## BANGLA SECTION TEXT: interaction
+ইথিনাইলইস্ট্রাডিওল এর সাথে অন্যান্য ড্রাগ এর ইন্টারঅ্যাকশান সেরাম এ ইথিনাইলইস্টাডিওল এর পরিমাণ কমিয়ে অথবা বাড়িয়ে দিতে পারে। সেরাম এ ইথিনাইলইন্ট্রাডিওল এর পরিমাণ কমে গেলে মাসিকের সমস্যা হবার প্রবণতা অনেক বেড়ে যাবে এবং এতে করে জন্মনিয়ন্ত্রণ পিলের কার্যকারিতা কমে যেতে পারে। যেসব ড্রাগ সেরাম এ ইথিনাইলইস্ট্রাডিওল এর পরিমাণ কমিয়ে দিতে পারে তাদের মধ্যে আছে- রিফাম্পিসিন, ফিনাইটয়েন, প্রিমিডন, রিফাবিউটিন, ডেক্সামিথাসন, গ্রাইসিওফালভিন, টপিরামেট, কিছু প্রটিয়েস ইনহিবিটর, মোডাফিনিল, রিটনাভির এবং বারবিচুরেটস। কিছু অ্যান্টিবায়োটিক যেমন অ্যাম্পিসিলিন, অন্যান্য পেনিসিলিন এবং টেট্রাসাইক্লিন জন্মনিয়ন্ত্রণ ট্যাবলেট এর কার্যকারিতা কমিয়ে দিতে পারে। এই ট্যাবলেট এবং অন্যান্য ড্রাগ এর (যা সেরাম এ ইথিনাইলইস্ট্রাডিওল এর পরিমাণ কমিয়ে দিতে পারে) একসাথে ব্যাবহার এর ক্ষেত্রে এই ট্যাবলেট এর নিয়মিত গ্রহণের সাথে সাথে ব্যাক-আপ হিসেবে নন-হরমোনাল জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করতে নির্দেশ দেয়া হয়।
+## ENGLISH SECTION TEXT: precautions
+If any circulatory disorder (like- myocardial infarction, deep venous thrombosis, pulmonary embolism, cerebrovascular injury etc) or other risk factors(like smoking, obesity, hypertension, dyslipidemia, migraine, atrial fibrillation etc) are present, the benefits of COC use should be weighed against the possible risks for each individual woman and discussed with the woman before she decides to start using it. In the event of aggravation, exacerbation or first appearance of any of these conditions or risk factors after taking pill, the woman should contact with her physician. The physician should then decide on whether its use should be discontinued.
+## BANGLA SECTION TEXT: precautions
+যদি কোন মহিলার সারকুলেটরী ডিজঅর্ডার (যেমন- মায়োকার্ডিয়াল ইনফ্রাকশন, ডীপ ভেনাস থ্রম্বোসিস, পালমোনারী ইম্বোলিজম এবং সেরেব্রোভাস্কুলার অ্যাকসিডেন্ট) বা অন্যান্য রিস্ক ফ্যাক্টর উপস্থিত থাকে তাহলে তার ক্ষেত্রে কম্বাইন্ড পিল এর উপকারিতা ও ক্ষতির সম্ভাবনা বিবেচনা করে পিল শুরুর পূর্বেই তাকে জানানো উচিৎ। পিল গ্রহণের পর যদি সারকুলেটরী ডিজঅর্ডার বা অন্যান্য রিস্ক ফ্যাক্টর এর অবস্থা আরও খারাপ হয় তাহলে তাৎক্ষণিকভাবে ডাক্তার এর সাথে যোগাযোগ করতে হবে। এরপর পিল গ্রহণ বন্ধ হবে কিনা তা ডাক্তার সিদ্ধান্ত নিবে।
+## ENGLISH SECTION TEXT: special_populations
+Pediatric Use: This is only indicated after menarche. There is no data suggesting the need for a dosage adjustment.
+Use in the Elderly: This is not indicated after menopause.
+## BANGLA SECTION TEXT: special_populations
+বাচ্চাদের ক্ষেত্রে ব্যবহার
+: এই ট্যাবলেট শুধুমাত্র মাসিকের পর নির্দেশিত। মাত্রা সমন্বয়ের জন্য কোন ডাটা প্রস্তাবিত হয়নি।
+বরস্কাদের ক্ষেত্রে ব্যবহার
+: এই ট্যাবলেট ম্যানোপজের পর নির্দেশিত নয়।
+
+### drug=dydrogesterone
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-242 | INDICATED_FOR | irregular cycles | - | indications | "Treatment of irregular cycles"
+G04-245 | INDICATED_FOR | luteal support as part of an assisted reproductive technolog | - | indications | "Luteal support as part of an Assisted Reproductive Technology (ART)"
+G04-246 | INDICATED_FOR | to counteract the effects of unopposed oestrogen on the endo | - | indications | "To counteract the effects of unopposed oestrogen on the endometrium in hormone replacement therapy"
+G04-247 | USE_IN | hypersensitivity to the active substance or to any of the ex | contraindicated | contraindications | "Hypersensitivity to the active substance or to any of the excipients"
+G04-252 | USE_IN | cerebrovascular or coronary artery disease, or a past histor | contraindicated | contraindications | "Cerebrovascular or coronary artery disease, or a past history of these conditions"
+P04-133 | USE_IN | history of liver disease | caution | precautions | "history of liver disease"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G04-272 | INDICATED_FOR | luteal support in ART | - | indications | "অ্যাসিস্টেন্ড রিপ্রোডাক্টিভ টেকনোলজির (এআরটি) অংশ হিসেবে লুটিয়াল সাপোর্টের জন্য"
+G04-274 | INDICATED_FOR | counteract estrogen effect in endometrium in HRT | - | indications | "হরমোন রিপ্লেসমেন্ট থেরাপিতে এন্ডোমেট্রিয়ামে ইস্ট্রোজেনের প্রভাব প্রতিহত করতে"
+G04-275 | USE_IN | hypersensitivity to active or excipient ingredients | contraindicated | contraindications | "কোন মূল উপাদান বা আনুসঙ্গিক উপাদানের প্রতি অতি সংবেদনশীলতা"
+G04-280 | USE_IN | cerebrovascular or coronary artery disease | contraindicated | contraindications | "সেরিব্রোভাসকুলার বা করোনারি ধমনী রোগ"
+G04-271 | INDICATED_FOR | irregular menstrual cycles | - | indications | "অনিয়মিত মাসিক চক্র"
+## ENGLISH SECTION TEXT: contraindications
+Hypersensitivity to the active substance or to any of the excipients
+Known or suspected progestogen dependent neoplasms
+Undiagnosed vaginal bleeding
+If used to prevent endometrial hyperplasia (in women using estrogens)
+Thrombophlebitis or thromboembolic disorders.
+Cerebrovascular or coronary artery disease, or a past history of these conditions.
+Hepatic disease or dysfunction, a history of cholestatic jaundice or pruritus of pregnancy and in Dubin-Johnson syndrome and Rotor syndrome.
+History of herpes in pregnancy.
+Sickle cell anaemia.
+Benign or malignant liver tumours which develop during the use of oral contraceptives
+## BANGLA SECTION TEXT: contraindications
+কোন মূল উপাদান বা আনুসঙ্গিক উপাদানের প্রতি অতি সংবেদনশীলতা
+যোনিপথে রক্তপাত যা নির্ণয় করা হয়নি
+প্রোজেস্টোজেন নির্ভর নিওপ্লাজম হয়েছে বা হওয়ার ব্যাপারে সন্দেহ রয়েছে এমন রোগী
+এন্ডোমেট্রিয়াল হাইপারপ্লাসিয়া প্রতিরোধ করতে ব্যবহৃত হয় (ইস্ট্রোজেন ব্যবহার করে এমন মহিলাদের (ক্ষত্রে) থ্রম্বোফ্লেবাইটিস বা থ্রম্বো এম্বোলিক ডিসঅর্ডার
+সেরিব্রোভাসকুলার বা করোনারি ধমনী রোগ, বা এই অবস্থা অতীতে হয়েছে এমন রোগী
+হেপাটিক রোগ বা ডিসফাংশন, কোলেস্ট্যাটিক জন্ডিস বা গর্ভাবস্থার ধ্রুরিটাস এবং ডুবিন-জনসন সিন্ড্রোম
+এবং রটর সিনড্রোমের রোগীদের ক্ষেত্রে
+গর্ভাবস্থায় হারপিস হয়েছে এমন রোগীদের
+সিকেল সেল অ্যানিমিয়া
+বিনাইন বা ম্যালিগন্যান্ট লিডার টিউমার যা ওরাল গর্ভনিরোধক ব্যবহারের সময় হয়ে থাকে
+## ENGLISH SECTION TEXT: indications
+Dydrogesterone tablet is indicated in-
+Progesterone deficiencies
+:
+Treatment of threatened miscarriage
+Treatment of habitual miscarriage
+Treatment of dysmenorrhoea
+Treatment of endometriosis
+Treatment of secondary amenorrhoea
+Treatment of irregular cycles
+Treatment of dysfunctional uterine bleeding
+Treatment of infertility due to luteal insufficiency
+Luteal support as part of an Assisted Reproductive Technology (ART)
+Hormone Replacement Therapy
+: To counteract the effects of unopposed oestrogen on the endometrium in hormone replacement therapy for women with disorders due to natural or surgical induced menopause with an intact uterus.
+## BANGLA SECTION TEXT: indications
+প্রোজেস্টেরনের ঘাটতির চিকিৎসা
+ডাইড্রোজেস্টেরন নিরর্দেশিত, যেমন:
+থ্রেটেন্ড গর্ভপাত
+হ্যাবিচুয়াল গর্ভপাত
+ডিসমেনোরিয়া (মাসিকের সময় প্রচন্ড ব্যথা)
+এন্ডোমেট্রিওসিস
+অকার্যকর জরায়ু রক্তপাত (ডিইউবি)
+সেকেন্ডারি এমেনোরিয়া (ঋতুস্রাব বন্ধ হওয়া)
+অনিয়মিত মাসিক চক্র
+অ্যাসিস্টেন্ড রিপ্রোডাক্টিভ টেকনোলজির (এআরটি) অংশ হিসেবে লুটিয়াল সাপোর্টের জন্য
+লুটিয়াল অপর্যাপ্ততার কারণে বন্ধ্যাত্ম
+: হরমোন রিপ্লেসমেন্ট থেরাপী (এইচআরটি): অক্ষত জরায়ুতে প্রাকৃতিকভাবে বা অস্ত্রোপচার দ্বারা মেনোপজ হয়েছে এমন মহিলাদের জন্য হরমোন রিপ্লেসমেন্ট থেরাপিতে এন্ডোমেট্রিয়ামে ইস্ট্রোজেনের প্রভাব প্রতিহত করতে ব্যবহার করা হয়।
+## ENGLISH SECTION TEXT: precautions
+Before initiating dydrogesterone treatment for abnormal bleeding the etiology for the bleeding should be clarified. Breakthrough bleeding and spotting may occur during the first months of treatment. If breakthrough bleeding or spotting appears after some time on therapy, or continues after treatment has been discontinued, the reason should be investigated, which may include endometrial biopsy to exclude endometrial malignancy.
+If one of the following disorders occurs during use for the first time or gets worse, stopping the treatment should be considered.
+Severe headache, migraine or symptoms that may indicate cerebral ischemia.
+Marked increase in blood pressure.
+Occurrence of venous thromboembolism (VTE)
+In cases of habitual or threatened abortion, the viability of the fetus should be ascertained. It is also necessary to monitor during treatment whether the pregnancy is still progressing and whether the embryo is still alive. Treatment with dydrogesterone has infrequently been associated with alterations in liver function, sometimes accompanied by clinical symptoms. Thus, dydrogesterone should be used with caution in patients with acute liver disease or a history of liver disease as long as liver function tests have failed to return to normal. In cases of severe hepatic impairment treatment should be discontinued.
+Patients with a history of depression must be carefully monitored; if severe depression recurs, treatment with dydrogesterone must be stopped.
+## BANGLA SECTION TEXT: precautions
+অস্বাভাবিক রক্তপাতের জন্য ডাইড্রোজেস্টেরন দিয়ে চিকিৎসা শুরু করার আগে রক্তপাতের কারণ চিহ্নিত করা উচিত। যদি থেরাপির কিছু সময় পরে ব্রেকথ্রু রক্তপাত অথবা ছোপ ছোপ দেখা দেয়, বা চিকিৎসা বন্ধ হওয়ার পরেও চলতে থাকে, তাহলে কারণটি খুঁজে বের করা উচিত, যার মধ্যে এন্ডোমেট্রিয়াল ম্যালিগন্যান্সি বাদ দিতে এন্ডোমেট্রিয়াল বায়োপসি করা যেতে পারে।
+যদি নিম্নলিখিত সমস্যাগুলির মধ্যে যে কোন একটি প্রথমবার ব্যবহার করার সময় ঘটে বা অবস্থা খারাপ হয়ে যায়, তাহলে চিকিৎসা নেওয়া বিরত রাখতে হবে।
+রক্তচাপ বৃদ্ধি চিহ্নিত
+গুরুতর মাথাব্যথা, মাইগ্রেন বা লক্ষণ যা সেরিব্রাল ইস্কেমিয়া নির্দেশ করতে পারে।
+শিরাস্থ থ্রম্বো এম্বোলিজমের ঘটনা (ভিটিই)
+হ্যাবিচুয়াল বা থ্রেটেড গর্ভপাতের ক্ষেত্রে, ভ্রূণের জীবনীশক্তি নিশ্চিত করা উচিত। গর্ভাবস্থা বজায় রয়েছে কিনা এবং ভ্রূণ বেঁচে আছে কিনা তা চিকিৎসার সময় পর্যবেক্ষণ করাও প্রয়োজন। ডাইড্রোজেস্টেরন দ্বারা চিকিৎসা মাঝে মাঝে লিভারের কার্যকারিতা পরিবর্তন করতে পারে, কখনও কখনও যা ক্লিনিক্যাল লক্ষণ প্রদর্শন করে। তাই লিভারের অসুখ রয়েছে বা লিভারের অসুখ ছিল এমন রোগীদের লিভার ফাংশন পরীক্ষাগুলি স্বাভাবিক অবস্থায় ফিরে না আসা পর্যন্ত ডাইড্রোজেস্টেরন সতর্কতার সঙ্গে ব্যবহার করা উচিত। গুরুতর হেপাটিক বৈকল্যের রোগীদের ক্ষেত্রে চিকিৎসা বন্ধ করা উচিত।
+বিষন্নতায় আক্রান্ত রোগীদের অবশ্যই সাবধানে পর্যবেক্ষণ করা উচিত: যদি গুরুতর বিষন্নতার পুনরাবৃত্তি হয়, তবে ডাইড্রোজেস্টেরন দিয়ে চিকিৎসা বন্ধ করতে হবে।
+
+### drug=enoxaparin-sodium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-309 | INDICATED_FOR | venous thromboembolic disease in medical patients bedridden  | - | indications | "Prophylaxis of venous thromboembolic disease in medical patients bedridden due to acute illness"
+G04-311 | USE_IN | active major bleeding | contraindicated | contraindications | "active major bleeding"
+G04-312 | USE_IN | conditions with high risk of uncontrolled hemorrhage | contraindicated | contraindications | "conditions with a high risk of uncontrolled hemorrhage including recent hemorrhagic stroke."
+G04-314 | TRANSFERS_TO | placental barrier | - | pregnancy_lactation | "no evidence that Enoxaparin Sodium crosses the placental barrier."
+G04-316 | USE_IN | pregnant women with mechanical prosthetic heart valves | caution | pregnancy_lactation | "Pregnant women with mechanical prosthetic heart valves may be at a higher risk for thromboembolism."
+P04-205 | INTERACTS_WITH | agents which affect hemostasis | avoid | interaction | "agents which affect hemostasis should be discontinued prior to Enoxaparin Sodium therapy"
+P04-208 | INTERACTS_WITH | ketorolac | avoid | interaction | "ketorolac"
+P04-209 | INTERACTS_WITH | ticlopidine | avoid | interaction | "ticlopidine"
+P04-210 | INTERACTS_WITH | clopidogrel | avoid | interaction | "clopidogrel"
+P04-211 | INTERACTS_WITH | dextran 40 | avoid | interaction | "dextran 40"
+P04-212 | INTERACTS_WITH | glucocorticoids | avoid | interaction | "glucocorticoids"
+P04-213 | INTERACTS_WITH | thrombolytics | avoid | interaction | "thrombolytics"
+P04-215 | INTERACTS_WITH | antiplatelet aggregation agents | avoid | interaction | "antiplatelet aggregation agents"
+P04-216 | INTERACTS_WITH | glycoprotein IIb/IIIa antagonists | avoid | interaction | "glycoprotein llb/llla antagonists"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P04-201 | INTERACTS_WITH | sulfinpyrazone | avoid | interaction | "সালফিনপাইরাজোন"
+P04-199 | INTERACTS_WITH | ketorolac tromethamine | avoid | interaction | "কিটোরোলাক ট্রোমিথামিনসহ"
+G04-327 | USE_IN | biological condition causing bleeding | contraindicated | contraindications | "জৈবিক সমস্যা যা রক্তপাত ঘটাতে পারে"
+P04-202 | USE_IN | children | no data | special_populations | "শিশুদের ক্ষেত্রে এনোক্সাপ্যারিনের সহনীয়তা এবং কার্যকারিতা সুপ্রতিষ্ঠিত নয়"
+G04-329 | CAUSES | cutaneous or systemic allergic reaction | - | contraindications | "কিউটোনিয়াস বা সিসটেমিক অ্যালর্জি বিক্রিয়া হতে পারে।"
+G04-323 | INDICATED_FOR | bedridden acute ill patients | - | indications | "বিছানায় শায়িত তীব্র অসুস্থ রোগীদের ক্ষেত্রে"
+P04-197 | INTERACTS_WITH | salicylates | avoid | interaction | "সেলিসাইলেটস"
+P04-200 | INTERACTS_WITH | dipyridamole | avoid | interaction | "ডাইপাইরিডামল"
+G04-328 | USE_IN | hemorrhagic stroke | contraindicated | contraindications | "মস্তিষ্কে রক্তরণজনিত স্ট্রোক"
+P04-195 | INTERACTS_WITH | platelet inhibitors | avoid | interaction | "পাটিলেট ইনহিবিটর"
+G04-326 | USE_IN | active peptic ulcer | contraindicated | contraindications | "সক্রিয় পাকতান্ত্রিক আলসার"
+G04-325 | USE_IN | major clotting disorder | contraindicated | contraindications | "মেজর কটিং ডিসওর্ডার"
+## ENGLISH SECTION TEXT: contraindications
+Patients with known hypersensitivity to Enoxaparin Sodium, heparin or other low molecular weight heparins. Patients with active major bleeding and conditions with a high risk of uncontrolled hemorrhage including recent hemorrhagic stroke.
+## BANGLA SECTION TEXT: contraindications
+ইনোক্সাপারিন সোডিয়াম, হেপারিন অথবা অন্যান্য স্বল্প আনাবিক ওজন বিশিষ্ট হেপারিনের প্রতি অতি সংবেদনশীলতা। মেজর কটিং ডিসওর্ডার যেমন- থ্রোম্বোসাইটোপেনিয়ার ইতিহাস, সক্রিয় পাকতান্ত্রিক আলসার অথবা জৈবিক সমস্যা যা রক্তপাত ঘটাতে পারে, মস্তিষ্কে রক্তরণজনিত স্ট্রোক। বিরল ক্ষেত্রে, কিউটোনিয়াস বা সিসটেমিক অ্যালর্জি বিক্রিয়া হতে পারে।
+## ENGLISH SECTION TEXT: indications
+Enoxaparin is indicated in:
+Treatment of deep vein thrombosis, with or without pulmonary embolism.
+Treatment of unstable angina and non-Q-wave myocardial infarction, administered concurrently with aspirin.
+Prevention of thrombus formation in the extra-corporal circulation during haemodialysis.
+Prophylaxis of venous thromboembolic disease (prevention of blood clot formation in the veins), in particular those which may be associated with orthopedic or general surgery.
+Prophylaxis of venous thromboembolic disease in medical patients bedridden due to acute illness, including cardiac insufficiency, respiratory failure, severe infections, rheumatic diseases.
+## BANGLA SECTION TEXT: indications
+ইনোক্সাপারিন সোডিয়াম নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+পালমোনারী এমবোলিজম সহ অথবা ব্যতীত গভীর শিরার থ্রোম্বোসিসের চিকিৎসায়।
+আনস্টেবল এনজাইনা এবং ননকিউওয়েভ মায়োকার্ডিয়াল ইনফার্কশানের চিকিৎসায় এসপিরিনের সাথে একত্রে।
+হেমোডায়ালাইসিস এর সময় এক্সট্রা করপোরাল সঞ্চালনে রক্ত জমাট বাধার প্রতিরোধে।
+শিরার থ্রোম্বোএম্বালিক রোগ প্রতিরোধে (শিরায় রক্ত জমাট বাধা প্রতিরোধে) বিশেষভাবে অর্থোপেডিক বা সাধারণ সার্জারীর ক্ষেত্রে।
+শিরার থ্রোম্বোএম্বালিক রোগ প্রতিরোধে বিছানায় শায়িত তীব্র অসুস্থ রোগীদের ক্ষেত্রে যেমন কার্ডিয়াক ইনসাফিসিয়েন্সি, শ্বসণতন্ত্রের ব্যর্থতায়, মারাত্মক সংক্রমণে, রিউমাটিক রোগে।
+## ENGLISH SECTION TEXT: interaction
+It is recommended that agents which affect hemostasis should be discontinued prior to Enoxaparin Sodium therapy unless strictly indicated. These agents include medications such as: acetylsalicylic acid (and derivatives), NSAIDs (including ketorolac), ticlopidine,clopidogrel,dextran 40,glucocorticoids, thrombolytics and anticoagulants, other antiplatelet aggregation agents including glycoprotein llb/llla antagonists. If the combination is indicated, should be used with careful clinical and laboratory monitoring.
+## BANGLA SECTION TEXT: interaction
+যে সমস্ত উপাদান রক্তরণের ঝুঁকি বৃদ্ধি করে ইনোক্সাপারিন সোডিয়াম ইঞ্জেকশন ব্যবহারের পূর্বে সেগুলো বন্ধ করা উচিত, যদি না সেগুলো অপরিহার্য হয়। এ সমস্ত ওষুধগুলো হচ্ছে, এন্টিকোয়াগুলেন্ট, পাটিলেট ইনহিবিটর যেমন- এসিটাইল সেলিসাইলিক এসিড, সেলিসাইলেটস, এনএসআইডি সমূহ (কিটোরোলাক ট্রোমিথামিনসহ), ডাইপাইরিডামল অথবা সালফিনপাইরাজোন। যদি একত্রে ব্যবহার আবশ্যিক হয় তবে রোগীদের ক্লিনিক্যাল এবং ল্যাবরেটরী অনুসন্ধানের মাঝে রাখতে হবে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy category B. In humans, there is no evidence that Enoxaparin Sodium crosses the placental barrier. As there are no adequate and well-controlled studies in pregnant women, Enoxaparin Sodium should be used during pregnancy only if clearly needed. Pregnant women with mechanical prosthetic heart valves may be at a higher risk for thromboembolism.
+It is not known whether Enoxaparin is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or discontinue Enoxaparin, taking into account the importance of Enoxaparin to the mother and the known benefits of nursing.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রেগন্যান্সী ক্যাটেগরী বি। মাতৃদুগ্ধে এনোক্সাপ্যারিন নিঃসৃত হয় কিনা তা জানা যায়নি।
+## ENGLISH SECTION TEXT: special_populations
+Dose in Elderly Patients
+: No dosage adjustment is necessary, unless kidney function is impaired.
+Dose in Renal Impairment
+: Although no dosage adjustment is recommended in patients with moderate (creatinine clearance: 30-50 ml/min) and mild (creatinine clearance: 50 80 ml/min) renal impairment, all such patients should be observed carefully for signs and symptoms of bleeding. For patients with severe (creatinine clearance <30 ml/min) renal impairment, following dosage adjustments are recommended: Prophylactic dose ranges: 2000 antiXa IU once daily; Therapeutic dose ranges: 100 anti-Xa lU/kg once daily.
+Dose in Hepatic Impairment
+: Caution should be used in hepatically impaired patients.
+## BANGLA SECTION TEXT: special_populations
+বয়ষ্কদের ক্ষেত্রে
+: মাত্রা সংশোধনের প্রয়োজন নেই, যদি না বৃক্কের অসমকার্যকারিতা বিদ্যমান থাকে। শিশুদের ক্ষেত্রে: শিশুদের ক্ষেত্রে এনোক্সাপ্যারিনের সহনীয়তা এবং কার্যকারিতা সুপ্রতিষ্ঠিত নয়।
+বৃক্কের অসমকার্যকারিতা ক্ষেত্রে
+: মাঝারী (ক্রিয়েটিনিন ক্লিয়ারেন্স ৩০-৫০ মি.লি./ মি.) এবং মৃদু (ক্রিয়াটিনিন ক্লিয়ারেন্স ৫০-৮০ মি.লি./মি.) বৃক্কের অসমকার্যকারিতায় কোন প্রকার মাত্রা সংশোধনের প্রয়োজন নাই। কিন্তু এ ধরনের রোগীদের রক্তপাতের লক্ষণ ও উপসর্গ চিহ্নিত করার জন্য সাবধানতার সাথে পর্যবেক্ষণ করতে হবে। মারাত্মক (ক্রিয়েটিনিন ক্লিয়ারেন্স ৩০ মি.লি./মি.) বৃক্কের অসমকার্যকারিতায় সংশোধিত প্রতিষেধক মাত্রা ২০০ আই ইউ দিনে এক বার এবং থেরাপিউটিক মাত্রা ১০০ আই ইউ / কে. জি. দিনে এক বার।
+যকৃতের অসমকার্যকারিতা ক্ষেত্রে
+: যকৃতের অসমকার্যকারিতা রগীদের ক্ষেত্রে সাবধানতা অবলম্বন করা উচিত।
+
+### drug=erythromycin-oral
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-348 | INDICATED_FOR | laryngitis | - | indications | "laryngitis"
+G04-350 | INDICATED_FOR | secondary infections in colds and influenza | - | indications | "Secondary infections in colds and influenza"
+G04-351 | INDICATED_FOR | tracheitis | - | indications | "Tracheitis"
+G04-359 | INDICATED_FOR | impetigo | - | indications | "impetigo"
+G04-360 | INDICATED_FOR | abscesses | - | indications | "abscesses"
+G04-361 | INDICATED_FOR | pustular acne | - | indications | "pustular acne"
+G04-362 | INDICATED_FOR | paromychia | - | indications | "paromychia"
+G04-365 | INDICATED_FOR | cholecystitis | - | indications | "Cholecystitis"
+G04-366 | INDICATED_FOR | staphylococcal enterocolitis | - | indications | "staphylococcal enterocolitis"
+G04-367 | INDICATED_FOR | pre and post-operative | - | indications | "Pre and post-operative"
+G04-368 | INDICATED_FOR | trauma | - | indications | "trauma"
+G04-369 | INDICATED_FOR | burns | - | indications | "burns"
+G04-370 | INDICATED_FOR | rheumatic fever | - | indications | "rheumatic fever"
+G04-375 | USE_IN | hypersensitivity to Erythromycin | contraindicated | contraindications | "Known hypersensitivity to Erythromycin."
+G04-376 | CAUSES | teratogenicity or toxicity | - | pregnancy_lactation | "no evidence in human of teratogenicity or toxicity."
+P04-267 | CAUSES | theophylline toxicity | - | interaction | "potential theophylline toxicity"
+P04-268 | USE_IN | impaired hepatic function | caution | precautions | "Erythromycin should be given with care in patients with impaired hepatic function"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P04-265 | USE_IN | hepatic impairment | caution | precautions | "যকৃতের অকার্যকারিতায় ইহা সতর্কতায় সহিত প্রয়োগ করা উচিত"
+G04-389 | INDICATED_FOR | bronchiectasis | - | indications | "ব্রঙ্কিয়েকটোসিস্"
+G04-388 | INDICATED_FOR | lobar pneumonia | - | indications | "লোবার নিউমোনিয়া"
+G04-387 | INDICATED_FOR | bronchopneumonia | - | indications | "ব্রস্কোনিউমোনিয়া"
+G04-383 | INDICATED_FOR | colds and influenza | - | indications | "ঠান্ডা ও ইনফ্লুয়েঞ্জায়"
+P04-264 | INTERACTS_WITH | ergotamine | - | interaction | "আরগোটামিন"
+P04-261 | INTERACTS_WITH | carbamazepine | - | interaction | "কার্বামাজেপিন"
+G04-403 | USE_IN | hypersensitivity to any ingredient | contraindicated | contraindications | "যাদের ক্ষেত্রে এই প্রিপাবেশনের কোন উপাদানের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে ইরাইথ্রোমাইসিনের ব্যবহার নিষিদ্ধ।"
+P04-262 | INTERACTS_WITH | digoxin | - | interaction | "ডিগক্সিন"
+G04-399 | INDICATED_FOR | gastric and gallbladder infection | - | indications | "পাকাশয় ও পিত্তাশয় সংক্রমণ"
+P04-263 | INTERACTS_WITH | warfarin | - | interaction | "ওয়ারফেরিন"
+G04-404 | CAUSES | fetal deformity or toxicity | - | pregnancy_lactation | "মানবদেহে কোন ভ্রুণ বিকৃতি বা বিষাক্তি ঘটার প্রমানাদি পাওয়া যায়নি।"
+G04-385 | INDICATED_FOR | bronchitis | - | indications | "শ্বাসনালী প্রদাহ"
+## ENGLISH SECTION TEXT: contraindications
+Known hypersensitivity to Erythromycin.
+## BANGLA SECTION TEXT: contraindications
+যাদের ক্ষেত্রে এই প্রিপাবেশনের কোন উপাদানের প্রতি অতিসংবেদনশীলতা আছে তাদের ক্ষেত্রে ইরাইথ্রোমাইসিনের ব্যবহার নিষিদ্ধ।
+## ENGLISH SECTION TEXT: indications
+Erythromycin is highly effective in the treatment of a wide variety of clinical infections.
+Upper respiratory tract infections
+: Tonsilitis, Peritonsillar abscess, Pharyngitis, laryngitis, Sinusitis. Secondary infections in colds and influenza.
+Lower respiratory tract infections
+: Tracheitis, acute and chronic bronchitis.
+Ear infections
+: Otitis media, otitis externa, mastoiditis.
+Eye infections
+: Blepharitis, established trachoma.
+Skin and Soft tissue infections
+: Boils and carbuncles, impetigo, abscesses, pustular acne, paromychia, cellulitis, erysipelas.
+Gastrointestinal tract infections
+: Cholecystitis, staphylococcal enterocolitis.
+Prophylaxis
+: Pre and post-operative, trauma, burns, rheumatic fever.
+Other infections
+: Osteomyelitis, diptheria, scarlet fever, whooping cough.
+## BANGLA SECTION TEXT: indications
+ব্যাপক ধরণের ক্লিনিক্যাল সংক্রমণের চিকিৎসায় ইরাইথ্রোমাইসিন খুব কার্যকরী। যেমন-
+উর্ধ্ব-শ্বাসনালীর সংক্রমণে
+: টনসিল প্রদাহ, গলবিল প্রদাহ, সাইনাস প্রদাহ, ঠান্ডা ও ইনফ্লুয়েঞ্জায়, পরিটনসিলীয় আনুষঙ্গিক সংক্রমণ।
+নিন্ম শ্বাসনালীর সংক্রমণে
+: শ্বাসনালী প্রদাহ, তীব্র ও দীর্ঘস্থায়ী ব্রঙ্কাইটিস, ব্রস্কোনিউমোনিয়া, লোবার নিউমোনিয়া, ব্রঙ্কিয়েকটোসিস্, হুপিংকফ।
+কর্ণ সংক্রমণ
+: মধ্যকর্ণপ্রদাহ, বহিঃকর্ণপ্রদাহ, কর্ণপশ্চাৎস্থিত অস্থি প্রদাহ।
+চক্ষু সংক্রমণ
+: অক্ষিপত্র প্রদাহ, প্রতিষ্ঠিত ট্রাকোমা।
+ত্বক ও কোমল টিস্যু সংক্রমণ
+: ফোঁড়া ও বিষব্রণ, চর্মদল, কোষপ্রদাহ।
+পাকান্ত্রিক সংক্রমণ
+: পাকাশয় ও পিত্তাশয় সংক্রমণ।
+অন্যান্য সংক্রমণ
+: অস্থিমজ্জা প্রদাহ, ডিপথেরিয়া, স্কারলেট জ্বর ও হুপিংকফ।
+## ENGLISH SECTION TEXT: interaction
+Recent data from studies of erythromycin reveals that its use in patients who are receiving high dosage of theophylline may be associated with an increase of serum theophylline levels and potential theophylline toxicity. In such cases this dose of theophylline should be reduced.
+## BANGLA SECTION TEXT: interaction
+থিওফাইলিন, কার্বামাজেপিন, ডিগক্সিন, ওয়ারফেরিন এবং আরগোটামিন।
+## ENGLISH SECTION TEXT: precautions
+Erythromycin should be given with care in patients with impaired hepatic function, as erythromycin is excreted principally in the bile.
+## BANGLA SECTION TEXT: precautions
+ইরাইথ্রোমাইসিন যেহেতু যকৃতের মাধ্যমে নিঃসারিত হয়, সেহেতু যকৃতের অকার্যকারিতায় ইহা সতর্কতায় সহিত প্রয়োগ করা উচিত।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Clinical and Laboratory studies have been shown no evidence in human of teratogenicity or toxicity. However, caution should be exercised when prescribing this drug to pregnant patients and lactating mothers since erythromycin crosses the placental barrier and is excreted in breast milk.
+## BANGLA SECTION TEXT: pregnancy_lactation
+ক্লিনিক্যাল ও ল্যাবরেটরী সমীক্ষায় মানবদেহে কোন ভ্রুণ বিকৃতি বা বিষাক্তি ঘটার প্রমানাদি পাওয়া যায়নি। তবে যেহেতু প্লাসেন্টা বাধা অতিক্রম করে এবং মাতৃ দুগ্ধে নিঃসরিত হয় সেহেতু গর্ভবতী ও স্তনদানকারী মায়েদের ক্ষেত্রে প্রয়োগে সাবধানতা অবলম্বন করা উচিত।
+

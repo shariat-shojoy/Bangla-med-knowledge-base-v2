@@ -1,0 +1,72 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+drospirenone-ethinyl-estradiol-002-mg,G04-189,G04-215,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-193,G04-219,,,medium,Bangla translates vein blood clotting as 'ধমনীতে রক্ত জমাট বাঁধা রোগ' in the parallel contraindications clause
+drospirenone-ethinyl-estradiol-002-mg,G04-195,,জন্ডিসে,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-197,G04-222,,,medium,Bangla translates 'migraine' in contraindications as 'তীব্র মাথা ব্যথা' (severe headache); G04-222 matches G04-197 rather than P04-109 because both are in contraindications
+drospirenone-ethinyl-estradiol-002-mg,P04-109,,,,high,Bangla precautions omits the specific risk factor list including migraine (G04-222 matched to G04-197 in contraindications)
+drospirenone-ethinyl-estradiol-002-mg,G04-198,G04-223,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-199,G04-224,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-200,G04-225,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-201,G04-226,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-206,G04-229,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-202,,,,high,
+drospirenone-ethinyl-estradiol-002-mg,G04-205,,অ্যাকিউট রেনাল ফেইলিওর,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-099,,মাসিকের সমস্যা,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-104,P04-081,,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-105,,,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-106,,,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-108,,,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-110,,,,high,
+drospirenone-ethinyl-estradiol-002-mg,P04-112,P04-083,,,high,
+dydrogesterone,G04-242,G04-271,,,high,
+dydrogesterone,G04-245,G04-272,,,high,
+dydrogesterone,G04-246,G04-274,,,high,
+dydrogesterone,G04-247,G04-275,,,high,
+dydrogesterone,G04-252,G04-280,,,high,
+dydrogesterone,P04-133,,লিভারের অসুখ ছিল,,high,
+enoxaparin-sodium,G04-309,G04-323,,,high,
+enoxaparin-sodium,G04-311,,,,high,"Bangla contraindications lists specific conditions (major clotting disorder, active peptic ulcer) rather than active major bleeding"
+enoxaparin-sodium,G04-312,G04-327,,,medium,"Bangla renders conditions with high risk of uncontrolled hemorrhage as biological condition causing bleeding (G04-327), while hemorrhagic stroke (G04-328) is listed separately"
+enoxaparin-sodium,G04-314,,,,high,
+enoxaparin-sodium,G04-316,,,,high,
+enoxaparin-sodium,P04-205,,যে সমস্ত উপাদান রক্তরণের ঝুঁকি বৃদ্ধি করে,,high,
+enoxaparin-sodium,P04-208,P04-199,,,high,
+enoxaparin-sodium,P04-209,,,,high,
+enoxaparin-sodium,P04-210,,,,high,
+enoxaparin-sodium,P04-211,,,,high,
+enoxaparin-sodium,P04-212,,,,high,
+enoxaparin-sodium,P04-213,,,,high,
+enoxaparin-sodium,P04-215,P04-195,,,high,
+enoxaparin-sodium,P04-216,,,,high,
+enoxaparin-sodium,,P04-201,,,high,
+enoxaparin-sodium,,P04-202,,,high,
+enoxaparin-sodium,,G04-329,,,high,
+enoxaparin-sodium,,P04-197,,acetylsalicylic acid (and derivatives),medium,English interaction text lists 'acetylsalicylic acid (and derivatives)' rather than 'salicylates' explicitly
+enoxaparin-sodium,,P04-200,,,high,
+enoxaparin-sodium,,G04-328,,recent hemorrhagic stroke,high,
+enoxaparin-sodium,,G04-326,,,high,
+enoxaparin-sodium,,G04-325,,,high,
+erythromycin-oral,G04-348,,,,high,
+erythromycin-oral,G04-350,G04-383,,,medium,Bangla states colds and influenza without specifying secondary infections
+erythromycin-oral,G04-351,G04-385,,,high,Bangla text 'শ্বাসনালী প্রদাহ' corresponds directly to Tracheitis in the parallel text slot
+erythromycin-oral,G04-359,,,,high,
+erythromycin-oral,G04-360,,,,high,
+erythromycin-oral,G04-361,,,,high,
+erythromycin-oral,G04-362,,,,high,
+erythromycin-oral,G04-365,G04-399,,,medium,G04-399 combines gastric and gallbladder infection (covering both G04-365 and G04-366); matched to G04-365 as the closer condition
+erythromycin-oral,G04-366,,পাকাশয় ও পিত্তাশয় সংক্রমণ,,medium,Covered in combined Bangla phrase G04-399 (which was matched to G04-365)
+erythromycin-oral,G04-367,,,,high,
+erythromycin-oral,G04-368,,,,high,
+erythromycin-oral,G04-369,,,,high,
+erythromycin-oral,G04-370,,,,high,
+erythromycin-oral,G04-375,G04-403,,,medium,English specifies Erythromycin while Bangla states any ingredient of the preparation
+erythromycin-oral,G04-376,G04-404,,,high,
+erythromycin-oral,P04-267,,,,high,Bangla interaction lists theophylline without mentioning theophylline toxicity
+erythromycin-oral,P04-268,P04-265,,,high,
+erythromycin-oral,,G04-389,,,high,
+erythromycin-oral,,G04-388,,,high,
+erythromycin-oral,,G04-387,,,high,
+erythromycin-oral,,P04-264,,,high,
+erythromycin-oral,,P04-261,,,high,
+erythromycin-oral,,P04-262,,,high,
+erythromycin-oral,,P04-263,,,high,

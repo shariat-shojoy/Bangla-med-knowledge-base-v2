@@ -1,0 +1,274 @@
+### drug=iron-sucrose
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-015 | INDICATED_FOR | rapid Iron supply | - | indications | "Where there is a clinical need for a rapid Iron supply"
+G06-017 | INDICATED_FOR | non-compliance to oral Iron therapy | - | indications | "or who are non-compliant"
+G06-023 | INDICATED_FOR | Iron deficiency anaemia in patients undergoing surgical proc | - | indications | "Iron deficiency anaemia in patients undergoing surgical procedures"
+G06-024 | INDICATED_FOR | Iron deficiency anaemia in patients donating blood | - | indications | "patients donating blood"
+G06-026 | USE_IN | evidence of Iron overload | contraindicated | contraindications | "evidence of Iron overload"
+G06-029 | USE_IN | history of allergic disorders including asthma, eczema and a | contraindicated | contraindications | "history of allergic disorders including asthma, eczema and anaphylaxis"
+G06-031 | USE_IN | infections | contraindicated | contraindications | "infections."
+P04-142 | INTERACTS_WITH | oral iron preparations | avoid | interaction | "Iron Sucrose Injection should not be administered concomitantly with oral iron preparations"
+P04-146 | USE_IN | hemodialysis patients | caution | precautions | "Hypotension has been reported frequently in hemodialysis patients receiving intravenous Iron"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G06-042 | INDICATED_FOR | Iron deficiency anemia in surgical patients | - | indications | "সার্জারীর রোগী … যারা আয়রণের অভাবজনিত রক্তস্বল্পতায় আক্রান্ত"
+G06-045 | USE_IN | iron overload | contraindicated | contraindications | "দেহে আয়রণের পরিমাণ অতিরিক্ত"
+P04-140 | USE_IN | hemodialysis | caution | precautions | "হিমোডায়ালাইসিস রোগীদের ক্ষেত্রে নিম্ন রক্তচাপ প্রায়ই লক্ষ্য করা গেছে … সাবধানতা অবলম্বন করা উচতি"
+G06-035 | INDICATED_FOR | clinical need for rapid iron supply | - | indications | "ক্লিনিক্যালি দ্রুত আয়রণ সরবরাহের প্রয়োজন"
+G06-043 | INDICATED_FOR | Iron deficiency anemia in blood donors | - | indications | "রক্তদানকারী … যারা আয়রণের অভাবজনিত রক্তস্বল্পতায় আক্রান্ত"
+G06-048 | USE_IN | asthma | contraindicated | contraindications | "এ্যাজমা"
+P04-136 | INTERACTS_WITH | oral iron | avoid | interaction | "কোন সেব্য আয়রণ ওষুধের সাথে ব্যবহার করা উচিত নয়"
+G06-050 | USE_IN | history of anaphylaxis | contraindicated | contraindications | "কোন এনাফাইলাক্সিস- এর ইতিহাস"
+## ENGLISH SECTION TEXT: contraindications
+The use of Iron Sucrose is contraindicated in patients with evidence of Iron overload, in patients with known hypersensitivity to Iron Sucrose or any of its inactive components, and in patients with anaemia not caused by Iron deficiency. It is also contraindicated in patients with history of allergic disorders including asthma, eczema and anaphylaxis, liver disease and infections.
+## BANGLA SECTION TEXT: contraindications
+রোগী যাদের দেহে আয়রণের পরিমাণ অতিরিক্ত, আয়রণ সুক্রোজ অথবা এর অসক্রিয় উপাদানের প্রতি সংবেদনশীলতা, রক্তস্বল্পতা যা আয়রণের অভাবজনিত কারণে নয়। এছাড়াও ইহা এ্যাজমা, যকৃতের সমস্যা এবং কোন এনাফাইলাক্সিস- এর ইতিহাস রয়েছে এমন রোগীদের ক্ষেত্রে প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+This is indicated for the treatment of Iron deficiency in the following indications:
+Where there is a clinical need for a rapid Iron supply
+In patients who can not tolerate oral Iron therapy or who are non-compliant
+In active inflammatory bowel disease where oral Iron preparations are ineffective
+Non-dialysis dependent-chronic kidney disease (NDD-CKD) patients receiving an erythropoietin
+Non-dialysis dependent-chronic kidney disease (NDD-CKD) patients not receiving an erythropoietin
+Hemodialysis dependent-chronic kidney disease (HDD-CKD) patients receiving an erythropoietin
+Peritoneal dialysis dependent-chronic kidney disease (PDD-CKD) patients receiving an erythropoietin
+It is also indicated in the treatment of Iron deficiency anaemia in patients undergoing surgical procedures, patients donating blood, postpartum patients.
+## BANGLA SECTION TEXT: indications
+আয়রণ সুক্রোজ ইঞ্জেক্‌শন আয়রণের অভাবজনিত নিম্নলিখিত নির্দেশনায় ব্যবহৃত হয়-
+যখন ক্লিনিক্যালি দ্রুত আয়রণ সরবরাহের প্রয়োজন হয়।
+যে সমস্ত রোগীদের মুখে সেবনযোগ্য আয়রণ সহ্য হয় না।
+প্রকট অন্ত্রের প্রদাহজনিত রোগে যেখানে মুখে সেবনযোগ্য আয়রণ অকার্যকর।
+নন-ডায়ালাইসিস নির্ভর দীর্ঘস্থায়ী বৃক্ক রোগে আক্রান্ত রোগী যারা ইরাইথ্রোপোয়েটিন গ্রহণ করে।
+নন-ডায়ালাইসিস নির্ভর দীর্ঘস্থায়ী বৃক্ক রোগে আক্রান্ত রোগী যারা ইরাইথ্রোপোয়েটিন গ্রহণ করে না।
+হিমোডায়ালাইসিস নির্ভর দীর্ঘস্থায়ী বৃক্ক রোগে আক্রান্ত রোগী যারা ইরাইথ্রোপোয়েটিন গ্রহণ করে।
+পেরিটোনিয়াল ডায়ালাইসিস নির্ভর দীর্ঘস্থায়ী বৃক্ক রোগে আক্রান্ত রোগী যারা ইরাইথ্রোপোয়েটিন গ্রহণ করে।
+এছাড়া ইহা সার্জারীর রোগী, রক্তদানকারী এবং প্রসব পরবর্তী রোগী, যারা আয়রণের অভাবজনিত রক্তস্বল্পতায় আক্রান্ত তাদের ক্ষেত্রেও নির্দেশিত।
+## ENGLISH SECTION TEXT: interaction
+Drug-drug interactions involving Iron Sucrose have not been studied. Iron Sucrose Injection should not be administered concomitantly with oral iron preparations since the absorption of oral Iron is reduced. Even oral Iron therapy should not be given until 5 days after last injection.
+## BANGLA SECTION TEXT: interaction
+আয়রণ সুক্রোজের সাথে অন্য ওষুধের কোন প্রতিক্রিয়া রয়েছে কিনা তা এখনো পর্যবেক্ষণ করা হয়নি। তবে আয়রণ সুক্রোজ কোন সেব্য আয়রণ ওষুধের সাথে ব্যবহার করা উচিত নয়। আয়রণ ইঞ্জেক্‌শন দেয়ার পরবর্তীতে ৫ দিনের মধ্যে সেব্য আয়রণ ব্যবহার করা উচিত নয়।
+## ENGLISH SECTION TEXT: precautions
+General
+: Because body Iron excretion is limited and excess tissue Iron can be hazardous, caution should be exercised to withhold Iron administration in the presence of evidence of tissue Iron overload. Patients receiving Iron Sucrose require periodic monitoring of hematologic and haematinic parameters (hemoglobin, hematocrit, serum ferritin and transferrin saturation). Iron therapy should be withheld in patients with evidence of Iron overload. Transferrin saturation values increase rapidly after IV administration of Iron Sucrose; thus, serum Iron values may be reliably obtained 48 hours after IV dosing.
+Hypersensitivity Reactions
+: Serious hypersensitivity reactions have been rarely reported in patients receiving Iron Sucrose. Several cases of mild or moderate hypersensitivity reactions were observed in these studies.
+Hypotension
+: Hypotension has been reported frequently in hemodialysis patients receiving intravenous Iron. Hypotension following administration of Iron Sucrose may be related to rate of administration and total dose administered. Caution should be taken to administer Iron Sucrose according to recommended guidelines.
+## BANGLA SECTION TEXT: precautions
+সাধারণ
+: যেহেতু শরীর থেকে আয়রণ নিঃসরণ সীমিতভাবে হয় এবং অতিরিক্ত আয়রণ শরীরের জন্য ঝঁকিপূর্ণ, তাই আয়রণের প্রয়োগের থেকে সতর্কতা অবলম্বন করা উচিত। যে সকল রোগী আয়রণ চিকিৎসা গ্রহণ করছে তাদের হিমাটোলাজিক ও হেমাটিনিক পরিমাপক (হিমোগোবিন, হিমাটোক্রিট, ওসরাম ফেরিটিন এবং ট্রান্সফেরিন সম্পৃক্তি) মাত্রা নির্ণয় করে নেয়া উচিত। রোগীর শরীরে আয়রণ অতিরিক্ত মাত্রায় থাকলে আয়রণের চিকিৎসা স্থগিত করতে হবে। শিরাপথে আয়রণের ব্যবহারের ফলে শরীরে ট্রান্সফেরিন সম্পৃক্তি এর মান দ্রুতই বেড়ে যায়। এজন্য রক্তরসে আয়রণের মান শিরাপথে প্রয়োগের ৪৮ ঘন্টার মধ্যে পাওয়া যায়।
+অতি সংবেদনশীল প্রতিক্রিয়া
+: আয়রণ সুক্রোজের ফলে অতি সংবেদনশীল প্রতিক্রিয়া দুর্লভ। তবে কিছু ক্ষেত্রে পরিমিত মাত্রার অতিসংবেদনশীল প্রতিক্রিয়া দেখা গেছে।
+নিম্ন রক্তচাপ
+: শিরাপথে আয়রণ গ্রহন করছে এমন হিমোডায়ালাইসিস রোগীদের ক্ষেত্রে নিম্ন রক্তচাপ প্রায়ই লক্ষ্য করা গেছে। নিম্ন রক্তচাপ সম্ভবত আয়রণ সুক্রোজ প্রয়োগ ও তার মাত্রার উপর নির্ভরশীল। নির্দেশিকা অনুযায়ী সাবধানতা অবলম্বন করা উচতি।
+
+### drug=labetalol-hydrochloride
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-060 | INDICATED_FOR | Anaesthesia | - | indications | "Anaesthesia when a hypotensive technique is indicated."
+G06-072 | USE_IN | pregnant women with hypertension | - | pregnancy_lactation | "Labetalol Hydrochloride given to pregnant women with hypertension did not appear to affect the usual course of labor and delivery."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G06-093 | CAUSES | pregnant women with hypertension | - | pregnancy_lactation | "উচ্চ রক্তচাপের গর্ভবতী নারীদের ল্যাবেটালোল হাইড্রোক্লোরাইড দেওয়ার পর তা প্রসবের স্বাভাবিক প্রক্রিয়ায় কোনো প্রভাব ফেলেছে বলে মনে হয়নি।"
+G06-081 | INDICATED_FOR | anesthesia when hypotensive technique is indicated | - | indications | "অ্যানেন্থেসিয়া বা অবশ করার প্রক্রিয়ায়, যখন রক্তচাপ কমিয়ে রাখার পদ্ধতির প্রয়োজন হয়।"
+## ENGLISH SECTION TEXT: indications
+Labetalol Hydrochloride is indicated in Hypertension (including hypertension in pregnancy, hypertension after stroke, hypertension with angina, and hypertension following acute myocardial infarction); hypertensive crisis; Anaesthesia when a hypotensive technique is indicated.
+## BANGLA SECTION TEXT: indications
+ল্যাবেটালোল হাইড্রোক্লোরাইড নিচের ক্ষেত্রগুলোতে নির্দেশিত:
+উচ্চ রক্তচাপ (যার মধ্যে রয়েছে গর্ভাবস্থায় উচ্চ রক্তচাপ, স্ট্রোকের পরবর্তী উচ্চ রক্তচাপ, অ্যানজাইনা বা বুক ব্যথাসহ উচ্চ রক্তচাপ এবং তীব্র মায়োকার্ডিয়াল ইনফার্কশন বা হার্ট অ্যাটাকের পরবর্তী উচ্চ রক্তচাপ)।
+হাইপারটেনসিভ ক্রাইসিস (অত্যধিক বা বিপজ্জনক মাত্রায় রক্তচাপ বৃদ্ধি পাওয়া)।
+অ্যানেন্থেসিয়া বা অবশ করার প্রক্রিয়ায়, যখন রক্তচাপ কমিয়ে রাখার পদ্ধতির প্রয়োজন হয়।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Teratogenic studies were performed with Labetalol in rats and rabbits at oral doses up to approximately six and four times the maximum recommended human dose (MRHD), respectively. No reproducible evidence of fetal malformations was observed. Labetalol Hydrochloride given to pregnant women with hypertension did not appear to affect the usual course of labor and delivery. Small amounts of Labetalol (approximately 0.004% of the maternal dose) are excreted in human milk. Caution should be exercised when Labetalol tablets are administered to a nursing woman.
+## BANGLA SECTION TEXT: pregnancy_lactation
+ইঁদুর ও খরগোশের ওপর সর্বোচ্চ প্রস্তাবিত মানব মাত্রার (MRHD) যথাক্রমে প্রায় ছয় ও চার গুণ বেশি মাত্রায় ল্যাবেটালোল দিয়ে প্রজনন গবেষণা করা হয়েছে। এতে ভ্রূণের বিকৃতির কোনো সুনির্দিষ্ট প্রমাণ পাওয়া যায়নি। উচ্চ রক্তচাপের গর্ভবতী নারীদের ল্যাবেটালোল হাইড্রোক্লোরাইড দেওয়ার পর তা প্রসবের স্বাভাবিক প্রক্রিয়ায় কোনো প্রভাব ফেলেছে বলে মনে হয়নি। মাতৃদুগ্ধে ল্যাবেটালোল খুব সামান্য পরিমাণে (মায়ের গ্রহণ করা মাত্রার প্রায় ০.০০৪%) নিঃসৃত হয়। স্তন্যদায়ী মাকে ল্যাবেটালোল ট্যাবলেট দেওয়ার সময় সতর্কতা অবলম্বন করা উচিত।
+
+### drug=lamotrigine
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-103 | CAUSES | serious adverse reactions | - | pregnancy_lactation | "potential for serious adverse reactions in nursing infants"
+G06-104 | USE_IN | nursing | avoid | pregnancy_lactation | "decision should be made whether to discontinue nursing or discontinue the drug"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+(none)
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy Category C. Lamotrigine is excreted in human milk. Because of the potential for serious adverse reactions in nursing infants from Lamotrigine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রেগন্যান্সী ক্যাটাগরী সি। ল্যামোট্রিজিন মাতৃদুগ্ধের মাধ্যমে নিঃসরণ হয়।
+
+### drug=levetiracetam
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-115 | INDICATED_FOR | myoclonic seizures with Juvenile Myoclonic Epilepsy | - | indications | "in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy."
+G06-116 | INDICATED_FOR | primary generalized tonic-clonic seizures with Idiopathic Ge | - | indications | "in the treatment of primary generalized tonic-clonic seizures in adults and adolescents from 12 years of age with Idiopathic Generalised Epilepsy."
+P06-074 | INTERACTS_WITH | antiepileptic medicinal products | - | interaction | "levetiracetam did not influence the serum concentrations of existing antiepileptic medicinal products"
+P06-099 | CAUSES | suicidal behaviour | - | precautions | "and behaviour have been reported"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P06-057 | USE_IN | severe hepatic impairment | caution | precautions | "মারাত্মকভাবে যকৃতের অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে মাত্রা নির্ধারণের পূর্বে রোগীর কিডনীর কার্যকারীতা পর্যবেক্ষণ করা প্রয়োজন"
+G06-125 | INDICATED_FOR | myoclonic seizures | - | indications | "প্রাপ্ত বয়স্কদের মায়োক্লোনিক খিঁচুনী এবং ১২ বছর বয়স্ক কিশোরদের ক্ষেত্রে মৃগীরোগের চিকিৎসায়।"
+P06-043 | INTERACTS_WITH | anti-epileptic drugs | - | interaction | "বিদ্যমান এ্যান্টি-এপিলেপ্টিক ওষুধ সমূহের … ঘনত্বের উপর কোন প্রভাব ফেলে না এবং এসব এ্যান্টি-এপিলেপ্টিক ওষুধও লেভেটিরাসেটামের ফার্মাকোকাইনেটিকস এর উপর কোন প্রভাব "
+P06-072 | USE_IN | mild to moderate hepatic impairment | - | special_populations | "মৃদু থেকে মাঝারি মাত্রার যকৃতের সমস্যার রোগীর ক্ষেত্রে মাত্রা সমন্বয়ের প্রয়োজন নেই"
+G06-126 | INDICATED_FOR | generalized tonic-clonic seizures | - | indications | "প্রাপ্ত বয়স্কদের জেনারেলাইজড টনিক-ক্লোনিক খিঁচুনী এবং ১২ বছর বয়স্ক কিশোরদের ক্ষেত্রে ইডিওপ্যাথিক জেনারেলাইজড মৃগীরোগের চিকিৎসায়।"
+## ENGLISH SECTION TEXT: indications
+Levetiracetam is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalization in adults and adolescents from 16 years of age with newly diagnosed epilepsy. Levetiracetam is indicated as adjunctive therapy-
+in the treatment of partial-onset seizures with or without secondary generalization in adults, adolescents, children and infants from 1 month of age with epilepsy.
+in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy.
+in the treatment of primary generalized tonic-clonic seizures in adults and adolescents from 12 years of age with Idiopathic Generalised Epilepsy.
+## BANGLA SECTION TEXT: indications
+লেভেটিরাসেটাম আংশিক খিঁচুনীর সূত্রপাত হলে, সাথে সেকেন্ডারী জেনারালাইজেশন অথবা সেকেন্ডারী জেনারালাইজেশন ব্যতীত খিঁচুনী থাকলে প্রাপ্ত বয়স্ক এবং ১৬ বছর বয়স্ক কিশোরদের ক্ষেত্রে নতুনভাবে নির্ণিত মৃগীরোগের একক চিকিৎসা হিসেবে নির্দেশিত। লেভেটিরাসেটাম নিম্নবর্ণিত ক্ষেত্রে সহযোগী চিকিৎসা হিসেবে নির্দেশিত-
+আংশিক খিঁচুনীর সূত্রপাত হলে, সাথে সেকেন্ডারী জেনারালাইজেশন অথবা সেকেন্ডারী জেনারালাইজেশন ব্যতিত প্রাপ্ত বয়স্ক, কিশোর, শিশু এবং ১ মাস বয়স্ক নবজাতকের মৃগীরোগের চিকিৎসায়।
+প্রাপ্ত বয়স্কদের মায়োক্লোনিক খিঁচুনী এবং ১২ বছর বয়স্ক কিশোরদের ক্ষেত্রে মৃগীরোগের চিকিৎসায়।
+প্রাপ্ত বয়স্কদের জেনারেলাইজড টনিক-ক্লোনিক খিঁচুনী এবং ১২ বছর বয়স্ক কিশোরদের ক্ষেত্রে ইডিওপ্যাথিক জেনারেলাইজড মৃগীরোগের চিকিৎসায়।
+## ENGLISH SECTION TEXT: interaction
+Antiepileptic medicinal products
+: Pre-marketing data from clinical studies conducted in adults indicate that levetiracetam did not influence the serum concentrations of existing antiepileptic medicinal products (phenytoin, carbamazepine, valproic acid, phenobarbital, lamotrigine, gabapentin and primidone) and that these antiepileptic medicinal products did not influence the pharmacokinetics of levetiracetam.
+Probenecid
+: Probenecid (500 mg four times daily), a renal tubular secretion blocking agent, has been shown to inhibit the renal clearance of the primary metabolite but not of levetiracetam. Nevertheless, the concentration of this metabolite remains low.
+Methotrexate
+: Concomitant administration of levetiracetam and methotrexate has been reported to decrease methotrexate clearance, resulting in increased/prolonged blood methotrexate concentration to potentially toxic levels. Blood methotrexate and levetiracetam levels should be carefully monitored in patients treated concomitantly with the two drugs.
+Laxatives
+: There have been isolated reports of decreased levetiracetam efficacy when the osmotic laxative macrogol has been concomitantly administered with oral levetiracetam. Therefore, macrogol should not be taken orally for one hour before and for one hour after taking levetiracetam.
+Food and alcohol
+: The extent of absorption of levetiracetam was not altered by food, but the rate of absorption was slightly reduced. No data on the interaction of levetiracetam with alcohol are available.
+## BANGLA SECTION TEXT: interaction
+এ্যান্টি-এপিলেপ্টিক ওষুধ সমূহ
+: প্রাপ্ত বয়স্কদের উপর করা বাজারজাত পূর্ববর্তী ক্লিনিক্যাল স্টাডি নির্দেশ করে যে লেভেটিরাসেটাম রক্তের সিরামে বিদ্যমান এ্যান্টি-এপিলেপ্টিক ওষুধ সমূহের (ফিনাইটোইন, কার্বামাজিপাইন, ভ্যালপ্রোয়িক এসিড, ফেনোবারবিটাল, লেমোট্রাইজিন, গাবাপেনটিন এবং প্রিমিডোন) ঘনত্বের উপর কোন প্রভাব ফেলে না এবং এসব এ্যান্টি-এপিলেপ্টিক ওষুধও লেভেটিরাসেটামের ফার্মাকোকাইনেটিকস এর উপর কোন প্রভাব ফেলে না।
+প্রোবেনেসিড
+: রেনাল টিবিউলার নিঃসরণ বাধাদানকারী উপাদান প্রোবেনেসিড (দিনে চার বার ৫০০ মিগ্রা হারে প্রয়োগের ক্ষেত্রে) ওষুধটির প্রাথমিক মেটাবোলাইটকে কিডনীর মাধ্যমে নিঃসরণে বাধাদান করলেও লেভেটিরাসেটাম এর মেটাবোলাইটকে বাধাদান করে না। রক্তে এই মেটাবোলাইটের ঘনত্ব খুব কম পরিমাণে থাকে।
+মেথোট্রেক্সেট
+: লেভেটিরাসেটাম এবং মেথোট্রেক্সেট একত্রে প্রয়োগে মেথোট্রেক্সেটের নিঃসরণ হ্রাসের তথ্য পাওয়া গেছে যাতে রক্তে মেথোট্রেক্সেটের এর ঘনত্ব বৃদ্ধি/দীর্ঘায়িত করে বিষক্রিয়া ঘটার সম্ভাবনা থাকে। তাই এই দুটি ওষুধ একত্রে গ্রহণকারী রোগীর চিকিৎসাকালে রক্তে লেভেটিরাসেটাম এবং মেথোট্রেক্সেটের এর মাত্রা সর্তকতার সাথে পর্যবেক্ষণ করা উচিৎ।
+ল্যাক্সেটিভ
+: বিভিন্ন তথ্যে পাওয়া গেছে, মুখে সেব্য লেভেটিরাসেটাম এর সাথে অসমোটিক ল্যাক্সেটিভ ম্যাক্রোগল একত্রে প্রয়োগ করলে লেভেটিরাসেটাম এর কার্যকারীতা হ্রাস পায়। এ কারণে লেভেটিরাসেটাম প্রয়োগের এক ঘন্টা পূর্বে এবং এক ঘন্টা পর পর্যন্ত ম্যাক্রোগল মুখে গ্রহণ করা উচিৎ নয়।
+খাবার এবং অ্যালকোহল
+: খাবার দ্বারা লেভেটিরাসেটাম এর মোট শোষণের পরিবর্তন না হলেও লেভেটিরাসেটাম শোষণের হার সামান্য হ্রাস পায়। লেভেটিরাসেটাম এর সাথে অ্যালকোহলের প্রতিক্রিয়ার কোন তথ্য পাওয়া যায়নি।
+## ENGLISH SECTION TEXT: precautions
+Renal impairment
+: The administration of levetiracetam to patients with renal impairment may require dose adjustment. In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection.
+Acute kidney injury
+: The use of levetiracetam has been very rarely associated with acute kidney injury with a time to onset ranging from a few days to several months.
+Blood cell counts
+: Rare cases of decreased blood cell counts (neutropenia, agranulocytosis, leucopenia, thrombocytopenia and pancytopenia) have been described in association with levetiracetam administration, generally at the beginning of the treatment. Complete blood cell counts are advised in patients experiencing important weakness, pyrexia, recurrent infections or coagulation disorders.
+Suicide
+: Suicide, suicide attempt, suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents (including levetiracetam). A meta-analysis of randomized placebo-controlled trials of anti-epileptic medicinal products has shown a small increased risk of suicidal thoughts and behaviour. The mechanism of this risk is not known. Therefore patients should be monitored for signs of depression and/or suicidal ideation and behaviours and appropriate treatment should be considered. Patients (and caregivers of patients) should be advised to seek medical advice should signs of depression and/or suicidal ideation or behaviour emerge.
+Paediatric population
+: The tablet formulation is not adapted for use in infants and children under the age of 6 years. Available data in children did not suggest an impact on growth and puberty. However, long term effects on learning, intelligence, growth, endocrine function, puberty and childbearing potential in children remain unknown.
+## BANGLA SECTION TEXT: precautions
+কিডনীর অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে
+: কিডনীর অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে লেভেটিরাসেটাম প্রয়োগে মাত্রা সমন্বয় এর প্রয়োজন হতে পারে। মারাত্মকভাবে যকৃতের অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে মাত্রা নির্ধারণের পূর্বে রোগীর কিডনীর কার্যকারীতা পর্যবেক্ষণ করা প্রয়োজন।
+তীব্রভাবে কিডনীর অকার্যকারীতা রয়েছে এমন রোগীর ক্ষেত্রে
+: লেভেটিরাসেটাম দিয়ে কয়েক দিন থেকে কয়েক মাস পর্যন্ত চিকিৎসার ক্ষেত্রে কিডনীর তীব্র ক্ষতিগ্রস্ততার সাথে এর সম্পৃক্ততা তেমন নেই বা থাকলেও সেটি খুবই বিরল।
+রক্ত কণিকার সংখ্যা সংক্রান্ত সমস্যা
+: সাধারণত চিকিৎসা শুরুর সময়, লেভেটিরাসেটাম প্রয়োগে রক্ত কণিকা হ্রাসের ঘটনা বিরল কিছু ক্ষেত্রে (নিউট্রোপেনিয়া, এ্যাগ্র্যানোলোসাইটোসিস, রক্তে লিউকোসাইটের পরিমাণ হ্রাস, রক্তে থ্রম্বোসাইটের পরিমাণ হ্রাস এবং রক্তে সকল প্রকার রক্ত কণিকার পরিমাণের অস্বাভাবিক হ্রাস) পরিলক্ষিত হয়েছে। শারীরিক দুর্বলতা, জ্বর জ্বর ভাব, সংক্রমণের পুনরাবৃত্তি অথবা রক্ত জমাটবাঁধা সংক্রান্ত সমস্যা রয়েছে এমন রোগীর ক্ষেত্রে রক্ত কনিকার সংখ্যা গুরুত্বের সাথে পুনরায় পরীক্ষা করতে হবে।
+আত্মহত্যা
+: এ্যান্টি-এপিলেপ্টিক উপাদানসমূহ (লেভেটিরাসেটামসহ) প্রয়োগে রোগীদের আত্মহত্যা, আত্মহত্যার প্রচেষ্টা, আত্মঘাতী পরিকল্পনা এবং আচরনের তথ্য পাওয়া গেছে। এ্যান্টি-এপিলেপ্টিক উপাদানসমূহ দিয়ে করা একটি প্লাসেবো নিয়ন্ত্রিত মেটা এ্যানালাইসিস ট্রায়ালে রোগীদের আত্মহত্যার পরিকল্পনা এবং আচরন গত ঝুঁকি বৃদ্ধির তথ্য পাওয়া গেছে যদিও এই ঝুঁকি বৃদ্ধির প্রকৃত কারণ জানা যায়নি। একারণে রোগীর মানসিক বিষাদগ্রস্ততা ও/অথবা আত্মঘাতী পরিকল্পনা এবং আচরনগত উপসর্গ সমূহের পর্যবেক্ষণ এবং উপযুক্ত চিকিৎসা করা উচিৎ। মানসিক বিষাদগ্রস্ততা ও/অথবা আত্মঘাতী পরিকল্পনা অথবা এর আচরনগত উপসর্গসমূহ পরিলক্ষিত হলে রোগীদের (এবং রোগীর পরিচর্যাকারীদের) চিকিৎসকের পরামর্শ গ্রহণ করা উচিৎ।
+শিশুদের ক্ষেত্রে
+: ৬ বছরের কম বয়সী শিশু এবং নবজাতকের ক্ষেত্রে ট্যাবলেট ফর্মুলেশন এর ব্যবহার উপযুক্ত নয়। প্রাপ্ত তথ্য শিশুদের ক্ষেত্রে বৃদ্ধি এবং বয়ঃসন্ধির উপর এই ওষুধটির প্রভাব সমর্থন করে না। তাই শিশুদের শিক্ষা গ্রহণ, বুদ্ধিমত্তা, বৃদ্ধি, এন্ডোক্রাইন সিস্টেমের কার্যকারীতা, বয়ঃসন্ধি এবং সম্ভাব্য গর্ভধারনের এর এর উপর দীর্ঘ-মেয়াদী প্রভাব এখনো অজানা।
+## ENGLISH SECTION TEXT: special_populations
+Elderly (65 years and older)
+: Adjustment of the dose is recommended in elderly patients with compromised renal function.
+Renal impairment
+: The daily dose must be individualized according to renal function.
+Hepatic impairment
+: No dose adjustment is needed in patients with mild to moderate hepatic impairment. In patients with severe hepatic impairment, the creatinine clearance may underestimate renal insufficiency. Therefore a 50 % reduction of the daily maintenance dose is recommended when the creatinine clearance is < 60 ml/min.
+## BANGLA SECTION TEXT: special_populations
+বয়স্ক (৬৫ বছর এবং অধিক বয়স্ক)
+: কিডনীর কার্যকারীতার সাথে সমন্বয় করে বয়স্ক রোগীদের মাত্রা সমন্বয় নির্দেশিত।
+কিডনীর কার্যকারীতার সমস্যায়
+: অবশ্যই কিডনীর কার্যকারীতার উপর ভিত্তি করে দৈনিক মাত্রা নির্ধারণ করতে হবে।
+যকৃতের কার্যকারীতার সমস্যায়
+: মৃদু থেকে মাঝারি মাত্রার যকৃতের সমস্যার রোগীর ক্ষেত্রে মাত্রা সমন্বয়ের প্রয়োজন নেই। মারাত্মক যকৃতের সমস্যার রোগীর ক্ষেত্রে, ক্রিয়েটিনিন ক্লিলিয়ারেন্স দ্বারা কিডনীর কার্যকারীতার সমস্যা সঠিকভাবে মূল্যায়ন করা যায় না। এক্ষেত্রে ক্রিয়েটিনিন ক্লিয়ারেন্স <৬০ মিলি/মিনিট হলে ওষুধটির নির্দেশিত দৈনিক সমন্বিত মাত্রা ৫০% হ্রাস করা উচিত।
+
+### drug=levonorgestrel-for-emergency-contraception
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-134 | INDICATED_FOR | sexual intercourse where either yourself or your partner did | - | indications | "if you have had sexual intercourse whereas either yourself or your partner did not use a contraceptive method;"
+G06-135 | INDICATED_FOR | forgotten to take consecutive 3 contraceptive pills | - | indications | "if you have forgotten to take consecutive 3 contraceptive pills;"
+G06-136 | INDICATED_FOR | partner's condom has broken, slipped, or been improperly rem | - | indications | "if your partner's condom has broken, slipped, or been improperly removed, or if he has forgotten to use it;"
+G06-137 | INDICATED_FOR | fear that your intrauterine device has been expelled | - | indications | "if you fear that your intrauterine device has been expelled;"
+G06-139 | INDICATED_FOR | method of coitus interruptus has failed | - | indications | "if you are afraid that the method of coitus interruptus has failed"
+G06-143 | USE_IN | pre-existing pregnancy | not recommended | pregnancy_lactation | "This medicine is not indicated in case of pre-existing pregnancy"
+G06-144 | CAUSES | malformation of a fetus | - | pregnancy_lactation | "no adverse effects of progestogen on the malformation of a fetus."
+P06-127 | USE_IN | history of ectopic pregnancy | not recommended | precautions | "Taking this medicine is not recommended if you have had an ectopic pregnancy"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G06-154 | INDICATED_FOR | coitus interruptus failure | - | indications | "যদি আপনি মনে করেন যে, oitus interuptus অকার্যকর হয়েছে"
+G06-150 | INDICATED_FOR | forgetting to take contraceptive pills for 3 consecutive day | - | indications | "যদি আপনি পরপর তিনদিন জন্মনিরোধক বড়ি খেতে ভুলে যান।"
+G06-152 | INDICATED_FOR | intrauterine device displaced | - | indications | "যদি আপনি মনে করেন যে, আপনার জরায়ুতে অবস্থিত জন্মনিরোধক (আই,ইউ,ডি) স্থানচ্যুত হয়েছে।"
+P06-115 | USE_IN | ectopic pregnancy | not recommended | precautions | "আপনার যদি কখনও একটোপিক প্রেগনেন্সি … তবে লিভােনরজেস্ট্রেল সেবন অনুমােদিত নয়"
+G06-159 | CAUSES | adverse effects on fetal development | - | pregnancy_lactation | "ভ্রুনের গঠনের কোন ক্ষতি বা বিরূপ প্রতিক্রিয়া ফেলে না।"
+G06-158 | USE_IN | pregnancy | not recommended | pregnancy_lactation | "গর্ভাবস্থায় এই ঔষধ অনুমােদিত নয়"
+G06-149 | INDICATED_FOR | unprotected intercourse without contraceptive method | - | indications | "সহবাসের সময় আপনি বা আপনার সঙ্গী যদি কোন জন্মনিরোধক পদ্ধতি ব্যবহার না করেন।"
+G06-151 | INDICATED_FOR | condom not used properly or condom torn | - | indications | "যদি সহবাসের সময় আপনার সঙ্গী কনডম সঠিকভাবে ব্যবহার না করে থাকেন, অথবা কনডম ফেটে গিয়ে থাকে।"
+## ENGLISH SECTION TEXT: indications
+Emergency contraception is a rescue method that is aimed to prevent fertilization in case of unprotected intercourse.
+Levonorgestrel must be used as soon as possible, preferably within 12 hours and no later than 72 hours (3 days) after the unprotected sexual intercourse, particularly;
+if you have had sexual intercourse whereas either yourself or your partner did not use a contraceptive method;
+if you have forgotten to take consecutive 3 contraceptive pills;
+if your partner's condom has broken, slipped, or been improperly removed, or if he has forgotten to use it;
+if you fear that your intrauterine device has been expelled;
+if your vaginal diaphragm or your contraceptive cap has moved or if you have removed it too early;
+if you are afraid that the method of coitus interruptus has failed or if you have had sexual intercourse during the period when you are supposed to be fertile while using the rhythm method;
+in the event of rape.
+## BANGLA SECTION TEXT: indications
+ইমার্জেন্সি জান্মনিরোধক এমন একটি পদ্ধতি যা অরক্ষিত সহবাসে ডিম্বানু ও শুক্রানুর নিষিক্তকরন প্রতিরোধ করে।
+অরক্ষিত সহবাসের পর যত তাড়াতাড়ি সম্ভব এই জন্মনিরোধক ব্যবহার করতে হবে। তবে সহবাসের ১২ ঘন্টার মধ্যে কিন্তু ৭২ ঘন্টার পরে নয়: এবং নিম্নলিখিত কারনে ইমার্জেন্সি জন্মনিরােধক ব্যবহার করা বাঞ্চনীয়।
+সহবাসের সময় আপনি বা আপনার সঙ্গী যদি কোন জন্মনিরোধক পদ্ধতি ব্যবহার না করেন।
+যদি আপনি পরপর তিনদিন জন্মনিরোধক বড়ি খেতে ভুলে যান।
+যদি সহবাসের সময় আপনার সঙ্গী কনডম সঠিকভাবে ব্যবহার না করে থাকেন, অথবা কনডম ফেটে গিয়ে থাকে।
+যদি আপনি মনে করেন যে, আপনার জরায়ুতে অবস্থিত জন্মনিরোধক (আই,ইউ,ডি) স্থানচ্যুত হয়েছে।
+যদি আপনার যােনীতে অবস্থিত ডায়াফ্রাম অথবা জন্মনিরােধক ক্যাপ সরানো হয়ে খাকে।
+যদি আপনি মনে করেন যে, oitus interuptus অকার্যকর হয়েছে এবং Rhythm method অনুসরন করাকালীন সময়ে যদি সহবাস করে থাকেন এবং
+ধর্ষনজনিত অবস্থায়।
+## ENGLISH SECTION TEXT: precautions
+Emergency contraception must be used exceptionally, since:
+It does not allow to prevent a pregnancy in every instance:
+The associated hormonal overdosing is not advisable in the case of regular intake.
+It cannot replace regular contraception.
+After taking Levonorgestrel, the menstrual period usually occurs at the expected date nevertheless, it can occur earlier or later by a few days. After taking this medicine, it is therefore mandatory to check the absence of pregnancy by performing a pregnancy test in case of abnormal bleeding at the date of excepted menses or in case of menstrual delay of more than 5 days.
+The use of emergency contraception does not replace the necessary precautions against sexually transmitted diseases and the measures to be taken in case of risk of transmission.
+Taking this medicine is not recommended if you have had an ectopic pregnancy or if you have had salpingitis or if you have a severe digestive disease that impairs the absorption of medications.
+If vomiting would occur within three hours after taking this medicine, it is recommended to take immediately another Levonorgestrel tablet.
+## BANGLA SECTION TEXT: precautions
+ইমার্জেন্সি জন্মনিরােধক বিশেষ অবস্থায় ব্যবহার করা উচিৎ, কারণ-
+লিভাে্রনো জেস্ট্রেল ব্যবহারের প্রতিবারেই জন্মনিরােধ নাও হতে পারে।
+নিয়মিত ব্যবহারে সহযােগী হরমােনের মাত্রাবৃদ্ধি পরামর্শযােগ্য নয়।
+লিভােনরজেস্ট্রেল নিয়মিত জন্মনিরােধক নয়।
+লিভােনোরজেস্ট্রেল ব্যবহারে মাসিক স্রাব স্বাভাবিক এবং কাঙ্খিত সময়ে হয়; তথাপি মাসিক স্রাব নির্ধারিত সময়ের আগে ও পরেও হতে পারে। এই ঔষধ খাওয়ার পর যদি নির্ধারিত সময়ে অস্বাভাবিক রক্তক্ষরণ হয় অথবা ঋতুস্রাব যদি ৫ দিন পিছিয়ে যায় তবে প্রেগনেন্সি টেষ্ট করে নিতে হবে।
+ইমারজেন্সি জন্মনিরােধক যৌনবাহিত রােগ প্রতিরােধ করে না এবং যে ক্ষেত্রে যৌনবাহিত রােগ সংক্রমনের সম্ভাবনা বেশী সে ক্ষেত্রে সাবধানতা অবলম্বন করতে হবে।
+আপনার যদি কখনও একটোপিক প্রেগনেন্সি বা ডিম্বনালীর প্রদাহ হয়ে থাকে অথবা পরিপাকতন্ত্রের তীব্র অসুখ যা ঔষধ শােষনে বাধার সৃষ্টি করে তবে লিভােনরজেস্ট্রেল সেবন অনুমােদিত নয়।
+ঔষধ সেবনের ৩ ঘন্টার মধ্যে বমি হলে সঙ্গে সঙ্গে আরও একটি লিভােনােরজেসট্রেল ১.৫ মিগ্রা বড়ি সেবন করতে হবে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+This medicine is not indicated in case of pre-existing pregnancy and cannot interrupt it. In case of failure of this contraceptive mean persisting pregnancy, epidemiological studies indicate no adverse effects of progestogen on the malformation of a fetus. Lactation is possible. However, since levonorgestrel is secreted into breast milk, it is suggested that you breastfeed immediately before taking each Levonorgestrel tablet and that you skip the nursing following each Levonorgestrel administration.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থায় এই ঔষধ অনুমােদিত নয় এবং গর্ভাবস্থায় কোন পরিবর্তন ঘটাতে পারে না। এই ঔষধ খাওয়ার পরেও যদি গর্ভধারন হয়ে থাকে, তবে সমীক্ষা প্রমান করে যে প্রজেষ্টোজেন ভ্রুনের গঠনের কোন ক্ষতি বা বিরূপ প্রতিক্রিয়া ফেলে না। এই ঔষধ সেবনের পরেও স্তন্যদান সম্ভব। তথাপি, লিভােনোরজেসট্রেল মায়ের বুকের দুধে নিঃসৃত হতে পারে তাই ইহা সেবনের পূর্বেই স্তন্যদান করা উচিৎ।
+
+### drug=levothyroxine-sodium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-162 | INDICATED_FOR | hypothyroidism of any aetiology | - | indications | "As replacement therapy in hypothyroidism of any aetiology."
+G06-163 | INDICATED_FOR | suppression of Thyroid Stimulating Hormone levels | - | indications | "For the suppression of Thyroid Stimulating Hormone (TSH) levels in the presence of goitres, nodules and after radiological and/or surgical treatment of Thyroid "
+G06-164 | INDICATED_FOR | suppression of the goitrogenic effects of other drugs | - | indications | "For the suppression of the goitrogenic effects of other drugs such as Lithium."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G06-174 | INDICATED_FOR | suppression of goitrogenic effects of drugs like lithium | - | indications | "লিথিয়ামের মতো অন্যান্য ওষুধের গলগন্ডজনিত প্রভাবগুলোকে দমন করার জন্য ব্যবহৃত হয়।"
+G06-172 | INDICATED_FOR | hypothyroidism except transient hypothyroidism in subacute t | - | indications | "সাব একিউট থাইরয়ডাইটিসে অস্থায়ী হাইপোথাইরয়ডিজমে ব্যাতীত অন্যান্য হাইপোথাইরয়ডিজমে রিপ্লেসমেন্ট থেরাপী হিসেবে ব্যবহৃত হয়।"
+G06-173 | INDICATED_FOR | suppression of TSH levels | - | indications | "গলগন্ড, নডিউলের উপস্থিতিতে এবং থাইরয়েড ক্যান্সারের রেডিওলজিকাল এবং/অথবা সার্জিক্যাল চিকিৎসার পর থাইরয়েড স্টিমুলেটিং হরমোন (টিএসএইচ) স্তরের দমনের জন্য ব্যবহৃত "
+## ENGLISH SECTION TEXT: indications
+Levothyroxine Sodium is indicated-
+As replacement therapy in hypothyroidism of any aetiology. Replacement therapy should not be instituted in transient hypothyroidism during the recovery phase of subacute Thyroiditis.
+For the suppression of Thyroid Stimulating Hormone (TSH) levels in the presence of goitres, nodules and after radiological and/or surgical treatment of Thyroid cancer.
+For the suppression of the goitrogenic effects of other drugs such as Lithium.
+As a diagnostic aid in suppression tests.
+## BANGLA SECTION TEXT: indications
+সাব একিউট থাইরয়ডাইটিসে অস্থায়ী হাইপোথাইরয়ডিজমে ব্যাতীত অন্যান্য হাইপোথাইরয়ডিজমে রিপ্লেসমেন্ট থেরাপী হিসেবে ব্যবহৃত হয়।
+গলগন্ড, নডিউলের উপস্থিতিতে এবং থাইরয়েড ক্যান্সারের রেডিওলজিকাল এবং/অথবা সার্জিক্যাল চিকিৎসার পর থাইরয়েড স্টিমুলেটিং হরমোন (টিএসএইচ) স্তরের দমনের জন্য ব্যবহৃত হয়।
+লিথিয়ামের মতো অন্যান্য ওষুধের গলগন্ডজনিত প্রভাবগুলোকে দমন করার জন্য ব্যবহৃত হয়।
+সাপ্রেশন পরীক্ষায় ডায়াগনষ্টিক এইড হিসেবে ব্যবহৃত হয়।
+
+### drug=lithium-carbonate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G06-185 | USE_IN | Renal insufficiency | contraindicated | contraindications | "Renal insufficiency"
+G06-186 | USE_IN | cardiovascular insufficiency | contraindicated | contraindications | "cardiovascular insufficiency"
+G06-190 | USE_IN | first 3 months of pregnancy | avoid | pregnancy_lactation | "such use should be avoided unless essential."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G06-196 | USE_IN | kidney failure | contraindicated | contraindications | "কিডনির অকার্যকারিতা"
+G06-197 | USE_IN | heart failure | contraindicated | contraindications | "হৃদযন্ত্রের অকার্যকারিতা"
+## ENGLISH SECTION TEXT: contraindications
+Renal insufficiency, cardiovascular insufficiency, Addison's disease and untreated hypothyroidism are all contraindications to lithium therapy.
+## BANGLA SECTION TEXT: contraindications
+কিডনির অকার্যকারিতা, হৃদযন্ত্রের অকার্যকারিতা, অ্যাডিসনস ডিজিজ (অ্যাড্রেনাল গ্রন্থির রোগ) এবং চিকিৎসা না করা হাইপোথাইরয়েডিজম (থাইরয়েড হরমোনের ঘাটতি)- এই সমস্ত রোগীদের ক্ষেত্রে লিথিয়াম থেরাপি ব্যবহার করা সম্পূর্ণ নিষিদ্ধ।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy Category D. An increased incidence of cardiovascular abnormality has been noted in infants of women given lithium during the first 3 months of pregnancy, such use should be avoided unless essential. Breast feeding is not advised unless the benefits of lithium use outweigh the advantages.
+## BANGLA SECTION TEXT: pregnancy_lactation
+এটি প্রেগন্যান্সি ক্যাটাগরি ডি (Category D) ভুক্ত ঔষধ। গর্ভাবস্থার প্রথম ৩ মাসে যেসব মায়েরা লিথিয়াম গ্রহণ করেছেন, তাদের নবজাতকদের মধ্যে হৃদযন্ত্রের অস্বাভাবিকতা বা বিকলাঙ্গতার উচ্চ হার লক্ষ্য করা গেছে। তাই অত্যন্ত জরুরি প্রয়োজন না হলে গর্ভাবস্থায় এর ব্যবহার এড়িয়ে চলতে হবে। লিথিয়াম ব্যবহারের উপকারিতা স্তন্যদানের সুবিধার চেয়ে বেশি গুরুত্বপূর্ণ না হলে স্তন্যদানকালীন সময়ে এই ঔষধ ব্যবহার করা উচিত নয়।
+

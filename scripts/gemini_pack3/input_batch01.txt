@@ -1,0 +1,306 @@
+### drug=magnesium-sulfate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+E005 | INDICATED_FOR | seizures in eclampsia | - | indications | "prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia"
+E006 | INDICATED_FOR | seizures in acute uraemia | - | indications | "prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia"
+E007 | INDICATED_FOR | seizures in hypothyroidism | - | indications | "prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia"
+E011 | USE_IN | severe myocardial damage | contraindicated | contraindications | "severe damage to the muscular wall of the heart (myocardium)"
+E012 | USE_IN | significantly decreased kidney function | contraindicated | contraindications | "significantly decreased kidney function"
+P02-204 | CAUSES | reduction in blood pressure | - | interaction | "may cause a reduction in blood pressure"
+P02-211 | INTERACTS_WITH | digitalis glycosides | caution | precautions | "or those receiving digitalis glycosides"
+P02-213 | INTERACTS_WITH | central nervous system depressants | - | precautions | "or of central nervous system depressants"
+P02-214 | CAUSES | loss of patellar reflex | - | precautions | "signs of over dosage like loss of patellar reflex"
+P02-215 | CAUSES | weakness | - | precautions | "weakness"
+P02-216 | CAUSES | nausea | - | precautions | "nausea"
+P02-217 | CAUSES | sensation of warmth | - | precautions | "sensation of warmth"
+P02-218 | CAUSES | flushing of skin | - | precautions | "flushing of skin"
+P02-219 | CAUSES | drowsiness | - | precautions | "drowsiness"
+P02-220 | CAUSES | double vision | - | precautions | "double, vision"
+P02-221 | CAUSES | slurred speech | - | precautions | "slurred speech"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+B009 | USE_IN | myocardium (severity not stated) | contraindicated | contraindications | "মায়োকার্ডিয়াম"
+B005 | INDICATED_FOR | seizures (prevention and control), cause not named | - | indications | "খিচুনি প্রতিরোধ, ও নিয়ন্ত্রনেও ব্যবহার করা হয়"
+P02-201 | USE_IN | muscle weakness | caution | precautions | "পেশীদৌবর্ল্য … পর্যবেক্ষন করতে হবে"
+P02-194 | CAUSES | hypotension | - | interaction | "নিম্নরক্তচাপ হতে পারে"
+B010 | USE_IN | kidney function (degree not stated) | contraindicated | contraindications | "কিডনীর স্বাভাবিক ক্রিয়াতে"
+## ENGLISH SECTION TEXT: contraindications
+Magnesium Sulfate contra-indicated in the case of a defect of the heart's electrical message pathways resulting in decreased function of the heart (heart block), severe damage to the muscular wall of the heart (myocardium) and significantly decreased kidney function.
+## BANGLA SECTION TEXT: contraindications
+ম্যাগনেসিয়াম সালফেট হার্ট ব্লক, মায়োকার্ডিয়াম এবং কিডনীর স্বাভাবিক ক্রিয়াতে প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+Magnesium Sulfate injection is indicated mainly for the treatment of hypomagnesaemia and magnesium deficiency states. Irregular heart beats, some time it may be used as a laxative. Magnesium Sulfate injection is used in the treatment of magnesium deficiency. Magnesium Sulfate has anticonvulsant properties when administered parentally, it may be used to prevent or control of Seizures associated with acute uremia, hypothyroidism and eclampsia. It is also used in bronchial asthma & cardiovascular disorder.
+## BANGLA SECTION TEXT: indications
+ম্যাগনেসিয়াম সালফেট ইনজেকশন সাধারনত হাইপারম্যাগনেসেমিয়া চিকিৎসার জন্য এবং ম্যাগনেসিয়াম এর ঘাটতি পূরণে ব্যবহার করা হয়। মাঝে মাঝে এটি অনিয়মিত হৃদস্পন্দন এবং রোচক ঔষধ হিসেবেও ব্যবহার করা হয়। মাগনেসিয়াম সালফেটের খিচুনি বিরোধী বৈশিষ্ট্য আছে যদি মাংসপেশীতে প্রয়োগ করা হয়। এটি খিচুনি প্রতিরোধ, ও নিয়ন্ত্রনেও ব্যবহার করা হয়। এটি অ্যাজমা ও হার্টের ব্যাধিতেও ব্যবহার করা হয়।
+## ENGLISH SECTION TEXT: interaction
+With medicine
+: Magnesium Sulfate may cause a reduction in blood pressure when taken together with Calcium channel blockers such as nifedipine. There may be an increase in the effects of neuromuscular blocking agents when given together with Magnesium Sulfate. When Magnesium Sulfate is given together with the following medicines there may be a risk of respiratory depression on high-dose barbiturates, opioids and aminoglycosides antibiotics.
+With food & others
+: There is no interaction of Magnesium Sulfate with food & others.
+## BANGLA SECTION TEXT: interaction
+অন্যান্য ঔষধের সাথে
+: ম্যাগনেসিয়াম সালফেট ক্যালসিয়াম চ্যানেল ব্লকার (নিফেডিপিন) এর সাথে দেওয়া হলে নিম্নরক্তচাপ হতে পারে। ম্যাগনেসিয়াম সালফেট স্নায়ুপেশীরোধক ঔষধের সাথে দেওয়া হলে তার প্রভাব বাড়িয়ে দিতে পারে। ম্যাগনেসিয়াম সালফেট নিম্নোক্ত ঔষধের সাথে দেওয়া হলে শ্বাসযন্ত্রের বিষণ্নতা হতে পারে।
+বারবিচুরেটস
+ওপিওয়েডস
+অ্যামিনোগ্লাইকোসাইওস অ্যান্টিবায়োটিকস
+খাবারের সাথে
+: কোন তথ্য পাওয়া যায়নি।
+## ENGLISH SECTION TEXT: precautions
+Magnesium salts should be administered with caution to patients with impaired renal function or those receiving digitalis glycosides. Parenteral administration of magnesium salts may enhance the effect of neuromuscular blocking agents or of central nervous system depressants. Monitor blood pressure, respiratory rate, urinary output and for signs of over dosage like loss of patellar reflex, weakness, nausea, sensation of warmth, flushing of skin, drowsiness, double, vision and slurred speech.
+## BANGLA SECTION TEXT: precautions
+রেচনতন্ত্রের জটিলতা, পেশীদৌবর্ল্য, গর্ভাবস্থায়, সিরাম-ম্যাগনেসিয়াম সমাহরন / ঘনীভবন পর্যবেক্ষন করতে হবে।
+
+### drug=misoprostol
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+E025 | CAUSES | abortifacient effect | - | pregnancy_lactation | "abortifacient property"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+(none)
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Because of the abortifacient property of the Misoprostol component, it is contraindicated in women who are pregnant. It should not be used in women of childbearing potential unless the patient requires nonsteroidal anti-inflammatory drug (NSAID) therapy and is at high risk of developing gastric or duodenal ulceration or for developing complications from gastric or duodenal ulcers associated with the use of the NSAID. In such patients, it may be prescribed if the patient:
+has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
+is capable of complying with effective contraceptive measures.
+has received both oral and written warnings of the hazards of Misoprostol, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+will begin it only on the second or third day of the next normal menstrual period.
+Excretion of the active metabolite (Misoprostol acid) into milk is possible but has not been studied. Because of the potential for serious adverse reactions in nursing infants, it is not recommended for use by nursing mothers.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভবতী মহিলাদের ক্ষেত্রে মিসোপ্রোষ্টল প্রতিনির্দেশিত। গর্ভবতী হতে পারে এমন মহিলাদের ক্ষেত্রেও এটা ব্যবহার করা উচিত নয়, যদি না উক্ত রোগীর এন.এস.এ.আই.ডি থেরাপী প্রয়োজন হয় এবং অনুরূপ ওষুধজনিত গ্যাস্ট্রিক আলসারের উচ্চ ঝুঁকি থাকে। ঐরূপ রোগীর ক্ষেত্রে মিসোপ্রোষ্টল তখনই দেয়া যাবে যদি-
+থেরাপী শুরুর ২ সপ্তাহ আগে রোগীর সিরাম গর্ভাবস্থা পরীক্ষা ঋণাত্মক হয়ে থাকে।
+রোগী কার্যকর গর্ভনিরোধক পদ্ধতি গ্রহণ করতে পারে।
+মিসোপ্রোষ্টল ব্যবহারের সমস্যা, এর ব্যবহারে গর্ভনিরোধ পদ্ধতির সম্ভাব্য ব্যর্থতার ঝুঁকি- এসব বিষয়ে মৌখিক ও লিখিত উভয় প্রকার সতর্কতা বাণী জেনে থাকলে।
+রোগী পরবর্তী স্বাভাবিক রজাচক্রের ২য় বা ৩য় দিন মিসোপ্রোষ্টল থেরাপী শুরু করে।
+মিসোপ্রোষ্টলের কার্যকর মেটাবোলাইট (মিসোপ্রোষ্টল এসিড) বুকের দুধের মাধ্যমে নিঃসৃত হওয়া সম্ভব কিনা এখনও গবেষণা করা হয়নি। নবজাতকদের ক্ষেত্রে মারাত্মক প্রতিক্রিয়া ঘটাতে পারে বলে স্তন্যদায়ী মায়েদের ক্ষেত্রেপ্রযোজ্য নয়।
+
+### drug=azithromycin-dihydrate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+E107 | INDICATED_FOR | non-gonococcal urethritis and cervicitis due to Chlamydia tr | - | indications | "non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis"
+P01-033 | INTERACTS_WITH | antacids | - | interaction | "In patients receiving azithromycin and antacids, azithromycin should be taken at least 1 hour before or 2 hours after the antacid."
+P01-043 | INTERACTS_WITH | Terfenadine | - | interaction | "Azithromycin did not affect the pharmacokinetics of terfenadine administered at the recommended dose of 60 mg every 12 hours."
+P01-044 | CAUSES | angioneurotic oedema | - | precautions | "rare serious allergic reactions, including angioneurotic oedema and anaphylaxis, has been reported."
+P01-045 | CAUSES | anaphylaxis | - | precautions | "rare serious allergic reactions, including angioneurotic oedema and anaphylaxis, has been reported."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+B051 | INDICATED_FOR | typhoid fever | - | indications | "টাইফয়েড জ্বরেও নির্দেশিত"
+B050 | INDICATED_FOR | uncomplicated genital infection due to Chlamydia trachomatis | - | indications | "ক্ল্যামাইডিয়া ট্রাকোমাটিস জনিত জননাঙ্গের অজটিল সংক্রমণে"
+P01-031 | INTERACTS_WITH | cimetidine | - | interaction | "ওয়ারফারিন, থিওফাইলিন, কার্বামাজিপিন, মিথাইলপ্রেডনিসোলন ও সিমেটিডিনের সাথে এজিথ্রোমাইসিনের কোন মিথষ্ক্রিয়া নেই।"
+P01-024 | CAUSES | ergotism | - | interaction | "কারণ এজিথ্রোমাইসিনের সাথে সাইটোক্রোম পি-৪৫০ এর বিক্রিয়ার ফলে আরগোটিজম দেখা দিতে পারে।"
+## ENGLISH SECTION TEXT: indications
+Azithromycin Dihydrate is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Azithromycin is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis.
+## BANGLA SECTION TEXT: indications
+এজিথ্রোমাইসিন ডাইহাইড্রেট সংবেদনশীল অনুজীব সমূহের দ্বারা সৃষ্ট সংক্রমণসমূহ যেমনঃ ব্রংকাইটিস ও নিউমোনিয়াসহ নিঃশ্বাসতন্ত্রের সংক্রমণ, ত্বক ও কোমল কোষকলার সংক্রমণ, মধ্যকর্ণের প্রদাহ, সাইনুসাইটিস, ফ্যারিনজাইটিস ও টনসিলাইটিস সহ ঊর্ধ্বশ্বাসতন্ত্রীয় সংক্রমণে নির্দেশিত। এটি ক্ল্যামাইডিয়া ট্রাকোমাটিস জনিত জননাঙ্গের অজটিল সংক্রমণে এবং টাইফয়েড জ্বরেও নির্দেশিত।
+## ENGLISH SECTION TEXT: interaction
+Antacid
+: In patients receiving azithromycin and antacids, azithromycin should be taken at least 1 hour before or 2 hours after the antacid. Carbamazepine: In a pharmacokinetic interaction study in healthy volunteers, no significant effect was observed on the plasma levels of carbamazepine or its active metabolite.
+Cyclosporin
+: Some of the related macrolide antibiotics interfere with the metabolism of cyclosporin. In the absence of conclusive data from pharmacokinetic studies or clinical data investigating potential interactions between azithromycin and cyclosporine, caution should be exercised before co-administration of these two drugs. If coadministrations is necessary, cyclosporin levels should be monitored and the dose adjusted accordingly.
+Digoxin
+: Some of the macrolide antibiotics have been reported to impair the metabolism of digoxin (in the gut) in some patients. Therefore, in patients receiving concomitant azithromycin and digoxin the possibility of raised digoxin levels should be borne in mind and digoxin levels monitored.
+Ergot derivatives
+: Because of the theoretical possibility of ergotism, azithromycin and ergot derivatives should not be co-administered.
+Methylprednisolone
+: In a pharmacokinetic interaction study in healthy volunteers, azithromycin had no significant effect on the pharmacokinetics of methylprednisolone.
+Theophylline
+: There is no evidence of any pharmacokinetic interaction when azithromycin and theophylline are co-administered to healthy volunteers. In general, however, theophylline levels should be monitored.
+Warfarin
+: In a pharmacodynamic interaction study, azithromycin did not alter the anticoagulant effect of a single 15 mg dose of warfarin administered to healthy volunteers. Azithromycin and warfarin may be co-administered, but monitoring of the prothrombin time should be continued as routinely performed.
+Terfenadine
+: Azithromycin did not affect the pharmacokinetics of terfenadine administered at the recommended dose of 60 mg every 12 hours. Addition of azithromycin did not result in any significant changes in cardiac repolarisation (QTc interval) measured during the steady state dosing of terfenadine.
+## BANGLA SECTION TEXT: interaction
+খাদ্য অথবা এন্টাসিডের উপস্থিতিতে এজিথ্রোমাইসিনের শোষণ কমে যায়। আরগোট এলকালয়েড গ্রহণকারী রোগীদের ক্ষেত্রে একইসাথে এজিথ্রোমাইসিন ব্যবহার করা উচিত নয়, কারণ এজিথ্রোমাইসিনের সাথে সাইটোক্রোম পি-৪৫০ এর বিক্রিয়ার ফলে আরগোটিজম দেখা দিতে পারে। ম্যাক্রোলাইডসমূহ যেহেতু সাইক্লোস্পোরিন ও ডিজক্সিনের প্লাজমা মাত্রা বাড়িয়ে দেয়, সেহেতু এজিথ্রোমাইসিনের সাথে এদের ব্যবহারের ক্ষেত্রে সতর্কতা অবলম্বন করতে হবে। ওয়ারফারিন, থিওফাইলিন, কার্বামাজিপিন, মিথাইলপ্রেডনিসোলন ও সিমেটিডিনের সাথে এজিথ্রোমাইসিনের কোন মিথষ্ক্রিয়া নেই।
+## ENGLISH SECTION TEXT: precautions
+As with erythromycin and other macrolides, rare serious allergic reactions, including angioneurotic oedema and anaphylaxis, has been reported. Some of these reactions with azithromycin have resulted in recurrent symptoms and required a long period of observation and treatment.
+## BANGLA SECTION TEXT: precautions
+অন্যান্য এন্টিবায়োটিকের মতোই অসংবেদনশীল অনুজীবঘটিত অতিসংক্রমণ (ফাঙ্গাল অতিসংক্রমণসহ) ঘটনার ব্যাপারে সতর্ক থাকতে হবে। মাত্রাধিক্য বৃক্কীয় বৈকল্যতার ক্ষেত্রে এটির ব্যবহারে সতর্কতা অবলম্বন করতে হবে।
+
+### drug=albendazole
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G01-019 | INDICATED_FOR | Strongyloides | - | indications | "Strongyloides"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+(none)
+## ENGLISH SECTION TEXT: indications
+Albendazole is indicated in single and mixed infestations of-
+Hookworm (Ancylostoma, Necator)
+Roundworm (Ascaris)
+Threadworm (Enterobius)
+Whipworm (Trichuris)
+Strongyloides
+Tapeworm
+Opisthorchi
+Hydatid.
+## BANGLA SECTION TEXT: indications
+এ্যালবেনডাজল নিম্নোক্ত একক বা মিশ্র ইনফেস্টেশনে নির্দেশিত-
+হুকওয়ার্ম (এনকাইলোষ্টোমা, নেকাটর)
+কেঁচোকৃমি (এসকারিস)
+সূতাকৃমি (এন্টারোবিয়াস)
+হুইপওয়ার্ম (ট্রাইচুরিস)
+গোলকৃমি
+ফিতাকৃমি
+ওপিসথর্কি
+স্থূলকোষ কৃমি বিশেষ (হাইডাটিড)।
+
+### drug=amoxicillin-clavulanic-acid
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G01-057 | CAUSES | teratogenic effect | - | pregnancy_lactation | "Animal studies with orally and parenterally administered Co-amoxiclav have shown no teratogenic effect."
+G01-058 | CAUSES | untoward effect | - | pregnancy_lactation | "The drug has been used orally in human pregnancy in a limited number of cases with no untoward effect;"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G01-070 | CAUSES | effect on fetal organ development | - | pregnancy_lactation | "প্রাণীদের ক্ষেত্রে মুখে এবং প্যারেন্টেরাল কো-অ্যামোক্সিক্লাভ প্রয়োগের পর গর্ভস্থ প্রাণীর অংগ বিকাশের উপর কোন প্রভাব লক্ষ্য করা যায় না।"
+G01-071 | CAUSES | adverse reaction | - | pregnancy_lactation | "নির্দিষ্ট সংখ্যক রোগীদের ক্ষেত্রে গর্ভাবস্থায় এ ওষুধ মুখে প্রয়োগের পর কোনরূপ বিরূপ প্রতিক্রিয়া দেখা যায় নাই।"
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Animal studies with orally and parenterally administered Co-amoxiclav have shown no teratogenic effect. The drug has been used orally in human pregnancy in a limited number of cases with no untoward effect; however, the use of Co-amoxiclav in pregnancy is not recommended unless considered essential by the physician. During lactation, trace quantities of Amoxicillin can be detected in breast milk.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রাণীদের ক্ষেত্রে মুখে এবং প্যারেন্টেরাল কো-অ্যামোক্সিক্লাভ প্রয়োগের পর গর্ভস্থ প্রাণীর অংগ বিকাশের উপর কোন প্রভাব লক্ষ্য করা যায় না। নির্দিষ্ট সংখ্যক রোগীদের ক্ষেত্রে গর্ভাবস্থায় এ ওষুধ মুখে প্রয়োগের পর কোনরূপ বিরূপ প্রতিক্রিয়া দেখা যায় নাই। তথাপি চিকিৎসক কর্তৃক একান্ত অপরিহার্য বিবেচিত না হলে গর্ভাবস্থায় কো-অ্যামোক্সিক্লাভ গ্রহণ করা উচিত নয়। স্তন্যদানকালীন সময়ে খুবই সামান্য পরিমাণ এমোক্সিসিলিন মাতৃদুগ্ধে পাওয়া যায় ।
+
+### drug=aspirin
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G01-125 | CAUSES | problems in the unborn child | - | pregnancy_lactation | "because it may cause problems in the unborn child"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G01-141 | CAUSES | harm to the unborn child | - | pregnancy_lactation | "কারণ ইহা গর্ভে অবস্থানরত শিশুর ক্ষতি করতে পারে"
+## ENGLISH SECTION TEXT: pregnancy_lactation
+It is especially important not to use aspirin during the last 3 months of pregnancy unless specifically directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Aspirin penetrates into breast milk. So, it should be administered with caution to lactating mothers.
+## BANGLA SECTION TEXT: pregnancy_lactation
+ইহা বিশেষভাবে উল্লেখ্য যে, সুনির্দিষ্টভাবে নির্দেশিত না হলে গর্ভাবস্থার শেষ ৩ মাসে এ্যাসপিরিন ব্যবহার করা উচিত নয়, কারণ ইহা গর্ভে অবস্থানরত শিশুর ক্ষতি করতে পারে এবং প্রসবের সময় সমস্যা সৃষ্টি করতে পারে। এ্যাসপিরিন মাতৃদুগ্ধে নিঃসৃত হয়, তাই দুগ্ধদানকারী মায়েদের ক্ষেত্রে ইহা সতর্কতার সাথে ব্যবহার করা উচিত।
+
+### drug=atenolol
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G01-155 | CAUSES | Clinically significant bradycardia | - | pregnancy_lactation | "Clinically significant bradycardia has been reported in breast-fed infants."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P07-437 | USE_IN | hemodialysis | caution | special_populations | "হেমােডায়ালাইসিসের রােগীদের প্রতি ডায়ালাইসিসের পর ২৫ মিগ্রা অথবা ৫০ মিগ্রা প্রয়ােগ করতে হবে। যেহেতু এক্ষেত্রে রক্তচাপ উল্লেখযােগ্য হারে কমে যাওয়ার সম্ভাবনা থ"
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy Category D. Caution should be exercised when Atenolol is administered to a nursing woman. Clinically significant bradycardia has been reported in breast-fed infants. Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
+## BANGLA SECTION TEXT: pregnancy_lactation
+প্রেগনেন্সি ক্যাটাগরি ডি (এটি গর্ভাবস্থায় সেবন নিষিদ্ধ)। স্তন্যদানকারী মায়ের ক্ষেত্রে এটিনোলল প্রয়ােগে সর্তকা অবলম্বন করা উচিত। এক্ষেত্রে দুগ্ধ গ্রহণকারী শিশুর মারাত্মক ব্রাডিকার্ডিয়া (স্বাভাবিকের চেয়ে কম হৃদস্পন্দন) হওয়ার তথ্য পাওয়া গেছে। অপরিনত ভাবে জন্ম নেওয়া শিশু অথবা কিডনীর কার্যকারিতার সমস্যা আছে এমন শিশুর ক্ষেত্রে বিরূপ প্রতিক্রিয়ার সম্ভাবনা আরও বেশি হতে পারে।
+## ENGLISH SECTION TEXT: special_populations
+Elderly Patients or Patients with Renal Impairment: Atenolol is excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, refecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. The following maximum oral dosages are recommended for elderly, renal impaired patients and for patients with renal impairment due to other causes:
+Creatinine clearance 15-35 ml/min/1.73 m
+2
+: Maximum dosage 50 mg daily
+Creatinine clearance <15 mL/min/1.73 m
+2
+: Maximum dosage 25 mg daily
+Some renal impaired or elderly patients being treated for hypertension may require a lower starting dose of Atenolol: 25 mg given as one tablet a day. Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; this should be done under hospital supervision as marked falls in blood pressure can occur.
+## BANGLA SECTION TEXT: special_populations
+বয়স্ক রােগী অথবা রেনাল ইমপেযইয়ারমেন্ট রােগীর ক্ষেত্রে (যে সকল রােগীর কিডনীর অকার্যকারীতার সমস্যা রয়েছে): এটিনোলল কিডনী দ্বারা নিঃসৃত হয়; তাই যেসকল রােগীর মারাত্মক কিডনীর অকার্যকারীতার সমস্যা রয়েছে তাদের ক্ষেত্রে ওষুধটির মাত্রা সমন্বয় করা উচিত। সাধারণত, বয়স্ক রােগীর মাত্রা নির্বাচনের ক্ষেত্রে সর্তকতা অবলম্বন করা উচিত এবং তা স্বাভাবিকভাবে মাত্রা পরিসীমার সর্বনিম্ন মাত্রা দিয়ে চিকিৎসা শুরু করা উচিত। তাছাড়া মাত্রা নির্ধারণের ক্ষেত্রে রােগীর লিভার, কিডনী অথবা হৃদপিণ্ডের কার্যকারিতা এবং রােগীর অন্যান্য রােগ অথবা রােগী অন্য যেসকল ওষুধ ব্যবহার করছেন সে বিষয়গুলােও বিবেচনায় আনতে হবে। বয়স্ক রােগী, যেসকল রােগীর কিডনীর অকার্যকারীতার সমস্যা রয়েছে এবং অন্য কোন কারণে যদি রােগীর কিডনীর অকার্যকারীতার সমস্যা থাকে সেক্ষেত্রে নির্দেশিত মুখে সেব্য সর্বোচ্চ মাত্রা নিম্নে বর্ণিত হলাে:
+ক্রিয়েটিনিন ক্লিয়ারেন্স ১৬-২৭ মিলি/মিনিট/১.৭৩ বর্গ মিটার: সর্বোচ্চ মাত্রা দৈনিক ৫০ মিগ্রা
+ক্রিয়েটিনিন ক্লিয়ারেন্স >১৫ মিলি/মিনিট/১.৭৩ বর্গ মিটার: সর্বোচ্চ মাত্রা দৈনিক ২৫ মিগ্রা
+কিছু রােগী যাদের বৃক্কের/কিডনীর অকার্যকারীতার সমস্যা রয়েছে অথবা বয়স্ক রােগী, তাদের ক্ষেত্রে উচ্চরক্তচাপের চিকিৎসার শুরুতে এটিনোললের প্রারম্ভিক মাত্রা কম হওয়া প্রয়ােজন: ২৫ মিগ্রা এর একটি ট্যাবলেট দিনে একবার। হেমােডায়ালাইসিসের রােগীদের প্রতি ডায়ালাইসিসের পর ২৫ মিগ্রা অথবা ৫০ মিগ্রা প্রয়ােগ করতে হবে। যেহেতু এক্ষেত্রে রক্তচাপ উল্লেখযােগ্য হারে কমে যাওয়ার সম্ভাবনা থাকে তাই রােগীকে হাসপাতালে চিকিৎসকের তত্ত্বাবধানে এই চিকিৎসা দিতে হবে।
+
+### drug=atorvastatin-calcium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G01-181 | CAUSES | congenital anomalies | - | pregnancy_lactation | "Rare reports of congenital anomalies following intrauterine exposure to HMG-CoA reductase inhibitors have been received."
+P08-032 | USE_IN | history of liver disease | caution | precautions | "or have a history of liver disease"
+P08-033 | USE_IN | markedly elevated CPK levels | avoid | precautions | "Atorvastatin therapy should be discontinued if markedly elevated CPK levels occur"
+P08-035 | USE_IN | pediatric population | no data | special_populations | "Pharmacokinetic data in the pediatric population are not available"
+P08-037 | USE_IN | chronic alcoholic liver disease | caution | special_populations | "In patients with chronic alcoholic liver disease, plasma concentrations of Atorvastatin are markedly increased"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P08-007 | INTERACTS_WITH | antihypertensive drugs | - | interaction | "উচ্চ রক্তচাপ বিরোধী অথবা হাইপোগ্লাইসেমিক ঔষধের সাথে এটরভাসটাটিনের কোন উল্লেখযোগ্য ক্লিনিক্যাল প্রতিক্রিয়া জানা যায়নি"
+P08-008 | INTERACTS_WITH | hypoglycemic drugs | - | interaction | "হাইপোগ্লাইসেমিক ঔষধের"
+G01-201 | CAUSES | birth defects | - | pregnancy_lactation | "দুর্লভ ক্ষেত্রে, HMG-CoA রিডাকটেজ ইনহিবিটরের গর্ভকালীন ব্যবহারে জন্মগত ত্রুটি এর সম্পর্ক দেখা যায়।"
+P08-016 | USE_IN | elevated CPK | avoid | precautions | "CPK লেভেল অতিরিক্ত বৃদ্ধি পেলে … এটরভাসটাটিন থেরাপি বন্ধ করতে হবে"
+P08-018 | USE_IN | liver problem | caution | special_populations | "লিভারের সমস্যায় আক্রান্ত রোগীদের ক্ষেত্রে এ্যাটোরভাস্টাটিন সতর্কতার সাথে সেবন করতে হবে"
+P08-019 | USE_IN | children under 10 | contraindicated | special_populations | "১০ বছরের নিচের শিশুদের কে দেওয়া যাবে না"
+## ENGLISH SECTION TEXT: interaction
+The risk of myopathy during treatment with drugs of this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, niacin (nicotinic acid), erythromycin, azole antifungals.
+Antacid
+: When atorvastatin and antacid suspension were coadministered, plasma concentrations of atorvastatin decreased approximately 35%. However, LDL-C reduction was not altered.
+Colestipol
+: Plasma concentrations of atorvastatin decreased approximately 25% when colestipol and atorvastatin were coadministered. However, LDL-C reduction was greater when atorvastatin and colestipol were coadministered than when either drug was given alone.
+Digoxin
+: When multiple doses of atorvastatin and digoxin were coadministered, steady-state plasma digoxin concentrations increased by approximately 20%. Patients taking digoxin should be monitored appropriately.
+Erythromycin
+: In healthy individuals, plasma concentrations of atorvastatin increased approximately 40% with coadministration of atorvastatin and erythromycin, a known inhibitor of cytochrome P450 3A4.
+Oral Contraceptives
+: Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%. These increases should be considered when selecting an oral contraceptive for a woman taking atorvastatin.
+Warfarin
+: Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
+## BANGLA SECTION TEXT: interaction
+এটরভাসটাটিনের সাথে সাইক্লোস্পোরিন, ফিব্রিক এসিড ডেরিভেটিভ, এরিথ্রোমাইসিন, এজোল এন্টিফাংগাল এবং নিয়াসিন প্রদান করলে মায়োপ্যাথি হবার ঝুঁকি বেড়ে যায়। উচ্চ রক্তচাপ বিরোধী অথবা হাইপোগ্লাইসেমিক ঔষধের সাথে এটরভাসটাটিনের কোন উল্লেখযোগ্য ক্লিনিক্যাল প্রতিক্রিয়া জানা যায়নি। এটরভাসটাটিনের সাথে ডিগক্সিন, এরিথ্রোমাইসিন, ওরাল কন্ট্রাসেপটিভ, কলেস্টিপল, এন্টাসিড এবং ওয়ারফারিন দেয়া হলে রোগীকে নিবিড় পর্যবেক্ষণে রাখতে হবে।
+## ENGLISH SECTION TEXT: precautions
+Liver effects: Liver function tests should be performed before the initiation of treatment and periodically thereafter. Atorvastatin should be used with caution in patients who consume substantial quantities of alcohol or have a history of liver disease. Atorvastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+## BANGLA SECTION TEXT: precautions
+যকৃতের উপর প্রভাবঃ চিকিৎসা শুরুর আগে এবং চিকিৎসা শুরুর পরে নির্দিষ্ট সময়ের ব্যবধানে যকৃতের কার্যকারিতার পরীক্ষাগুলো করতে হবে। যাদের যকৃতের রোগ আছে অথবা যারা অতিরিক্ত পরিমাণে এলকোহল সেবন করে তাদের ক্ষেত্রে সতর্কতার সাথে এটরভাসটাটিন ব্যবহার করতে হবে। CPK লেভেল অতিরিক্ত বৃদ্ধি পেলে অথবা মায়োপ্যাথি দেখা দিলে বা দেখা দেওয়ার সম্ভাবনা থাকলে এটরভাসটাটিন থেরাপি বন্ধ করতে হবে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy
+: Atorvastatin is contraindicated during pregnancy. Safety in pregnant women has not been established. No controlled clinical trials with atorvastatin have been conducted in pregnant women. Rare reports of congenital anomalies following intrauterine exposure to HMG-CoA reductase inhibitors have been received. Animal studies have shown toxicity to reproduction. Maternal treatment with atorvastatin may reduce the fetal levels of mevalonate which is a precursor of cholesterol biosynthesis. Atorvastatin should not be used in women who are pregnant, trying to become pregnant or suspect they are pregnant. Treatment with atorvastatin should be suspended for the duration of pregnancy or until it has been determined that the woman is not pregnant
+Lactation
+: It is not known whether atorvastatin or its metabolites are excreted in human milk. In rats, plasma concentrations of atorvastatin and its active metabolites are similar to those in milk. Because of the potential for serious adverse reactions, women taking atorvastatin should not breastfeed their infants. Atorvastatin is contraindicated during breastfeeding.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থায়
+: গর্ভাবস্থায় এ্যাটোরভাস্টাটিন গ্রহন সম্পূর্ণ নিষিদ্ধ। গর্ভবতী মহিলাদের ক্ষেত্রে এটির নিরাপদ ব্যবহার এখনও প্রতিষ্ঠিত হয়নি। গর্ভবতী মহিলাদের উপর এ্যাটোরভাস্টাটিন সম্পর্কিত কোন নিয়ন্ত্রিত ক্লিনিক্যাল ট্রায়েল করা হয় নাই। দুর্লভ ক্ষেত্রে, HMG-CoA রিডাকটেজ ইনহিবিটরের গর্ভকালীন ব্যবহারে জন্মগত ত্রুটি এর সম্পর্ক দেখা যায়। প্রানিদের ক্ষেত্রে প্রজননে বিষক্রিয়া দেখা গিয়েছে। প্রসব কালীন চিকিৎসায় এ্যাটোরভাস্টাটিনের ব্যবহার ভ্রুনের মেভালোনেটের (কোলেস্টেরল উৎপাদনের প্রধান উপাদান) মাত্রা কমিয়ে দেয়। গর্ভবতী, গর্ভধারনের চেষ্টা করছেন এমন অথবা যাদের গর্ভবতী হওয়ার সম্ভাবনা রয়েছে এরূপ মহিলাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন ব্যবহার করা যাবে না। গর্ভাবস্থায় বা যতদিন প্রমানিত না হয় যে রোগী গর্ভবর্তী ততদিন এ্যাটোরভাস্টাটিনের ব্যবহার বন্ধ রাখতে হবে।
+স্তন্যদান
+: এ্যাটোরভাস্টাটিন বা এর কোন মেটাবোলাইট মাতৃদুগ্ধ থেকে নিঃসৃত হয় নাকি সেটা এখন জানা যায়নি। ইঁদুরের ক্ষেত্রে, এ্যাটোরভাস্টাটিনের প্লাজমা ঘনত্ব দুগ্ধে নিঃসৃত এ্যাটোরভাস্টাটিনের সমতুল্য। তীব্র পার্শ্বপ্রতিক্রিয়া থাকার কারনে যে সকল মহিলারা তাদের বাচ্চাদের স্তন্যদান করেন তাদের ক্ষেত্রে এ্যাটোরভাস্টাটিন না ব্যবহার করাই উচিত। এ্যাটোরভাস্টাটিন স্তন্যদানকালে সেবনযোগ্য নয়।
+## ENGLISH SECTION TEXT: special_populations
+Geriatric
+: Plasma concentrations of Atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age 65 years) than in young adults. Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults.
+Pediatric
+: Pharmacokinetic data in the pediatric population are not available.
+Gender
+: There is no clinically significant difference in LDL-C reduction with Atorvastatin between men and women.
+Renal Insufficiency
+: Renal disease has no influence on the plasma concentrations or LDL-C reduction of Atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary.
+Hemodialysis
+: Hemodialysis is not expected to significantly enhance clearance of Atorvastatin since the drug is extensively bound to plasma proteins.
+Hepatic Insufficiency
+: In patients with chronic alcoholic liver disease, plasma concentrations of Atorvastatin are markedly increased.
+## BANGLA SECTION TEXT: special_populations
+যকৃতের (লিভারের) সমস্যা
+: লিভারের সমস্যায় আক্রান্ত রোগীদের ক্ষেত্রে এ্যাটোরভাস্টাটিন সতর্কতার সাথে সেবন করতে হবে।
+শিশুদের ক্ষেত্রে
+: ১০ বছর বা তার অধিক বয়সী রোগীদের ক্ষেত্রে এ্যাটোরভাস্টাটিন প্রারম্ভিক দৈনিক মাত্রা ১০মিঃগ্রাঃ থেকে শুরু করে টাইট্রেশনের মাধ্যমে ২০মিঃগ্রাঃ পর্যন্ত দেওয়া যাবে। ১০ বছরের নিচের শিশুদের কে দেওয়া যাবে না।
+
+### drug=cabergoline
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G02-003 | INDICATED_FOR | conditions caused by hormonal disturbance | - | indications | "Cabergoline can also be used to treat other conditions caused by hormonal disturbance which can result in high levels of prolactin being produced."
+P02-107 | USE_IN | hypersensitivity to ergot alkaloids | contraindicated | precautions | "to other medicines called ergot alkaloids"
+P02-114 | USE_IN | pregnancy induced hypertension | avoid | precautions | "Dopamine agonists in general should not be used in patients with pregnancy induced hypertension"
+P02-115 | CAUSES | orthostatic hypotension | - | precautions | "Initial doses higher than 1.0 mg may produce orthostatic hypotension"
+P02-116 | INTERACTS_WITH | medications known to lower blood pressure | caution | precautions | "Care should be exercised when administering cabergoline with other medications known to lower blood pressure"
+P02-117 | USE_IN | physiologic lactation | not recommended | precautions | "Cabergoline is not indicated for the inhibition or suppression of physiologic lactation"
+P02-118 | USE_IN | hepatic impairment | caution | precautions | "caution should be used when administering cabergoline to patients with hepatic impairment"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G02-018 | USE_IN | high blood pressure in pregnancy (pregnancy toxemia) | contraindicated | contraindications | "প্রস্রাবে ফোলা এবং প্রোটিনের সাথে যুক্ত গর্ভাবস্থায় উচ্চ রক্তচাপ (গর্ভাবস্থা টক্সেমিয়া)"
+P02-088 | USE_IN | ergot alkaloids | contraindicated | precautions | "এরগট অ্যালকালয়েড নামক অন্যান্য ওষুধের প্রতি"
+G02-014 | INDICATED_FOR | conditions caused by high levels of prolactin due to hormona | - | indications | "হরমোনজনিত কারণে উচ্চ মাত্রার প্রোল্যাকটিন তৈরিতে সৃষ্ট অন্যান্য সমস্যার চিকিৎসার জন্যও কেবারগোলিন ব্যবহার করা যেতে পারে।"
+## ENGLISH SECTION TEXT: contraindications
+History of serious mental disease, particularly psychotic disorders Liver or kidney disease High blood pressure in
+pregnancy associated with swelling and protein in the urine (toxaemia of pregnancy) Antipsychotic or have a history of mental illness associated with child-birth (puerperal psychosis).
+## BANGLA SECTION TEXT: contraindications
+গুরুতর মানসিক রোগের ইতিহাস, বিশেষ করে মানসিক ব্যাধি
+লিভার বা কিডনি রোগ
+প্রস্রাবে ফোলা এবং প্রোটিনের সাথে যুক্ত গর্ভাবস্থায় উচ্চ রক্তচাপ (গর্ভাবস্থা টক্সেমিয়া)
+অ্যান্টিসাইকোলিকস বা সন্তান-জন্মের সাথে সম্পর্কিত মানসিক অসুস্থতার ইতিহাস রয়েছে (পিয়ারপেরাল সাইকোসিস)
+## ENGLISH SECTION TEXT: indications
+Cabergoline is used to stop breast milk production (lactation) soon after childbirth, stillbirth, abortion or miscarriage. It can also be used if do not want to continue to breastfeed. Cabergoline can also be used to treat other conditions caused by hormonal disturbance which can result in high levels of prolactin being produced.
+## BANGLA SECTION TEXT: indications
+প্রসব, মৃতবাচ্চা, গর্ভপাতের সময় বুকের দুধ উৎপাদন বন্ধ করতে কেবারগোলিন ব্যবহার করা হয়। বুকের দুধ খাওয়ানো চালিয়ে যেতে না চাইলেও এটি ব্যবহার করা যেতে পারে। হরমোনজনিত কারণে উচ্চ মাত্রার প্রোল্যাকটিন তৈরিতে সৃষ্ট অন্যান্য সমস্যার চিকিৎসার জন্যও কেবারগোলিন ব্যবহার করা যেতে পারে।
+## ENGLISH SECTION TEXT: precautions
+Hypersensitive (allergic) to Cabergoline, to other medicines called ergot alkaloids, (e.g. pergolide, bromocriptine, lisuride, ergotamine or ergometrine) or to any of the other ingredients in the tablet
+Severe liver disease
+High blood pressure in pregnancy associated with swelling and protein in the urine (toxaemia of pregnancy)
+Anti-psychotics or have a history of mental illness associated with child-birth (puerperal psychosis)
+Pregnant or breastfeeding
+Treated with Cabergoline for a long period and have or had fibrotic reactions (scar tissue) affecting your heart
+Dopamine agonists in general should not be used in patients with pregnancy induced hypertension, for example, pre-eclampsia and eclampsia, unless the potential benefit is judged to outweigh the possible risk. Initial doses higher than 1.0 mg may produce orthostatic hypotension. Care should be exercised when administering cabergoline with other medications known to lower blood pressure. Cabergoline is not indicated for the inhibition or suppression of physiologic lactation. Use of bromocriptine, another dopamine agonist for this purpose, has been associated with cases of hypertension, stroke, and seizures. Since cabergoline is extensively metabolized by the liver, caution should be used when administering cabergoline to patients with hepatic impairment. Following diagnosis of pleural effusion or pulmonary fibrosis or valvulopathy, the discontinuance of cabergoline has been reported to result in improvement of signs and symptoms.
+## BANGLA SECTION TEXT: precautions
+কেবারগোলিন এর প্রতি অতিসংবেদনশীল (অ্যালার্জিক), এরগট অ্যালকালয়েড নামক অন্যান্য ওষুধের প্রতি, (যেমন, পেরগোলাইড, ব্রোমোক্রিপ্টিন, লিসুরাইড, এরগোটামিন বা এরগোমেট্রিন) বা ট্যাবলেটের অন্যান্য
+গুরুতর লিভার রোগ
+গর্ভাবস্থায় উচ্চ রক্তচাপ প্রস্রাবে ফোলা এবং প্রোটিনের সাথে যুক্ত (গর্ভাবস্থার টক্সেমিয়া)
+অ্যান্টি-সাইকোটিকস বা শিশুর জন্মের সাথে সম্পর্কিত মানসিক অসুস্থতার ইতিহাস রয়েেছ (পিউয়েরপেরাল সাইকোসিস)
+গর্ভবতী বা বুকের দুধ খাওয়ানো
+দীর্ঘ সময়ের জন্য ফার্টিকাবের সাথে চিকিৎসা করা হয়েছে এবং আপনার হৃদয়কে প্রভাবিত করে ফাইব্রোটিক প্রতিক্রিয়া (স্কার টিস্যু) হয়েছে।
+
+### drug=calcium-gluconate
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G02-059 | INDICATED_FOR | Calcium Gluconate deficiency states | - | indications | "Used in the treatment of Calcium Gluconate deficiency states"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G02-074 | INDICATED_FOR | calcium deficiency | - | indications | "ক্যালসিয়াম এর ঘাটতি পূরণে"
+## ENGLISH SECTION TEXT: indications
+Used in the treatment of Calcium Gluconate deficiency states & as a dietary supplement when intake may be inadequate In. Calcium Gluconate is used in-
+Severe hypoglycemic tetany
+Hypoparathyroidism
+Vitamin D-deficiency
+Osteoporosis and
+Extreme hypercalcemia
+## BANGLA SECTION TEXT: indications
+ক্যালসিয়াম এর ঘাটতি পূরণে এবং খাদ্যতালিকায় পর্যাপ্ত পরিমাণে না থাকলে তার সম্পূরক হিসাবে ব্যবহৃত হয়। ক্যালসিয়াম গ্লুকোনেট ব্যবহৃত হয়-
+গুরুতর হাইপোগ্লাইসেমিক টিটানিতে
+হাইপোপ্যারা থাইরয়েডিজমে
+ভিটামিন ডি-এর অভাবে
+অস্টিওপোরোসিস এবং
+চরম হাইপারক্যালসেমিয়ায়
+

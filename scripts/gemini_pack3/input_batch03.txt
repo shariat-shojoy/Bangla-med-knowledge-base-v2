@@ -1,0 +1,319 @@
+### drug=dexamethasone
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G03-205 | INDICATED_FOR | contact dermatitis | - | indications | "contact dermatitis"
+G03-207 | INDICATED_FOR | perennial or seasonal allergic rhinitis | - | indications | "perennial or seasonal allergic rhinitis"
+G03-223 | INDICATED_FOR | congenital (erythroid) hypoplastic anemia (Diamond-Blackfan  | - | indications | "congenital (erythroid) hypoplastic anemia (Diamond-Blackfan anemia)"
+G03-232 | INDICATED_FOR | ocular inflammatory conditions | - | indications | "ocular inflammatory conditions unresponsive to topical corticosteroids."
+G03-236 | INDICATED_FOR | fulminating or disseminated pulmonary tuberculosis | - | indications | "fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy"
+G03-244 | INDICATED_FOR | juvenile rheumatoid arthritis | - | indications | "juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy)"
+G03-249 | INDICATED_FOR | trichinosis | - | indications | "trichinosis with neurologic or myocardial involvement"
+G03-254 | USE_IN | Viral infections of the eye | contraindicated | contraindications | "Viral infections of the eye."
+G03-261 | USE_IN | breast-feed | avoid | pregnancy_lactation | "Mothers taking high dosages of corticosteroids should be advised not to breast-feed"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G03-292 | INDICATED_FOR | inflammatory diseases of the eye | - | indications | "এবং চোখের বিভিন্ন প্রদাহজনিত রোগ যেখানে স্থানীয়ভাবে কর্টিকোস্টেরয়েড কার্যকরী নয়।"
+G03-296 | INDICATED_FOR | tuberculosis | - | indications | "তীব্র আকারে যক্ষা হলে অন্যান্য ওষুধের পাশাপাশি"
+G03-288 | INDICATED_FOR | craniotomy | - | indications | "ক্রোনিওটোমি"
+G03-281 | INDICATED_FOR | congenital (erythroid) hypoplastic anemia | - | indications | "জন্মগত (ইরাইথ্রয়েড) হাইপোপ্লাস্টিক অ্যানিমিয়া"
+G03-308 | INDICATED_FOR | trichinosis with neurologic or myocardial involvement | - | indications | "ট্রাইকিনোসিসে স্নায়ু কিংবা মায়োকার্ডিয়াম আক্রান্ত হলে"
+G03-289 | INDICATED_FOR | head injury | - | indications | "বা মস্তিষ্কের আঘাতে।"
+G03-265 | INDICATED_FOR | various types of rhinitis | - | indications | "বিভিন্ন প্রকার রাইনাইটিস"
+G03-317 | USE_IN | lactation | avoid | pregnancy_lactation | "উচ্চমাত্রায় গ্লুকোকর্টিয়েড গ্রহণকারী মায়েদের স্তন্যদান বন্ধ রাখতে হবে।"
+## ENGLISH SECTION TEXT: contraindications
+Gastric and duodenal ulcers.
+Systemic and ophthalmic fungal infections.
+Viral infections, e.g. varicella and herpes genitalis infections. Viral infections of the eye.
+Glaucoma.
+Hypersensitivity to corticosteroids
+## BANGLA SECTION TEXT: contraindications
+গ্যাস্ট্রিক এবং ডিওডেনাল আলসার
+সিস্টেমিক এবং চোখে ছত্রাকের সংক্রমণ ভাইরাস সংক্রমণ, যেমন- ভেরিসেলা, হারপেস জেনিটালিস বা চোখে ভাইরাসের সংক্রমণ ইত্যাদি
+Glucoma
+কর্টিকোস্টেরয়েডের প্রতি অতিসংবেদনশীলতা
+## ENGLISH SECTION TEXT: indications
+Dexamethasone is indicated in-
+Allergic states
+: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis and serum sickness.
+Collagen disease
+: Like lupus erythematosus, rheumatoid arthritis etc.
+Dermatologic diseases
+: Bullous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus and severe erythema multiforme (Stevens-Johnson syndrome).
+Endocrine disorders
+: Primary or secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with cancer and nonsuppurative thyroiditis.
+Gastrointestinal diseases
+: Regional enteritis and ulcerative colitis.
+Hematologic disorders
+: Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond-Blackfan anemia), idiopathic thrombocytopenic purpura in adults and selected cases of secondary thrombocytopenia.
+Neoplastic diseases
+: Leukemias and lymphomas.
+Nervous system
+: Acute exacerbations of multiple sclerosis, cerebral edema associated with primary or metastatic brain tumor, craniotomy or head injury.
+Ophthalmic diseases
+: Temporal arteritis, uveitis, and ocular inflammatory conditions unresponsive to topical corticosteroids.
+Renal diseases
+: To induce a diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus.
+Respiratory diseases
+: Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
+Rheumatic disorders
+: As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute rheumatic carditis, ankylosing spondylitis, psoriatic arthritis, rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy). For the treatment of dermatomyositis, polymyositis, and systemic lupus erythematosus.
+Miscellaneous
+: Diagnostic testing of adrenocortical hyperfunction, trichinosis with neurologic or myocardial involvement, tuberculous meningitis with subarachnoid block or impending block when used with appropriate antituberculous chemotherapy.
+## BANGLA SECTION TEXT: indications
+এলার্জি
+: এ্যাজমা, এটপিক ডার্মাটাইটিস, ওষুধের প্রতি অতি সংবেদনশীলতা, বিভিন্ন প্রকার রাইনাইটিস এবং সেরাম সিকনেস। এসব ক্ষেত্রে প্রচলিত সাধারণ চিকিৎসা কার্যকরী না হলে বা রোগ তীব্র মাত্রায় হলে ডেক্সোনেক্স নির্দেশিত।
+কোলাজেন ডিজিজ
+: যেমন লুপাস ইরাইদেমাটোসাস, রিউমাটয়েড আর্থ্রাইটিস।
+চর্মরোগ
+: বুলাস ডার্মাটাইটিস হারপেটিফরমিস, এক্সফলিয়েটিভ ইরাইথ্রোডার্মা, মাইকোসি ফাংগয়েডস, পেমফিংগাস এবং তীব্র পর্যায়ে ইরাইদেমা মাল্টিফরমি (স্টিভেন জনসন সিন্ড্রোম)।
+এন্ড্রোক্রাইন ডিজিজ
+: প্রাথমিক বা দ্বিতীয় পর্যায়ে এ্যাডরেনোকর্টিকাল ঘাটতি, জন্মগত এ্যাডরেনাল হাইপারপ্লাসিয়া, ক্যানসারজনিত হাইপারক্যালসিমিয়া এবং ননসাপুরেটিভ থাইরয়েডাইটিস।
+পরিপাকতন্ত্র জনিত সমস্যা
+: রিজিওনাল এন্টারাইটিস, আলসারেটিভ কোলাইটিস।
+হেমাটোলজিক্যাল ডিজিজ
+: একোয়ার্ড (অটোইমিউন) হেমোলাইটিক অ্যানিমিয়া, জন্মগত (ইরাইথ্রয়েড) হাইপোপ্লাস্টিক অ্যানিমিয়া, ইডিওপ্যাথিক থ্রম্বোসাইটোপেনিক পুরপুরা এবং সেকেন্ডারি থ্রম্বোসাইটোপেনিয়ায় কিছু কিছু ক্ষেত্রে এটি নির্দেশিত।
+নিউপ্লাস্টিক ডিজিজ
+: লিউকেমিয়া এবং লিম্ফোমা ।
+স্নায়ুতন্ত্রের সমস্যা
+: মাল্টিপল স্ক্লেরোসিসের তীব্র পর্যায়, মস্তিষ্কের প্রাথমিক অথবা মেটাস্টেটিক টিউমারের সাথে ইডিমা থাকলে, ক্রোনিওটোমি বা মস্তিষ্কের আঘাতে।
+চক্ষু জনিত সমস্যা
+: টেম্পোরাল আর্টারাইটিস, ইউভিয়াইটিসহ এবং চোখের বিভিন্ন প্রদাহজনিত রোগ যেখানে স্থানীয়ভাবে কর্টিকোস্টেরয়েড কার্যকরী নয়।
+কিডনী জনিত রোগ
+: ইডিওপ্যাথিক নেফ্রোটিক সিন্ড্রোম বা লুপাস ইরাইদেমাটোসাস এ প্রস্রাবের নির্গমন বাড়াতে অথবা প্রোটিনিউরিয়া প্রতিরোধ করতে।
+শ্বসনতন্ত্রের রোগ
+: বেরিলিওসিস, তীব্র আকারে যক্ষা হলে অন্যান্য ওষুধের পাশাপাশি, ইডিওপ্যাথিক ইউসিনোফিলিক নিউমোনিয়া, লক্ষণযুক্ত সারকয়েডোসিস।
+রিউম্যাটিক ডিজিজ
+: তীব্র মাত্রায় বাতজনিত আথ্রাইটিস, তীব্র মাত্রায় রিউম্যাটিক কার্ডাইটিস, অ্যানকাইলোসিং স্পন্ডিলাইটিস, সোরিয়াটিক আথ্রাইটিস, রিউমাটয়েড আথ্রাইটিস, ডারমাটোমায়োসাইটিস, পলিমায়োসাইটিস, সিসটেমিক লুপাস ইরাইদেমাটোসাস।
+অন্যান্য
+: অ্যাডরেনোকর্টিক্যাল হাইপারফাংশন নির্ণয়ে, ট্রাইকিনোসিসে স্নায়ু কিংবা মায়োকার্ডিয়াম আক্রান্ত হলে, যক্ষাজনিত মেনিনজাইটিস প্রভৃতি ক্ষেত্রে নির্দেশিত।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy Category C.There are no adequate and well-controlled studies in pregnant women. Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Glucocorticoids appear in breast milk.Mothers taking high dosages of corticosteroids should be advised not to breast-feed
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থা ও স্তন্যদানকালে ব্যবহার
+: প্রেগনেন্সি ক্যাটাগরি- সি। মাতৃদুগ্ধে নিঃসৃত হওয়ায় উচ্চমাত্রায় গ্লুকোকর্টিয়েড গ্রহণকারী মায়েদের স্তন্যদান বন্ধ রাখতে হবে।
+
+### drug=diazepam
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G03-320 | INDICATED_FOR | agitation | - | indications | "agitation"
+G03-324 | INDICATED_FOR | anxiety states | - | indications | "anxiety states with somatic expression"
+G03-325 | INDICATED_FOR | acute alcohol withdrawal | - | indications | "acute alcohol withdrawal"
+G03-326 | INDICATED_FOR | status epilepticus | - | indications | "status epilepticus"
+G03-329 | INDICATED_FOR | insomnia | - | indications | "insomnia of hospitalized patients."
+G03-330 | INDICATED_FOR | intermittent, stereotypic episodes of frequent seizure activ | - | indications | "Diazepam nasal spray is indicated for the acute treatment of intermittent, stereotypic episodes of frequent seizure activity (i.e., seizure clusters, acute repe"
+G03-332 | USE_IN | pulmonary insufficiency | contraindicated | contraindications | "pulmonary insufficiency"
+G03-334 | USE_IN | hypersensitivity to bezodiazepine | contraindicated | contraindications | "and hypersensitivity to bezodiazepine."
+G03-335 | TRANSFERS_TO | placental barrier | - | pregnancy_lactation | "Diazepam and its active metabolites cross the placental barrier"
+P03-405 | INTERACTS_WITH | general anesthetics | caution | interaction | "general anesthetics"
+P03-406 | INTERACTS_WITH | narcotic analgesics | caution | interaction | "narcotic analgesics"
+P03-407 | INTERACTS_WITH | antidepressants | caution | interaction | "antidepressants"
+P03-415 | USE_IN | history of drug or alcohol abuse | caution | precautions | "history of drug or alcohol abuse"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G03-343 | INDICATED_FOR | alcohol withdrawal symptoms | - | indications | "এলকোহল প্রত্যাহারের লক্ষনাদির চিকিৎসায়"
+G03-352 | TRANSFERS_TO | placenta | - | pregnancy_lactation | "ডায়াজিপাম এবং এর বিপাকীয় যৌগ প্লাসেন্টায় প্রবেশ করে।"
+G03-348 | USE_IN | respiratory hypersensitivity | contraindicated | contraindications | "শ্বাসযন্ত্রের উচ্চ সংবেদনশীলতা"
+P03-398 | USE_IN | alcohol abuse | contraindicated | precautions | "এলকোহলের অপব্যবহার … সে সকল ক্ষেত্রে ডায়াজিপাম ব্যবহার করা যাবে না"
+G03-345 | INDICATED_FOR | seizures in epileptic patients | - | indications | "মৃগী রােগীর খিচুনি প্রতিরােধে"
+G03-344 | INDICATED_FOR | muscle spasms | - | indications | "মাংশপেশীর খিচুনি"
+G03-349 | USE_IN | reduced pulmonary function | contraindicated | contraindications | "ফুসফুসের হ্রাসকৃত কার্যকারিতা"
+## ENGLISH SECTION TEXT: contraindications
+Diazepam is contraindicated in myasthenia gravis, pulmonary insufficiency, respiratory depression and hypersensitivity to bezodiazepine.
+## BANGLA SECTION TEXT: contraindications
+শ্বাসযন্ত্রের উচ্চ সংবেদনশীলতা, ফুসফুসের হ্রাসকৃত কার্যকারিতা, রেসপিরেটরী ডিপ্রেশন, মাইয়েস্থেনিয়া গ্রাভিস-এ সকল ক্ষেত্রে ডায়াজিপাম ব্যবহার করা যাবে না।
+## ENGLISH SECTION TEXT: indications
+Diazepam is indicated for the short-term treatment of mild to moderate anxiety, excitation, agitation, fear, aggressiveness, etc. Anxiety reactions caused by stressed conditions, anxiety states with somatic expression, acute alcohol withdrawal, status epilepticus, premedication for surgical procedures, febrile convulsions, insomnia of hospitalized patients.
+Diazepam nasal spray is indicated for the acute treatment of intermittent, stereotypic episodes of frequent seizure activity (i.e., seizure clusters, acute repetitive seizures) that are distinct from a patient’s usual seizure pattern in patients with epilepsy 6 years of age and older.
+## BANGLA SECTION TEXT: indications
+মৃদু থেকে মাঝারী দুশ্চিন্তা, অতি উত্তেজনা, ভয়, উগ্র স্বভাব এসব ক্ষেত্রে ডায়াজিপাম স্বল্পকালীন চিকিৎসায় ব্যবহৃত হয়। এলকোহল প্রত্যাহারের লক্ষনাদির চিকিৎসায়, মাংশপেশীর খিচুনি, মৃগী রােগীর খিচুনি প্রতিরােধে, অস্ত্রোপচারের প্রাক-চিকিৎসায়, জ্বর জনিত খিঁচুনি ডায়াজিপাম ব্যবহৃত হয়।
+## ENGLISH SECTION TEXT: interaction
+Concomitant intake with alcohol is not recommended. Sedation may be increased due to concomitant use of neuroleptics (antipsychotics), hypnotics, sedative antihistamines and CNS depressants e.g., general anesthetics, narcotic analgesics or antidepressants. Diazepam clearance is increased by concomitant administration of phonobarbitone and is decreased by administration of cimetidine. Omeprazole and isoniazide inhibit diazepam metabolism.
+## BANGLA SECTION TEXT: interaction
+এলকোহলের সাথে ডায়াজিপাম এর ব্যবহার নির্দেশিত নয়। স্নায়ুতন্ত্রীয় ওষুধ, হিপনােটিক, নিদ্রা উদ্রেককারী এন্টিহিস্টামিন এবং কেন্দ্রীয় স্নায়ুতন্ত্র অবসাদকারী ওষুধের সাথে ডায়াজিপাম এর ব্যবহারে নিদ্রালুতা বৃদ্ধি পেতে পারে। ফেনােবারবিটোন ডায়াজিপাম এর নিঃসরণ বৃদ্ধি করে এবং সিমেটিডিন হ্রাস করে। ওমিপ্রাজল এবং আইসােনিয়াজাইড ডায়াজিপাম এর বিপাক ক্রিয়ায় বাঁধা প্রদান করে।
+## ENGLISH SECTION TEXT: precautions
+Prolonged use and abrupt withdrawal should be avoided. Diazepam should be used with caution in respiratory disease, muscle weakness, history of drug or alcohol abuse, in hepatic or renal impairment.
+## BANGLA SECTION TEXT: precautions
+দীর্ঘদিন ব্যবহার এবং হঠাৎ ওষুধ বন্ধ করে দেয়া থেকে বিরত থাকতে হবে। যেসব রােগীর যকৃতের সমস্যা আছে বা কিডনির সমস্যা আছে, মাংশপেশীর দুর্বলতা, এলকোহলের অপব্যবহার কিংবা শ্বাসযন্ত্রের রােগ আছে সে সকল ক্ষেত্রে ডায়াজিপাম ব্যবহার করা যাবে না।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Diazepam and its active metabolites cross the placental barrier and also pass into breast milk. So, it should be avoided if possible during pregnancy and lactation. US FDA pregnancy category D.
+## BANGLA SECTION TEXT: pregnancy_lactation
+ডায়াজিপাম এবং এর বিপাকীয় যৌগ প্লাসেন্টায় প্রবেশ করে। এছাড়া মাতৃদুগ্ধেও এর উপস্থিতি লক্ষ্য করা যায়। তাই গর্ভাবস্থা ও স্তন্যদানকালে এর ব্যবহার পরিহার করা উচিত। USFDA প্রেগনেন্সি ক্যাটেগরী-ডি।
+
+### drug=diclofenac-sodium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-001 | INDICATED_FOR | rheumatism | - | indications | "Inflammatory and degenerative forms of rheumatism"
+G04-002 | INDICATED_FOR | chronic involutive | - | indications | "chronic involutive"
+G04-003 | INDICATED_FOR | polyarthritis | - | indications | "polyarthritis"
+G04-005 | INDICATED_FOR | osteoarthritis | - | indications | "osteoarthritis"
+G04-006 | INDICATED_FOR | spondylarthroses | - | indications | "spondylarthroses"
+G04-008 | INDICATED_FOR | peri-articular rheumatic disorders | - | indications | "peri-articular rheumatic disorders"
+G04-012 | INDICATED_FOR | fractures | - | indications | "fractures"
+G04-013 | INDICATED_FOR | soft tissue injuries | - | indications | "softtissue injuries"
+G04-014 | INDICATED_FOR | surgical interventions | - | indications | "surgical interventions"
+G04-015 | INDICATED_FOR | primary dysmenorrhoea | - | indications | "Primary dysmenorrhoea"
+G04-016 | INDICATED_FOR | episiotomy | - | indications | "episiotomy"
+G04-017 | INDICATED_FOR | adnexitis | - | indications | "adnexitis"
+G04-018 | INDICATED_FOR | endometritis | - | indications | "endometritis"
+G04-019 | INDICATED_FOR | parametritis | - | indications | "parametritis"
+G04-020 | INDICATED_FOR | salpingitis | - | indications | "salpingitis"
+G04-021 | INDICATED_FOR | mastitis | - | indications | "mastitis"
+G04-023 | INDICATED_FOR | post-operative and post-traumatic pain, inflammation, and sw | - | indications | "Post-operative and post-traumatic pain, inflammation, and swelling"
+G04-024 | INDICATED_FOR | urogenital tract operation pain, inflammation, and swelling | - | indications | "prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract"
+G04-025 | INDICATED_FOR | renal and biliary colic | - | indications | "renal and biliary colic"
+G04-026 | USE_IN | hypersensitivity to any ingredient | contraindicated | contraindications | "Contraindicated to the patients hypersensitive to any ingredient of the products."
+G04-028 | USE_IN | hypersensitivity to diclofenac or other NSAIDs | contraindicated | contraindications | "hypersensitivity to Diclofenac like other non-steroid anti-inflammatory agents"
+G04-029 | USE_IN | asthmatic patient with attacks precipitated by acetylsalicyl | contraindicated | contraindications | "asthmatic patient in whom attack with asthma, urticaria or acute rhinitis are precipitated by acetylsalicylic acid or by other drugs with prostaglandin syntheta"
+G04-030 | USE_IN | occlusive airtight dressings | avoid | contraindications | "This Gel should not be used under occlusive airtight dressings."
+G04-036 | CAUSES | undesirable effects on infant | - | pregnancy_lactation | "no undesirable effects on the infant to be expected."
+P04-024 | CAUSES | peptic ulceration | - | precautions | "rare instances where peptic ulceration or gastrointestinal bleeding occurs in patients under treatment with Diclofenac"
+P04-025 | CAUSES | gastrointestinal bleeding | - | precautions | "rare instances where peptic ulceration or gastrointestinal bleeding occurs in patients under treatment with Diclofenac"
+P04-026 | USE_IN | advanced age | caution | precautions | "In patients with advanced age should be kept under close observation"
+P04-029 | USE_IN | mouth | avoid | precautions | "not to be taken by mouth"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P04-006 | USE_IN | oral administration | avoid | precautions | "মুখে সেবন করা অনুচিত"
+G04-054 | INDICATED_FOR | pre-operative anti-inflammatory and swelling treatment | - | indications | "অস্ত্রোপচার-পূর্ববর্তী প্রদাহ ও ফোলা বিরোধী চিকিৎসায়"
+G04-037 | INDICATED_FOR | inflammatory and degenerative rheumatism | - | indications | "প্রদাহঘটিত ও অবশকারী বাত"
+G04-053 | INDICATED_FOR | ENT pain and inflammation | - | indications | "নাক, কান ও গলা সংক্রান্ত যে কোন ধরনের ব্যথা ও প্রদাহ"
+G04-062 | USE_IN | hypersensitivity to diclofenac, gel base, acetylsalicylic ac | contraindicated | contraindications | "ডাইক্লোফেনাক অথবা এর জেল বেস, অ্যাসিটাইল স্যালিসাইলিক এসিড অথবা অন্যান্য ননষ্টেরয়েডাল প্রদাহরোধী উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে আরডন জেল ব্যবহার "
+G04-069 | CAUSES | harm to neonate | - | pregnancy_lactation | "তবে তা নবজাতকের কোন ক্ষতি করার কথা নয়।"
+G04-046 | INDICATED_FOR | bone injury | - | indications | "হাড়ের আঘাত"
+G04-061 | USE_IN | asthma | not recommended | contraindications | "হাঁপানী রোগীদের ক্ষেত্রে নির্দেশিত নয়"
+G04-040 | INDICATED_FOR | bone inflammation | - | indications | "হাড়ের প্রদাহ"
+P04-003 | USE_IN | older patients | caution | precautions | "বেশি বয়স্ক রোগীদের ক্ষেত্রেও সতর্কতার সাথে ব্যবহার করা উচিত"
+G04-047 | INDICATED_FOR | deep soft tissue wound | - | indications | "কোমল পেশীর গভীর ক্ষত"
+G04-038 | INDICATED_FOR | chronic complex bone inflammation | - | indications | "দীর্ঘস্থায়ী, হাড়ের জটিল বহুমুখী প্রদাহ"
+G04-050 | INDICATED_FOR | uterine inflammation | - | indications | "জরায়ুর প্রদাহ"
+G04-041 | INDICATED_FOR | vertebral dislocation | - | indications | "কশেরুকার বিচ্যুতি"
+G04-052 | INDICATED_FOR | breast inflammation and swelling | - | indications | "স্তনে প্রদাহ এবং ফোলা"
+G04-059 | USE_IN | hypersensitivity to diclofenac sodium | not recommended | contraindications | "ডাইক্লোফেনাক সোডিয়াম অতিসংবেদনশীল"
+G04-056 | INDICATED_FOR | urinary and genital tract pain and swelling | - | indications | "মূত্রনালী ও জননেন্দ্রীয়ে ব্যথা, ফুলে যাওয়া"
+G04-058 | INDICATED_FOR | kidney and biliary tract pain | - | indications | "কিডনী পিত্তনালীর ব্যথায় ব্যবহার্য"
+G04-057 | INDICATED_FOR | post-operative pain and inflammation | - | indications | "অস্ত্রোপচারোত্তর ব্যথা ও প্রদাহ"
+G04-051 | INDICATED_FOR | genital tract inflammation | - | indications | "জনননালীর প্রদাহ"
+G04-048 | INDICATED_FOR | severe surgical wound and injury pain | - | indications | "তীব্র ব্যথা অস্ত্রোপচারজনিত ক্ষত ও আঘাত"
+G04-049 | INDICATED_FOR | painful menstruation | - | indications | "ব্যথাযুক্ত ঋতুস্রাব"
+P04-002 | USE_IN | gastrointestinal bleeding | caution | precautions | "পেপটিক আলসার অথবা পরিপাকতন্ত্রের রক্তক্ষরণ হচ্ছে এমন রোগীদের ক্ষেত্রে সতর্কতার সাথে ব্যবহার করা উচিত"
+G04-063 | USE_IN | closed and airtight dressing | contraindicated | contraindications | "বন্ধ এবং বায়ুরোধী ড্রেসিং এর ক্ষেত্রে আব্রডন জেল ব্যবহার করা যাবে না।"
+## ENGLISH SECTION TEXT: contraindications
+Contraindicated to the patients hypersensitive to any ingredient of the products. Peptic ulcer, hypersensitivity to Diclofenac like other non-steroid anti-inflammatory agents, Diclofenac is also contra-indicated in asthmatic patient in whom attack with asthma, urticaria or acute rhinitis are precipitated by acetylsalicylic acid or by other drugs with prostaglandin synthetase inhibitor. This Gel should not be used under occlusive airtight dressings.
+## BANGLA SECTION TEXT: contraindications
+ডাইক্লোফেনাক সোডিয়াম অতিসংবেদনশীল, সক্রিয় পেপটিক আলসার এবং হাঁপানী রোগীদের ক্ষেত্রে নির্দেশিত নয়। ডাইক্লোফেনাক অথবা এর জেল বেস, অ্যাসিটাইল স্যালিসাইলিক এসিড অথবা অন্যান্য ননষ্টেরয়েডাল প্রদাহরোধী উপাদানের প্রতি অতিসংবেদনশীল রোগীদের ক্ষেত্রে আরডন জেল ব্যবহার করা যাবে না। বন্ধ এবং বায়ুরোধী ড্রেসিং এর ক্ষেত্রে আব্রডন জেল ব্যবহার করা যাবে না।
+## ENGLISH SECTION TEXT: indications
+Diclofenac Sodium is indicated in-
+Rheumatology
+: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.
+Surgery and Traumatology
+: Sprain, bruises, dislocations, fractures, softtissue injuries, surgical interventions.
+Obstetrics and Gynecology
+: Primary dysmenorrhoea, episiotomy, adnexitis, endometritis, parametritis, salpingitis, and mastitis.
+Otorhinolaryngology
+: As pre-operative medication for the prevention of pain, inflammation, and swelling.
+Dentistry
+: Post-operative and post-traumatic pain, inflammation, and swelling.
+Other indications
+: For the prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract, renal and biliary colic.
+## BANGLA SECTION TEXT: indications
+বাত সংক্রান্ত রোগ
+: প্রদাহঘটিত ও অবশকারী বাত, দীর্ঘস্থায়ী, হাড়ের জটিল বহুমুখী প্রদাহ, কশেরুকার আড়ষ্টকারী প্রদাহ, হাড়ের প্রদাহ, কশেরুকার বিচ্যুতি, তীব্র বাত, গেঁটে বাত (অর্থ্রাইটিস)।
+অস্ত্রোপচার ও আঘাতজনিত
+: মচকানো, কালশিরে, বিচ্যুতি, হাড়ের আঘাত, কোমল পেশীর গভীর ক্ষত, তীব্র ব্যথা অস্ত্রোপচারজনিত ক্ষত ও আঘাত।
+ধাত্রী ও স্ত্রীরোগ
+: ব্যথাযুক্ত ঋতুস্রাব, জরায়ুর প্রদাহ, জনননালীর প্রদাহ, স্তনে প্রদাহ এবং ফোলা।
+নাক-কান-গলা
+: নাক, কান ও গলা সংক্রান্ত যে কোন ধরনের ব্যথা ও প্রদাহ। অস্ত্রোপচার-পূর্ববর্তী প্রদাহ ও ফোলা বিরোধী চিকিৎসায়।
+দাঁত ব্যথা
+: অস্ত্রোপচারের পরবর্তী ও আঘাতের ফলে সৃষ্ট ব্যথা, প্রদাহ এবং ফোলা।
+অন্যান্য
+: মূত্রনালী ও জননেন্দ্রীয়ে ব্যথা, ফুলে যাওয়া, অস্ত্রোপচারোত্তর ব্যথা ও প্রদাহ, কিডনী পিত্তনালীর ব্যথায় ব্যবহার্য।
+## ENGLISH SECTION TEXT: precautions
+In rare instances where peptic ulceration or gastrointestinal bleeding occurs in patients under treatment with Diclofenac. In patients with advanced age should be kept under close observation. Diclofenac Sodium Gel should not be allowed to come in contact with the eyes or mucus membranes, after application the hands should be washed properly and not to be taken by mouth.
+## BANGLA SECTION TEXT: precautions
+পেপটিক আলসার অথবা পরিপাকতন্ত্রের রক্তক্ষরণ হচ্ছে এমন রোগীদের ক্ষেত্রে সতর্কতার সাথে ব্যবহার করা উচিত। বেশি বয়স্ক রোগীদের ক্ষেত্রেও সতর্কতার সাথে ব্যবহার করা উচিত। চোখ অথবা মিউকাস মেমব্রেনকে আরডন জেল এর সংস্পর্শে আনা যাবে না। প্রয়োগের পর হাত ভাল করে ধুয়ে নিতে হবে। মুখে সেবন করা অনুচিত।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+During pregnancy, Diclofenac should be employed only for compelling reasons. The lowest effective dose should be used. These types of drugs are not recommended during the first trimester of pregnancy. In view of insufficient clinical data, Diclofenac Sodium Gel is not recommended during pregnancy. A very insignificant quantity of Diclofenac may be detected in breast milk but no undesirable effects on the infant to be expected.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভবর্তী মায়েদের ক্ষেত্রে অপরিহার্য না হলে ব্যবহার না করাই উত্তম। ক্ষেত্রবিশেষে স্বল্প মাত্রায় ব্যবহার করা যেতে পারে। প্রথম ট্রাইমেস্টারে ব্যবহার করা উচিত নয়। অপর্যাপ্ত ক্লিনিক্যাল তথ্যের কারণে ডাইক্লোফেনাক সোডিয়াম জেল গর্ভাবস্থায় ব্যবহার করা অনুচিত। মাতৃদুগ্ধে অতি অল্প পরিমাণ ডাইক্লোফেনাক থাকতে পারে, তবে তা নবজাতকের কোন ক্ষতি করার কথা নয়।
+
+### drug=dinoprostone
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-074 | USE_IN | hypersensitivity to this drug or to any ingredient in the fo | contraindicated | contraindications | "Hypersensitivity to this drug or to any ingredient in the formulation"
+G04-075 | USE_IN | patients in whom oxytocic drugs are contraindicated | contraindicated | contraindications | "Patients in whom oxytocic drugs are contraindicated"
+G04-076 | USE_IN | where prolonged contractions of the uterus are considered in | contraindicated | contraindications | "where prolonged contractions of the uterus are considered inappropriate"
+G04-077 | USE_IN | history of cesarean section | contraindicated | contraindications | "history of cesarean section"
+G04-078 | USE_IN | major uterine surgery | contraindicated | contraindications | "major uterine surgery"
+G04-079 | USE_IN | major degree of cephalopelvic disproportion | contraindicated | contraindications | "major degree of cephalopelvic disproportion"
+G04-080 | USE_IN | history of difficult labor | contraindicated | contraindications | "history of difficult labor"
+G04-081 | USE_IN | traumatic delivery | contraindicated | contraindications | "traumatic delivery"
+G04-084 | USE_IN | overdistention of the uterus | contraindicated | contraindications | "Patients with overdistention of the uterus"
+G04-085 | USE_IN | multiple pregnancy | contraindicated | contraindications | "multiple pregnancy"
+G04-086 | USE_IN | polyhydromnias | contraindicated | contraindications | "polyhydromnias"
+G04-087 | USE_IN | ruptured amniotic membranes | contraindicated | contraindications | "ruptured amniotic membranes"
+G04-088 | USE_IN | suspected chorioamnionitis | contraindicated | contraindications | "suspected chorioamnionitis"
+G04-090 | USE_IN | fetal malpresentation | contraindicated | contraindications | "fetal malpresentation"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G04-111 | USE_IN | fetal abnormality | contraindicated | contraindications | "ভ্রূণের অস্বাভাবিকতা"
+G04-104 | USE_IN | cephalopelvic disproportion | contraindicated | contraindications | "সেফালোপেলভিক অসামঞ্জস্যতা"
+G04-103 | USE_IN | history of cesarean section or uterine surgery | contraindicated | contraindications | "পূর্বে সিজারিয়ান সেকসন হয়ে থাকলে বা জরায়ু অস্ত্রোপচার"
+G04-102 | USE_IN | patients in whom oxytocic drugs are contraindicated or prolo | contraindicated | contraindications | "রোগীদের যাদের মধ্যে অক্সিটোসিক ওষুধ প্রতিনির্দেশিত বা যেখানে জরায়ুর দীর্ঘায়িত সংকোচন অনুপযুক্ত বলে মনে করা হয়"
+G04-101 | USE_IN | hypersensitivity to this drug or formulation ingredients | contraindicated | contraindications | "এই ওষুধের প্রতি অত্যধিক সংবেদনশীলতা বা ফর্মুলেশনের কোন উপাদান"
+G04-109 | USE_IN | ruptured amniotic membrane or suspected chorioamnionitis | contraindicated | contraindications | "ফেটে যাওয়া অ্যামনিওটিক মেমব্রেন বা সন্দেহজনক কোরিওঅ্যামনিওনাইটিস"
+G04-105 | USE_IN | history of difficult labor and/or traumatic delivery | contraindicated | contraindications | "জটিল প্রসবের ইতিহাস এবং/অথবা আঘাতমূলক ডেলিভারি"
+G04-108 | USE_IN | uterine overdistension (multiple pregnancy, polyhydramnios) | contraindicated | contraindications | "জরায়ুর অতিরিক্ত দূরত্বের রোগী (একাধিক গর্ভাবস্থা, পলিহাইড্রোমনিয়াস)"
+## ENGLISH SECTION TEXT: contraindications
+Dinoprostone Gel is contraindicated in the following patients: Hypersensitivity to this drug or to any ingredient in the formulation, Patients in whom oxytocic drugs are contraindicated or where prolonged contractions of the uterus are considered inappropriate, history of cesarean section or major uterine surgery, major degree of cephalopelvic disproportion, history of difficult labor and/or traumatic delivery, Grand multiparae with six or more previous term pregnancies, suspected or clinically evident pre-existing fetal distress, Patients with overdistention of the uterus (multiple pregnancy, polyhydromnias), ruptured amniotic membranes or suspected chorioamnionitis, Patients with unexplained vaginal bleeding during the pregnancy, fetal malpresentation, gynecological, obstetrical or medical conditions that preclude vaginal delivery, history of epilepsy, patients whose pregnancy is complicated by an abnormal position of the placenta or umbilical cord.
+## BANGLA SECTION TEXT: contraindications
+ডাইনোপ্রোস্টোন জেল নিম্নলিখিত রোগীদের জন্য প্রতিনির্দেশিত: এই ওষুধের প্রতি অত্যধিক সংবেদনশীলতা বা ফর্মুলেশনের কোন উপাদান, রোগীদের যাদের মধ্যে অক্সিটোসিক ওষুধ প্রতিনির্দেশিত বা যেখানে জরায়ুর দীর্ঘায়িত সংকোচন অনুপযুক্ত বলে মনে করা হয়, পূর্বে সিজারিয়ান সেকসন হয়ে থাকলে বা জরায়ু অস্ত্রোপচার, সেফালোপেলভিক অসামঞ্জস্যতা, জটিল প্রসবের ইতিহাস এবং/অথবা আঘাতমূলক ডেলিভারি, গ্র্যান্ড মাল্টিপ্যার সহ ছয় বা ততোধিক পূর্ববর্তী মেয়াদী গর্ভধারণ, সন্দেহভাজন বা ক্লিনিক্যালি রিপোর্টে পূর্ব বিদ্যমান ভ্রূণ, জরায়ুর অতিরিক্ত দূরত্বের রোগী (একাধিক গর্ভাবস্থা, পলিহাইড্রোমনিয়াস), ফেটে যাওয়া অ্যামনিওটিক মেমব্রেন বা সন্দেহজনক কোরিওঅ্যামনিওনাইটিস, গর্ভাবস্থায় অপ্রত্যাশিত যোনিপথে রক্তপাতের রোগী, ভ্রূণের অস্বাভাবিকতা, গাইনোকোলজিকাল, যোনিপথে প্রসবের বাধা দেয় এমন প্রসূতি বা চিকিৎসার অবস্থা, মৃগীরোগের ইতিহাস, যেসব রোগীর গর্ভাবস্থা প্লাসেন্টা বা নাভির কর্ডের অস্বাভাবিক অবস্থানের কারণে জটিল।
+
+### drug=doxycycline-hydrochloride
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G04-128 | INDICATED_FOR | lympho-granuloma venereum | - | indications | "Lympho-granuloma venereum"
+G04-129 | INDICATED_FOR | psittacosis | - | indications | "psittacosis"
+G04-132 | INDICATED_FOR | acute pelvic inflammatory disease | - | indications | "acute pelvic inflammatory disease"
+G04-142 | INDICATED_FOR | tularemia | - | indications | "tularemia"
+G04-143 | INDICATED_FOR | cellulitis | - | indications | "cellulitis"
+G04-151 | CAUSES | staining and effect on bone growth in foetus | - | pregnancy_lactation | "risk of both staining and effect on bone growth in the foetus."
+G04-153 | USE_IN | breastfeeding mothers | avoid | pregnancy_lactation | "mothers taking these drugs should not breastfeed their child."
+P04-057 | CAUSES | permanent discoloration of teeth | - | precautions | "may cause permanent discoloration of teeth"
+P04-061 | USE_IN | childhood to the age of 8 years | avoid | precautions | "childhood to the age of 8 years"
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G04-178 | INDICATED_FOR | tularemia cellulitis | - | indications | "টুলারেমিয়া সেলুলাইটিস"
+P04-045 | USE_IN | children under 8 | avoid | precautions | "৮ বছরের কম বয়স্ক শিশু"
+G04-183 | USE_IN | pregnant and lactating mothers | contraindicated | contraindications | "গর্ভবতী ও স্তন্যদানকারী মায়েদের ক্ষেত্রে"
+G04-168 | INDICATED_FOR | acute pelvic disease | - | indications | "একিউট পেলভিক ডিজিজ"
+G04-165 | INDICATED_FOR | venereum psittacosis | - | indications | "ভেনেরিয়াম লিটাকোসিস"
+G04-185 | CAUSES | risk to fetal bone growth | - | pregnancy_lactation | "ভ্রূণের হাড়ের বৃদ্ধিতে ইহা ঝুঁকির কারণ।"
+G04-164 | INDICATED_FOR | lymphogranuloma | - | indications | "লিম্ফোগ্রানুলোমা"
+P04-041 | CAUSES | permanent tooth discoloration | - | precautions | "দাঁতের রং পরিবর্তন হতে পারে"
+## ENGLISH SECTION TEXT: contraindications
+Doxycycline is contraindicated to the patients who have shown hypersensitivity to any of the tetracyclines. Doxycycline is contraindicated to the children under 8 years of age. It is also contraindicated to pregnant women and to the lactating mothers.
+## BANGLA SECTION TEXT: contraindications
+টেট্রাসাইক্লিনের প্রতি অতিসংবেদনশীলতা আছে এমন রােগীদের ক্ষেত্রে, ৮ বছর বয়সের নীচের শিশুদের ক্ষেত্রে এবং গর্ভবতী ও স্তন্যদানকারী মায়েদের ক্ষেত্রে প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: indications
+Doxycycline Hydrochloride is indicated in the following infections caused by susceptible microorganisms:
+Respiratory tract infections
+: Pneumonia, influenza, sinusitis, bronchitis, tonsillitis, tracheitis.
+Gastrointestinal tract infections
+: Cholera, traveler's diarrhea, shigella dysentery, acute intestinal amebiasis.
+Chlamydial infections
+: Lympho-granuloma venereum, psittacosis, trachoma.
+Sexually transmitted disease
+s: Non gonococcal urethritis, acute pelvic inflammatory disease, uncomplicated urethral and endocervical or rectal infections, gonorrhoea, syphilis, pyelonephritis, cystitis.
+Other infections
+: Impetigo, furunculosis, inclusion conjunctivitis, brucellosis, tularemia, cellulitis, acne and Q-fever.
+## BANGLA SECTION TEXT: indications
+ডক্সিসাইক্লিন হাইড্রোক্লোরাইড নিম্নোক্ত উপসর্গে নির্দেশিত-
+রেসপীরেটরী ট্রাক্ট ইনফেকশন
+: নিউমােনিয়া, ইনফ্লুয়েঞ্জা, সাইনুসাইটিস, ব্রঙ্কাইটিস, টনসিলাইটিস, ট্রাকিয়াইটিস।
+গ্রাস্ট্রোইনটেসটিনাল ইনফেকশন
+: কলেরা, ট্রাভেলারস ডায়রিয়া, সিজেলা ডিসেন্ট্রি, একিউট ইনটেসটিনাল এমেবিয়াসিস।
+ক্লামিডেল ইনফেকশন
+: লিম্ফোগ্রানুলোমা, ভেনেরিয়াম লিটাকোসিস, ট্রাকোমা।
+সেক্সুয়ালী ট্রান্সমিটেড ডিজিজেস
+: নন-গনকক্কাল ইউরেথ্রাইটিস, একিউট পেলভিক ডিজিজ, আনকমপ্লিকেটেড ইরেথ্রাল ও এন্ডােসারভাইকাল অথবা রেকটাল ইনফেকশন, গনােরিয়া, সিফিলিস, পাইলোনেফ্রাইটিস, সিসটাইসিস।
+অন্যান্য সংক্রমণ
+: ইমপেটিগাে, ফুরানকুলােসিস, ইনফ্লশন কনজাঙ্কটিভাইটিস, ব্রুসেলােসিস, টুলারেমিয়া সেলুলাইটিস, একনি ও কিউ-ফিভার।
+## ENGLISH SECTION TEXT: precautions
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of teeth. Tetracyclines drugs, therefore should not be used in this age group.
+## BANGLA SECTION TEXT: precautions
+শিশুদের (গর্ভাবস্থার শেষার্ধ, শৈশবকাল এবং ৮ বছরের কম বয়স্ক শিশু) দাঁতের গঠনের সময় টেট্রাসাইক্লিন এর ব্যবহারে স্থায়ীভাবে দাঁতের রং পরিবর্তন হতে পারে। তাই এই সময় টেট্রাসাইক্লিন ব্যবহার করা উচিত নয়।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Doxycycline should be avoided in pregnant women, because of the risk of both staining and effect on bone growth in the foetus. Doxycyclines enter breast milk, and mothers taking these drugs should not breastfeed their child.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভবতী মহিলাদের ক্ষেত্রে ডোক্সিসাইক্লিন এড়ানো উচিত, কারণ ভ্রূণের হাড়ের বৃদ্ধিতে ইহা ঝুঁকির কারণ। ডক্সিসাইক্লাইনগুলি মায়ের দুধে প্রবেশ করে এবং এই ওষুধ গ্রহণকারী মায়েরা তাদের সন্তানের বুকের দুধ খাওয়ানো থেকে বিরত থাকা উচিত।
+

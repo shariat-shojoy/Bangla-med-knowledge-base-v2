@@ -1,0 +1,66 @@
+﻿drug,en_id,bn_id,bn_evidence_span,en_evidence_span,confidence,note
+carbamazepine,G02-095,G02-108,,,high,
+carbamazepine,G02-096,G02-109,,,high,
+carbamazepine,G02-101,G02-114,,,high,
+carbamazepine,P03-067,P03-048,,,medium,Bangla translates 'skin reactions' as 'এলার্জি' (allergy) in the corresponding sentence
+carbamazepine,P03-070,,,,high,
+carbamazepine,P03-073,P03-055,,,high,
+carbamazepine,P03-075,P03-058,,,high,
+carbamazepine,P03-076,P03-057,,,high,
+carbamazepine,P03-077,P03-059,,,high,
+carbamazepine,P03-078,,গ্লুকোমা,,high,Bangla lists 'গ্লুকোমা' (glaucoma) without the general phrase 'raised pressure in the eye'
+carbamazepine,P03-080,P03-061,,,high,
+carbamazepine,,P03-051,,"Carbamazepine decreases the blood levels of hormonal contraceptives containing estrogen and/or progesterone, which may make the contraceptive ineffective or result in breakthrough bleeding.",high,
+carbamazepine,,P03-052,,"Carbamazepine decreases the blood levels of hormonal contraceptives containing estrogen and/or progesterone, which may make the contraceptive ineffective or result in breakthrough bleeding.",high,
+carboprost-tromethamine,G02-134,G02-146,,,high,
+carboprost-tromethamine,G02-136,G02-148,,,high,
+cefixime-trihydrate,G02-173,,,,high,"Bangla lists specific infections (otitis media, pharyngitis/tonsillitis) rather than the general category Upper Respiratory Tract Infections (URTI)"
+cefixime-trihydrate,G02-174,,,,high,Bangla lists specific bronchitis types (G02-184) rather than the general category Lower Respiratory Tract Infections
+cefixime-trihydrate,G02-175,G02-181,,,medium,Bangla specifies uncomplicated urinary tract infection whereas English states urinary tract infections generally
+cefixime-trihydrate,G02-176,G02-186,,,high,
+cefixime-trihydrate,P03-110,,,,high,
+cefixime-trihydrate,P03-111,,,,high,
+cefixime-trihydrate,P03-112,,,,high,
+cefixime-trihydrate,P03-114,,,,high,
+cefixime-trihydrate,,G02-184,,Lower Respiratory Tract Infections-e.g. bronchitis.,medium,English mentions bronchitis generally without specifying acute or chronic exacerbation
+cefixime-trihydrate,,P03-105,,,high,
+cefixime-trihydrate,,P03-106,,,high,
+cefixime-trihydrate,,G02-185,,,high,
+cefixime-trihydrate,,P03-102,,,high,
+cefixime-trihydrate,,P03-103,,,high,English mentions anticoagulant therapy generally rather than warfarin specifically
+cefixime-trihydrate,,P03-108,,,high,
+cefixime-trihydrate,,G02-183,,,high,
+cefixime-trihydrate,,G02-182,,otitis media,high,
+ceftriaxone-sodium,G02-200,G02-215,,,high,
+cefuroxime-axetil,G02-233,G02-251,,,high,
+chlorhexidine-gluconate-71,G02-257,G02-259,,,high,
+cholecalciferol-vitamin-d3,G03-002,G03-018,,,high,
+cholecalciferol-vitamin-d3,G03-007,G03-023,,,high,
+cholecalciferol-vitamin-d3,G03-008,,,,high,
+cholecalciferol-vitamin-d3,G03-010,G03-025,,,high,
+cholecalciferol-vitamin-d3,G03-011,G03-026,,,high,
+cholecalciferol-vitamin-d3,P03-180,P03-163,,,medium,Bangla specifies phenobarbital in place of English barbiturates
+cholecalciferol-vitamin-d3,P03-181,P03-166,,,medium,English states glucocorticoids while Bangla states corticosteroids
+cholecalciferol-vitamin-d3,P03-182,,,,high,
+cholecalciferol-vitamin-d3,P03-183,,,,high,
+cholecalciferol-vitamin-d3,P03-185,,,,high,
+cholecalciferol-vitamin-d3,P03-186,P03-165,,,medium,English states paraffin oil while Bangla states mineral oil
+cholecalciferol-vitamin-d3,P03-187,,,,high,
+cholecalciferol-vitamin-d3,P03-188,,,,high,
+cholecalciferol-vitamin-d3,P03-189,P03-167,,,high,
+cholecalciferol-vitamin-d3,,P03-157,,,high,
+cholecalciferol-vitamin-d3,,P03-164,,,high,
+cholecalciferol-vitamin-d3,,P03-161,,,high,
+ciprofloxacin,G03-036,,পাকান্ত্রিক সংক্রমণ,,high,
+ciprofloxacin,G03-040,,পেরিটোনাইটিস,,high,
+ciprofloxacin,G03-046,G03-099,,,medium,Bangla states complications of cystic fibrosis rather than acute exacerbation
+ciprofloxacin,G03-049,G03-102,,,medium,Bangla translates 'Uncomplicated and complicated urethritis' as 'জটিল এবং জটিল নয় এরূপ মূত্রনালীর সংক্রমণ' (complicated and uncomplicated urinary tract infections) in the corresponding list position
+ciprofloxacin,P03-233,,এলুমিনিয়াম এন্টাসিড,,high,
+ciprofloxacin,P03-239,,দুধ এবং দুগ্ধজাত পণ্য এর সাথে সিপ্রোফ্লক্সাসিন সেবনযোগ্য নয়।,,medium,Bangla states milk and dairy products generally ('দুধ এবং দুগ্ধজাত পণ্য') rather than yogurt specifically
+clotrimazole-vaginal-tablet,G03-169,G03-178,,,medium,G03-177 (vaginal itching) also corresponds to part of G03-169; matched to G03-178 as the primary recurrent vaginal candidiasis indication
+clotrimazole-vaginal-tablet,G03-170,G03-179,,,medium,English specifies Candida species while Bangla states fungus generally
+clotrimazole-vaginal-tablet,G03-171,,,,high,
+clotrimazole-vaginal-tablet,G03-172,G03-181,,,medium,English states hypersensitivity to any component of the product while Bangla specifies clotrimazole
+clotrimazole-vaginal-tablet,G03-174,G03-183,,,high,
+clotrimazole-vaginal-tablet,,G03-177,,vaginal itching,high,Part of combined English claim G03-169 (which was matched to G03-178)
+clotrimazole-vaginal-tablet,,G03-180,,,high,

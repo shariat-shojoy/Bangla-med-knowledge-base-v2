@@ -1,0 +1,279 @@
+### drug=thalidomide
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G09-129 | USE_IN | females who are pregnant | contraindicated | contraindications | "Thalidomide is contraindicated in females who are pregnant."
+G09-132 | CAUSES | embryo-fetal harm | - | pregnancy_lactation | "Based on the mechanism of action, human and animal data, thalidomide can cause embryo-fetal harm when administered to a pregnant female"
+P01-128 | INTERACTS_WITH | opioids | avoid | interaction | "The use of opioids, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants concomitantly with thalidomide may cause an additive sedative e"
+P01-129 | INTERACTS_WITH | antihistamines | avoid | interaction | "The use of opioids, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants concomitantly with thalidomide may cause an additive sedative e"
+P01-133 | INTERACTS_WITH | Erythropoietic agents | caution | interaction | "Erythropoietic agents, or other agents that may increase the risk of thromboembolism, such as estrogen containing therapies, should be used with caution in mult"
+P01-146 | USE_IN | pediatric patients below the age of 12 years | no data | special_populations | "Safety and effectiveness in pediatric patients below the age of 12 years have not been established."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+P01-127 | CAUSES | fatigue | - | special_populations | "৬৫ বছরের কম বয়সী রোগীদের তুলনায় ৬৫ বছরের বেশি বয়সী রোগীদের মধ্যে অ্যাট্রিয়াল ফিব্রিলেশন, কোষ্ঠকাঠিন্য, ক্লান্তি, বমি ভাব, হাইপোক্যালে- মিয়া, ডিপ ভেনাস থ্রম"
+P01-113 | CAUSES | deep venous thrombosis | - | precautions | "মাল্টিপল মায়েলোমা রোগীদের ক্ষেত্রে থ্যালিডোমাইড ব্যবহারের ফলে যেমন ভেনাস থ্রম্বোইম্বোলিজম, ডিপ ভেনাস থ্রম্বোসিস এবং পালমোনারি এমবোলিজমের ঝুঁকি বেড়ে যায়।"
+P01-114 | CAUSES | pulmonary embolism | - | precautions | "মাল্টিপল মায়েলোমা রোগীদের ক্ষেত্রে থ্যালিডোমাইড ব্যবহারের ফলে যেমন ভেনাস থ্রম্বোইম্বোলিজম, ডিপ ভেনাস থ্রম্বোসিস এবং পালমোনারি এমবোলিজমের ঝুঁকি বেড়ে যায়।"
+P01-124 | USE_IN | children below 12 years of age | no data | special_populations | "১২ বছরের কম বয়সী শিশুদের জন্য থ্যালিডোমাইডের নিরাপদ ব্যবহার এবং কার্যকারিতা প্রতিষ্ঠিত হয়নি।"
+P01-126 | CAUSES | constipation | - | special_populations | "৬৫ বছরের কম বয়সী রোগীদের তুলনায় ৬৫ বছরের বেশি বয়সী রোগীদের মধ্যে অ্যাট্রিয়াল ফিব্রিলেশন, কোষ্ঠকাঠিন্য, ক্লান্তি, বমি ভাব, হাইপোক্যালে- মিয়া, ডিপ ভেনাস থ্রম"
+P01-105 | INTERACTS_WITH | opioids, antihistamines, antipsychotics, anti-anxiety agents | avoid | interaction | "থ্যালিডোমাইডের সাথে ওপিওয়েড, অ্যান্টিহিস্টামিন, অ্যান্টিসাইকোটিক, অ্যান্টি-অ্যানজাইটি এজেন্ট, বা অন্যান্য সিএনএস ডিপ্রেসেন্ট একত্রে ব্যবহার করলে একটি অতিরিক্ত "
+P01-109 | INTERACTS_WITH | erythropoietic agents or therapies containing estrogen | caution | interaction | "মাল্টিপল মায়েলোমা রোগীদের মধ্যে যারা ডেক্সামেথাসোনের সাথে থ্যালিডোমাইড গ্রহণ করে তাদের ক্ষেত্রে এরিথ্রোপয়েটিক এজেন্ট, বা অন্যান্য এজেন্ট যা থ্রম্বোইম্বোলিজমের"
+## ENGLISH SECTION TEXT: contraindications
+Thalidomide is contraindicated in females who are pregnant. Thalidomide can cause fetal harm when administered to a pregnant female. Thalidomide is contraindicated in patients who have demonstrated hypersensitivity to the drug or its components.
+## BANGLA SECTION TEXT: contraindications
+গর্ভাবস্থায়
+: থ্যালিডোমাইড গর্ভবতী মহিলাদের ক্ষেত্রে প্রতিনির্দেশিত। গর্ভবতী মহিলা থ্যালিডোমাইড সেবন করলে এটি ভ্রূণের ক্ষতি করতে পারে।
+অতি সংবেদনশীলতা
+: থ্যালিডোমাইড বা ওষুধের অন্যান্য উপাদানগুলির প্রতি অতি সংবেদনশীলতা প্রদর্শনকারী রোগীদের ক্ষেত্রে থ্যালিডোমাইড প্রতিনির্দেশিত।
+## ENGLISH SECTION TEXT: interaction
+Opioids, Antihistamines, Antipsychotics, Anti-anxiety Agents, or Other CNS Depressants (Including Alcohol)
+: The use of opioids, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants concomitantly with thalidomide may cause an additive sedative effect and should be avoided.
+Drugs which Cause Bradycardia
+: The use of drugs which slow cardiac conduction concomitantly with Thalidomide may cause an additive bradycardic effect and should be used with caution.
+Drugs that Interfere with Hormonal Contraceptives
+: Concomitant use of HIV-protease inhibitors, griseofulvin, modafinil, penicillins, rifampin, rifabutin, phenytoin, carbamazepine, or certain herbal supplements such as St. John’s Wort with hormonal contraceptive agents may reduce the effectiveness of the contraception up to one month after discontinuation of these concomitant therapies. Therefore, females requiring treatment with one or more of these drugs must use two other effective or highly effective methods of contraception while taking thalidomide.
+Drugs which Cause Peripheral Neuropathy
+: The use of drugs which cause peripheral neuropathy (e.g., bortezomib, amiodarone, cisplatin, docetaxel, paclitaxel, vincristine, disulfiram, phenytoin, metronidazole, alcohol) can cause an additive effect and should be used with caution.
+Concomitant Therapies that may Increase the Risk of Thromboembolism
+: Erythropoietic agents, or other agents that may increase the risk of thromboembolism, such as estrogen containing therapies, should be used with caution in multiple myeloma patients receiving Thalidomide with dexamethasone.
+## BANGLA SECTION TEXT: interaction
+ওপিওয়েড, অ্যান্টিহিস্টামিন, অ্যান্টিসাইকোটিক, অ্যান্টি-অ্যানজাইটি
+: এজেন্ট, বা অন্যান্য সিএনএস ডিপ্রেসেন্টস (অ্যালকোহল সহ) থ্যালিডোমাইডের সাথে ওপিওয়েড, অ্যান্টিহিস্টামিন, অ্যান্টিসাইকোটিক, অ্যান্টি-অ্যানজাইটি এজেন্ট, বা অন্যান্য সিএনএস ডিপ্রেসেন্ট একত্রে ব্যবহার করলে একটি অতিরিক্ত সিডেটিভ প্রভাব তৈরি হতে পারে। তাই একত্রে ব্যবহার এড়ানো উচিত।
+যে ওষুধ ব্র্যাডিকার্ডিয়া সৃষ্টি করে
+: কার্ডিয়াক সঞ্চালন বিলম্বিত করে এমন ওষুধ থ্যালিডোমাইডের সাথে একত্রে ব্যবহার করলে তা ব্র্যাডিকার্ডিয়াক প্রভাব বাড়িয়ে দিতে পারে এবং তাই সতর্কতার সাথে ব্যবহার করা উচিত।
+হরমোনাল গর্ভনিরোধকের সাথে প্রতিক্রিয়াকারী ওষুধ
+: হরমোনাল গর্ভনিরোধক এজেন্টের সাথে একত্রে এইচআইভি-প্রোটিএজ ইনহিবিটর, গ্রিসিওফুলভিন, মোডাফিনিল, পেনিসিলিন, রিফাম্পিন, রিফাবিউটিন, ফেনিটোইন, কার্বামাজেপিন, বা নির্দিষ্ট কিছু ভেষজ সাপ্লিমেন্টস যেমন সেন্ট জনস ওয়ার্ট ব্যবহার করলে, এগুলির একত্রে চিকিৎসা বন্ধের এক মাস পর পর্যন্ত ও গর্ভনিরোধের কার্যকারিতা হ্রাস পেতে পারে। অতএব, যেসকল মহিলাদের চিকিৎসার জন্য এগুলির এক বা একাধিক ওষুধ গ্রহন করা প্রয়োজন তাদের অবশ্যই থ্যালিডোমাইড গ্রহণের সময় আরও দুইটি কার্যকর বা অতি কার্যকর গর্ভনিরোধক পদ্ধতি ব্যবহার করতে হবে।
+পেরিফেরাল নিউরোপ্যাথি সৃষ্টিকারী ওষুধ
+: যেসব ওষুধ গ্রহণের ফলে পেরিফেরাল নিউরোপ্যাথি দেখা দেয় (যেমন, বোর্টেজোমিব, অ্যামিওডারোন, সিসপ্ল্যাটিন, ডোসেট্যাক্সেল, প্যাক্লিট্যাক্সেল, ভিনক্রিস্টিন, ডিসালফিরাম, ফেনিটোইন, মেট্রোনিডাজল, অ্যালকোহল) সেগুলির সাথে থ্যালিডোমাইড একত্রে গ্রহন করলে ক্ষতিকর প্রভাব বৃদ্ধি পেতে পারে, তাই সতর্কতার সাথে ব্যবহার করা উচিত।
+কনকোমিট্যান্ট থেরাপি যা থ্রম্বোইম্বোলিজমের ঝুঁকি বাড়াতে পারে
+: মাল্টিপল মায়েলোমা রোগীদের মধ্যে যারা ডেক্সামেথাসোনের সাথে থ্যালিডোমাইড গ্রহণ করে তাদের ক্ষেত্রে এরিথ্রোপয়েটিক এজেন্ট, বা অন্যান্য এজেন্ট যা থ্রম্বোইম্বোলিজমের ঝুঁকি বাড়াতে পারে, যেমন ইস্ট্রোজেন অন্তর্ভুক্ত আছে এমন থেরাপি, সেগুলি সতর্কতার সাথে ব্যবহার করা উচিত।
+## ENGLISH SECTION TEXT: precautions
+Embryo-Fetal Toxicity
+: Thalidomide is a powerful human teratogen that induces a high frequency of severe and life-threatening birth defects, even after a single dose. Mortality at or shortly after birth has been reported in about 40% of infants. When there is no satisfactory alternative treatment, females of reproductive potential may be treated with Thalidomide provided adequate precautions are taken to avoid pregnancy. There are no specific data available regarding the reproductive risks of cutaneous absorption or inhalation of Thalidomide; however, females of reproductive potential should avoid contact with Thalidomide Capsules. If there is contact with non-intact Thalidomide capsules or the powder contents, the exposed area should be washed with soap and water. If healthcare providers or other care givers are exposed to body fluids from patients receiving Thalidomide, the exposed area should be washed with soap and water. Appropriate precautions should be utilized, such as wearing gloves to prevent the potential cutaneous exposure to Thalidomide.
+Blood Donation
+: Patients must not donate blood during treatment with Thalidomide and for 4 weeks following discontinuation of the drug.
+Venous and Arterial Thromboembolism
+: The use of Thalidomide in patients with MM results in an increased risk of venous thromboembolism, such as deep venous thrombosis and pulmonary embolism. This risk increases significantly when Thalidomide is used in combination with standard chemotherapeutic agents including dexamethasone. Thromboprophylaxis should be considered based on an assessment of individual patients' underlying risk factors. Patients and physicians should be observant for the signs and symptoms of thromboembolism.
+Thrombocytopenia
+: Thrombocytopenia, including Grade 3 or 4 occurrences, has been reported in association with the clinical use of thalidomide. Blood counts, including platelet counts should be monitored. Dose reduction, delay, or discontinuation may be required. Patient should be monitored for signs and symptoms of bleeding including petechiae, epistaxis, and gastrointestinal bleeding, especially if concomitant medication may increase the risk of bleeding.
+Drowsiness and Somnolence
+: Thalidomide frequently causes drowsiness and somnolence. Patients should be instructed to avoid situations where drowsiness may be a problem and not to take other medications that may cause drowsiness without adequate medical advice. Patients should be advised as to the possible impairment of mental and/or physical abilities required for the performance of hazardous tasks, such as driving a car or operating other complex or dangerous machinery. Dose reductions may be required.
+Peripheral Neuropathy
+: Thalidomide is known to cause nerve damage that may be permanent. Peripheral neuropathy is a common (>10%) and potentially severe adverse reaction of treatment with Thalidomide that may be irreversible. Peripheral neuropathy generally occurs following chronic use over a period of months; however, peripheral neuropathy following relatively short-term use has been reported. Medications known to be associated with neuropathy should be used with caution in patients receiving Thalidomide.
+Dizziness and Orthostatic Hypotension
+: Patients should also be advised that Thalidomide may cause dizziness and orthostatic hypotension and that, therefore, they should sit upright for a few minutes prior to standing up from a recumbent position.
+Neutropenia
+: Decreased white blood cell counts, including neutropenia, have been reported in association with the clinical use of Thalidomide. Treatment should not be initiated with an absolute neutrophil count (ANC) of <750/mm3. White blood cell count and differential should be monitored on an ongoing basis, especially in patients who may be more prone to neutropenia, such as patients who are HIVseropositive. If ANC decreases to below 750/mm3 while on treatment, the patient’s medication regimen should be re-evaluated and, if the neutropenia persists, consideration should be given to withholding Thalidomide if clinically appropriate.
+## BANGLA SECTION TEXT: precautions
+এম্ব্রায়ো-ভ্রূণে বিষক্রিয়া
+: থ্যালিডোমাইড মানুষের জন্য একটি শক্তিশালী টেরাটোজেন যার এমনকি একটি একক মাত্রা সেবনেও মারাত্মক গুরুতর এবং জীবনঘাতি জন্মগত ত্রুটি দেখা দিতে পারে। প্রায় ৪০% শিশুর জন্মের সময় বা তার কিছু পরেই মৃত্যু ঘটে। প্রজনন সম্ভাবনাময় মহিলাদের জন্য যদি আর কোন বিকল্প চিকিৎসা না থাকে, তাহলে গর্ভধারন এড়াতে পর্যাপ্ত সতর্কতা অবলম্বন করে থ্যালিডোমাইড দিয়ে চিকিৎসা করা যেতে পারে। ত্বকের মাধ্যমে শোষিত বা শ্বাসের সাথে গৃহীত থ্যালিডোমাইডের প্রজনন ঝুঁকি সম্পর্কিত নির্দিষ্ট কোন তথ্য নেই। প্রজনন সম্ভাবনাময় মহিলাদের থ্যালিডোমাইড ক্যাপসুলের সংস্পর্শ এড়ানো উচিত। শরীরের কোনস্থান থ্যালিডোমাইডের ভাঙ্গা ক্যাপসুল বা ভিতরের পাউডার উপাদানের সংস্পর্শে আসলে, উক্ত স্থানটি সাবান এবং পানি দিয়ে ধুয়ে ফেলতে হবে। স্বাস্থ্যসেবা প্রদানকারী বা অন্যান্য পরিচর্যাকারীর শরীরের কোন অংশে থ্যালিডোমাইড গ্রহণকারী রোগীর শরীর নিঃসৃত তরল পদার্থ লাগলে, উক্ত স্থানটি সাবান এবং পানি দিয়ে ধুয়ে ফেলতে হবে। এ ক্ষেত্রে যথাযথ সতর্কতা অবলম্বন করা উচিত, যেমন ত্বকে থ্যালিডোমাইডের সম্ভাব্য সংস্পর্শ প্রতিরোধ করতে গাভস পরা।
+রক্তদান
+: থ্যালিডোমাইড চিকিৎসা চলাকালীন সময় এবং ওষুধ বন্ধ করার পর ৪ সপ্তাহ পর্যন্ত রোগীদের রক্তদান থেকে বিরত থাকা উচিত।
+ভেনাস এবং আর্টারিয়াল থ্রম্বোইম্বোলিজম
+: মাল্টিপল মায়েলোমা রোগীদের ক্ষেত্রে থ্যালিডোমাইড ব্যবহারের ফলে যেমন ভেনাস থ্রম্বোইম্বোলিজম, ডিপ ভেনাস থ্রম্বোসিস এবং পালমোনারি এমবোলিজমের ঝুঁকি বেড়ে যায়। ডেক্সামেথাসন সহ স্ট্যান্ডার্ড কেমোথেরা- পিউটিক এজেন্টগুলির সাথে থ্যালিডোমাইড একত্রে ব্যবহার করা হলে এই ঝুঁকি উল্লেখযোগ্যভাবে বৃদ্ধি পায়। আলাদাভাবে প্রতিটি রোগীর মূল ঝুঁকির কারণগুলি মূল্যায়নের ভিত্তিতে থ্রম্বোপ্রফাইল্যাক্সিস এর ব্যবহার বিবেচনা করা উচিত। থ্রম্বোইম্বোলিজমের লক্ষণ ও উপসর্গগুলির জন্য রোগী এবং চিকিৎসকদের পর্যবেক্ষণ করা উচিত।
+তন্দ্রা ও ঝিমুনিভাব
+: থ্যালিডোমাইড প্রায়শই তন্দ্রা ও ঝিমুনিভাব সৃষ্টি করে। তন্দ্রাচ্ছন্নতা সমস্যা তৈরি করতে পারে এমন পরিস্থিতি এড়ানোর এবং ডাক্তারের যথাযথ পরামর্শ ছাড়া তন্দ্রা হতে পারে এমন অন্যকোন ওষুধ সেবন না করার জন্য রোগীদের নির্দেশনা দেওয়া উচিত। গাড়ি চালানো অথবা অন্যান্য জটিল বা বিপজ্জনক যন্ত্রপাতি চালানোর মতো ঝুঁকিপূর্ণ কাজগুলি সম্পাদনের জন্য প্রয়োজনীয় মানসিক এবং/অথবা শারীরিক সক্ষমতার উপর সম্ভাব্য প্রভাব সম্পর্কে রোগীদের সতর্ক করা উচিত। ওষুধের মাত্রা কমানোর প্রয়োজন হতে পারে।
+থ্রোম্বোসাইটোপেনিয়া
+: থ্যালিডোমাইডের ক্লিনিকাল ব্যবহারের সাথে গ্রেড ৩ বা ৪ এর মত থ্রোম্বোসাইটোপেনিয়া, সম্পর্কিত বলে রিপোর্ট করা হয়েছে। এ অবস্থায় প্লাটিলেট সহ রক্তকণিকার সংখ্যা পর্যবেক্ষণ করা উচিত। ওষুধের মাত্রা হ্রাস, বিলম্ব, বা বন্ধ করার প্রয়োজন হতে পারে। পেটেচিয়া, এপিস্ট্যাক্সিস এবং গ্যাস্ট্রোইনটেস্টাইনাল রক্তপাতের লক্ষণ ও উপসর্গগুলির জন্য রোগীকে পর্যবেক্ষেণে রাখা উচিত, বিশেষভাবে একত্রে সেব্য অন্যান্য ওষুধ যদি রক্তপাতের ঝুঁকি বাড়ায়।
+পেরিফেরাল স্নায়ুরোগ
+: থ্যালিডোমাইড স্নায়ুর স্থায়ী ক্ষতির কারণ হতে পারে। পেরিফেরাল নিউরোপ্যাথি থ্যালিডোমাইড চিকিৎসার একটি সাধারণ (২১০%) এবং গুরুতর পার্শ্বপ্রতিক্রিয়া যা আর ভাল নাও হতে পারে। পেরিফেরাল নিউরোপ্যাথি সাধারণত থ্যালিডোমাইডের কয়েক মাস ব্যাপী দীর্ঘস্থায়ী ব্যবহারের ফলে দেখা দেয়; তবে অপেক্ষাকৃত স্বল্পমেয়াদী ব্যবহারের পরেও পেরিফেরাল নিউরোপ্যাথি হওার ঘটনা ঘটেছে। নিউরোপ্যাথি হতে পারে এমন ওষুধ সতর্কতার সাথে ব্যবহার করা উচিত।
+মাথা ঘোরা এবং অর্থোস্ট্যাটিক হাইপোটেনশন
+: থ্যালিডোমাইড গ্রহনে মাথা ঘোরা এবং অর্থোস্ট্যাটিক হাইপোটেনশন হতে পারে। তাই, শোয়া বা হেলান দেওয়া অবস্থা থেকে দাঁড়ানোর আগে কয়েক মিনিটের জন্য সোজা হয়ে বসে থাকতে রোগীদের পরামর্শ দেওয়া উচিত।
+নিউট্রোপেনিয়া
+: থ্যালিডোমাইডের ক্লিনিকাল ব্যবহারের কারণে নিউট্রোপেনিয়া সহ শ্বেত রক্তকণিকার সংখ্যা হ্রাস পাওয়ার ঘটনা ঘটেছে। অ্যাবসুলিউট নিউট্রোফিল কাউন্ট (এএনসি) <৭৫০/এমএম৩ হলে চিকিৎসা শুরু করা উচিত নয়। শ্বেত রক্ত কণিকার সংখ্যা এবং ডিফারেনশিয়াল নিয়মিতভাবে পর্যবেক্ষণ করা উচিত, বিশেষ করে সেসব রোগীদের ক্ষেত্রে, যাদের নিউট্রোপেনিয়া হওয়ার ঝুঁকি বেশি, যেমন এইচআইভি-সেরোপজিটিভ রোগী। চিকিৎসা চলাকালীন অবস্থায় যদি এএনসি ৭৫০/এমএম৩-এর নিচে নেমে যায়, তাহলে রোগীর ওষুধের মাত্রা এবং সেবনবিধি পুনর্মূল্যায়ন করা উচিত, এবং যদি নিউট্রোপেনিয়া অব্যাহত থাকে, তাহলে থ্যালিডোমাইড বন্ধ করার বিষয়ে বিবেচনা করা উচিত যদি তা ক্লিনিক্যালি যথাযথ হয়।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Pregnancy
+: Based on the mechanism of action, human and animal data, thalidomide can cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential risk to a fetus. If pregnancy does occur during treatment, the drug should be immediately discontinued.
+Lactation
+: There is no information regarding the presence of thalidomide in human milk, the effects of thalidomide on the breastfed child, or the effects of thalidomide on milk production. Because many drugs are excreted in human milk and because of the potential for adverse reactions in a breastfed child from thalidomide, women should be advised not to breastfeed during treatment with thalidomide.
+Females and Males of Reproductive Potential-
+Pregnancy Testing
+: Females of reproductive potential must have 2 negative pregnancy tests before initiating Thalidomide. The first test should be performed within 10-14 days, and the second test within 24 hours prior to prescribing Thalidomide. Once treatment has started and during dose interruptions, pregnancy testing for females of reproductive potential should occur weekly during the first 4 weeks of use, then pregnancy testing should be repeated every 4 weeks in females with regular menstrual cycles. If menstrual cycles are irregular, the pregnancy testing should occur every 2 weeks.
+Contraception
+: Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously. Contraception must begin 4 weeks prior to initiating treatment with Thalidomide, during therapy, during dose interruptions, and continuing for 4 weeks following discontinuation of Thalidomide therapy.
+Males
+: Thalidomide is present in the semen of males who take Thalidomide. Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking Thalidomide, during dose interruptions and for up to 28 days after discontinuing Thalidomide.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থায়
+: কার্যপদ্ধতি, মানুষ এবং প্রাণীর তথ্য অনুযায়ী, থ্যালিডোমাইড গর্ভবতী মহিলাকে দেওয়া হলে ভ্রূণের ক্ষতি করতে পারে এবং গর্ভাবস্থায় এটি নিষিদ্ধ। যদি এই ওষুধটি গর্ভাবস্থায় ব্যবহার করা হয়, অথবা যদি এই ওষুধটি গ্রহণ করার সময় রোগী গর্ভবতী হয়, তাহলে রোগীকে ভ্রূণের সম্ভাব্য ঝুঁকি সম্পর্কে অবহিত করা উচিত। যদি চিকিৎসা চলাকালীন সময়ে রোগী গর্ভবতী হয় তবে ওষুধটি অবিলম্বে বন্ধ করা উচিত।
+মাতৃদুগ্ধ দানকালে
+: মাতৃদুগ্ধে থ্যালিডোমাইডের উপস্থিতি, দুধপানকারী শিশুর উপর, বা মাতৃদুগ্ধ উৎপাদনে থ্যালিডোমাইডের প্রভাব সম্পর্কিত কোনও তথ্য পাওয়া যায়নি। যেহেতু অনেক ওষুধ মাতৃদুগ্ধে নির্গত হয় এবং যেহেতু থ্যালিডোমাইড এর দ্বারা মাতৃদুগ্ধ পানকারী শিশুর মধ্যে বিরূপ প্রতিক্রিয়া হওয়ার সম্ভাবনা আছে, তাই রোগীকে থ্যালিডোমাইড দ্বারা চিকিৎসার সময় শিশুকে দুধ পান না করানোর পরামর্শ দেওয়া উচিত।
+প্রজনন সম্ভাবনাময় মহিলা এবং পুরুষ-
+প্রেগন্যান্সি পরীক্ষা
+: থ্যালিডোমাইড শুরু করার আগে প্রজনন সম্ভাবনাময় মহিলাদের অবশ্যই পরপর দুইবার প্রেগন্যান্সি পরীক্ষার ফলাফল না বোধক হতে হবে। প্রথম পরীক্ষাটি থ্যালিডোমাইড গ্রহণ শুরু করার পূর্বের ১০-১৪ দিনের মধ্যে এবং দ্বিতীয় পরীক্ষাটি থ্যালিডোমাইড গ্রহণ শুরু করার ২৪ ঘণ্টা পূর্বে করা উচিত। একবার চিকিৎসা শুরু হয়ে গেলে এবং সেবন মাত্রা পরিবর্তন বা ওষুধ গ্রহণ/বন্ধ রাখার সময়, প্রজনন সম্ভাবনাময় মহিলাদের ক্ষেত্রে ওষুধ গ্রহণ শুরুর প্রথম ৪ সপ্তাহে প্রতি সপ্তাহে একবার প্রেগন্যান্সি পরীক্ষা করা উচিত, তারপর যেসব মহিলাদের মাসিক চক্র নিয়মিত তাদের ক্ষেত্রে প্রতি ৪ সপ্তাহে একবার প্রেগন্যান্সি পরীক্ষা করা উচিত। যদি মাসিক চক্র অনিয়মিত হয়, তাহলে প্রতি ২ সপ্তাহে একবার প্রেগন্যান্সি পরীক্ষা করা উচিত।
+গর্ভনিরোধক ব্যবস্থা
+: থ্যালিডোমাইড গ্রহণকারী প্রজনন সম্ভাবনাময় মহিলাদের ধারাবাহিকভাবে সহবাস থেকে বিরত থাকা উচিত অথবা একই সাথে জন্মনিয়ন্ত্রণের ২টি নির্ভরযোগ্য পদ্ধতি ব্যবহার করা উচিত। থ্যালিডোমাইড দ্বারা চিকিৎসা শুরু করার ৪ সপ্তাহ আগে থেকে, চিকিৎসা চলাকালীন সময়ে, মাত্রা পরিবর্তনের সময় এবং থ্যালিডোমাইড চিকিৎসা বন্ধ করার পরে ৪ সপ্তাহ পর্যন্ত গর্ভনিরোধক ব্যবহার করতে হবে।
+পুরুষ
+: থ্যালিডোমাইড গ্রহণকারী পুরুষদের বীর্যে থ্যালিডোমাইড উপস্থিত থাকে। তাই থ্যালিডোমাইড গ্রহণের সময়, ডোজ পরিবর্তনের সময় এবং থ্যালিডোমাইড বন্ধ করার পরে ২৮ দিন পর্যন্ত থ্যালিডোমাইড গ্রহণকারী পুরুষদের যথাযথ গর্ভনিরোধক যেমন সহবাসের সময় ল্যাটেক্স বা সিনথেটিক কনডোম ব্যবহার করা উচিত।
+## ENGLISH SECTION TEXT: special_populations
+Pediatric Use
+: Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
+Geriatric Use
+: Patients >65 years of age shows higher incidences of atrial fibrillation, constipation, fatigue, nausea, hypokalemia, deep venous thrombosis, hyperglycemia, and pulmonary embolism compared to patients <65 years of age.
+## BANGLA SECTION TEXT: special_populations
+শিশু
+: ১২ বছরের কম বয়সী শিশুদের জন্য থ্যালিডোমাইডের নিরাপদ ব্যবহার এবং কার্যকারিতা প্রতিষ্ঠিত হয়নি।
+বয়স্কদের ক্ষেত্রে ব্যবহার
+: ৬৫ বছরের কম বয়সী রোগীদের তুলনায় ৬৫ বছরের বেশি বয়সী রোগীদের মধ্যে অ্যাট্রিয়াল ফিব্রিলেশন, কোষ্ঠকাঠিন্য, ক্লান্তি, বমি ভাব, হাইপোক্যালে- মিয়া, ডিপ ভেনাস থ্রম্বোসিস, হাইপারগ্লাইসেমিয়া, এবং পালমোনারি এমবোলিজম এর ঘটনা বেশি ঘটে।
+
+### drug=tranexamic-acid
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G09-148 | INDICATED_FOR | hemophtoes | - | indications | "Prophylaxis and therapy of hemophtoes"
+G09-150 | INDICATED_FOR | hemorrhagic syndromes in leukaemia, cirrhosis and hemophilia | - | indications | "hemorrhagic syndromes in leukaemia, cirrhosis and hemophilia"
+G09-153 | INDICATED_FOR | operations of any type and nature | - | indications | "Prophylaxis and antihemorrhagic therapy during operations of any type and nature"
+G09-154 | INDICATED_FOR | pulmonary, cardiovascular and abdominal surgery | - | indications | "and particularly in pulmonary, cardiovascular and abdominal surgery"
+G09-155 | INDICATED_FOR | post-operative and traumatic shock | - | indications | "and post-operative and traumatic shock."
+G09-156 | INDICATED_FOR | prostatic, vesical and renal surgery | - | indications | "Prophylaxis and antihemorrhagic therapy of prostatic, vesical and renal surgery."
+G09-157 | INDICATED_FOR | Hematurias | - | indications | "Hematurias."
+G09-158 | INDICATED_FOR | post-partum and puerperium hemorrhages | - | indications | "Prophylaxis and therapy of post-partum and puerperium hemorrhages"
+G09-159 | INDICATED_FOR | hemorrhagic metrophathies | - | indications | "hemorrhagic metrophathies"
+G09-160 | INDICATED_FOR | functional menometrorrhagias | - | indications | "functional menometrorrhagias"
+G09-161 | INDICATED_FOR | idiopathic or IUD (lntra uterine Device) induced menorrhagia | - | indications | "idiopathic or IUD (lntra uterine Device) induced menorrhagias"
+G09-162 | INDICATED_FOR | primitive hyperfibrinolysis (abruptio placentae, premature p | - | indications | "primitive hyperfibrinolysis (abruptio placentae, premature placenta detachment)"
+G09-163 | INDICATED_FOR | cervical conization | - | indications | "and in cervical conization."
+G09-164 | INDICATED_FOR | tonsillectomy | - | indications | "Prophylaxis and antihemorrhagic therapy during a tonsillectomy"
+G09-165 | INDICATED_FOR | specialist surgery generally | - | indications | "specialist surgery generally"
+G09-166 | INDICATED_FOR | epistaxis | - | indications | "epistaxis."
+G09-167 | INDICATED_FOR | maxillofacial operations | - | indications | "Prophylaxis and antihemorrhagic therapy during maxillofacial operations"
+G09-168 | INDICATED_FOR | tooth extractions | - | indications | "tooth extractions."
+G09-169 | INDICATED_FOR | inhibit the growth of ovarian tumors | - | indications | "To promote the formation of a fibrin capsule to wall off and thereby inhibit the growth of ovarian tumors."
+G09-170 | INDICATED_FOR | regression of ascites secondary to carcinoma | - | indications | "To cause regression of ascites secondary to carcinoma."
+G09-172 | USE_IN | Known individual hypersensitivity | contraindicated | contraindications | "Known individual hypersensitivity to the product."
+G09-175 | USE_IN | endocavitary hemorrhages | contraindicated | contraindications | "endocavitary hemorrhages"
+G09-176 | USE_IN | serious kidney failure | contraindicated | contraindications | "serious kidney failure."
+P01-155 | INTERACTS_WITH | solutions containing penicillins | - | interaction | "incompatible with solutions containing penicillins (eg: Benzyl penicillin)."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G09-187 | USE_IN | hypersensitivity | contraindicated | contraindications | "সংবেদনশীল প্রতিক্রিয়া হয় এমন জানা রােগীকে … দেয়া যাবেনা।"
+P01-148 | INTERACTS_WITH | penicillins | - | interaction | "ট্রানেক্সামিক এসিড একটি সংশ্লেষিত অ্যামাইনাে এসিড যা পেনিসিলিন (যেমন ও বেনজাইল পেনিসিলিন) দ্রবণের সাথে সামঞ্জস্যপূর্ন নয়।"
+G09-191 | USE_IN | severe kidney disease | contraindicated | contraindications | "ও জটিল কিডনীর অসুখে দেয়া যাবেনা।"
+G09-184 | INDICATED_FOR | cirrhosis and hemophilia | - | indications | "লিভার সিরােসিস ও হেমােফিলিয়া"
+G09-183 | INDICATED_FOR | hemorrhagic syndromes in leukaemia | - | indications | "লিউকেমিয়াজনিত রক্তক্ষরণ"
+G09-193 | CAUSES | adverse effect | - | pregnancy_lactation | "এবং গর্ভস্থ বাচ্চার উপর কোন বিরূপ প্রভাব ফেলে কি-না তা জানা যায়নি"
+G09-190 | USE_IN | internal hemorrhage | contraindicated | contraindications | "অভ্যন্তরীণ (শরীরের ভেতরে) রক্তক্ষরণে … দেয়া যাবেনা।"
+P01-151 | USE_IN | hematuria | caution | precautions | "রক্ত মিশ্রিত মূত্রে (হেমাটিউরিয়াতে) বিশেষ করে যখন উক্ত রক্তক্ষরণের সাথে অন্যান্য রক্তক্ষরণের কারণ জড়িত নয় তখন ডােজ কমাতে হবে যাতে মূত্রনালীতে রক্ত জমাট না বা"
+## ENGLISH SECTION TEXT: contraindications
+Known individual hypersensitivity to the product. Thromboembolic disease, arterial and venous thrombosis, endocavitary hemorrhages, serious kidney failure.
+## BANGLA SECTION TEXT: contraindications
+সংবেদনশীল প্রতিক্রিয়া হয় এমন জানা রােগীকে, থ্রম্বোএম্বলিক অসুখ, ধমনী ও শিরার রক্তজমাট অবস্থায়, অভ্যন্তরীণ (শরীরের ভেতরে) রক্তক্ষরণে ও জটিল কিডনীর অসুখে দেয়া যাবেনা।
+## ENGLISH SECTION TEXT: indications
+In medicine
+: Prophylaxis and therapy of hemophtoes, digestive hemorrhages, hemorrhagic syndromes in leukaemia, cirrhosis and hemophilia, thrombocytopenic purpura, accidents during thrombolytic therapy and transfusion.
+In surgery
+: Prophylaxis and antihemorrhagic therapy during operations of any type and nature and particularly in pulmonary, cardiovascular and abdominal surgery and post-operative and traumatic shock.
+In urology
+: Prophylaxis and antihemorrhagic therapy of prostatic, vesical and renal surgery. Hematurias.
+In obstetrics
+: Prophylaxis and therapy of post-partum and puerperium hemorrhages, hemorrhagic metrophathies, functional menometrorrhagias, idiopathic or IUD (lntra uterine Device) induced menorrhagias, primitive hyperfibrinolysis (abruptio placentae, premature placenta detachment) and in cervical conization.
+In otorhinolaryngology
+: Prophylaxis and antihemorrhagic therapy during a tonsillectomy, specialist surgery generally, epistaxis.
+In stomatology
+: Prophylaxis and antihemorrhagic therapy during maxillofacial operations, tooth extractions.
+In oncology (as supportive therapy)
+: To promote the formation of a fibrin capsule to wall off and thereby inhibit the growth of ovarian tumors. To cause regression of ascites secondary to carcinoma. To reduce bleeding during surgical interventions.
+## BANGLA SECTION TEXT: indications
+মেডিসিনে
+: রক্তক্ষরণ, পরিপাক-নালী সম্বন্ধীয় রক্তক্ষরণ, লিউকেমিয়াজনিত রক্তক্ষরণ, লিভার সিরােসিস ও হেমােফিলিয়া, থ্রম্বােসাইটোপেনিক পারপুরা, থ্রম্বােলাইটিক চিকিৎসা এবং ট্রান্সফিউশনকালীন সময়ে দূর্ঘটনাজনিত রক্তক্ষরণের নিবারক ও চিকিৎসা হিসেবে।
+সার্জারিতে
+: যে কোন ধরনের অপারেশনের পূর্বে নিবারক হিসেবে বিশেষ করে ফুসফুস, হার্ট ও রক্তসঞ্চালনতন্ত্র, পেট সংক্রান্ত অপারেশনের পূর্বে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসায় অন্যান্য অপারেশনে ও আঘাতজনিত শক-এ।
+ইউরােলজিতে
+: প্রস্টেট গ্রন্থি, মূত্রথলি ও কিডনী অপারেশনের পূর্বে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসায় এবং হেমাটিউরিয়াতে।
+স্ত্রীরােগ ও প্রসূতি বিভাগে
+: পােষ্ট-পারটাম ও পিউয়ারপেরিয়াম এবং জরায়ু থেকে রক্তক্ষরণে; ফাংশনাল মেনমেট্রোরহেজিয়া, ইডিওপ্যাথিক অথবা আইইউডি (ইন্ট্রাইউটেরাইন ডিভাইস)-জনিত মেনরহেজিয়া; এব্রাপশিও প্লাসেন্টাজনিত (অকালে গর্ভফুল বিচ্ছিন্ন হওয়া) অতিমাত্রায় রক্তক্ষরণে এবং সারভাইকাল কোনাইজেশন সমস্যাদির পূর্বে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসায়।
+কান, নাক ও গলা সম্বন্ধীয়
+: টনসিল কেটে ফেলার ও ঐসব অংশের বিশেষ অপারেশনের আগে নিবারক হিসাবে ও অপারেশনকালীন সময়ে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসা হিসাবে এবং নাক দিয়া রক্ত পড়া বন্ধ করার চিকিৎসা হিসেবে।
+মুখগহ্বর সম্বন্ধীয়
+: চোয়াল ও মুখমন্ডলের অপারেশনে ও দাঁত উঠানাের আগে নিবারক হিসেবে ও পরে রক্তক্ষরণ বন্ধের চিকিৎসা হিসেবে।
+টিউমার সংক্রান্ত রক্তক্ষরণে (সহায়ক চিকিৎসা হিসেবে)
+: ওভারীর টিউমারের বৃদ্ধিকে বাধাগ্রস্থ করতে ফিব্রিন এর আবরণ দ্বারা ওভারীর টিউমারকে আবৃত করে, যাতে রক্তক্ষরণ বন্ধ থাকে। লিভারের ক্যান্সার হওয়ার ফলে যে পানি জমে তা দমিয়ে রাখে অর্থাৎ ক্যান্সারযুক্ত লিভারের অংশে ফাইব্রিন এর আবরণ দ্বারা আবৃত থাকে। টিউমারজনিত অপারেশনের সময়ে যে রক্তপাত হয় তার পরিমাণকে কমিয়ে রাখে বা বন্ধ করে।
+## ENGLISH SECTION TEXT: interaction
+Tranexamic Acid is a synthetic Amino Acid that is incompatible with solutions containing penicillins (eg: Benzyl penicillin). Thrombolytic drugs like Streptokinase & Urokinase antagonise the antifibrinolytic action of Tranexamic Acid. The potential for thrombus formation may be increased by concomitant administration of estrogen containing drugs, like oral contraceptives. Direct admixture of Tranexamic Acid with whole blood should be avoided during Transfusion.
+## BANGLA SECTION TEXT: interaction
+ট্রানেক্সামিক এসিড একটি সংশ্লেষিত অ্যামাইনাে এসিড যা পেনিসিলিন (যেমন ও বেনজাইল পেনিসিলিন) দ্রবণের সাথে সামঞ্জস্যপূর্ন নয়। স্ট্রেপটোকাইনেজ ও ইউরােকাইনেজ এর মতাে থ্রম্বোলাইটিক ঔষধ ট্রানেক্সামিক এসিড-এর এন্টিফিব্রিনােলাইটিক অ্যাকশনকে বাধা দেয়। ইস্ট্রোজেন আছে এমন ঔষধ যেমন ওরাল কন্ট্রাসেপটিভ এর সাথে ট্রানেক্সামিক এসিড একত্রে ব্যবহার করলে থ্রম্বাস তৈরি হওয়ার সম্ভাবনা বেড়ে যেতে পারে। ট্রান্সফিউশন-এর ক্ষেত্রে রক্তের সাথে সরাসরি ট্রানেক্সামিক এসিড-এর ব্যবহার এড়িয়ে চলা উচিৎ।
+## ENGLISH SECTION TEXT: precautions
+Tranexamic Acid should be used in cases where there is hyperfibrinolysis. The prophylactic treatment must begin 24 hours before the operation and continue until 3-4 days after it.
+The therapy of hemorrhages must be prolonged for at least 24 hours after manifestations have disappeared.
+In hematuria, especially when this is not accompanied by any other hemorrhagic manifestations, reduce the doses to prevent formation of clots in the urinary tract.
+Tranexamic Acid must not be used in serious renal insufficiency or anuric syndromes and must only be used with caution in less serious renal dysfunctions.
+The administration of product requires particular care in cardiopathic and hepatopathic subjects.
+## BANGLA SECTION TEXT: precautions
+ট্রানেক্সামিক এসিড ঐসব ক্ষেত্রেই ব্যবহার করা উচিৎ যেখানে ফাইব্রিন অতিমাত্রায় তরলীকৃত হয় (হাইপার ফিব্রিনােলাইসিস)। নিবারক চিকিৎসা হিসেবে অপারেশনের ২৪ ঘন্টা পূর্বে অবশ্যই শুরু করতে হবে এবং অপারেশনের পরে আরো ৩-৪ দিন চিকিৎসা চালিয়ে যাওয়া উচিৎ।
+রক্তক্ষরণের চিকিৎসা বন্ধ হয়ে যাবার পরও (লক্ষণ সমূহ অদৃশ্য হওয়ার পরও) কমপক্ষে আরাে ২৪ ঘন্টা দীর্ঘায়িত করতে হবে।
+রক্ত মিশ্রিত মূত্রে (হেমাটিউরিয়াতে) বিশেষ করে যখন উক্ত রক্তক্ষরণের সাথে অন্যান্য রক্তক্ষরণের কারণ জড়িত নয় তখন ডােজ কমাতে হবে যাতে মূত্রনালীতে রক্ত জমাট না বাঁধতে পারে।
+গুরুতর রকমের মূত্রাল্পতা অথবা মূত্রহীন অবস্থায় ট্রানেক্সামিক এসিড কোন অবস্থাতেই ব্যবহারযােগ্য নয় এবং অবশ্যই কেবল সতর্কতার সাথে কম জটিল কিডনীর অকার্যকারিতায় ব্যবহার করতে হবে।
+হার্ট ও লিভারের অসুখের রােগীর বেলায়ও এই প্রডাক্ট ব্যবহারে বিশেষ সতর্কতা অবলম্বন করতে হবে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Since the transplacental passage of the drug and its possible effects on the fetus are unknown, Tranexamic Acid should not be administered during known and presumed pregnancy. Tranexamic Acid passes into breast milk to a concentration of approximately one hundredth of the concentration in the maternal blood. An antifibrinolytic effect in the infant is unlikely.
+## BANGLA SECTION TEXT: pregnancy_lactation
+যেহেতু ট্রানেক্সামিক এসিড গর্ভফুল ভেদ করে কি-না এবং গর্ভস্থ বাচ্চার উপর কোন বিরূপ প্রভাব ফেলে কি-না তা জানা যায়নি, সেহেতু জানা বা অনুমিত গর্ভাবস্থার ক্ষেত্রে ট্রানেক্সামিক এসিড ব্যবহার করা উচিত নয়। ট্রানেক্সামিক এসিড মায়ের দুধে মায়ের রক্তের তুলনায় প্রায় একশত ভাগের একভাগ ঘনত্বে উপস্থিত থাকে। শিশুর উপর এর এন্টিফিব্রিনােলাইটিক প্রভাব পড়ার সম্ভাবনা নেই।
+
+### drug=vitamin-a
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G09-197 | INDICATED_FOR | Illness due to vitamin A deficiency in ophthalmology such as | - | indications | "Illness due to vitamin A deficiency in ophthalmology such as night blindness"
+G09-202 | INDICATED_FOR | acne vulgaris | - | indications | "in acne vulgaris"
+G09-206 | USE_IN | Hypervitaminosis of vitamin A | contraindicated | contraindications | "Hypervitaminosis of vitamin A."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G09-222 | INDICATED_FOR | common cold | - | indications | "সর্দি"
+G09-225 | INDICATED_FOR | acne | - | indications | "ব্রন"
+G09-217 | INDICATED_FOR | night blindness | - | indications | "ভিটামিন এ-এর ঘাটতিজনিত যে সমস্ত রোগ দেখা যায় যেমন-রাতকানা"
+## ENGLISH SECTION TEXT: contraindications
+Hypervitaminosis of vitamin A. Sensitivity to any of the ingredients in this preparation.
+## BANGLA SECTION TEXT: contraindications
+ভিটামিন এ-এর প্রতি অতি সংবেদনশীল রোগীদের ক্ষেত্রে এটি বিরূপ নির্দেশিত ।
+## ENGLISH SECTION TEXT: indications
+Illness due to vitamin A deficiency in ophthalmology such as night blindness, xerophthalmia and dermatological such as changes in skin, hair and nails. Concomitant therapy of mucosa illnesses such as sinusitis, bronchitis, in acne vulgaris, ichthyosis, Darier's disease, psoriasis etc. To meet vitmin A demand in growth, resistance to infections and night blindness. This is also indicated to meet vitamin A deficiency after diarrhoea and prophylaxis of measles.
+## BANGLA SECTION TEXT: indications
+ভিটামিন এ-এর ঘাটতিজনিত যে সমস্ত রোগ দেখা যায় যেমন-রাতকানা, জেরোফথ্যালমিয়া, ত্বক, চুল এবং নখের নানা ধরনের পরিবর্তনের চিকিৎসায়। এছাড়া মিউকোসা অসুস্থতার আনুসাংগিক চিকিৎসায় যেমন সাইনোসাইটিস, ব্রংকাইটিস, সর্দি, ইকথায়োসিস, ডেরিয়ার্স রোগ, ব্রন, সোরিয়াসিস ইত্যাদির চিকিৎসায়। বৃদ্ধির সময়ে, রোগ প্রতিরোধ ও রাতকানার প্রতিষেধক রূপে ভিটামিন এ-এর চাহিদা পূরণ করতেও এটি নির্দেশিত । এছাড়া ডায়রিয়ার পরবর্তী অবস্থায় ভিটামিন এ-এর ঘাটতি পূরণে এবং হামের প্রতিষেধক রূপে এটি নির্দেশিত।
+
+### drug=warfarin-sodium
+## ENGLISH CLAIMS WITH NO BANGLA MATCH YET
+G09-230 | INDICATED_FOR | death after myocardial infarction | - | indications | "Indicated to reduce the risk of death, … after myocardial infarction"
+G09-233 | INDICATED_FOR | venous thrombosis | - | indications | "Prophylaxis and treatment of venous thrombosis"
+G09-234 | INDICATED_FOR | pulmonary embolism | - | indications | "and pulmonary embolism"
+G09-235 | INDICATED_FOR | Transient ischaemic attacks | - | indications | "Transient ischaemic attacks."
+G09-236 | USE_IN | Actual or potential hemorrhagic conditions, eg. Peptic ulcer | contraindicated | contraindications | "Actual or potential hemorrhagic conditions, eg. Peptic ulcer"
+G09-238 | USE_IN | Severe hepatic or renal disease | contraindicated | contraindications | "Severe hepatic or renal disease"
+G09-240 | USE_IN | Known hypersensitivity | contraindicated | contraindications | "Known hypersensitivity to warfarin"
+G09-241 | USE_IN | Bacterial endocarditis | contraindicated | contraindications | "Bacterial endocarditis"
+G09-242 | USE_IN | within 24 hours following surgery or labor | caution | contraindications | "Its use within 24 hours following surgery or labor should be undertaken with caution, if at all."
+G09-243 | USE_IN | first trimester of pregnancy | contraindicated | pregnancy_lactation | "Warfarin is contraindicated in the first trimester of pregnancy because of the risk of teratogenicity."
+G09-245 | USE_IN | women who are or may become pregnant | avoid | pregnancy_lactation | "It should not be used in women who are or may become pregnant"
+G09-246 | TRANSFERS_TO | placenta | - | pregnancy_lactation | "because the drug passes through the placental barrier"
+G09-247 | CAUSES | fatal hemorrhage to the fetus | - | pregnancy_lactation | "and may cause fatal hemorrhage to the fetus."
+G09-248 | TRANSFERS_TO | breast milk | - | pregnancy_lactation | "Warfarin appears in the milk of nursing mothers in an inactive form."
+G09-249 | CAUSES | change in prothrombin times | - | pregnancy_lactation | "Infants nursed by mothers treated with Warfarin had no change in prothrombin times."
+G09-250 | USE_IN | premature infants | no data | pregnancy_lactation | "Effects in premature infants have not been evaluated."
+## BANGLA CLAIMS WITH NO ENGLISH MATCH YET
+G09-256 | USE_IN | hemorrhagic conditions like peptic ulcer | contraindicated | contraindications | "প্রকৃত অথবা সম্ভাবনা পূর্ণ হেমোরেজিক কন্ডিশন যেমন, পেপটিক আলসার"
+G09-258 | USE_IN | severe liver or kidney disease | contraindicated | contraindications | "যকৃত বা বৃক্কের মারাত্মক কোন রোগ"
+G09-260 | USE_IN | first three months of pregnancy | contraindicated | pregnancy_lactation | "গর্ভাবস্থার প্রথম তিন মাসে ওয়ারফারিন গ্রহণ নিষেধ"
+G09-254 | INDICATED_FOR | systemic embolization | - | indications | "সিস্টেমিক এম্বোলাইজেশন"
+G09-262 | USE_IN | pregnant or potentially pregnant women | contraindicated | pregnancy_lactation | "ইহা গর্ভবর্তী অথবা গর্ভধারনের সম্ভাবনা রয়েছে এমন মহিলাদের ক্ষেত্রে দেয়া যাবেনা"
+## ENGLISH SECTION TEXT: contraindications
+Warfarin can not be administered in the following cases;
+Actual or potential hemorrhagic conditions, eg. Peptic ulcer, or to patients with uncontrolled hypertension
+Severe hepatic or renal disease
+Pregnancy
+Known hypersensitivity to warfarin
+Bacterial endocarditis
+Its use within 24 hours following surgery or labor should be undertaken with caution, if at all.
+## BANGLA SECTION TEXT: contraindications
+ওয়ারফারিন নিম্নলিখিত ক্ষেত্রে দেয়া যাবেনা-
+প্রকৃত অথবা সম্ভাবনা পূর্ণ হেমোরেজিক কন্ডিশন যেমন, পেপটিক আলসার অথবা অনিয়ন্ত্রিত উচচ রক্তচাপ
+যকৃত বা বৃক্কের মারাত্মক কোন রোগ
+গর্ভাবস্থা
+ওয়ারফারিন-এর প্রতি অতিসংবেদনশীলতা
+ব্যাক্টেরিয়াল এন্ডোকার্ডাইটিস
+অস্ত্রোপচার বা প্রসবের ২৪ ঘন্টার মধ্যে এর ব্যবহার অত্যন্ত সতর্কতার সাথে করতে হবে, যদি তা একান্তই করতে হয়।
+## ENGLISH SECTION TEXT: indications
+Warfarin is indicated in the following conditions-
+Prophylaxis and/or treatment of thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement
+Indicated to reduce the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction
+Prophylaxis and treatment of venous thrombosis and pulmonary embolism
+Transient ischaemic attacks.
+## BANGLA SECTION TEXT: indications
+ওয়ারফারিন নিম্নলিখিত ক্ষেত্রে নির্দেশিত:
+এট্রিয়াল ফিব্রিলেশন এবং/অথবা হৃৎপিন্ডের ভালভ প্রতিস্থাপনের ফলে উদ্ভূত থ্রম্বোএম্বলিক কমপ্লিকেশন রোধ অথবা চিকিৎসায়
+মায়োকার্ডিয়াল ইনফার্কশন এর পরে থ্রম্বোএম্বলিক ইভেন্ট যেমন স্ট্রোক, সিস্টেমিক এম্বোলাইজেশন এবং রিকারেন্ট মায়োকার্ডিয়াল ইনফার্কশন ও মৃত্যু ঝুঁকি কমাতে
+শিরার থ্রম্বোসিস এবং পালমোনারী এম্বলিজম এর চিকিৎসা ও প্রতিরোধে
+ট্রানজিয়েস্ট ইস্কিমিক এ্যটাকে।
+## ENGLISH SECTION TEXT: pregnancy_lactation
+Warfarin is contraindicated in the first trimester of pregnancy because of the risk of teratogenicity. It should not be used in women who are or may become pregnant because the drug passes through the placental barrier and may cause fatal hemorrhage to the fetus. Warfarin appears in the milk of nursing mothers in an inactive form. Infants nursed by mothers treated with Warfarin had no change in prothrombin times. Effects in premature infants have not been evaluated.
+## BANGLA SECTION TEXT: pregnancy_lactation
+গর্ভাবস্থার প্রথম তিন মাসে ওয়ারফারিন গ্রহণ নিষেধ, কারণ টেরাটোজেনিসিটির সম্ভাবনা রয়েছে। ইহা গর্ভবর্তী অথবা গর্ভধারনের সম্ভাবনা রয়েছে এমন মহিলাদের ক্ষেত্রে দেয়া যাবেনা, কারন ইহা প্লাসেন্টা অতিক্রম করতে পারে ও ফিটাসের হেমোরেজ ঘটিয়ে জীবনাশংকা ডেকে আনতে পারে। ওয়ারফারিন মাতৃদুগ্ধে অকার্যকর অবস্থায় নিঃসৃত হয় ও মাতৃদুগ্ধ পানকারী শিশুদের ক্ষেত্রে প্রোথ্রথিন টাইম-এর কোন পরিবর্তন হয়না। প্রিম্যাচিউর শিশুদের ক্ষেত্রে ওয়ারফারিনের প্রভাব পরীক্ষিত নয়।
+
